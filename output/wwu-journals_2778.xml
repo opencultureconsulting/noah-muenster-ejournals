@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2778">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Pipeline zur Digitalisierung tabellenbasierter Fundmünzdaten aus PDF-Dokumenten</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>A </nonSort>
+                        <title>pipeline for digitizing table-based coin find data from PDF documents</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kissinger, Timo</displayForm>
+                        <namePart type="family">Kissinger</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Aufsatz beschreibt ein Verfahren, das es ermöglicht, textbasierte Fundmünzdaten zu extrahieren und in RDF zu übertragen. Entwickelt wurde das Verfahren im Rahmen einer Masterarbeit. Als Grundlage dienen die Publikationen des Projektes »Die Fundmünzen der Römischen Zeit in Deutschland (FMRD)«. In dem Beitrag wird auf die Herausforderung einer solchen Digitalisierung eingegangen und anschließend anhand eines Beispielmünzkomplexes ein Lösungsweg angeboten. Dieser Lösungsweg stellt eine aus mehreren Skripten bestehende Pipeline dar, die es ermöglicht, aus einem PDF die Daten als Text auszugeben, über das Zwischenformat CSV zu modifizieren und anschließend als RDF auszugeben.</abstract>
+                    <abstract lang="eng">This paper describes a method to extract text-based coin find data and transfer it to RDF. The method was developed as part of a master thesis. It is based on the publications of the project »Die Fundmünzen der Römischen Zeit in Deutschland (FMRD)«. The paper deals with the challenge of such digitisation and then offers a solution based on an example coin complex. This solution represents a pipeline consisting of several scripts, which makes it possible to output the data from a PDF as text, to modify it via the intermediate format CSV and then to output it as RDF.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>5</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2020-26921</identifier>
+                    <identifier type="doi">10.17879/ozean-2020-2778</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2778</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2778">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2778/2691" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2778">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2778/2692" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2778" DMDID="DMD_wwu-journals_2778">
+            <mets:fptr FILEID="FILE0_wwu-journals_2778"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2778" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2778"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

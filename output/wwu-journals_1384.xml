@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1384">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verflüssigungen von Religion und Kirche in der Klinik – ekklesiogenetische Perspektiven</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stechmann, Annette</displayForm>
+                        <namePart type="family">Stechmann</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Verflüssigungen von Kirche und Religion sind nicht nur in der Parochie zu spüren, sondernvor allem in Seelsorgebereichen, die „an den Rändern der Kirche“ aktiv sind – hierzuzählt die sogenannte „Kategorialpastoral“. Die Klinikseelsorge, die in diesem Artikel als Beispielvorgestellt wird, ist herausgefordert, sich mit der Entwicklung des Begriffs der Spiritualitätauseinanderzusetzen, der durch die WHO-Definition von 2002 ein wichtiges Thema derMedizin geworden ist und im Bereich der Klinik nicht mehr unter der Deutungshoheit derKirche und Religion steht. Die aus dieser Entwicklung entstehenden Reflexionen und Perspektivenwerden skizziert. Mit Hilfe des Volk-Gottes-Begriffes des II. Vatikanums wird dieekklesiologische Bedeutung dieser Entwicklung beurteilt und eine Perspektive für eine Weiterentwicklungder Kategorialpastoral als eigenständiger kirchlicher Ort entwickelt.The liquefying of church and religion are not only perceived in the parish but especially in pastoralareas that are active „on the edges“ of the church including the so-called „Kategorialpastoral“.Health Care Chaplaincy, which is presented in this article as an example, is challengedto deal with the development of the concept of spirituality. Since the WHO’s definitionfrom 2002, this has become an important topic within the medical field and because it is nolonger under the interpretative authority of Church and Religion. The reflections and perspectivesresulting from this development are presented in this article. Using the concept of „Peopleof God“ (Vatican II), the ecclesiological significance of this development will be judged anda perspective for further development of „Kategorialpastoral“ as an independent location ofthe church will be developed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>85</start>
+                                <end>98</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13037</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1384</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1384">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1384/1303" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1384" DMDID="DMD_wwu-journals_1384">
+            <mets:fptr FILEID="FILE0_wwu-journals_1384"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

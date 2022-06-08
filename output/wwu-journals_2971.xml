@@ -1,0 +1,108 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Loss of Ramified Microglia Precedes Axonal Spheroid Formation in Adult-Onset Leukoencephalopathy with Axonal  Spheroids.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alturkustani, Murad</displayForm>
+                        <namePart type="family">Alturkustani</namePart>
+                        <namePart type="given">Murad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zhang, Qi</displayForm>
+                        <namePart type="family">Zhang</namePart>
+                        <namePart type="given">Qi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>AlYamany, Basma</displayForm>
+                        <namePart type="family">AlYamany</namePart>
+                        <namePart type="given">Basma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ang, Lee-Cyn</displayForm>
+                        <namePart type="family">Ang</namePart>
+                        <namePart type="given">Lee-Cyn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Two different pathological mechanisms have been suggested to underlie adult-onset leukoencephalopathy with axonal spheroids (ALAS). Pathological studies have suggested that ALAS involves primary axonopathy with secondary demyelination. However, the identification of mutations in Colony Stimulating Factor 1 Receptor (CSF1R), important for microglial survival, has suggested that ALAS is a microgliopathy. This study examines the correlation between microglial changes and axonopathy in ALAS. A total of 6 ALAS cases were studied. White matter lesions were classified into three evolving stages: 1) numerous axonal spheroids among well-myelinated fibers; 2) moderate loss of myelinated fibers with or without axonal spheroids; and 3) a leukodystrophy-like pattern of severe confluent axonal and myelin loss. Axonal spheroids and ramified microglia were semi-quantified and the lesions were assigned a score of 0–3. We found a strong correlation between the preponderance of axonal spheroids and ramified microglial loss. All areas with a predominance of axonal spheroids showed a near-complete absence of ramified microglia, which was also apparent in small cortical and white matter lesions. In contrast, some areas with no ramified microglia showed no axonal pathology. Our findings support the suggestion that ramified microglia loss precedes axonal spheroids formation. This observation will help to better understand the pathogenesis of ALAS and suggests a protective role of microglia.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-29774</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2971</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2971</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2971">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2971/2976" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2971">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2971/2977" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_2971">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2971/2974" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2971" DMDID="DMD_wwu-journals_2971">
+            <mets:fptr FILEID="FILE0_wwu-journals_2971"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2971" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2971"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_2971" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_2971"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

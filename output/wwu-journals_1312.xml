@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Milieuverteilung in steirischen Pfarrgemeinden“. Projektbericht über eine Milieustudie in der Diözese Graz-Seckau</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schweighofer, Teresa</displayForm>
+                        <namePart type="family">Schweighofer</namePart>
+                        <namePart type="given">Teresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Artikel werden ein Forschungsprojekt zur gegenwärtigen Milieuverteilung in denPfarrgemeinden der Diözese Graz-Seckau vorgestellt und seine zentralen Ergebnisse dargestellt.Ausgangspunkt ist die Frage, inwiefern die These der kirchlichen Milieuverengung fürPfarrgemeinden Gültigkeit besitzt und mit welchen Milieus die MitarbeiterInnen in den Pfarrgemeindenin Kontakt kommen. Aufgrund der vorliegenden Daten zeigt sich für die Pfarrgemeindender Steiermark eine doppelte Filterwirkung: Unter den als kirchenaffin eingestuftenMilieus sind die Bürgerliche Mitte und die Postmateriellen besonders stark in den Pfarrgemeindenvertreten. Andere Milieus, wie die Benachteiligten, kommen nur sehr selten inKontakt mit PfarrmitarbeiterInnen. Neben diesen milieuspezifischen Ergebnissen kann auchdie Existenz der hier sogenannten Gemeindeatheisten nachgewiesen werden. Damit sindPersonen gemeint, die Kirche ausschließlich als sozialen Ort nutzen, der für sie keinerlei religiöseBedeutung hat.This article portrays a research project within the parishes of the Diocese of Graz-Seckau andillustrates its main results. Its main topics are the variance of milieus inside these parishesand the theory of underrepresentation of some milieus within the church. Is that theory validfor the parishes in this region? What are the milieus with which members of the parish staffare in contact? The results of the survey reveal that some milieus display a certain dominancewithin parishes. Bourgeois and post-materialistic milieus are more often represented thanthose of disadvantaged people. Furthermore, one can find as part of the religious communities„parish atheists“ who are more interested in social activities than in religious questions.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>117</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12457</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1312</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1312">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1312/1245" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1312" DMDID="DMD_wwu-journals_1312">
+            <mets:fptr FILEID="FILE0_wwu-journals_1312"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

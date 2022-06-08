@@ -1,0 +1,108 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2613">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dementia with Lewy bodies – a clinicopathological update</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bencze, János</displayForm>
+                        <namePart type="family">Bencze</namePart>
+                        <namePart type="given">János</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seo, Woosung</displayForm>
+                        <namePart type="family">Seo</namePart>
+                        <namePart type="given">Woosung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hye, Abdul</displayForm>
+                        <namePart type="family">Hye</namePart>
+                        <namePart type="given">Abdul</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aarsland, Dag</displayForm>
+                        <namePart type="family">Aarsland</namePart>
+                        <namePart type="given">Dag</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hortobágyi, Tibor</displayForm>
+                        <namePart type="family">Hortobágyi</namePart>
+                        <namePart type="given">Tibor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Dementia is one of the major burdens of our aging society. According to certain predictions, the number of patients will double every 20 years. Although Alzheimer’s disease (AD), as the most frequent neurodegenerative dementia, has been extensively analysed, less is known about dementia with Lewy bodies (DLB). Neuropathological hallmarks of DLB are the deposition of intracellular Lewy bodies (LB) and Lewy neurites (LN). DLB belongs to the α-synucleinopathies, as the major component of these inclusions is pathologically aggregated α-synuclein. Depending on the localization of LBs and LNs in the central nervous system cognitive and motor symptoms can occur. In our work, we will systematically review the possible etiology and epidemiology, pathological (both macroscopic and microscopic) features, structural and functional imaging findings, with a special emphasis on the clinico-pathological correlations. Finally, we summarize the latest clinical symptoms-based diagnostic criteria and the novel therapeutic approaches. Since DLB is frequently accompanied with AD pathology, highlighting possible differential diagnostic approaches is an integral part of our paper. Although our present knowledge is insufficient, the rapid development of diagnostic and research methods provide hope for better diagnosis and more efficient treatment, contributing to a better quality of life.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-25236</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2613</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2613</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2613">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2613/2523" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2613">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2613/2524" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2613" DMDID="DMD_wwu-journals_2613">
+            <mets:fptr FILEID="FILE0_wwu-journals_2613"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2613" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2613"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

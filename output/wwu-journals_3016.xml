@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3016">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Four Notes Regarding Reattribution of some City Coins of Arabia, Galilee and the Decapolis</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Four Notes Regarding Reattribution of some City Coins of Arabia, Galilee and the Decapolis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaplun, Alexander</displayForm>
+                        <namePart type="family">Kaplun</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Werden neue Münzen bekannt, besteht die Möglichkeit, Deutungen und Zuweisungen von seltenen und schlecht erhaltenen Münzen neu zu hinterfragen und eventuell zu revidieren. In diesem Beitrag können nun anhand von neuem Material für drei Typen die bisher angenommenen Prägestätten Kyrene, Adraa und Tiberias zugunsten von Bostra, Petra und Epidauros korrigiert werden. Ein weiterer Münztyp lässt sich so statt der Faustina iunior nun Crispina zuweisen.</abstract>
+                    <abstract lang="eng">State of preservation and rarity of some ancient coins sometimes deceive the researchers who describe them, leading to attribution to wrong mint or period. Discovery of additional examples and re analysis of already published coins allowed us to reattribute three Roman Provincial coin types reported as minted in Cyrene, Adraa and Tiberias to, respectively, Bostra, Petra and Epidaurus. Another type of Faustina Junior from Gerasa was reattributed to Crispina.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>133</start>
+                                <end>140</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2020-29438</identifier>
+                    <identifier type="doi">10.17879/ozean-2020-3016</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3016</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3016">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3016/2942" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3016">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3016/2943" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3016" DMDID="DMD_wwu-journals_3016">
+            <mets:fptr FILEID="FILE0_wwu-journals_3016"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3016" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3016"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3423">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evangelisierung im Kontext der Neuformierung des Religiösen</title>
+                        <subTitle>Bestandsaufnahme eines umstrittenen Begriffs</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Faix, Tobias</displayForm>
+                        <namePart type="family">Faix</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kaum ein theologischer Begriff ist so mehrdeutig und umstritten wie der Begriff „Evangelisation“ (Evangelisierung, Neu-Evangelisierung, Re-Evangelisierung etc.). Dazu tragen sowohl die Vergangenheit (Kolonialisierung) und die Gegenwart (christlicher Traditionsabbruch) bei. Der Beitrag möchte auf dieser Grundlage den Begriff in drei beispielhaften Dokumenten und einer Bewegung (Re-Evangelisation) untersuchen, um so eine möglichst große Trennschärfe und eventuelle Gemeinsamkeiten der jeweiligen Bedeutungen herauszuarbeiten.
+Hardly any theological term is as ambiguous and controversial as the term &quot;evangelization&quot; (also found in the terms new-evangelization, re-evangelization, etc.). Both the events of the past (colonization) and of the present (break with Christian traditions) have contributed to this. That is the basis for this paper, which examines the term in three exemplary documents and one movement (reevangelization), the goal being to determine the greatest possible distinctiveness as well as any possible commonalities in the respective terms.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>37</start>
+                                <end>52</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34301</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3423</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3423">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3423/3430" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3423" DMDID="DMD_wwu-journals_3423">
+            <mets:fptr FILEID="FILE0_wwu-journals_3423"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

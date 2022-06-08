@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2032">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Warum braucht die Kirche Leitung? Theologische Anmerkungen zur Bedeutung des geistlichen Leitungsamtes in einer sich erneuernden Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>John, Ottmar</displayForm>
+                        <namePart type="family">John</namePart>
+                        <namePart type="given">Ottmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Kirche ist wesentlich vielfältig; denn es gibt viele Wege zu Gott. Sie braucht den besonderenDienst an der Einheit ihrer vielen verschiedenen Gruppen und Gemeinschaften, Einrichtungen undVerbände, durch die sie in Gesellschaft und Geschichte sichtbar und antreffbar wird. Durch den Dienstder Bischöfe und Priester werden diese vielfältigen Glieder der Kirche immer wieder an das erinnertwerden, was sie von ihrem Ursprung her sind: Leib Christi. Durch die Einheit untereinander, die in derEucharistie zeichenhaft vorweggenommen wird, wachsen sie in die Gemeinschaft mit dem Auferstandenenimmer weiter hinein. Der Dienst des Priesters ist mehr als eine Funktion, die aus der Vielfalt deskirchlichen Lebens induzierbar wäre, sondern setzt eine besondere Christusbeziehung voraus. DieseChristusbeziehung realisiert sich in der Bezugnahme auf die dem priesterlichen Wirken vorgegebeneganze Kirche. In den Leib Christi hineinzuwachsen, geschieht in der Zuwendung zu den Menschen inSolidarität und Nächstenliebe.As there are many paths to God, the church is essentially pluralistic. The church is in need of servicethat keeps the unity among the different groups, communities, and institutions, in which it becomesvisible and approachable. It is the service of the bishops and priests that reminds all of those elementsof the church where they originated, namely, in the body of Christ. The unity that is symbolically anticipatedin the Eucharist makes these elements grow into a relation with the resurrected one, whichmakes them grow into a community. Thereby, the service of the priest is more than a function thatcould be induced from the plurality of activities within the church but it presupposes a specific relationwith Christ. This relationship with Christ realizes itself within the whole church, which is alreadypredetermined in the priest’s activities. Growing into the body of Christ comes about in care for thehumanity, in showing solidarity and acting for charitably towards one’s neighbor.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>77</start>
+                                <end>90</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19507</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2032</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2032">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2032/1950" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2032" DMDID="DMD_wwu-journals_2032">
+            <mets:fptr FILEID="FILE0_wwu-journals_2032"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

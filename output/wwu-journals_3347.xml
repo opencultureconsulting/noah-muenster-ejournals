@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3347">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Viral infection and dementia</title>
+                        <subTitle>A brief synthesis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiley, Clayton A.</displayForm>
+                        <namePart type="family">Wiley</namePart>
+                        <namePart type="given">Clayton A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">For the past 400 years, the most common cause of dementia was tertiary syphilis [1]. Its prevalence declined dramatically with the advent of potent antibiotics in the 20th century, but these same antibiotics also helped increase our average lifespan, leading to dramatic increases in the prevalence of age-related dementias. Abundant progress has been made connecting early onset dementias with mutations in neural genes. Late onset dementias have been linked to a more enigmatic set of genes, some of which have been connected to neuroinflammation, begging the question: Are age-related dementias linked to infection? Numerous studies have reported an association between dementia and infections in general and viral infections in particular. While these associations have been subject to extensive reviews, the purpose of this synthesis is to examine the hypothesized link of viral infections and dementia from the opposite perspective: What do we know about acute and chronic encephalitides that could forge a link with dementias? There appears to be little support for the concept that viral infections are a major contributor to today’s common dementias. However, the emergence of new central nervous system (CNS) viral infections, coupled with senescent immune and nervous systems in our aged population, create new opportunities for infections to contribute to dementia.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-33714</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3347</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3347</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3347">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3347/3372" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3347">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3347/3371" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3347" DMDID="DMD_wwu-journals_3347">
+            <mets:fptr FILEID="FILE0_wwu-journals_3347"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3347" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3347"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

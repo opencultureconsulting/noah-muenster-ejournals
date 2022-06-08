@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1385">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Orden in Kirche. Verkündigen an den Grenzen zwischen Struktur und Charisma</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eggensperger, Thomas</displayForm>
+                        <namePart type="family">Eggensperger</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der Gemengelage von Kirche und Moderne sowie Struktur und Charisma haben die religiösenOrden durchaus ihren Platz. Sie sind unabhängiger von formellen Strukturen oder doktrinärenVerbindlichkeiten, weil sie unbefangener mit ihnen umgehen können, als es eine hierarchischund dogmatisch durchorganisierte Kirchenleitung vermag. Hilfreich sind den Ordennicht nur ihre (Gründungs-)Geschichte, sondern auch ihre Möglichkeiten, jenseits festerStrukturen nach Orten der Verkündigung zu suchen. Das Modell einer liquid church hat in derTradition der Kirchen keinen wirklichen Platz. Der Vorschlag Wards ist aber geeignet, überFormen jenseits „solider“ Strukturen nachzudenken. Dazu wird ein Forschungsprojekt desForschungsinstituts M.-Dominique Chenu der Dominikaner und der Philosophisch-TheologischenHochschule der Kapuziner in Münster rezipiert, das untersuchte, inwieweit die gesellschaftlichenTransformationsprozesse zum einen die Bettelorden in ihrer Existenz prägen undzum anderen auf Zukunft hin herausfordern. Die Situation der Orden und ihre Perspektivewird in zweifacher Hinsicht beleuchtet: zum einen spirituell im Umfeld „Klöster und Tourismus“und zum anderen theologisch über die „Orte der Verkündigung“.Religious orders are well situated within the complex patterns of church and modernity as wellas of structure and charisma. They are more independent from formal structures or doctrinalregulations as they are less biased in dealing with them than a hierarchically and dogmaticallyorganised church leadership body would be. Not only is their history (of foundation) helpful forthe orders in this regard, but also their freedom to search for places of preaching beyond solidstructures. The model of a liquid church does not really have a place within the tradition ofthe churches. Ward&apos;s suggestion is nonetheless useful in reflections about the modalities beyond„solid“ structures. This article discusses a joint research project by the research instituteM.-Dominique Chenu and the Philosophisch-Theologische Hochschule of the Capuchins inMünster, which examined how the transformation processes of society influence the existenceof the mendicant orders and challenge them for the future. The situation of the ordersand their perspective will be viewed from two perspectives, from a spiritual perspective in thecontext of „monasteries and tourism“ and from a theological perspective in regard to the„places of preaching“.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>99</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13044</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1385</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1385">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1385/1304" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1385" DMDID="DMD_wwu-journals_1385">
+            <mets:fptr FILEID="FILE0_wwu-journals_1385"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

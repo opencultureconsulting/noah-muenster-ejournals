@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4222">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung</title>
+                        <subTitle>Symbiose als Theoriefigur– Fünf Thesen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Folkers , Andreas</displayForm>
+                        <namePart type="family">Folkers</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Opitz, Sven</displayForm>
+                        <namePart type="family">Opitz</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Eintrag im »Kompaktlexikon der Biologie« (2001) bestimmt Symbiose als »enge Form von Vergesellschaftung zwischen zwei Organismusarten, die für beide Partner von Nutzen ist«. Die Bezugnahme auf eine »Form von Vergesellschaftung« in der Definition eines biologischen Begriffs muss die Soziologie zweifellos aufhorchen lassen. Zugleich knüpft eine solche Bestimmung an eine lange Denktradition an, in der das Motiv des wechselseitigen Vorteils als Triebfeder der Vergesellschaftung begriffen wurde. Noch bevor die Soziologie als Disziplin etabliert war, bestand in derartigen Formen bereits eine Grunderfahrung des Sozialen, die sowohl über die durch gemeinsame Werte integrierte Nahfeldinteraktion als auch über die durch politische Übereinkunft gestiftete Gemeinschaft hinausweist. Nicht zufällig hat Bernard Mandeville (1998) mit Bezug auf das Tierreich veranschaulicht, wie vermittelt über die Verfolgung des eigenen Vorteils private vices in public virtues transformiert werden können. Innerhalb der Soziologie hat Robert Ezra Park (1939) das Konzept der Symbiose eingeführt, um eine Form der Assoziierung zu beschreiben, bei der nicht so sehr das Einvernehmen, sondern der Austausch von Leistungen im Mittelpunkt steht. Der Wiederhall von Grundannahmen des Liberalismusist dabei unüberhörbar: Für Park sind marktvermittelte ökonomische Beziehungen alssymbiotische zu verstehen, insofern die kompetitive Verfolgung eines Einzelinteresseszur Erzeugung kooperativer Bande beiträgt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>184</start>
+                                <end>197</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4222</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4222</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4222">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4222/4301" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4222" DMDID="DMD_wwu-journals_4222">
+            <mets:fptr FILEID="FILE0_wwu-journals_4222"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

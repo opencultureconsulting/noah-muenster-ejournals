@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2976">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Katholische Kirche und Kolonialismus – einige Aufgaben</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Delgado, Mariano</displayForm>
+                        <namePart type="family">Delgado</namePart>
+                        <namePart type="given">Mariano</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag setzt sich mit dem Perspektivenwechsel im Schatten des Kolumbusjahres 1992 auseinander und thematisiert einige Aufgaben, die diese Felder betreffen: die nicht aufgearbeitete päpstlich-kuriale Mitverantwortung für den Kolonialismus, die kolonialethische Debatte zwischen Kolonialismusbegründung und Kolonialismuskritik, die Begegnung mit den anderen Religionen und die postkolonialen Theologien. Dabei plädiert er für eine kritische Relektüre der Mitverantwortung von Theologie und Kirche am Kolonialismus, aber auch für eine selbstbewusste Wahrnehmung der universalistischen, kolonialismuskritischen europäischen Tradition angesichts der Globalisierungskrisen der Gegenwart, für eine Theologie der Religionen auf dem Boden eines aufgeklärten Inklusivismus, und für eine kritische theologische Rezeption der postkolonialen Theorie.</abstract>
+                    <abstract lang="eng">The essay deals with the change of perspective in the shadow of the Columbus year 1992 and deals with some tasks concerning these fields: the unresolved papal-curial co-responsibility for colonialism, the colonial-ethical debate between the foundation of colonialism and the critique of colonialism, the encounter with the other religions and the postcolonial theologies. He pleads for a critical re-reading of the joint responsibility of theology and church for colonialism, but also for a self-confident perception of the universalistic European traditional criticism of colonialism in view of the globalization crises of the present, for a theology of religions on the base of an enlightened inclusivism, and for a critical theological reception of postcolonial theory.
+&amp;nbsp;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>63</start>
+                                <end>83</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30839</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2976</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2976</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2976">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2976/3083" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2976" DMDID="DMD_wwu-journals_2976">
+            <mets:fptr FILEID="FILE0_wwu-journals_2976"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

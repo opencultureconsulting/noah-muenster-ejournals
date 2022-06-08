@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2488">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ch. 4 Aristophanes of Boiotia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tufano, Salvatore</displayForm>
+                        <namePart type="family">Tufano</namePart>
+                        <namePart type="given">Salvatore</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">126</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">4.1. Aristophanes and His Works (TT 1-5)
+4.2. Aristophanes F 1
+4.3. Aristophanes F 2
+4.4. Aristophanes F 3
+4.5. Aristophanes F 4
+4.6. Aristophanes F 5
+4.7. Aristophanes F 6
+4.8. Aristophanes F 7
+4.9. Aristophanes F 8
+4.10. Aristophanes F 9A and F 9 B
+4.11. Aristophanes F 10
+4.12. Aristophanes F 11
+4.13. [Aristophanes] F 12</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>189</start>
+                                <end>314</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2019-23664</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2488</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2488">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2488/2366" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2488" DMDID="DMD_wwu-journals_2488">
+            <mets:fptr FILEID="FILE0_wwu-journals_2488"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

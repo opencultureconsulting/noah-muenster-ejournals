@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3025">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aβ plaques</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Walker, Lary C</displayForm>
+                        <namePart type="family">Walker</namePart>
+                        <namePart type="given">Lary C</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aβ plaques are one of the two lesions in the brain that define the neuropathological diagnosis of Alzheimer’s disease. Plaques are highly diverse structures; many of them include massed, fibrillar polymers of the Aβ protein referred to as Aβ-amyloid, but some lack the defining features of amyloid. Cellular elements in ‘classical’ plaques include abnormal neuronal processes and reactive glial cells, but these are not present in all plaques. Plaques have been given various names since their discovery in 1892, including senile plaques, amyloid plaques, and neuritic plaques. However, with the identification in the 1980s of Aβ as the obligatory and universal component of plaques, the term ‘Aβ plaques’ has become a unifying term for these heterogeneous formations. Tauopathy, the second essential lesion of the Alzheimer’s disease diagnostic dyad, is downstream of Aβ-proteopathy, but it is critically important for the manifestation of dementia. The etiologic link between Aβ-proteopathy and tauopathy in Alzheimer’s disease remains largely undefined. Aβ plaques develop and propagate via the misfolding, self-assembly and spread of Aβ by the prion-like mechanism of seeded protein aggregation. Partially overlapping sets of risk factors and sequelae, including inflammation, genetic variations, and various environmental triggers have been linked to plaque development and idiopathic Alzheimer’s disease, but no single factor has emerged as a requisite cause. The value of Aβ plaques per se as therapeutic targets is uncertain; although some plaques are sites of focal gliosis and inflammation, the complexity of inflammatory biology presents challenges to glia-directed intervention. Small, soluble, oligomeric assemblies of Aβ are enriched in the vicinity of plaques, and these probably contribute to the toxic impact of Aβ aggregation on the brain. Measures designed to reduce the production or seeded self-assembly of Aβ can impede the formation of Aβ plaques and oligomers, along with their accompanying abnormalities; given the apparent long timecourse of the emergence, maturation and proliferation of Aβ plaques in humans, such therapies are likely to be most effective when begun early in the pathogenic process, before significant damage has been done to the brain. Since their discovery in the late 19th century, Aβ plaques have, time and again, illuminated fundamental mechanisms driving neurodegeneration, and they should remain at the forefront of efforts to understand, and therefore treat, Alzheimer’s disease.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-30012</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-3025</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3025</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3025">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3025/3006" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3025">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3025/3001" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3025" DMDID="DMD_wwu-journals_3025">
+            <mets:fptr FILEID="FILE0_wwu-journals_3025"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3025" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3025"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

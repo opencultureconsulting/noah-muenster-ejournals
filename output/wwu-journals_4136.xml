@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4136">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Theorie funktionaler Differenzierung als integratives Programm einer Soziologie der Moderne? Eine Erwiderung auf Uwe Schimanks analytisches Modell aus global vergleichender Perspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Holzinger, Markus</displayForm>
+                        <namePart type="family">Holzinger</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">30</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In seinem Beitrag (Zeitschrift für Theoretische Soziologie 2/2015) legt Uwe Schimank den »Grundriss einer integrativen Theorie der modernen Gesellschaft« vor. Er argumentiert, dass wesentliche Aspekte der modernen Gesellschaft durch eine stark an die Theorie funktionaler Differenzierung (Luhmann) angelehnte Perspektive erfasst werden können. Differenzierungstheorien im Sinne Schimanks porträtieren die moderne Gesellschaft als sein Zusammenspiel autopoietisch-geschlossener Teilsysteme, die sich an Codes/Leitwerten orientieren. Der vorliegende Beitrag untersucht&amp;nbsp; auf der Basis einer global vergleichenden Perspektive Schimanks Kernthesen. Aus einer solchen Beobachterperspektive zeigt sich, dass dem behaupteten Verhältnis von funktionaler Differenzierung und Moderne grundsätzlich mit Skepsis zu begegnen ist. In kritischer Auseinandersetzung mit Schimank werden die Grenzen der Theorie funktionaler Differenzierung und Herausforderungen historischsoziologischer Forschung für die verschiedenen Regionen in der Moderne herausgearbeitet.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>44</start>
+                                <end>73</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4136</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4136</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4136">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4136/4205" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4136" DMDID="DMD_wwu-journals_4136">
+            <mets:fptr FILEID="FILE0_wwu-journals_4136"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

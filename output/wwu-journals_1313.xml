@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1313">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Volk von Propheten – ein vergessener Wesensvollzug der Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kohlgraf, Peter</displayForm>
+                        <namePart type="family">Kohlgraf</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kirchliches Handeln beschreiben Theologen nach dem II. Vatikanischen Konzil mit Hilfe dersog. kirchlichen Grund- oder Wesensvollzüge Liturgie, Martyrie und Diakonie. Damit ist einetheologische Grundlage dafür gegeben, dass Kirche stets neu werden und verwirklichenmuss, was sie von ihrem Wesen her ist. Prophetie spielt noch im Neuen Testament alsSelbstvollzug der Kirche eine unverzichtbare Rolle, gerät aber zunehmend in Vergessenheit,bzw. geht in das kirchliche Amt ein. Geistesgaben entwickeln sich als Besitz der Kirche. DasII. Vatikanum legt eine Grundlage für den Perspektivenwechsel, nicht den Geist zu besitzen,sondern sich vom Geist besitzen zu lassen und mit seinem unkalkulierbaren Wirken zu rechnen.Dieser Gedanke harrt immer noch der Rezeption in vielen Bereichen der Kirche und derTheologie. Die Konsequenzen für eine Theorie und Praxis des Verständnisses der Kirche alsVolk Gottes und einer theologischen Hermeneutik sind nicht nur zu dulden, sondern sie müssenbejaht werden, wenn noch ernsthaft mit dem Geist Gottes gerechnet wird.After Vatican II, theologians describe the essence of the church as liturgia, martyria and diaconia.This threefold system is the basis for the need of the church to permanently renewitself (ecclesia semper reformanda) and to put into practice what the church essentially ismeant to be. In the New Testament, prophecy is an indispensable and essential part of thelife of the church, but it was gradually forgotten or taken over by the official church. Gifts of theHoly Spirit became the exclusive property of the office and its incumbents. Vatican II lays thefoundation for a change of perspective, not to possess the Holy Spirit but to be possessed byit and to count on its unpredictable actions. This idea is still waiting to be internalized in manyfields of church and theology. The understanding of the church as people of God has consequencesfor theological theory and pastoral practice. If one honestly believes in the existenceof the Holy Spirit, the results of theological hermeneutics cannot only be tolerated, but mustbe affirmed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>119</start>
+                                <end>137</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12464</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1313</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1313">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1313/1246" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1313" DMDID="DMD_wwu-journals_1313">
+            <mets:fptr FILEID="FILE0_wwu-journals_1313"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

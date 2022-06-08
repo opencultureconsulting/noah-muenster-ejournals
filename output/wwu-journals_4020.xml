@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4020">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Enttäuschte Hoffnungen</title>
+                        <subTitle>Wolfgang Streecks Gekaufte Zeit und die Probleme einer soziologischen Kapitalismusanalyse</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kraemer , Klaus</displayForm>
+                        <namePart type="family">Kraemer</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wolfgang Streeck hat mit Gekaufte Zeit. Die vertagte Krise des demokratischen Kapitalismus eine viel beachtete Studie vorgelegt. Der an die Arbeiten von Colin Crouch (2004, 2009) und Greta Krippner (2011) anschließende Versuch, die neuere sozialwissenschaftliche Debatte zur »Finanzialisierung« von Ökonomie und Gesellschaft vor dem Hintergrund der Abfolge von Krisen und Krisenbewältigungsstrategien des »demokratischen Kapitalismus« in einen historisch übergreifenden Prozess gesellschaftlicher Transformationen einzuordnen, ist in mehrerlei Hinsicht bemerkenswert. Die Finanz-, Wirtschaftsund Fiskalkrise der Jahre nach 2008 deutet Streeck als »vorläufigen Endpunkt« eines langen neoliberalen Wandels des Nachkriegskapitalismus in Nordamerika und Westeuropa. Die inflationäre Geldpolitik der 1970er Jahre, die Staatsverschuldung der 1980er Jahre und die Privatverschuldung der 1990er Jahre werden als Notbehelfe der demokratischen Politik interpretiert, um »den Anschein« von wirtschaftlichem Wachstum für alle zu erzeugen und sogar »Umverteilung von Markt- und Lebenschancen von oben nach unten« zu ermöglichen (alle Zitate 225). Jede dieser drei Strategien sei darauf angelegt gewesen, soziale Verteilungskonflikte zu pazifizieren und politische Legitimation in Zeiten zu erhalten, in denen die alten Versprechungen des Kapitalismus der Nachkriegszeit, Wohlstand für alle zu schaffen, unerfüllbar geworden seien.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>102</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4020</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4020</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4020">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4020/4066" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4020" DMDID="DMD_wwu-journals_4020">
+            <mets:fptr FILEID="FILE0_wwu-journals_4020"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

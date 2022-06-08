@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2845">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Clustering of activated microglia occurs before the formation of dystrophic neurites in the evolution of Aβ plaques in Alzheimer’s disease.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Paasila, Patrick Jarmo</displayForm>
+                        <namePart type="family">Paasila</namePart>
+                        <namePart type="given">Patrick Jarmo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Davies, Danielle S</displayForm>
+                        <namePart type="family">Davies</namePart>
+                        <namePart type="given">Danielle S</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sutherland, Greg T</displayForm>
+                        <namePart type="family">Sutherland</namePart>
+                        <namePart type="given">Greg T</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Goldsbury, Claire</displayForm>
+                        <namePart type="family">Goldsbury</namePart>
+                        <namePart type="given">Claire</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Alzheimer’s disease (AD) is a late-onset disease that has proved difficult to model. Microglia are implicated in AD, but reports vary on precisely when and how in the sequence of pathological changes they become involved. Here, post-mortem human tissue from two differentially affected regions of the AD brain and from non-demented individuals with a high load of AD-type pathology (high pathology controls) was used to model the disease time course in order to determine how microglial activation relates temporally to the deposition of hallmark amyloid-β (Aβ) and hyperphosphorylated microtubule associated protein tau pathology. Immunofluorescence against the pan-microglial marker, ionised calcium-binding adapter molecule 1 (IBA1), Aβ and tau, was performed in the primary motor cortex (PMC), a region relatively spared of AD pathological changes, and compared to the severely affected inferior temporal cortex (ITC) in the same cases. Unlike the ITC, the PMC in the AD cases was spared of any degenerative changes in cortical thickness and the density of Betz cells and total neurons. The clustering of activated microglia was greatest in the PMC of AD cases and high pathology controls compared to the ITC. This suggests microglial activation is most prominent in the early phases of AD pathophysiology. Nascent tau inclusions were found in neuritic plaques in the PMC but were more numerous in the ITC of the same case. This shows that tau positive neuritic plaques begin early in AD which is likely of pathogenic importance, however major tau deposition follows the accumulation of Aβ and clustering of activated microglia. Importantly, findings presented here demonstrate that different states of microglial activation, corresponding to regional accumulations of Aβ and tau, are present simultaneously in the same individual; an important factor for consideration if targeting these cells for therapeutic intervention.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-28500</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2845</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2845</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2845">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2845/2863" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2845">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2845/2850" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2845" DMDID="DMD_wwu-journals_2845">
+            <mets:fptr FILEID="FILE0_wwu-journals_2845"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2845" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2845"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

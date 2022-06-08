@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4204">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aufbau und Abbau einer sozialen Welt</title>
+                        <subTitle>Die Struktur der modernen Gesellschaft als Thema der Soziologie bei Alfred Schütz und in der Marienthal-Studie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlembach, Christopher</displayForm>
+                        <namePart type="family">Schlembach</namePart>
+                        <namePart type="given">Christopher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Anfang der 1930er Jahre erscheinen zwei Arbeiten von Wiener SozialwissenschaftlerInnen, die maßgeblich für die Entwicklung der Soziologie im 20. Jahrhundert waren. Auf der einen Seite interpretierte Alfred Schütz in seiner Monographie Der sinnhafte Aufbau der Sozialen Welt die Soziologie Max Webers mit Hilfe der damals zeitgenössischen Bewusstseinsphilosophie (Bergson, Husserl) und gab ihr in einer hoch politisierten Zeit eine neue Grundlegung. Auf der anderen Seite gab die Österreichische Wirtschaftspsychologische Forschungsstelle die maßgeblich von Maria Jahoda – neben Paul Lazarsfeld und Hans Zeisel – verfasste Studie Die Arbeitslosen von Marienthal heraus, in der die Auswirkungen von kollektiver Arbeitslosigkeit auf das soziale Leben des Industriedorfes Marienthal systematisch untersucht wurden.
+Der Beitrag will die These plausibel machen, dass sowohl in der Marienthal-Studie als auch im Sinnhaften Aufbau dieselbe soziale Wirklichkeit der modernen Gesellschaft zum Thema gemacht wird, die aber bei Schütz in ihrem Aufbau und bei Jahoda, Lazarsfeld und Zeisel in ihrem Abbau beschrieben wird. Aufbau und Abbau dieser sozialen Welt werden in beiden Arbeiten in allgemeinen Kategorien des (sozialen) Zeitbewussteins und des sozialen Raums beschrieben. Mit der Fabrik in Marienthal bauen sich soziale Strukturen auf, die bereits bei Weber in der Perspektive gesellschaftlicher Rationalisierung beschrieben und in der späteren Modernisierungstheorie als »Basisinstitutionen« bezeichnet werden. Diese institutionelle Struktur ist auch bei Schütz präsent, der rationales Handeln und die Unterscheidung persönlicher Umwelt und anonymer Mitwelt ins Zentrum der Charakterisierung moderner Gesellschaft rückt. Beide Arbeiten verhalten sich schließlich komplementär zueinander: Während es Schütz in rein theoretischen Begriffen um den Aufbau moderner Gesellschaft (nicht bloß allgemeiner Sozialität) geht, deren Begründung er nachweisen will, zeigen Jahoda, Lazarsfeld und Zeisel rein empirisch die Demontage sozialer Strukturen und Prozesse, deren Begründung sie schuldig bleiben. Beide Arbeiten treffen sich aber in der Form, in der abstrakte, theoretisch wie empirisch begründete Begriffe gebildet werden, die Schütz mit Weber als Idealtypen und die Lazarsfeld im Vorwort zur zweiten Auflage der Marienthal-Studie als »integrale Interpretation« bezeichnet, womit er Begriffsbilder meint, die auf halbem Weg zwischen ein Analogie und Modell stehen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>173</start>
+                                <end>193</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4204</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4204</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4204">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4204/4285" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4204" DMDID="DMD_wwu-journals_4204">
+            <mets:fptr FILEID="FILE0_wwu-journals_4204"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

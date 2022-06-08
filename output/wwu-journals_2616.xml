@@ -1,0 +1,133 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2616">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Deposits of disease-associated alpha-synuclein may be present in the dura mater in Lewy body disorders</title>
+                        <subTitle>implications for potential inadvertent transmission by surgery</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gelpi, Ellen</displayForm>
+                        <namePart type="family">Gelpi</namePart>
+                        <namePart type="given">Ellen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Visanji, Naomi P.</displayForm>
+                        <namePart type="family">Visanji</namePart>
+                        <namePart type="given">Naomi P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hönigschnabl, Selma</displayForm>
+                        <namePart type="family">Hönigschnabl</namePart>
+                        <namePart type="given">Selma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Reiner, Angelika</displayForm>
+                        <namePart type="family">Reiner</namePart>
+                        <namePart type="given">Angelika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Peter</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lang, Anthony</displayForm>
+                        <namePart type="family">Lang</namePart>
+                        <namePart type="given">Anthony</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Budka, Herbert</displayForm>
+                        <namePart type="family">Budka</namePart>
+                        <namePart type="given">Herbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kovacs, Gabor G.</displayForm>
+                        <namePart type="family">Kovacs</namePart>
+                        <namePart type="given">Gabor G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Deposition of alpha-synuclein in the brain is a hallmark of Lewy body disorders. Alpha-synuclein has been considered to show prion-like properties. Prion diseases can be transmitted by the transplantation of cadaveric dura mater causing iatrogenic Creutzfeldt-Jakob disease. Recent observations of amyloid-β deposition in dural grafts support the seeding properties of amyloid-β. Here we assessed the presence of alpha-synuclein in dura mater samples as a potential transmissible seed source. We immunostained 32 postmortem dura mater samples; 16 cases with Lewy-body disorder (LBD) showing different pathology stages and 16 non-LBD cases for phosphorylated (Ser129) and disease-associated (5G4) alpha-synuclein. Disease-associated alpha-synuclein aggregates were identified in intradural nerve fibres and associated with a vessel in a single LBD-Braak stage 4 case. We conclude that alpha-synuclein is detectable, although rarely, in dura mater samples in patients with LBD. The risk of potential transmissibility of dural alpha-synuclein deserves assessment by complementary experimental studies.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-25227</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2616</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2616</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2616">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2616/2522" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2616">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2616/2518" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2616" DMDID="DMD_wwu-journals_2616">
+            <mets:fptr FILEID="FILE0_wwu-journals_2616"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2616" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2616"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

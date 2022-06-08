@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3904">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>من (الدولة) العلمانيّة أو الدينيّة إلى (الدولة) المدنية</title>
+                        <subTitle>(سوء) الفهم المتعلّق بالمفاهيم المعياريّة الكثيفة</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>From the Secular or Religious (State) to the Civil (State)</title>
+                        <subTitle>(Mis)Understanding of Thick Normative Concepts in the Arab and Islamicate world(s)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Darwish, Housamedden</displayForm>
+                        <namePart type="family">Darwish</namePart>
+                        <namePart type="given">Housamedden</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">‭ ‬يتناول‭ ‬هذا‭ ‬البحث،‭ ‬تناولًا‭ ‬نقديًّا،‭ ‬بعض‭ ‬الإشكاليات‭ ‬النظرية‭ ‬والمنهجية،‭ ‬وأشكال‭ ‬سوء‭ ‬الفهم،‭ ‬الفعلية‭ ‬أو‭ ‬الممكنة،‭ ‬المرتبطة‭ ‬بالنقاش‭ ‬حول‭ ‬مدى‭ (‬عدم‭) ‬وجود‭ ‬توافقٍ‭ ‬بين‭ ‬الإسلام‭ ‬والتنوير‭/ ‬الحداثة‭. ‬وينظر‭ ‬إلى‭ ‬الخطاب‭ ‬المتضمِّن‭ ‬ﻟ‭ ‬‮«‬المفاهيم‭ ‬المعياريّة‭ ‬الكثيفة،‭ ‬بوصفه‭ ‬مصدرًا‭ ‬موضوعيًّا‭ ‬مهمًّا‭ ‬من‭ ‬مصادر‭ (‬سوء‭) ‬الفهم؛‭ ‬حيث‭ ‬تخلق‭ ‬الازدواجية،‭ ‬الوصفيّة‭ ‬والتقييمية،‭ ‬المحايثة‭ ‬لهذه‭ ‬المفاهيم‭ ‬إشكالياتٍ‭ ‬نظريةً‭ ‬ومنهجيةً‭ ‬متميِّزةً‭ ‬يمكن‭ ‬لها‭ ‬أن‭ ‬تفضي‭ ‬إلى‭ ‬حصول‭ ‬سوء‭ ‬الفهم،‭ ‬أو‭ ‬إلى‭ ‬تمايزٍ‭ ‬واختلافٍ‭ ‬أكبر‭ ‬بين‭ ‬الأفهام‭ ‬والتأويلات‭. ‬ومعظم‭ ‬أو‭ ‬كل‭ ‬المفاهيم‭ ‬الأساسيّة‭ ‬المتضمنة‭ ‬في‭ ‬النقاشات‭ ‬‮«‬السرمدية‮»‬‭ ‬الجارية،‭ ‬في‭ ‬خصوص‭ ‬إمكانية‭ ‬وجود‭/ ‬إيجاد‭ ‬توافقٍ‭ ‬بين‭ ‬الإسلام‭ ‬والتنوير‭ ‬أو‭ ‬الحداثة،‭ ‬هي‭ ‬مفاهيم‭ ‬معياريّةٌ‭ ‬كثيفةٌ‭. ‬ويركِّز‭ ‬البحث‭ ‬اهتمامه‭ ‬على‭ ‬مفهوم‭ (‬الدولة‭) ‬العلمانيّة‭ ‬تحديدًا،‭ ‬ليناقش‭ ‬بعض‭ ‬صيغ‭ ‬سوء‭ ‬الفهم‭ ‬في‭ ‬النقاشات‭ ‬الدائرة‭ ‬حول‭ ‬هذا‭ ‬المفهوم‭ ‬في‭ ‬العالم‭ ‬العربيّ‭ ‬‮«‬الإسلاماتي‮»‬‭ ‬من‭ ‬الصيغة‭ ‬الإيجابية‭ ‬لمفهوم‭ ‬العلمانيّة‭ ‬عند‭ ‬بطرس‭ ‬البستاني‭ ‬والصيفة‭ ‬السلبيّة‭ ‬لذلك‭ ‬المفهوم‭ ‬عند‭ ‬جمال‭ ‬الدين‭ ‬الأفغاني‭ ‬إلى‭ ‬‮«‬النموذج‭ ‬الإنسانيّ‭ ‬العلماني‮»‬‭ ‬عند‭ ‬صادق‭ ‬جلال‭ ‬العظم،‭ ‬مرورًا‭ ‬بالنقاشات‭ ‬بين‭ ‬محمد‭ ‬عابد‭ ‬الجابري‭ ‬وحسن‭ ‬حنفي‭ ‬وجورج‭ ‬طرابيش‭ ‬وعزيز‭ ‬العظمة‭ ‬وعبد‭ ‬الوهاب‭ ‬المسيري‭. ‬ويحاج‭ ‬البحث‭ ‬بضرورة‭ ‬تفكيك‭ ‬التقابل‭ ‬المثنوي‭ ‬بين‭ (‬الدولة‭) ‬العلمانيّة‭ ‬و‭(‬الدولة‭) ‬الدينيّة،‭ ‬أو‭ ‬إظهار‭ ‬تفكك‭ ‬ذلك‭ ‬التقابل‭. ‬ويتناول‭ ‬البحث‭ ‬مفهوم‭ (‬الدولة‭) ‬المدنية‭ ‬بوصفه‭ ‬مفهومًا‭ ‬مفكِّكًا‭ ‬لذلك‭ ‬التقابل،‭ ‬ومتجاوزًا‭ ‬له،‭ ‬في‭ ‬الوقت‭ ‬نفسه‭. ‬ويتأسس‭ ‬ذلك‭ ‬التفكيك‭ ‬على‭ ‬الاعتقاد‭ ‬بضرورة‭ ‬وفائدة‭ ‬خروج‭ ‬النقاشات‭ ‬الدائرة،‭ ‬في‭ ‬الفكر‭ ‬العربيّ‭ ‬المعاصر،‭ ‬عمومًا،‭ ‬من‭ ‬إطار‭ ‬التحزبات‭ ‬الأيديولوجية‭ ‬المعياريّة‭ ‬الخالصة‭ ‬التي‭ ‬تقسم‭ ‬العالم،‭ ‬مانويًّا،‭ ‬إلى‭ ‬ما‭ ‬هو‭ ‬خيِّرٌ‭ ‬وما‭ ‬شريرٌ،‭ ‬وما‭ ‬هو‭ ‬جيدٌ‭ ‬وما‭ ‬هو‭ ‬سيءٌ‭. ‬والخروج،‭ ‬الجزئي‭ ‬والنسبي،‭ ‬من‭ ‬تلك‭ ‬التحزبات‭ ‬لا‭ ‬يعني‭ ‬نفي‭ ‬أو‭ ‬إنكار‭ ‬وجود‭ ‬بعدٍ‭ ‬و‭/ ‬أو‭ ‬أساسٍ‭ ‬أيديولوجيٍّ‭ ‬لتلك‭ ‬النقاشات،‭ ‬وإنما‭ ‬يعني‭ ‬الكشف‭ ‬عن‭ ‬ذلك‭ ‬البعد‭ ‬أو‭ ‬الأساس،‭ ‬من‭ ‬جهةٍ،‭ ‬وضبطه،‭ ‬والبحث‭ ‬عن‭ ‬تسويغه‭ ‬ومسوغاته،‭ ‬معرفيًّا،‭ ‬بما‭ ‬يسمح‭ ‬بفهمٍ‭ ‬ذاتيٍّ‭ ‬أفضل،‭ ‬من‭ ‬جهةٍ،‭ ‬ويفسح‭ ‬المجال‭ ‬للفهم‭ ‬المتبادل،‭ ‬والتفاهم،‭ ‬مع‭ ‬المختلفين،‭ ‬معرفيًّا‭ ‬وأيديولوجيًّا،‭ ‬من‭ ‬جهةٍ‭ ‬أخرى‭. ‬وانطلاقًا‭ ‬من‭ ‬ذلك‭ ‬الفهم‭ ‬والتفاهم،‭ ‬يمكن‭ ‬للنقاش‭ ‬مع‭ ‬الآخرين،‭ ‬وللاتفاق‭ ‬أو‭ ‬الاختلاف‭ ‬معهم،‭ ‬أن‭ ‬يكون‭ ‬ذا‭ ‬معنىً،‭ ‬معرفيًّا‭ ‬على‭ ‬الأقل‭.‬</abstract>
+                    <abstract lang="eng">‭ ‬This paper aims to address some theoretical and methodological problematics‭, ‬as well as actual and potential forms of misunderstanding related to the concept of secularity/secularism‭, ‬as a‭ ‬“thick normative concept‭,‬”‭ ‬in the Arab and Islamicate world(s‭). ‬To this end‭, ‬the paper considers early normative formulation of the concept of secularism‭ ‬which can be traced back to the writings of al-Bustani and al-Afghani‭. ‬Furthermore‭, ‬it critically examines the concept of secularity/secularism in modern and contemporary debate by al-Jabri‭, ‬Tarabishi‭, ‬al‭-‬‘Azmeh‭, ‬el-Messiri and al‭-‬‘Azmeh‭. ‬Within the context of the ideological debate on the concept of secularity/secularism‭, ‬different forms of misunderstanding‭ ‬are highlighted‭, ‬and the ideological confrontation or antagonism‭, ‬between the secular and the religious is thus highlighted‭. ‬In‭ ‬addition‭, ‬some scholars have reservations about raising the concept of secularity/secularism to the level of a slogan‭, ‬because‭ ‬they consider it a political ideology that can be fascist or authoritarian‭. ‬In explaining these reservations‭, ‬the relationship between secularity and democracy is also discussed‭. ‬Moreover‭, ‬deconstruction is seen as a necessity in order to overcome negative‭ ‬dialectics‭ ‬–‭ ‬the‭ ‬“secular/religious”‭ ‬dichotomy in general‭, ‬and the‭ ‬“secular state/religious state”‭ ‬dichotomy in particular‭. ‬In conclusion‭, ‬the concept of the‭ ‬“civil state‭,‬”‭ ‬as a potential deconstructing concept of the mentioned dichotomies‭, ‬is proposed‭. ‬It is of importance to extract the general discussions taking place in contemporary Arab thought from the framework of pure normative ideological partitions‭. ‬Leaving these partisanships behind‭, ‬partially or relatively‭, ‬does not mean denying the existence of an ideological dimension and/or basis for the discussions concerned‭. ‬Instead‭, ‬it should reveal ideological dimensions or foundations‭, ‬control them‭, ‬and search for epistemological justification‭. ‬In turn this should allow for better self-understanding‭, ‬and thus pave the way for mutual understanding with those who disagree with it epistemologically and ideologically‭. ‬Based on this understanding‭, ‬discussion with others‭, ‬and thus‭ ‬agreement or disagreement with them‭, ‬can be meaningful‭, ‬at least at the epistemological level‭.‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3904</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3904</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3904">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3904/3951" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3904">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3904/4222" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3904" DMDID="DMD_wwu-journals_3904">
+            <mets:fptr FILEID="FILE0_wwu-journals_3904"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3904" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3904"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

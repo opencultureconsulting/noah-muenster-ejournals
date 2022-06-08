@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2122">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schendel, Eine beeindruckende Befragung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schendel, Gunther</displayForm>
+                        <namePart type="family">Schendel</namePart>
+                        <namePart type="given">Gunther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Auf evangelischer Seite sind in den letzten 15 Jahren zahlreiche empirische Untersuchungen zumPfarrberuf entstanden. Im Vergleich mit der Deutschen Seelsorgestudie kann das spezifische Profilsowohl der Seelsorgestudie als auch der evangelischen Studien zum Pfarrberuf deutlicher werden. Indiesem Beitrag werden die Konzepte der verschiedenen Studien sowie einige wesentliche Ergebnissemiteinander verglichen. Auf evangelischer Seite standen lange Zeit die externen Belastungsfaktorenim Mittelpunkt der Untersuchungen, während die Beschäftigung mit internen Stressoren und Ressourcenunter salutogenetischen Gesichtspunkten erst in den letzten Jahren eine zunehmend wichtigeRolle spielt. Die Deutsche Seelsorgestudie verbindet diese beiden Perspektiven, arbeitet mit bewährtenund vergleichbaren Standardinstrumenten und bietet den Vergleich verschiedener Berufsgruppen.Trotz der verschiedenen Konzepte und der Unterschiede bei den Berufsprofilen in den beidenKirchen kommen die Studien zu teilweise parallelen Ergebnissen. Das spricht für durchaus vergleichbareErfahrungen im aktuellen Strukturwandel der Kirchen.In the last 15 years there has been a boom of studies on the profession of pastors in GermanProtestant Churches. Comparing the Deutsche Seelsorgestudie (Pastoral Ministry Study) with thesestudies helps to see the profile of each of these studies more clearly. The aim of this contribution is toprovide a short comparison of the designs and of the main results. In the studies on the Protestantpastors the main emphasis was put on external load factors, but in the last years the question forinternal stressors and resources has got more relevant, also under the sign of salutogenesis. TheDeutsche Seelsorgestudie combines these approaches, uses proved and comparable standard instrumentsand provides a useful comparison of the various professional groups in the Catholic PastoralMinistry. Despite the different designs of these studies and the partly different profiles of the ministrystaff in the Catholic and the Protestant Church there are some similar results. This is a hint that themembers of the ministry staff in both Churches are making more or less the same experiences in theface of the current structural changes.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>115</start>
+                                <end>131</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20360</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2122</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2122">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2122/2036" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2122" DMDID="DMD_wwu-journals_2122">
+            <mets:fptr FILEID="FILE0_wwu-journals_2122"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

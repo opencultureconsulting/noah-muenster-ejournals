@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_29">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstheilungskräfte des Marktes? Ökonomische Theorien des Marktversagens und ihre Relevanz für die Bewältigung der Krise</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Habisch, André</displayForm>
+                        <namePart type="family">Habisch</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Jenseits naiver Markteuphorie und antikapitalistischer Fundamentalkritik sucht der Text ökonomische Theorien des Marktversagens für eine Bewältigung der Wirtschaftskrise fruchtbar zu machen. Nach einer Rekapitulation von Götz Briefs Theorie der ‚abnehmenden Grenzmoral‘ und George Akerlofs Konzept der negativen Selektion bei asymmetrischer Informationsverteilung werden vor allem zwei ökonomische Selbstregulierungspotentiale skizziert: einzelwirtschaftlich besteht mit der Markenbildung die Chance, z. B. der normativen Nachhaltigkeitsforderung Geltung zu verschaffen; kollektiv besteht in Branchenvereinbarungen eine zentrale Strategie ökonomischer Selbstregulierung. Angesichts der Finanzmarktkrise wird aber deutlich, dass Selbstregulierung eine sanktionsbewerte Festlegung von Mindeststandards durch eine internationale Ordnungspolitik zwar flankieren und vorbereiten, nicht aber ersetzen kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>97</start>
+                                <end>118</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-254</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_29</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_29">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/29/25" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_29" DMDID="DMD_wwu-journals_29">
+            <mets:fptr FILEID="FILE0_wwu-journals_29"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

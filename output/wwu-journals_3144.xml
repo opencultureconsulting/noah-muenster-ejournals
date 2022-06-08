@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3144">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>“In America, You Are Black, Baby”</title>
+                        <subTitle>Negotiating Colour-Blindness in Chimamanda Ngozi Adichie&apos;s Americanah (2013)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Keil, Anja</displayForm>
+                        <namePart type="family">Keil</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">While race and racism have always been present issues in the United States, the ideology of a post-racial American society and the growing awareness of the importance of transnational identity and sensibility have only reached the literary discourse at the end of the twentieth century. In this context, Nigerian author Chimamanda Ngozi Adichie has become one of the most well-known and widely discussed writers in contemporary anglophone literature. Her work, comprising her novels Purple Hibiscus (2003), Half of a Yellow Sun (2006) and Americanah (2013), as well as various short stories and her prominent TEDx talk “We should all be feminists”, deals with topics like feminism, racism and transnational identity. Her latest novel, Americanah, mainly focuses on the position of the Nigerian protagonist Ifemelu in the United States and discusses the struggle of identity formation when being caught between different racial identities. The U.S. as the main setting of Americanah in connection with race is not coincidental: one of the dominant narratives in the U.S. today is that the country has arrived in a post-racial era.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>45</start>
+                                <end>49</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31193</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3144</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3144</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3144">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3144/3119" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3144" DMDID="DMD_wwu-journals_3144">
+            <mets:fptr FILEID="FILE0_wwu-journals_3144"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2939">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Corona-Test für die Gesellschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henkel, Anna</displayForm>
+                        <namePart type="family">Henkel</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Pandemiegefahr, globale Veränderung des Klimas oder Verschmutzung der Ozeane – bis vor kurzem wurden Probleme wie diese aufgrund ihrer zeitlichen und räumlichen Ferne gleichermaßen als wenig dringlich erlebt. Mit Corona ist ein derart Fernes zu einer sich plötzlich massiv aufdrängenden Gefährdung geworden. Corona lässt sich daher aus Perspektive einer materialitätstheoretisch erweiterten Systemtheorie als Stresstest für die Gesellschaft betrachten: Zunächst wird ausgeführt, wie Gesellschaft generell und wie speziell die funktional differenzierte Gesellschaft zu dem steht, was für sie die Außenwelt ist. Darauf beruht eine Analyse der gesellschaftlichen Reaktion auf Corona, an die eine Diskussion der Konsequenzen aus dieser nahen für aktuell noch ferne Gefährdungen anschließt. Corona als Test betrachtet zeigt dann drei zentrale Probleme, aus denen für den Umgang mit unter dem Stichwort Nachhaltigkeit diskutierten Gefährdungen Schlussfolgerungen gezogen werden können. Erforderlich sind demnach die Absicherung funktionaler Differenzierung, die Berücksichtigung von Rückkopplungsverhältnissen und die Einbeziehung „autonomer Immaterialität“ als zusätzlicher Form struktureller Kopplung.
+The danger of a pandemic, global climate change oder polution of the ozeans – until lately problems such as these were equally perceived as rather far away and accordingly non-pressing challenges. With Corona, something far suddenly become urgently close. From the perspective of a materiality-informed theory of social systems, Corona can be observed as a stress-test for society: After the introduction, the relationship of society generally and the functionally differentiated society in particular to it’s outer sphere is discussed. This perspective is applied in the following analysis of the societal reactions to corona. A discussion of consequences of this suddenly close to still far-away dangers closes the paper. Corona as a test hints to three relevant problems that can be learned from for dealing with challenges discussed under the label of sustainability. Required are the protection of functional differentiation, the closer consideration of back-coupling and the admission to „autonomous immateriality“ as a further form of sturctual coupling.&amp;nbsp;
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>35</start>
+                                <end>47</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28953</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2939</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2939</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2939">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2939/2895" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2939" DMDID="DMD_wwu-journals_2939">
+            <mets:fptr FILEID="FILE0_wwu-journals_2939"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

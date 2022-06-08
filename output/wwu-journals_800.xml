@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_800">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Populismus – Gefahr oder hilfreiches Korrektiv für die gegenwärtige Demokratie?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Palaver, Wolfgang</displayForm>
+                        <namePart type="family">Palaver</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungMit gegenwärtigen Tendenzen zur Postdemokratie geht eine Zunahme an Populismus einher. Die dunklen Seiten des Populismus stehen uns heute in Europa besonders deutlich vor Augen, wenn wir auf seine Neigung zur Jagd auf Sündenböcke blicken, die sich insbesondere in Form einer Islamfeindlichkeit zeigt. Gleichzeitig betonen Vertreter einer radikalen Demokratie die Wichtigkeit von Gleichheit und Volkssouveränität als populistische Quelle zur Revitalisierung der Demokratie. Diese Ambivalenz des Populismus verweist sowohl auf rechtsstaatliche Institutionen als auch auf die politische Kultur als Voraussetzungen einer menschengerechten Demokratie. Beispielhaft werden im Blick auf die politische Kultur die Gewaltfreiheit und die Geschwisterlichkeit als wichtige politische Tugenden hervorgehoben.AbstractThe current tendencies towards post-democracy are accompanied by an increase of populism. The dark side of populism is clearly visible in contemporary Europe if we look at its leanings towards scapegoating and its islamophobic agitations. At the same time, however, representatives of a radical form of democracy are emphasizingthe importance of equality and sovereignty of the people as populist sources to revitalize democracy. This ambivalence of populism requires the constitutional institutions as well as a certain political culture as preconditions for a human democracy. Concerning political culture, the article discusses the political virtues of non-violence and fraternalism as examples.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2013120270</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_800</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_800">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/800/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_800" DMDID="DMD_wwu-journals_800">
+            <mets:fptr FILEID="FILE0_wwu-journals_800"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

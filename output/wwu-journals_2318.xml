@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2318">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Umriss einer kantschen Cyberkriegsethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Giesen, Klaus Gerd</displayForm>
+                        <namePart type="family">Giesen</namePart>
+                        <namePart type="given">Klaus Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Text liefert einen Beitrag zur Erfassung des Cyberkrieges aus ethischer Perspektive. Nachdem die neue Kriegsform begrifflich erfasst und in den weiteren historischen und technischen Kontext eingeordnet ist, werden Normen internationaler Gerechtigkeit konkret entwickelt, indem auf die komplexe Kriegsethik Immanuel Kants zurückgegriffen wird. Besondere Aufmerksamkeit erhält dabei neben Ius ad bellum und Ius in bello vor allem das Ius post bellum, das als besonders relevant eingestuft wird, u. a. weil wegen der ständig wachsenden Bedeutung des Internet of Things völlig neue Gefahren für die Menschheit entstehen.</abstract>
+                    <abstract lang="eng">The text contributes to the conceptualization of cyberwar from an ethical perspective. After this new form of war has been defined and placed in a wider historical and technical context, norms of international justice are developed in concrete terms by resorting to Immanuel Kant’s complex war ethic. In addition to ius ad bellum and ius in bello, special attention is given to the ius post bellum, which is considered particularlyrelevant, among other things because the ever-growing importance of the Internet of Things is bringing entirely new dangers for humanity.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>105</start>
+                                <end>126</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22100</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2318</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2318">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2318/Giesen" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2318" DMDID="DMD_wwu-journals_2318">
+            <mets:fptr FILEID="FILE0_wwu-journals_2318"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

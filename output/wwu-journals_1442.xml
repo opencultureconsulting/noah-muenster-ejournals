@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1442">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fortschritt zwischen Illusion und Störfall</title>
+                        <subTitle>Zur Antiquiertheit des Fortschrittsbegriffs in Zeiten gesellschaftlicher Transformation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffmeister, Dieter</displayForm>
+                        <namePart type="family">Hoffmeister</namePart>
+                        <namePart type="given">Dieter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag thematisiert aus unterschiedlichen Perspektiven die Herkunft und Bedeutung des modernen Fortschrittsbegriffs sowie dessen Verengung auf seine rein technisch-ökonomische Seite. Dabei wird einerseits die historisch gewachsene Ambivalenz des Fortschrittsbegriffs nachgezeichnet, andererseits aber auch der Frage nachgegangen, ob eine solch semantische Engführung, die dauerhaft Glück und Zufriedenheit durch Wachstum, die Ökonomisierung aller Lebensbereiche und die Produktion von immer mehr materiellem Wohlstand hervorzubringen verspricht, sich am Ende nicht als Schimäre erweist. Übersehen werden im hellen Schein des Leuchtfeuers Fortschritt nämlich ganz offensichtlich zwei entscheidende Faktoren: zum einen die Tatsache, dass der Mensch sich in der Befriedigung seiner Leidenschaften durch Konsum nicht von den Bedingungen seines Zustandekommens in der Wettbewerbsgesellschaft abkoppeln kann; zum anderen das Faktum, dass der Glaube an den technisch-ökonomischen Fortschritt genau jenem System entspringt, das diesen Glauben als Bedingung seiner eigenen Existenz hervorgebracht hat: dem kapitalistisch-marktwirtschaftlichen Wirtschaftssystem und seiner Produktions- und Konsumweise, samt eingebauter Wachstumslogik.The essay focusses the origin and meaning of the modern term of progress as well as the limitation on its technical-economic dimension from different points of view. On the one hand it reconsiders the historically grown ambivalence in the understanding of progress; on the other hand it questions, if its semantic limitation, which promises sustainable happiness and satisfaction through growth, the economization of all areas of life and the production of everlasting material wealth, crystallizes as a chimera. As a matter of fact, this perspective ignores two crucial factors in its understanding of progress: firstly the fact, that humans, while satisfying their passions through consumption, cannot uncouple from the conditions of their formation within the competitive society; furthermore the fact, that the believe in technical-economic progress originates from the system, that produced this believe for its own existence: the capitalistic market economy and its mode of production and consumption, including its logic of economic growth.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2015-13515</identifier>
+                    <identifier type="doi">10.17879/sun-2015-1442</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1442</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1442">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/1442/1351" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1442" DMDID="DMD_wwu-journals_1442">
+            <mets:fptr FILEID="FILE0_wwu-journals_1442"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

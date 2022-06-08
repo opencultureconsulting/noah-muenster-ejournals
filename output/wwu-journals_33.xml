@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_33">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Ende der aufgeblähten Finanzwirtschaft. Sozialethische Überlegungen zur politischen Neuordnung der Finanzmärkte</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Emunds, Bernhard</displayForm>
+                        <namePart type="family">Emunds</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">35</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Rezession der Weltwirtschaft hat einerseits die Verschuldung der Nationalstaaten, andererseits die Arbeitslosigkeit und – in wirtschaftlich weniger entwickelten Ländern – die informelle Erwerbsarbeit ansteigen lassen. Sie geht auf einen „boom and bust“-Zyklus der internationalen Banken sowie der Finanz- und Immobilienmärkte in vielen Industrie- und Schwellenländern zurück. Nicht erst in, sondern auch schon vor der Krise war die Finanzwirtschaft völlig „außer Rand und Band“ geraten. Die Überlebenschancen unzähliger Menschen in den Ländern des Südens werden sich verschlechtern und der Wohlstand vieler Menschen in den Ländern des Nordens ist bedroht, wenn es nicht gelingt, die internationale Finanzwirtschaft wieder unter Kontrolle zu bringen. Sie muss in den Dienst einer Wertschöpfung für die Mehrheit der Menschen gestellt werden; ihre Tendenz, in wirtschaftlich guten Jahren Risiken zu akkumulieren, die schließlich in einem großen Crash zum Vorschein kommen, muss beendet werden. Nach einer ersten Charakteristik der in den letzten Jahrzehnten neu entstandenen Finanzwirtschaft (Abschnitt 1), behandelt der Beitrag die Entwicklung der auf Stabilisierung zielenden Finanzregulierung (Abschnitt 2). Anschließend werden die Ursachen der globalen Finanzkrise untersucht (Abschnitt 3) und einige Ziele für den notwendig gewordenen tiefgreifenden Umbau der Finanzwirtschaft plausibilisiert (Abschnitt 4). Dabei stellen sich u. a. einige grundlegende Fragen zur Rolle des Staates bei der Ausrichtung der Wirtschaft auf das Gemeinwohl. Der Beitrag endet mit einer kurzen Skizze des notwendigen Umbaus (Abschnitt 5).</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>189</start>
+                                <end>223</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-293</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_33</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_33">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/33/29" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_33" DMDID="DMD_wwu-journals_33">
+            <mets:fptr FILEID="FILE0_wwu-journals_33"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

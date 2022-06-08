@@ -1,0 +1,184 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2935">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von Drusus zu Germanicus</title>
+                        <subTitle>Die Münzversorgung Galliens und Germaniens – Versuch  eines Überblicks</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Drusus to Germanicus. The coin supply of Gaul and Germany - A synthesis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Werz, Ulrich</displayForm>
+                        <namePart type="family">Werz</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">48</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Umlaufgebiete der augusteischen Aesprägungen von Nemausus, Lyon und der Münzmeister in Gallien und Germanien werden in diesem Artikel behandelt, wobei das Augenmerk auf das Okkupationsgebiet zwischen Rhein, Lippe und Weser gelegt wird. Dabei können im Münzumlauf regionale Schwerpunkte festgestellt werden, die nicht chronologisch bedingt sind.</abstract>
+                    <abstract lang="eng">&amp;nbsp;This article deals with the coin circulation areas of the Augustan aes coinages of Nemausus, Lyon and the moneyers in Gallia and Germania, focussing mainly on the area between the Rhine, Lippe and Weser rivers. Regional clusters could be observed, which are independent of chronology.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>85</start>
+                                <end>132</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2020-28656</identifier>
+                    <identifier type="doi">10.17879/ozean-2020-2935</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2935</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2865" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2868" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2870" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2872" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2874" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2876" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE6_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2878" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE7_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2880" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE8_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2882" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE9_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2884" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE10_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2885" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE11_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2886" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE12_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2887" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE13_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2888" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2935" DMDID="DMD_wwu-journals_2935">
+            <mets:fptr FILEID="FILE0_wwu-journals_2935"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE3_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE4_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE5_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE6_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE7_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART8_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE8_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART9_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE9_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART10_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE10_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART11_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE11_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART12_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE12_wwu-journals_2935"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART13_wwu-journals_2935" LABEL="">
+                <mets:fptr FILEID="FILE13_wwu-journals_2935"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

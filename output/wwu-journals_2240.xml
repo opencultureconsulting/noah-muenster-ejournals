@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2240">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Transkulturelle Gemeindeformate als Realisierungen des grenzüberschreitenden Evangeliums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kahl, Werner</displayForm>
+                        <namePart type="family">Kahl</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Aufgrund globaler Migrationsbewegungen ist das Christentum in Europa vielfältiger geworden. Versionen des Christlichen etwa aus sub-saharischen und asiatischen Regionen sind in Deutschland seit über zwei Jahrzehnten in sogenannten Migrationsgemeinden anzutreffen. Allerdings ist zu beobachten, dass es insgesamt wenig Erfahrungen der Zusammenarbeit oder gar eines Zusammenwachsens der etablierten Großkirchen mit diesen Gemeinden gibt. Das ist umso irritierender, als vor allem in der paulinischen Literatur des Neuen Testaments und in der Apostelgeschichte des Lukas die Etablierung transkultureller Gemeinden der Verschiedenen als das Erfordernis des vorausgesetzten Evangeliumsverständnisses gelten konnte. Ausgehend von in dieser Hinsicht besonders prägnanten Passagen (Gal 3,28; Apg 11,19–26; 13,1–3) gibt der Verfasser Impulse für die Gestaltung einer transkulturellen Gemeindearbeit im Rahmen einer interkulturellen Öffnung von Kirche.Christianity in Europe has become more diverse due to processes of global migration. For more than two decades, versions of the Christian faith that originated in regions of sub-Saharan Africa or Asia have been encountered in Germany in the form of so-called migration Churches. It can be observed, however, that not many experiences have been gained concerning the cooperation or fusion of the established Churches and the migrant Churches. This is irritating against the background of the Pauline literature in the New Testament and Luke’s Acts of the Apostles, since here the creation of crosscultural faith communities was regarded as the social consequence of the presupposed understanding of the meaning of Gospel. The author discusses especially informative passages in this regard (Gal 3:28; Acts 11:19-26; 13:1-3). From here the author gives ideas on the creation and shaping of crossculturally oriented parish work as part of an intercultural opening of the Church.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>169</start>
+                                <end>180</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21373</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2240</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2240">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2240/2137" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2240" DMDID="DMD_wwu-journals_2240">
+            <mets:fptr FILEID="FILE0_wwu-journals_2240"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

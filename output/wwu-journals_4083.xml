@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4083">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Replik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schimank, Uwe</displayForm>
+                        <namePart type="family">Schimank</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Sprichwort sagt: »Viele Hunde sind des Hasen Tod.« Zehn Kommentare, die – wie jeder Leser schnell erkennt – weit auseinandergehende, einander immer wieder diametral widersprechende Kritikpunkte und Verbesserungsvorschläge vorbringen, könnten aber auch aufs genaue Gegenteil hinauslaufen: Der Hase macht ungerührt, was er will, weil er es sowieso keinem recht machen kann. Ich will mich hier aber weder geschlagen noch lernunwillig geben. Warum ich Ersteres vorerst nicht in Betracht ziehe, wird im Weiteren erläutert werden. Wichtiger am Anfang zu betonen ist mir jedoch, dass ich aus allen Kommentaren sehr viel gelernt habe. Dafür schulde ich den Kolleginnen und Kollegen Dank. Ganz besonders bedanken möchte ich mich dafür, dass niemand – trotz der inhaltlichen Schärfe einzelner Kritikpunkte – in Polemik abgeglitten ist. Ich nehme dies als ein ermutigendes Zeichen dafür, dass auch Auseinandersetzungen über Grundsatzfragen, in denen am Ende Setzungen gegeneinander stehen, nicht zu Freund/Feind-Konfrontationen entarten müssen. Was ich zur Diskussion gestellt habe, war ein Vorschlag zur gesellschaftstheoretischen Konzeptualisierung der Moderne. Dieser Vorschlag basiert auf einer bestimmten sozialtheoretischenGrundlage, und er ist weiterhin wissenschaftstheoretisch in bestimmter Weise positioniert. Die Kommentierungen des Vorschlags nehmen auf alle drei Diskussionsebenen Bezug, weshalb ich auch auf allen drei Ebenen antworten muss. Der Schwerpunkt wird freilich auf der gesellschaftstheoretischen Ebene liegen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>66</start>
+                                <end>89</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4083</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4083</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4083">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4083/4152" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4083" DMDID="DMD_wwu-journals_4083">
+            <mets:fptr FILEID="FILE0_wwu-journals_4083"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

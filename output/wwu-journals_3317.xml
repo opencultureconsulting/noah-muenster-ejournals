@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3317">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurodegeneration</title>
+                        <subTitle>2021 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Crary, John Fonda</displayForm>
+                        <namePart type="family">Crary</namePart>
+                        <namePart type="given">John Fonda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This article reviews a collection of manuscripts in the field of neurodegenerative disease chosen from what are considered by the author to be among the 10 most important and potentially impactful topics or research trends of 2020 relevant to the field of experimental and diagnostic neuropathology. A deliberate effort was made to provide balance among disease categories covered. The result is a varied selection that includes not just individual papers but also research topics and trends. The association of COVID-19 with longer-term neurological symptoms has launched a research trend fueled by speculation that the SARS-CoV-2 might trigger neurodegenerative changes. The onslaught of transcriptomic studies has begun to give way to proteomics, with three transformative studies published examining glial contributions to Alzheimer disease, cerebral atherosclerosis in cognitive decline, and the complex sequence of post-translational modifications of the tau protein. Plasma biomarkers for Alzheimer disease have continued to make rapid advances, especially around highly sensitive assays capable of detecting different forms of abnormal hyperphosphorylated tau in peripheral blood. Two studies using cryo-electron microscopy showed the power of the approach by continuing to elucidate the diversity of filamentous tau inclusions, and a third study gave the first glimpse of α-synuclein aggregates at near atomic resolution. Another study continued to delineate how different α-synuclein conformers (“strains”) target specific brain regions and lead to neurodegeneration. In Huntington’s disease, we saw compelling molecular data showing how cells adapt to endoplasmic reticulum stress through the unfolded protein response. Finally, the role of astrocytes in chronic traumatic encephalopathy has emerged as a critical area of interest.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-33194</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3317</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3317</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3317">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3317/3320" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3317">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3317/3319" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3317" DMDID="DMD_wwu-journals_3317">
+            <mets:fptr FILEID="FILE0_wwu-journals_3317"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3317" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3317"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

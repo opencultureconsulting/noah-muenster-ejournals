@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2503">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Antagonismus oder rationaler Diskurs? Medienpluralität in Europa und die Rolle des öffentlichen Rundfunks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schweizer, Corinne</displayForm>
+                        <namePart type="family">Schweizer</namePart>
+                        <namePart type="given">Corinne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Welche Rolle spielt der öffentliche Rundfunk, wenn es um die Medienpluralität geht? Während die einen ihn als gänzlich positiven Beitrag für eine vielfältige Medienlandschaft sehen, werfen ihm andere Marktverzerrung und politischen Parallelismus vor. Der vorliegende Beitrag beleuchtet das vielschichtige Verhältnis zwischen öffentlichem Rundfunk und Medienpluralität von zwei Seiten: Aus Sicht der sich wandelnden theoretischen Konzeptionen und Regulierungsziele und auf Basis empirischer Erhebungen desEU Media Pluralism Monitor. So wird einerseits gezeigt, dass nicht vermeintliche Marktverzerrung, sondern vor allem fehlende soziale Inklusion die Pluralität des öffentlichen Rundfunks einschränken. Andererseits wird die Adaption einer antagonistischen Sicht auf die Medienpluralität vorgeschlagen. Anhand von vier aktuellen Baustellen des öffentlichen Rundfunks wird diese neue Sicht mit der gängigen deliberativen Sicht verglichen.</abstract>
+                    <abstract lang="eng">What is the role of public service broadcasting when it comes to media plurality? While some see these organizations as a wholly positive contribution to a diverse media landscape, others accuse them of market distortion and political parallelism. This contribution provides a twofold examination of the multi-layered relationship between public service broadcasting and media plurality: From the perspective of changing theoretical concepts and regulatory goals, and based on the empirical analysis of the EU Media Pluralism Monitor. On the one hand, this examination shows that it is not market distortion, but the lack of social inclusion that limits the plurality of public service broadcasting. On the other hand, the adaptation of an antagonistic view on media plurality is suggested. Using four current discussions on public service broadcasting, it compares this view with the standard deliberative view.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23821</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2503</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2503</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2503">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2503/2382" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2503" DMDID="DMD_wwu-journals_2503">
+            <mets:fptr FILEID="FILE0_wwu-journals_2503"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

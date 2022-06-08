@@ -1,0 +1,105 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2472">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltigkeit und Alter</title>
+                        <subTitle>Konturen und Spannungsfelder eines vernachlässigten Forschungsfeldes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Höppner, Grit</displayForm>
+                        <namePart type="family">Höppner</namePart>
+                        <namePart type="given">Grit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Görgen, Benjamin</displayForm>
+                        <namePart type="family">Görgen</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grundmann, Matthias</displayForm>
+                        <namePart type="family">Grundmann</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit dem demografischen Wandel und der damit zusammenhängenden Alterung der Bevölkerungen stellt sich die Frage, wie dieser Wandlungsprozess die Kapazitäten von Gesellschaften für eine sozial-ökologische Transformation zur Nachhaltigkeit beeinflusst. Alter wurde in der Nachhaltigkeitsforschung bislang kaum als eine relevante Untersuchungseinheit für sozial-ökologische Transformationsprozesse erforscht und ebenso verzichtet die Altersforschung weitestgehend darauf, Nachhaltigkeit als ein forschungsrelevantes Feld zu erschließen. Vor dem Hintergrund dieser doppelten Forschungslücke thematisieren wir in unserem Beitrag zentrale Konturen und Spannungsfelder, die sich aus einer Konfrontation des Alters- und Nachhaltigkeitsdiskurses ergeben und konstruieren hierzu Leitbilder des nachhaltigen Alterns. Deutlich wird dabei: In beiden Diskursen werden in der Regel höchst gestaltungsmächtige Subjekte postuliert, die sich jedoch bereits auf der diskursiven Ebene mit einer ganzen Reihe an widersprüchlichen und ambivalenten Idealen konfrontiert sehen, die sich kaummit der sozialen Praxis vermitteln lassen.
+With demographic change and the associated ageing of the population, the question arises how this process of change influences the capacities of societies for a socio-ecological transformation towards sustainability. In sustainability research, age has hardly been researched as a relevant unit for social-ecological transformation processes, and age research also largely refrains from developing sustainability as a research-relevant field. Against the background of this double research gap, our contribution addresses central contours and areas of tension that arise from a confrontation of the discourses on ageing and sustainability and constructs models of sustainable ageing for this purpose. It becomes clear that in both discourses, highly creative subjects are generated, who, however, already see themselves confronted with a whole series of contradictory and ambivalent ideals that can hardly be fulfilled by social practice.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>66</start>
+                                <end>90</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-23345</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2472</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2472</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2472">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2472/2334" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2472" DMDID="DMD_wwu-journals_2472">
+            <mets:fptr FILEID="FILE0_wwu-journals_2472"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

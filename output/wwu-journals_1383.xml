@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1383">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Flüssig oder fest? Kleine Christliche Gemeinschaften aus der Perspektive von „liquid church“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kröger, Elisa</displayForm>
+                        <namePart type="family">Kröger</namePart>
+                        <namePart type="given">Elisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zusammenhang mit den gegenwärtigen Umbrüchen im gesellschaftlichen, religiösen wiekirchlichen Kontext wird derzeit die Metapher der „Liquidität“ bemüht, um Wandlungsphänomenenauf die Spur zu kommen. In ihrer Komplexität können diese jedoch keineswegs anhandeiner konträren Gegenüberstellung von „liquid“ und „solid“ erfasst werden. Die Inblicknahmeder sogenannten „Kleinen Christlichen Gemeinschaften“ aus der Perspektive vonliquid church (Pete Ward) zeigt vielmehr, dass „liquid“ und „solid“ gar nicht so losgelöst nebeneinanderstehen,wie es auf den ersten Blick vielleicht anmutet. Die Herausforderungen scheinenwoanders zu liegen: in der Durchlässigkeit für das „Heute Gottes“ inmitten verflüssigterZeiten.In the context of the current radical changes in the social, cultural, as well as religious andecclesiastical field, the metaphor „liquidity“ is used to understand the phenomenon of transformations.Yet, in their complexity, these transitions cannot be understood just by comparingand contrasting „liquid“ and „solid“. The analysis of the so-called „Small Christian Communities“in light of liquid church (Pete Ward) rather shows that „liquid“ and „solid“ are actually notas isolated from each other as it might seem at the first glance. The challenges seem to belocated elsewhere, namely, in the permeability for „God’s Today“ in the context of liquid times.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>69</start>
+                                <end>83</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13024</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1383</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1383">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1383/1302" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1383" DMDID="DMD_wwu-journals_1383">
+            <mets:fptr FILEID="FILE0_wwu-journals_1383"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

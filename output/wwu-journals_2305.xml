@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2305">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Sie sind religiös sprachunfähig!&quot; - Zur Fachsprachlichkeit des Christentums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kohlmeyer, Theresa</displayForm>
+                        <namePart type="family">Kohlmeyer</namePart>
+                        <namePart type="given">Theresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für das Christentum wird in den letzten Jahrzehnten immer wieder eine Sprachkrise festgestellt undeiner entsprechenden Sprachunfähigkeitsdiagnose auf den unterschiedlichen Ebenen vorgeworfen.Die Sprache des Christentums entferne sich immer weiter von den Erfahrungen der Menschen. Dahersollen Kinder und Jugendliche, aber auch die Kirche, lernen, religiöse Erfahrungen in der Alltagsspracheauszudrücken. Dieser Beitrag wird die Sprache des Christentums als Fachsprache definieren. Damitkann einerseits die Diagnose vertieft werden: Den Menschen fehlen nicht nur die Erfahrungen, sieteilen auch nicht mehr die christliche Wirklichkeitsperspektive, was für eine Fachsprache konstituierendist. Andererseits wird damit der Ansatz, religiöse Erfahrung in der Alltagssprache ausdrücken zuwollen, ad absurdum geführt. Die christliche Sprache hat ihre Daseinsberechtigung unter der Prämisseder geteilten Wirklichkeitsperspektive.Over the last decades, Christianity has been repeatedly accused of having a language crisis and of aninability to speak. The Christian language moved away from the experiences of humans of our time.Therefore, children and church should learn to express their religious experiences in an everyday language.This article defines the Christian language as a jargon or technical terminology. One the onehand, the diagnosis can be deepened by this: we can conclude that it is not only the experiences thatare lost, but people also do not share the Christian perspective on reality anymore, which constitutesa jargon. One the other hand, this understanding reduces the idea of expressing religious experiencesin everyday language to absurdity. Christian language takes its reasons for being from the premise of ashared perspective of reality.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>57</start>
+                                <end>68</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21977</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2305</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2305">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2305/2197" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2305" DMDID="DMD_wwu-journals_2305">
+            <mets:fptr FILEID="FILE0_wwu-journals_2305"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2980">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexive Repräsentation in Ethik und Politik</title>
+                        <subTitle>Postkoloniale Kritik der theologisch-sozialethischen Theoriebildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winkler, Katja</displayForm>
+                        <namePart type="family">Winkler</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag zeigt auf, dass und wie die postkoloniale Perspektive für die theologische Sozialethik in grundlagen-ethischer, politisch-ethischer und wissenschaftstheoretischer Hinsicht weiterführend sein kann. Anknüpfungspunkt ist hierbei die postkoloniale Menschenrechtkritik nach Gayatri C. Spivak. Die besondere Leistung der Postcolonial Studies liegt darin, dass sie mit dem Konzept der Subalternität und dem damit in Verbindung stehenden Othering Analyseinstrumente liefert, die auf eine verschärfte Form von Exklusion aufmerksam machen. Es handelt sich hierbei um mehr als bloße Ausgrenzung, die immernoch eine gewisse Zugehörigkeitin verminderter Form impliziert. Es geht vielmehr um ein Unsichtbarmachen von Personen und Personengruppen durch Repräsentationsprozesse. Stellvertretung, selbst wenn sie in bester Absicht geschieht, verunmöglicht, dass von Unrecht Betroffene ihre je eigene direkte Beurteilung der je eigenen Lebenslage öffentlich äußern können bzw. dass diese öffentlich gehört wird. So können Entwürfe der Anwaltschaftlichkeit, sei es auf ethischer, auf politischer oder auf der Ebene der Wissenschaft, stets nur reflektiert zum Einsatz kommen. Die postkoloniale Reflexion der Repräsentation nimmt also zunächst einmal diejenigen kritisch in den Blick, die eine privilegierte Stellung inne haben, die Unrecht richten und die die Ressourcen haben, AnwältInnen für Menschenrechte zu sein.</abstract>
+                    <abstract lang="eng">The essay shows that and how the postcolonial perspective for theological social ethics can be further in terms of fundamental ethical, political ethical and scientific theory. The starting point is the postcolonial criticism of human rights according to Gayatri C. Spivak. The special achievement of postcolonial studies lies in the fact that, with the concept of Subalternity and the associated Othering, it provides analytical instruments that draw attention to a heightened form of Exclusion. It is an exclusion, more precisely an invisibility of people and groups through processes of Representation. Representation, even if it is done with the best of intentions, makes it impossible for those affected by injustice to be able to publicly express their own direct assessment of their own life situation or to be heard in public. In this way, drafts of advocacy, be it on an ethical, political or scientific level, can only ever be used in a reflected manner. The post-colonial reflection on representation therefore first takes a critical look at those who hold a privileged position, who „righting wrongs“ and who have the resources to be advocates for human rights.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>161</start>
+                                <end>182</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30877</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2980</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2980</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2980">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2980/3087" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2980" DMDID="DMD_wwu-journals_2980">
+            <mets:fptr FILEID="FILE0_wwu-journals_2980"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

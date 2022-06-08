@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2285">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welche Nachhaltigkeit? Warum die ‚Soziologie der Nachhaltigkeit‘ weder in menschlichen Überlebensfragen begründet werden kann, noch neu erfunden werden muss</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brand, Karl-Werner</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Karl-Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Beitrag liefert eine kritische Bewertung der bisherigen programmatischen Beiträge der neuen ‚Soziologie der Nachhaltigkeit‘. Auch wenn der Versuch, der Soziologie in der Nachhaltigkeitsdebatte ein größeres Gewicht zu verleihen, grundsätzlich zu begrüßen ist, so weist er&amp;nbsp; doch eine Reihe von Defiziten auf. Ein erstes zentrales Defizit ist, dass weder der spezifische Gegenstandsbereich noch der normative Bezugspunkt der ‚Soziologie der Nachhaltigkeit‘ geklärt werden. Der von den Autoren gewählte Bezugspunkt der ‚langfristigen Sicherung der menschlichen Existenz‘ hat mit dem internationalen Leitbild der ‚nachhaltigen Entwicklung‘ und den bisher davon angestoßenen gesellschaftlichen Transformationen wenig zu tun. Ein zweites zentrales Defizit ist, dass die Mitte der neunziger Jahre auch in Deutschland aufblühende soziologische Nachhaltigkeitsforschung wenn überhaupt, dann nur hochgradig selektiv wahrgenommen wird. Die Soziologie der Nachhaltigkeit muss aber nicht neu erfunden werden. Sie ist heute nur in andere gesellschaftliche Kontexte eingebettet. Zu klären wäre somit, worin das Neue der aktuellen, zweiten Welle der sozio­logischen Nachhaltigkeitsforschung besteht.
+This article provides a critical evaluation of the programmatic papers of the newly established network of a ‘Sociology of Sustainability’. Even if attempts to give sociology a higher weight in public debates on sustainability are to be welcomed, this approach shows a number of shortcomings. One decisive weakness is that neither the subject area nor the normative point of reference of this (proclaimed) new research field are clearly defined. The chosen reference point of ‘securing the existence of humanity’ does not provide any specific vision (Leitbild) of future human development. And it is hardly related to the dynamics of societal transformation which have been triggered by the guiding principle of Sustainable Development since the 1990s. A second major shortcoming relates to the systematic neglect, or at least highly selective perception of the existing sociological research on sustainable development (in Germany). Sociology of sustainability has not to be reinvented. Rather, it would be helpful to understand the current attempts to increase the significance of sociology in sustainability studies as a second wave of sociological research in this field.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-0-21804</identifier>
+                    <identifier type="doi">10.17879/sun-2017-2285</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2285</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2285">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2285/2180" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2285" DMDID="DMD_wwu-journals_2285">
+            <mets:fptr FILEID="FILE0_wwu-journals_2285"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

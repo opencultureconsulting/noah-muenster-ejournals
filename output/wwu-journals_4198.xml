@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4198">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>metrische Wir revisited</title>
+                        <subTitle>Eine Reaktion auf meine KritikerInnen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mau , Steffen</displayForm>
+                        <namePart type="family">Mau</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dieser und der vorhergehenden Ausgabe der Zeitschrift für Theoretische Soziologie haben sich Tobias Werron, Michaela Pfadenhauer, Sarah Miriam Prinz, Greta Wagner und Désirée Waibel mit meinem 2017 erschienenen Buch Das metrische Wir. Über die Quantifizierung des Sozialen auseinandergesetzt, wofür ich ihnen danke. Sie haben manche Aussagen des Buches in Frage gestellt und Einwände formuliert, es für weiterführende Debatten und Perspektiven aufgeschlossen, auf anders gelagerte empirische Befunde hingewiesen und es auch gewürdigt. Als Autor freue ich mich über dieses Interesse und Feedback und nutze gern die Gelegenheit, auf einige wichtige (nicht alle) Punkte meiner KritikerInnen einzugehen. Ich schließe Bettina Heintz‘ (2018) in der Soziologischen Revue erschienene Rezension meines Buches in diese Entgegnung mit ein.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>119</start>
+                                <end>129</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4198</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4198</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4198">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4198/4281" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4198" DMDID="DMD_wwu-journals_4198">
+            <mets:fptr FILEID="FILE0_wwu-journals_4198"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

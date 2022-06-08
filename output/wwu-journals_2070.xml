@@ -1,0 +1,141 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2070">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziologie der Nachhaltigkeit</title>
+                        <subTitle>Herausforderungen und Perspektiven</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henkel, Anna</displayForm>
+                        <namePart type="family">Henkel</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böschen, Stefan</displayForm>
+                        <namePart type="family">Böschen</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Drews, Nikolai</displayForm>
+                        <namePart type="family">Drews</namePart>
+                        <namePart type="given">Nikolai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Firnenburg, Louisa</displayForm>
+                        <namePart type="family">Firnenburg</namePart>
+                        <namePart type="given">Louisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Görgen, Benjamin</displayForm>
+                        <namePart type="family">Görgen</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grundmann, Matthias</displayForm>
+                        <namePart type="family">Grundmann</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lüdtke, Nico</displayForm>
+                        <namePart type="family">Lüdtke</namePart>
+                        <namePart type="given">Nico</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfister, Thomas</displayForm>
+                        <namePart type="family">Pfister</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rödder, Simone</displayForm>
+                        <namePart type="family">Rödder</namePart>
+                        <namePart type="given">Simone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Im Diskurs um Nachhaltigkeit fehlt bislang eine spezifisch soziologische Perspektive. Gerade angesichts der Vielfalt des Diskurses kann eine „Soziologie der Nachhaltigkeit“ jedoch unterschiedliche Perspektiven aufeinander beziehen und kritisch auf implizite Prämissen reflektieren. Eine spezifische Herausforderung liegt für die Soziologie darin, sich zu der Problemorientierung sowie zum normativen Charakter der Nachhaltigkeit zu positionieren. Dieser Beitrag macht den Vorschlag, die Perspektivenvielfalt der Soziologie als Stärke zu betrachten, die es angesichts der parallelen Vielfalt der Nachhaltigkeit produktiv zu machen gilt. Als soziologische Zugänge zur Nachhaltigkeitsdebatte gelten dabei solche Ansätze, die sich zur Gleichzeitigkeit von Beobachtungs- und Transformationsorientierung verhalten und – ob mit bereichsspezifischem oder gesellschaftstheoretischem Fokus – zu durchaus pluralen Vermittlungsvorschlägen kommen. Explorativ mit Blick auf das Feld einer Soziologie der Nachhaltigkeit werden fünf derartige Vorschläge exemplarisch vorgestellt: doing sustainability, eine feldtheoretische Analyse, ein wissenschaftssoziologischer Beitrag, epistemische Governance und eine gesellschaftstheoretische Reflexion. Wir verstehen dies als Auftakt für eine Diskussion der „Soziologie der Nachhaltigkeit“.
+This paper proceeds on the assumption that a specifically sociological perspective is lacking in the discourse on sustainability. However, especially in view of the diversity of this discourse, a “sociology of sustainability” may offer new insights by contributing different perspectives and critically reflecting on the implicit premises of the sustainability debate.
+A specific challenge for sociology is to position itself with regard to the problem-orientation as well as the normative character of sustainability. This contribution proposes to consider the perspective-rich diversity of sociology as a strength, which, as it applies to the parallel diversity of sustainability, can be made very productive. Sociological approaches applicable to the sustainability debate are those that bear upon the simultaneity of observation and orientation of transformation – whether with an area-specific or societal-theoretical focus – and arrive at thoroughly plural mediation proposals. This paper introduces five such proposals as exploratory examples: doing sustainability, a field theoretical analysis, a contribution from the sociology of science, epistemic governance and a societal-theoretical reflection. We understand this as a prelude to a discussion regarding the coming sociology of sustainability.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-0-19877</identifier>
+                    <identifier type="doi">10.17879/sun-2017-2070</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2070</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2070">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2070/1987" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2070" DMDID="DMD_wwu-journals_2070">
+            <mets:fptr FILEID="FILE0_wwu-journals_2070"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

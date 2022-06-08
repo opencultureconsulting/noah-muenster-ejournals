@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1443">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltigkeit als Fortschritt denken</title>
+                        <subTitle>Grundrisse einer soziologisch fundierten Nachhaltigkeitsforschung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Görgen, Benjamin</displayForm>
+                        <namePart type="family">Görgen</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das folgende Paper thematisiert&amp;nbsp; grundlegende&amp;nbsp; strukturelle&amp;nbsp; Defizite&amp;nbsp; der Nachhaltigkeitsdebatte und bemüht sich um die Grundlegung einer soziologischen Forschungsprogrammatik, die auf diese Defizite reagiert. Als zentrale Kritikpunkte des kontemporären Nachhaltigkeitsdiskurses werden die Dominanz ökologischer und ökonomischer Problemstellungen und Analyseperspektiven sowie die damit verbundene Marginalisierung der sozialen Dimension der Nachhaltigkeit, reduktionistische Verständnisse sozial-ökologischer Transformationsprozesse sowie das Fehlen einer ganzheitlichen emanzipatorischen Zukunftsperspektive auf die gesellschaftliche Entwicklungsdynamik&amp;nbsp; identifiziert&amp;nbsp; und&amp;nbsp; kritisiert. Durch eine Revitalisierung von Erkenntnissen aus der Humanökologie, Umweltsoziologie und sozial-ökologischen Sozialisationsforschung, aber auch der Utopie-, Protest- und Bewegungsforschung, also der Politischen Soziologie, wird der Versuch unternommen die Soziologie und ihre zentralen Erkenntnisse als kritisch-reflexive Perspektive auf Transformationsprozesse für die Nachhaltigkeitsforschung fruchtbar zu machen.
+The paper discusses fundamental structural deficits of the debate on sustainability and strives towards a sociological research program, which responds to these deficits. Three main aspects within the sustainability-discourse are being identified and criticized: 1. the hegemony of ecological und economical foci opposite to the marginalized social dimension of sustainability; 2. a reductionistic understanding of socio-ecological transformation rocesses; 3. the lack of a holistic emancipatory perspective for the future that guides the social-ecological movement and offers guidelines to the development of society. The paper attempts to fructify Sociology and its main findings as a critical and reflective perspective on the research of sustainability. Therefore, the concepts of Human Ecology and Environmental Sociology as well as the Utopian Studies and the Studies of Protest and Social Movements are being revitalised.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2015-13528</identifier>
+                    <identifier type="doi">10.17879/sun-2015-1443</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1443</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1443">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/1443/1352" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1443" DMDID="DMD_wwu-journals_1443">
+            <mets:fptr FILEID="FILE0_wwu-journals_1443"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

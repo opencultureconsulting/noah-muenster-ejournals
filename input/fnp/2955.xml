@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>2955</id>
+	<dc:title xml:lang="en-US">Quantitative proteomic profiling of white matter in cases of cerebral amyloid angiopathy reveals upregulation of extracellular matrix proteins and clusterin</dc:title>
+	<dc:creator>Manousopoulou, Antigoni</dc:creator>
+	<dc:creator>Yuen, Ho Ming</dc:creator>
+	<dc:creator>MacGregor Sharp, Matt</dc:creator>
+	<dc:creator>Saito, Satoshi</dc:creator>
+	<dc:creator>Aldea, Roxana</dc:creator>
+	<dc:creator>Mazer, Norman</dc:creator>
+	<dc:creator>Garbis, Spiros D</dc:creator>
+	<dc:creator>Carare, Roxana O</dc:creator>
+	<dc:subject xml:lang="en-US">Extracellular matrix</dc:subject>
+	<dc:subject xml:lang="en-US">Cell adhesion</dc:subject>
+	<dc:subject xml:lang="en-US">Clusterin</dc:subject>
+	<dc:subject xml:lang="en-US">Cerebral amyloid angiopathy</dc:subject>
+	<dc:subject xml:lang="en-US">CAA</dc:subject>
+	<dc:subject xml:lang="en-US">White matter</dc:subject>
+	<dc:subject xml:lang="en-US">Proteomics</dc:subject>
+	<dc:description xml:lang="en-US">Aims: Cerebral amyloid angiopathy (CAA) is the accumulation of amyloid beta (Aβ) in the walls of cerebral arterioles, arteries and capillaries. Changes in the white matter in CAA are observed as hyperintensities and dilated perivascular spaces on MRI suggesting impairment of fluid drainage but the pathophysiology behind these changes is poorly understood. We tested the hypothesis that proteins associated with clearance of Aβ peptides are upregulated in the white matter in cases of CAA.Methods: In this study, we compare the quantitative proteomic profile of white matter from post-mortem brains of patients with CAA and age-matched controls in order to gain insight into the cellular processes and key molecules involved in the pathophysiology of CAA.Results: Our proteomic analysis resulted in the profiling of 3,734 proteins (peptide FDR p&amp;lt;0.05). Of these, 189 were differentially expressed in CAA vs. control. Bioinformatics analysis of these proteins showed significant enrichment of proteins related to cell adhesion | cell-matrix interaction, mitochondrial dysfunction and hypoxia. Upregulated proteins in CAA included EMILIN2, COL4A2, TLN1, CLU, HSPG2. Downregulated proteins included DSP, IDE, HBG1.Conclusions: The present study reports an in-depth quantitative proteomic profiling of white matter from patients with CAA, highlighting extracellular matrix proteins and clusterin as key molecules in the pathophysiology of white matter changes in cases of CAA.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2020-10-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/zip</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2955</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2020-2955</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 1 (2020); 28</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 1 (2020); 28</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2955/2980</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2955/2979</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2955/2978</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2020-29799</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2020 Antigoni Manousopoulou, Ho Ming Yuen, Matt MacGregor Sharp, Satoshi Saito, Roxana Aldea, Norman Mazer, Spiros D Garbis, Roxana O Carare</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3136">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>“Refugees Welcome”</title>
+                        <subTitle>Analysing Transgressive Stickers along Münster’s Harbour</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kastner, Lena</displayForm>
+                        <namePart type="family">Kastner</namePart>
+                        <namePart type="given">Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spreckelsen, Theresa Sophia</displayForm>
+                        <namePart type="family">Spreckelsen</namePart>
+                        <namePart type="given">Theresa Sophia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Talhaui, Yasmina</displayForm>
+                        <namePart type="family">Talhaui</namePart>
+                        <namePart type="given">Yasmina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A recent study by the Shell Corporation revealed that students are becoming increasingly interested in political matters. The study makes a connection between this development and a growing disposition towards political actions (“Die Shell Jugendstudie”). This development has also become noticeable in Münster. It is not surprising that in Münster, an international university town, many young people are interested in politics and show action in this domain. This often goes hand in hand with the university environment, where students&amp;nbsp;become more aware of the issues relevant in their local and national contexts, as well as in aglobalised world. Along Münster’s harbour, there are many bars and clubs. It is one of the city’s designated party-scenes and many of the publicly visible objectsare covered in stickers with a multitude of messages ranging from advertisements to political or moral themes. Therefore, we conducted a study to analyse the potential connection between the number of stickers found in that area and the increasing political interest among young people.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>13</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31094</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3136</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3136</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3136">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3136/3109" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3136" DMDID="DMD_wwu-journals_3136">
+            <mets:fptr FILEID="FILE0_wwu-journals_3136"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

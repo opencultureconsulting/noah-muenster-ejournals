@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2505">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Rolle der Kirchen in den Rundfunkräten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krückeberg, Siegfried</displayForm>
+                        <namePart type="family">Krückeberg</namePart>
+                        <namePart type="given">Siegfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Seit der Entstehung des öffentlich-rechtlichen Rundfunks in Deutschland leisten die christlichen Kirchen in den plural zusammengesetzten Rundfunkräten einen wichtigen Beitrag zur regulierten Medienselbstkontrolle. Dabei sehen sie sich, in Übereinstimmung mit den Medienkonzepten ihrer beiden Kirchen, vor allem den Interessen der Allgemeinheit verpflichtet. Sie engagieren sich vorwiegend in den Programmausschüssen und übernehmen häufig aufgrund der ihnen zugeschriebenen Neutralität und Vermittlungskompetenzen den Vorsitz beziehungsweise stellvertretenden Vorsitz. Wie eine entsprechende Befragung zeigt, sind die meisten kirchlichen Rundfunkräte von der Staatsferne ihrer Gremien überzeugt und in großer Loyalität zu den Sendeanstalten sprechen sie sich für eine Stärkung des öffentlich-rechtlichen Rundfunks aus, auch durch eine starke Präsenz im Internet.</abstract>
+                    <abstract lang="eng">Since the establishment of the public broadcasting companies in Germany the catholic and protestant churches are playing an important role in the controlling committees. According to the media concepts of their churches they feel obliged to serve not only the church but the whole community. They are engaged in different commissions and in many committees they have taken over the chairmanship, because they are respected as neutral and competent in mediation. As a result of an investigation the representatives of the churches in the “Rundfunkräte” are convinced, that these committees are sufficiently far-off from political influences, they feel loyal to the companies, which they have to control, and they wish to support them in keeping a strong position in the media market, also by their activities in the world wide web.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23849</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2505</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2505</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2505">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2505/2384" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2505" DMDID="DMD_wwu-journals_2505">
+            <mets:fptr FILEID="FILE0_wwu-journals_2505"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

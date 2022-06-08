@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1472">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unsere Gemeinden und die Kraft biblischer Bilder. Metaphern als zeitgemäße Zielformulierungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kohlgraf, Peter</displayForm>
+                        <namePart type="family">Kohlgraf</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das II. Vatikanische Konzil hat sich im Nachdenken über das Wesen und die Praxis der Kirche zahlreicherMetaphern bedient. Stärker als eine dogmatisch-definierende Sprache können Metaphern alsZielformulierungen pastoralen Handelns eine Praxis fördern, die an der Wirklichkeit einer Gemeindeund am einzelnen Menschen orientiert ist. Zwar funktionieren scheinbar zahlreiche kirchliche Strukturenin den Diözesen und Gemeinden noch, entbehren jedoch oft zukunftsfähiger theologischer Ideen.Dabei kann es hilfreich sein, sich der Bildsprache des Konzils zu erinnern, das in biblischer und patristischerTradition steht. Papst Franziskus verwendet oft und gerne solche Metaphern, um das Handelnder Kirche zu beschreiben. Darin zeigt er eine Richtung an, die pastorales Planen inspirieren kann.In reflecting the nature and practice of the church, Vatican II used many metaphors. By using metaphorsinstead of dogmatic language, it is easier to formulate a pastoral target, which takes the livingconditions of the congregation and the individuals therein into consideration. Many ecclesiasticalstructures in the dioceses and parishes still seem to function, but they often lack theological inspiration.Therefore, it could be helpful to remember the metaphorical language of Vatican II, which followsthe biblical and patristic tradition. Pope Francis likes to use this type of metaphor to describe thenature of the church. Here he gives an example, which could inspire pastoral planning.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>201</start>
+                                <end>213</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13763</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1472</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1472">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1472/1376" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1472" DMDID="DMD_wwu-journals_1472">
+            <mets:fptr FILEID="FILE0_wwu-journals_1472"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

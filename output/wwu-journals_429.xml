@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_429">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wandel von Generationenverhältnissen –  sozialpolitische Herausforderungen der Generationengerechtigkeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laux, Bernhard</displayForm>
+                        <namePart type="family">Laux</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag betrachtet die Entwicklung des Generationenverhältnisses unter der normativen Perspektive der Gerechtigkeit und Solidarität zwischen den Generationen. Der Fokus liegt auf sozialpolitischen Fragestellungen. Der Autor bezieht sich kritisch auf die in der Öffentlichkeit vertretene These zunehmender Konflikte zwischen den Generationen und einer Benachteiligung der Jüngeren durch die Älteren. Die Generationenbeziehungen in den Familien sind durch eine positive Entwicklung und ein hohes Solidaritätsniveau gekennzeichnet. Die sozialen Sicherungssysteme werden durch die demographische Entwicklung zwar belastet, jedoch sind die Herausforderungen lösbar. Scheinbare Verletzungen der Gerechtigkeit zwischen den Generationen im sozialpolitischen Kontext erweisen sich bei genauerer Analyse als intragenerationelle Gerechtigkeitsprobleme zwischen Familien und Kinderlosen sowie zwischen Arm und Reich. Der Autor sieht allerdings die Gefahr, dass das Schlagwort »Generationengerechtigkeit« zum Abbau sozialstaatlicher Solidarität missbraucht werden könnte. Erforderlich wäre aber mehr Engagement insbesondere zugunsten der jungen Generation und ihrer Familien. Eine lebenslaufsensible Politik ist aus der Perspektive der Generationenbeziehungen wichtig; dennoch scheint das Konzept der Lebenslaufpolitik für die Gefahr neuer sozial- und familienpolitischer Normalitätsdefinitionen anfällig zu sein.AbstractFocussing on socio-political issues, this paper looks at the development of generation relations from the normative perspective of justice and solidarity between generations. The author critically examines the publicly championed thesis of increasing conflicts between the generations and of the old placing the young at a disadvantage. However, generation relations in families are marked by a positive development and a high level of solidarity. While it is true that the demographic development puts a strain on the social security systems, these challenges can be met. Ostensible socio-political violations of cross-generation justice prove on closer inspection to be intra-generational justice issues between families and the childless and between rich and poor. The author however fears that the catchphrase »generation justice« could be misused to justify further cuts in social services. What is needed, on the contrary, is more commitment, particularly for the benefit of the young generation and their families. From the perspective of generation relations, politics which is sensitive to the course of life is material; the concept of life-course politics, however, seems to be vulnerable to socio- and family political definitions of normality.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082158</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_429</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_429">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/429/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_429" DMDID="DMD_wwu-journals_429">
+            <mets:fptr FILEID="FILE0_wwu-journals_429"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

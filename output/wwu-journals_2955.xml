@@ -1,0 +1,140 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2955">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quantitative proteomic profiling of white matter in cases of cerebral amyloid angiopathy reveals upregulation of extracellular matrix proteins and clusterin</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Manousopoulou, Antigoni</displayForm>
+                        <namePart type="family">Manousopoulou</namePart>
+                        <namePart type="given">Antigoni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Yuen, Ho Ming</displayForm>
+                        <namePart type="family">Yuen</namePart>
+                        <namePart type="given">Ho Ming</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>MacGregor Sharp, Matt</displayForm>
+                        <namePart type="family">MacGregor Sharp</namePart>
+                        <namePart type="given">Matt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saito, Satoshi</displayForm>
+                        <namePart type="family">Saito</namePart>
+                        <namePart type="given">Satoshi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aldea, Roxana</displayForm>
+                        <namePart type="family">Aldea</namePart>
+                        <namePart type="given">Roxana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mazer, Norman</displayForm>
+                        <namePart type="family">Mazer</namePart>
+                        <namePart type="given">Norman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Garbis, Spiros D</displayForm>
+                        <namePart type="family">Garbis</namePart>
+                        <namePart type="given">Spiros D</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Carare, Roxana O</displayForm>
+                        <namePart type="family">Carare</namePart>
+                        <namePart type="given">Roxana O</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aims: Cerebral amyloid angiopathy (CAA) is the accumulation of amyloid beta (Aβ) in the walls of cerebral arterioles, arteries and capillaries. Changes in the white matter in CAA are observed as hyperintensities and dilated perivascular spaces on MRI suggesting impairment of fluid drainage but the pathophysiology behind these changes is poorly understood. We tested the hypothesis that proteins associated with clearance of Aβ peptides are upregulated in the white matter in cases of CAA.Methods: In this study, we compare the quantitative proteomic profile of white matter from post-mortem brains of patients with CAA and age-matched controls in order to gain insight into the cellular processes and key molecules involved in the pathophysiology of CAA.Results: Our proteomic analysis resulted in the profiling of 3,734 proteins (peptide FDR p&amp;lt;0.05). Of these, 189 were differentially expressed in CAA vs. control. Bioinformatics analysis of these proteins showed significant enrichment of proteins related to cell adhesion | cell-matrix interaction, mitochondrial dysfunction and hypoxia. Upregulated proteins in CAA included EMILIN2, COL4A2, TLN1, CLU, HSPG2. Downregulated proteins included DSP, IDE, HBG1.Conclusions: The present study reports an in-depth quantitative proteomic profiling of white matter from patients with CAA, highlighting extracellular matrix proteins and clusterin as key molecules in the pathophysiology of white matter changes in cases of CAA.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-29799</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2955</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2955</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2955">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2955/2980" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2955">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2955/2979" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE2_wwu-journals_2955">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2955/2978" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2955" DMDID="DMD_wwu-journals_2955">
+            <mets:fptr FILEID="FILE0_wwu-journals_2955"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2955" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2955"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_2955" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_2955"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

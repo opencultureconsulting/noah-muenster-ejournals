@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2307">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Junge Menschen sehen! Ihre Perspektive in der (qualitativ-empirisch forschenden) Religionspädagogik stärken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Otte, Laura</displayForm>
+                        <namePart type="family">Otte</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Qualitativ empirische Forschungszugänge können in der Religionspädagogik als etabliert bezeichnetwerden. Überraschend ist dabei allerdings, dass junge Menschen als eine wesentliche Ziel- und Akteur_innengruppe religiöser (Lern-)Angebote im deutschsprachigen Raum eher selten direkt nachihren subjektiven Konstruktionen gefragt werden. Im folgenden Beitrag wird ein Forschungsstil vorgestelltund theoretisch diskutiert, der die Forschungsperspektive junger Menschen ins Zentrum stelltund in den Forschungsarbeiten der Religionspädagogik in Deutschland bislang noch wenig Beachtungfindet. Dabei handelt es sich um das Format der partizipativen Forschung. Können für die (qualitativempirischforschende) Religionspädagogik neue Erkenntnisse geliefert werden, indem junge Menschenin einem partizipativen Forschungsprozess zu Wort kommen? Das hier vorgestellte Dissertationsprojektgeht im aktuellen Arbeitsschritt dieser Frage nach.Qualitative empirical studies can be called a well-established research method in religious education.Surprisingly, young people, being the target group and key users of religious educational concepts,are rarely asked directly about their subjective constructs. In this article, we will introduce and discussa research method that aims to strengthen the aforementioned research perspective of young people.This method has not, up to now, been used to its full capacity in research papers in the field ofreligious education in Germany. It is called participation research. Is it possible to obtain new resultsfor religious education as an academic discipline by giving young people the chance to speak in a participatoryresearch process? The current work step of the dissertation project that is introduced herewill examine this question.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>87</start>
+                                <end>99</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21993</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2307</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2307">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2307/2199" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2307" DMDID="DMD_wwu-journals_2307">
+            <mets:fptr FILEID="FILE0_wwu-journals_2307"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

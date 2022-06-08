@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2304">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religionspädagogik als politischer Akteur? - Zum Gedanken einer auch (!) unmittelbar politischen Religionspädagogik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heger, Johannes</displayForm>
+                        <namePart type="family">Heger</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag nimmt das Konzept der politischen Religionspädagogik in den Blick. Ausgehendvon aktuellen Herausforderungen sowie wissenschaftstheoretischen und theologischen Vergewisserungenwird aufgezeigt, inwiefern die Religionspädagogik ihre politische Dimension verwirklicht.Dabei wird die These entwickelt, dass sie sich (stärker) auch (!) als politischer Akteur begreifen kannund sollte.This article focuses on political religious education. Starting from current challenges and based onreflections on the philosophy of science and theological foundations, this analysis demonstrates towhat extent religious education realizes its political dimension. As a result, the article argues that religiouseducation could and should think of itself also (!) as a political actor.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>45</start>
+                                <end>55</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21962</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2304</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2304">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2304/2196" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2304" DMDID="DMD_wwu-journals_2304">
+            <mets:fptr FILEID="FILE0_wwu-journals_2304"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

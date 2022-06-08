@@ -1,0 +1,96 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2537">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Medial vermittelte Narrationen über die Energiewende in energieintensiven Unternehmen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schweiger, Stefan</displayForm>
+                        <namePart type="family">Schweiger</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schecke, Nora</displayForm>
+                        <namePart type="family">Schecke</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bönisch, Anna</displayForm>
+                        <namePart type="family">Bönisch</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Beitrag wird das in weiten Teilen konfliktäre Verhältnis energieintensiver Unternehmen der Stahl- und Chemiebranche zur deutschen Energiewende – insbesondere mit Blick auf die EEG-Umlage und deren Ausnahmeregelungen – analysiert. Ausgangslage des Forschungsinteresses war das im öffentlich-medialen Diskurs präsente Spannungsverhältnis ökonomischer Partikularinteressen (der deutschen Industrie) und ökologischer Zielvorgaben zur CO2-Reduktion. Ziel war es, dieses Spannungsverhältnis im Zuge einer Medienanalyse im Zeitraum vom 01.07.2013 bis 30.06.2016 näher und mit Blick auf abzuleitende idealtypische Narrationen zu bestimmen. Es wurden sieben idealtypische Narrationen herausgearbeitet, welche das Verhältnis der energieintensiven Stahl- und Chemiebranche zur Energiewende und ihren gesetzlichen Rahmenbedingungen beschreibt. Diese Narrationen reichen von der Erzählung der deutschen Industrie als Held und Opfer über die Erzählung vom Kulturopfer bis hin zur Erzählung von der Harmonisierung von Ökologie und Ökonomie.
+The article analyses the conflicting relationship between energy-intensive companies in the steel and chemical industry and the German energy transition, especially in reference to the EEG reallocation charge and its special equalization scheme. Our research interest is based on the public media discourse on the tense relationship between economic interests (of German industry) and ecological targets for CO2-reduction. The goal was to determine this relationship through a media analysis in the period from 01.07.2013 to 30.06.2016 to derive ideal-typical narratives. In the end seven ideal-typical narratives were identified. These narratives range from the story of German industry as a hero and victim to the story of the sacrifice of culture up to the story of the harmonisation of ecology and economy.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>135</start>
+                                <end>157</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-24159</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2537</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2537</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2537">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2537/2415" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2537" DMDID="DMD_wwu-journals_2537">
+            <mets:fptr FILEID="FILE0_wwu-journals_2537"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

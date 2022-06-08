@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1306">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Zeichen der Zeit und der Stadtbewohner Gott. Zur urbanen Topologie des christlichen Glaubens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sander, Hans-Joachim</displayForm>
+                        <namePart type="family">Sander</namePart>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Verstädterung der globalisierten Zivilisation ist ein Zeichen der Zeit, das hervorkehrt, wiejedes Zeichen der Zeit herrschende Verhältnisse und bestimmende Ordnungen der Dingerelativiert. Das gilt auch für die katholische Variante des christlichen Glaubens, der über dieGrenzen eines ländlichen Habitus sowohl von den megaurbanen Räumen wie vom StadtbewohnerGott gedrängt wird. Weder jener Gott, dem die Anonymität der Migranten näher ist alsdie gläubige Expression einer auserwählten Nähe, noch die Megacity, deren diffuse, abermassive plurale Relativität Zentren als Ideen durchaus duldet, aber ohne ihnen Bedeutung zugeben, unterstützen die katholische Selbstverständlichkeit der diversen Zentren, die den herkömmlichenEinladungshabitus der Pastoral prägt. An deren Stelle mutet die Verstädterungandere Orte zu, deren abduktiver Topologie Pastoral ausgesetzt wird, wenn sie den StadtbewohnerGott treffen und darstellen will.In the global world, the majority of the population lives in cities, and this process will dynamicallycontinue in the next decades. More and more cities keep on growing towards megacities. Thisis a sign of the time, which relativizes the dominant order of things as all signs of the time do.On the other hand, the Catholic mode of the Christian faith still prefers a rural habit. This habitis not capable of coming to terms with fast growing urban spaces and with God as a citydweller. But migrants leaving their spaces of origin for the chances urban spaces provide andending up in disillusioning situations are closer to the urban God and more adapted to thedominant anonymity in megacities. For them, both the Catholic preferences for centers (beingdependent on the former setting of a city dominating rural space close by) and the pastoralhabit of invitation to centers are not helpful as migrants search for hope in mega-urban spaces.Thus, this Catholic preference should be changed towards an unavoidably alienating confrontationwith other spaces shattering center-dominated pastoral activities. The chances of meetingGod, the city dweller, are greater on the basis of such an alternative topology for pastoralactivities that do not issue invitations but instead are inviting by offering identification withpeople bound to the gravitation of other spaces.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>37</start>
+                                <end>50</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12396</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1306</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1306">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1306/1239" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1306" DMDID="DMD_wwu-journals_1306">
+            <mets:fptr FILEID="FILE0_wwu-journals_1306"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

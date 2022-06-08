@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1768">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ethische Beiträge zu Pflege und Pflegepolitik – Literaturüberblick und Forschungsdesiderate</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bobbert, Monika</displayForm>
+                        <namePart type="family">Bobbert</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Literaturbericht stellt ethische Beiträge zu Pflege und Pflegepolitik aus den Jahren 2005 bis 2015 vor, die nach individual- und sozialethischemAusgangspunkt strukturiert werden. In individualethischer Hinsicht spielen vor allem die Ethik der Altenpflege, das Verhältnis von Medizin- und Pflegeethik, ethische Fragen nach Autonomie, Gewalt und Verletzbarkeit sowie technischen Assistenzsystemen eine Rolle. Weiterhin kommt der Pflege durch Angehörige, kultursensibler Pflege und dem gelingenden Leben im Alter große Bedeutung zu. In sozialethisch orientierten Publikationen kommen Fragen nach Gerechtigkeit, globalen Zusammenhängen, Sozialstaatlichkeit und Generationengerechtigkeit und Zukunftsmodelle des Wohnens und Zusammenlebens in den Blick. Auf der Grundlage des Literaturüberblicks werden einige gewichtige Forschungsdesiderate formuliert, z. B. hinsichtlich der Reflexion der Rahmenbedingungen und Strukturen der Pflege, der Bedeutung von Multikulturalität und Interreligiosität oder der Wissens- und Kompetenzvermittlung zwischen Pflegefachkräften und Laien.AbstractThis contribution presents relevant ethical papers on care and care policy published between 2005 and 2015. From the perspective of individual ethics, the relation between medical and care ethics, ethical issues concerning autonomy, violence and vulnerability, as well as technical assistance systems play an important role. Other important topics are care given by relatives, culturally sensitive care, and the good life in old age. Social-ethical papers concentrate on problems of justice, global contexts, welfare policy and intergenerational justice or future models of communal living and dwelling. In conclusion, desiderata can be detected with regard to the framework and structure of care, the significance of cultural diversity and interreligiosity, as well as the sharing of knowledge and abilities between professionals and laypersons.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-17014</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1768</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1768">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1768/1701" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1768" DMDID="DMD_wwu-journals_1768">
+            <mets:fptr FILEID="FILE0_wwu-journals_1768"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

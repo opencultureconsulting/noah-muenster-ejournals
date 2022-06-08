@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2984">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger" type="translated">
+                        <title>Christian Social Ethics and Social-Ethical Thinking in Hungary</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kovács, Gusztáv</displayForm>
+                        <namePart type="family">Kovács</namePart>
+                        <namePart type="given">Gusztáv</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Katholische Sozialethik ist die Disziplin innerhalb der Theologie, die wahrscheinlich am empfindlichsten auf das lokale Umfeld reagiert. Die Christliche Sozialethik (CSE) ist heute in Ungarn durch eine gewisse Ambiguität gekennzeichnet: Sie ist die einzige theologische Disziplin, die mit anderen akademischen Disziplinen in einen Dialog treten kann, die aber auch einer weiteren „Professionalisierung“ bedarf. Die theologisch-ethische Reflexion über soziale Fragen hat in Ungarn eine lange Tradition. Die CSE hat in den Jahren nach dem Fall des Kommunismus in Ungarn beachtliche Fortschritte gemacht und sich als eine sowohl innerhalb als auch außerhalb der Theologie anerkannte Disziplin etabliert. Allerdings muss sich die CSE in Ungarn noch in drei Bereichen weiterentwickeln, um ihren besonderen Platz unter den akademischen Disziplinen zu finden, um die einzigartigen Merkmale der ungarischen Gesellschaft in ihre Theorien zu integrieren und um sich für Entscheidungsträger transparenter und zugänglicher zu machen.</abstract>
+                    <abstract lang="eng">Catholic Social Ethics is the discipline within theology, which is probably the most sensitive to the local setting. Today Christian social ethics (CSE) in Hungary is characterized by a certain ambiguity: it is the only theological discipline that is able to enter into dialogue with other academic disciplines, but it is also in need of further “professionalization”. Theological-ethical reflection on social questions has a long tradition in Hungary. CSE has made reasonable progress in the years after the fall of communism in Hungary establishing itself as a discipline recognized both within and beyond the realm of theology. However, CSE in Hungary still needs to develop in three areas: to find its distinctive place among academic disciplines; to integrate the unique characteristics of Hungarian society into its theories; and to make itself more transparent and accessible to decision-makers.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>259</start>
+                                <end>270</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30914</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2984</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2984</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2984">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2984/3091" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2984" DMDID="DMD_wwu-journals_2984">
+            <mets:fptr FILEID="FILE0_wwu-journals_2984"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

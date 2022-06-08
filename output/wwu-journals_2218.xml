@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2218">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Entstehung der täuferischen Schreckensherrschaft von Münster (1530-1535) - Ein Schlüssel zum christentumsgeschichtlichen Umgang mit religiöser Differenz?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lutterbach, Hubertus</displayForm>
+                        <namePart type="family">Lutterbach</namePart>
+                        <namePart type="given">Hubertus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Aufsatz befasst sich mit den Täufern und dem Täuferreich von Münster (1534/1535) und konzentriert sich auf die Frage nach dem Umgang der Täufer mit religiöser Differenz. Fokussierten sich die Täufer auf die Beobachtung religiöser Differenz, die Akzeptanz religiöser Differenz, die Minimalisierung von religiöser Differenz oder die Maximierung religiöser Differenz? Das Hauptkennzeichen der Münsteraner Täufer ist das Fehlen jedweder Toleranz gegenüber Andersgläubigen. Für sie gab es nur ihren eigenen Glauben und ihre eigene religiöse Praxis. Alle Menschen mit anderen Glaubensüberzeugungen (z. B. römisch-katholischen oder lutherischen Glaubens) hatten sich an die seit 1534 mit exklusivem Anspruch vorgetragenen religiösen Regeln der Täufer zu halten oder die Stadt sofort zu verlassen, wenn sie nicht Opfer täuferischer Gewalt werden wollten. Die Täufer konnten diese politische Autorität beanspruchen, nachdem sie die jährliche Wahl zum Stadtrat in Münster 1534 gewonnen und sogleich jede konkurrierende politische Kraft abgeschafft hatten. Mit anderen Worten: Die Täufer von Münster waren bestrebt, jede religiöse Differenz nach Kräften zu minimieren. So wollten sie zwar einen einzigartigen und vorwärtsweisenden religiösen Aufbruch auf den Weg bringen, aber vertraten am Ende einem Selbstverständnis, das ReligionshistorikerInnen als archaisch bezeichnen würden: ein Gott, ein Glaube, eine religiöse Praxis. Somit war es noch ein weiter Weg bis zur weitreichenden Akzeptanz von religiösen Differenzen, wie sie das II. Vatikanum verabschiedete.This article deals with the Anabaptists and the Anabaptist Kingdom in Münster (1534/1535). It focuses on the question how the Anabaptists handled religious difference. Did they simply notice religious difference? Did they accept it? Did they minimize it? Or did they maximize it? The main characteristic of the Anabaptist Kingdom in Münster is the lack of any religious tolerance. These Anabaptists insisted exclusively on their religious belief and practice. People (for example: Roman Catholics or Lutherans) who were not willing to follow them had to leave town immediately or were forced by violence to convert fully to these rigid rules. The Münster Anabaptists had the authority to do so after winning the annual elections for city council (Stadtratswahl) in Münster in the year 1534. Immediately, the Anabaptists abolished any opposing political power. In other words: The Anabaptists minimized any religious group differing from their own. Although they had a religious breakthrough in mind when they started ruling in Münster in 1534, they ended up with a conviction that religious historians would describe as archaic: one God, one belief and one single practice. Thus, it was still a long way to the wide-ranging acceptance of religious differences, as adopted by the Second Vatican Council.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>57</start>
+                                <end>71</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21202</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2218</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2218">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2218/2120" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2218" DMDID="DMD_wwu-journals_2218">
+            <mets:fptr FILEID="FILE0_wwu-journals_2218"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

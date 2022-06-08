@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2247">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie weit reicht die transformative Kraft der urbanen Ernährungsbewegung?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kropp, Cordula</displayForm>
+                        <namePart type="family">Kropp</namePart>
+                        <namePart type="given">Cordula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stinner, Sven</displayForm>
+                        <namePart type="family">Stinner</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit der urbanen Ernährungsbewegung kehrt die Lebensmittelerzeugung in Form von urbanen Gärten, solidarischer Landwirtschaft, Food-Coops und Mietäckern in die Städte zurück. Die Beteiligten verfolgen damit „transformative“ Absichten, nämlich die Erfindung von neuartigen Wirtschaftsbeziehungen und Orten nachhaltiger Lebensmittelversorgung im urbanen Raum. Zur Einschätzung ihres Veränderungswillens werden die Motive und Zielsetzungen der Gründerfiguren sowie der Beteiligten erkundet. Der Beitrag arbeitet weiter heraus, inwiefern die Projekte „ko-evolutionär“ innovative Praktiken der urbanen Lebensmittelversorgung, partizipative Organisationsformen für ihre Planung und Steuerung sowie an Nachhaltigkeit orientierte Leitbilder, Bewertungsschemata und Kompetenzen entwickeln und diese über die Nischen der Ernährungsprojekte hinaus verbreiten. Im Ergebnis zeigt sich, dass die urbane Ernährungsbewegung intern produktive Spannungen für eine sozial und ökologisch gerechte Organisationsentwicklung und extern innovationsförderliche Brüche zu den bestehenden Versorgungsverständnissen verursacht. Damit bahnen die Akteure Pfade für ein post-industrielles Ernährungshandeln, auch wenn die Durchdringung des Lebensmittelsystems im Vergleich zum konventionellen Lebensmittelhandel begrenzt ist.
+With the urban food movement, e.g. urban gardening, community-supported agriculture, food-coops and projects of “edible towns”, the food production returns into Western cities. The parties involved are thus pursuing „transformative“ intentions, namely the invention of new economic relationships and the creation of places for fair and sustainable food production in urban areas. In order to assess their willingness to change, the motives and objectives of the founders as well as of the participants are explored. Moreover, the paper elaborates on the extent to which the projects „co-evolutionary“ develop innovative practices of urban food provision, participatory forms of organizing for planning and management as well as sustainability-oriented models, assessment schemes and competences, and spread these beyond the niches of the movement. As a result, the urban food movement causes internally productive tensions for a socially and ecologically just development and externally innovation-promoting frictions to the existing supply understandings. Thus, the actors are pushing paths for post-industrial food policies, even if the penetration of the food system is limited compared to the conventional food trade.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>26</start>
+                                <end>50</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-0-21434</identifier>
+                    <identifier type="doi">10.17879/sun-2018-2247</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2247</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2247">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2247/2143" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2247" DMDID="DMD_wwu-journals_2247">
+            <mets:fptr FILEID="FILE0_wwu-journals_2247"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

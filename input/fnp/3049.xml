@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3049</id>
+	<dc:title xml:lang="en-US">Inhibiting the mitochondrial pyruvate carrier does not ameliorate synucleinopathy in the absence of inflammation or metabolic deficits</dc:title>
+	<dc:creator>Peelaerts, Wouter</dc:creator>
+	<dc:creator>Bergkvist, Liza</dc:creator>
+	<dc:creator>George, Sonia</dc:creator>
+	<dc:creator>Johnson, Michaela</dc:creator>
+	<dc:creator>Meyerdirk, Lindsay</dc:creator>
+	<dc:creator>Schulz, Emily</dc:creator>
+	<dc:creator>Steiner, Jennifer A.</dc:creator>
+	<dc:creator>Madaj, Zachary</dc:creator>
+	<dc:creator>Ma, Jiyan</dc:creator>
+	<dc:creator>Becker, Katelyn</dc:creator>
+	<dc:creator>Nilsson, K. Peter R.</dc:creator>
+	<dc:creator>Colca, Jerry R.</dc:creator>
+	<dc:creator>Brundin, Patrik</dc:creator>
+	<dc:subject xml:lang="en-US">Parkinson's disease</dc:subject>
+	<dc:subject xml:lang="en-US">Synuclein</dc:subject>
+	<dc:subject xml:lang="en-US">Neurodegeneration</dc:subject>
+	<dc:subject xml:lang="en-US">Metabolism</dc:subject>
+	<dc:subject xml:lang="en-US">Synucleinopathy</dc:subject>
+	<dc:description xml:lang="en-US">Epidemiological studies suggest a link between type-2 diabetes and Parkinson’s disease (PD) risk. Treatment of type-2 diabetes with insulin sensitizing drugs lowers the risk of PD. We previously showed that the insulin sensitizing drug, MSDC-0160, ameliorates pathogenesis in some animal models of PD. MSDC-0160 reversibly binds the mitochondrial pyruvate carrier (MPC) protein complex, which has an anti-inflammatory effect and restores metabolic deficits. Since PD is characterized by the deposition of α-synuclein (αSyn), we hypothesized that inhibiting the MPC might directly inhibit αSyn aggregation in vivo in mammals. To answer if modulation of MPC can reduce the development of αSyn assemblies, and reduce neurodegeneration, we treated two chronic and progressive mouse models; a viral vector-based αSyn overexpressing model and a pre-formed fibril (PFF) αSyn seeding model with MSDC-0160. These two models present distinct types of αSyn pathology but lack inflammatory or autophagy deficits. Contrary to our hypothesis, we found that a modulation of MPC in these models did not reduce the accumulation of αSyn aggregates or mitigate neurotoxicity. Instead, MSDC-0160 changed the post-translational modification and aggregation features of αSyn. These results are consistent with the lack of a direct effect of MPC modulation on synuclein clearance in these models.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2020-11-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3049</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2020-3049</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 1 (2020); 33</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 1 (2020); 33</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3049/3068</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3049/3067</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3049/3066</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2020-30670</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2020 Wouter Peelaerts</dc:rights>
+</oai_dc:dc>

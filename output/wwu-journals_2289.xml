@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2289">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Identitäten in der Krise - Frauen und Religion im zeitgenössischen Autor_innenkino</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fella, Daniela</displayForm>
+                        <namePart type="family">Fella</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Projekt fragt nach der Relevanz von Religion für weibliche Identitätskonstruktionen in pluralen,säkularen Gesellschaften. Dazu werden Repräsentationen von Geschlecht und Religion sowie derenVerflechtungen im zeitgenössischen Autor_innenkino analysiert. Entgegen der Säkularisierungstheseist Religion nicht im Zuge der Modernisierung aus dem öffentlichen Raum verschwunden. Menschengreifen nach wie vor in der Konstruktion ihrer Identität auf religiöse Deutungsmuster zurück. ReligiöseErfahrungen sind vielsprachig geworden – innerhalb wie außerhalb von Religionsgemeinschaften.Diese Entwicklung spiegelt sich im Kino wider und wird von ihm mitproduziert. Das Projekt richtetseinen Blick aus einer kulturwissenschaftlich-theologischen Perspektive auf dieses Phänomen. SeinAnliegen ist es, das Verhältnis von Geschlecht, Religion und Identität genauer zu ergründen, blindeFlecken sichtbar zu machen, und, unter besonderer Berücksichtigung der Filmästhetik, das kritischeund dekonstruierende Potenzial von Filmen herauszustellen.This research project focuses on the relevance of religion for female identity constructions in pluralistand secular societies. For that purpose, it analyses representations of gender and religion as well astheir interaction in contemporary auteur cinema. Contrary to the assumption of the secularizationthesis, religion did not disappear from public space in the course of modernisation. Humans still relyon religious concepts of interpretation when they construct their identity. Religious experiences becamemultifaceted – both within and outside religious communities. This development is reflected incontemporary cinema and is at the same time also produced by it. The project explores the phenomenonfrom cultural science and theological perspective. It investigates the relationship between gender,religion and identity. Therefore, it tries to expose stereotypical representations of gender andwants to identify the critical and decontructive potential of films.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>46</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21824</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2289</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2289">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2289/2182" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2289" DMDID="DMD_wwu-journals_2289">
+            <mets:fptr FILEID="FILE0_wwu-journals_2289"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

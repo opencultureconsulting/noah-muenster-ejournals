@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_82">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kostenexplosion und demographischer Kollaps. Empirische und systematische sozialwissenschaftliche Präzisierungen zu einigen verbreiteten Annahmen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Rainer</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Diskussion um die Gestaltung und Weiterentwicklung des Gesundheitssystems ist geprägt von einigen Annahmen über die Kosten- und Einnahmenentwicklung, die der Präzisierung bedürfen. Im vorliegenden Beitrag werden solche Annahmen auf ihre Stichhaltigkeit überprüft, beispielsweise unter dem Gesichtspunkt, welche empirische Faktenlage tatsächlich hinter der als ‚Kostenexplosion‘ diskutierten Ausgabenentwicklung steht. Wie entwickelte sich beispielsweise der Anteil, den Arbeitgeber, Arbeitnehmer sowie schließlich die Kranken selbst an den Kosten tragen? Zugleich werden Zusammenhänge problematisiert, die in den Diskussionen häufig unreflektiert unterstellt werden: In welchem Zusammenhang steht etwa die Ausgabenentwicklung mit der demographischen Entwicklung? Einige der Annahmen erweisen sich als fragwürdig, andere als der Differenzierung bedürftig. Insgesamt verweist der Beitrag auf erhebliche Spielräume für die politische und soziale Gestaltung, mithin darauf, dass die Gesundheitsversorgung nicht als Ensemble von Sachzwängen zu interpretieren ist, sondern als politische Herausforderung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>077</start>
+                                <end>102</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-766</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_82</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_82">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/82/76" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_82" DMDID="DMD_wwu-journals_82">
+            <mets:fptr FILEID="FILE0_wwu-journals_82"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

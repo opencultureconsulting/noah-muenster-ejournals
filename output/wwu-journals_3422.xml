@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3422">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>nachkonziliare Initialzündung</title>
+                        <subTitle>Das Schreiben Evangelii nuntiandi von Papst Paul VI. (1975)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sievernich SJ, Michael</displayForm>
+                        <namePart type="family">Sievernich SJ</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Auf dem Hintergrund der weltweiten Verbreitung des christlichen Glaubens, seit der Frühen Neuzeit „Mission“ genannt, analysiert dieser Beitrag zunächst die Transformation des Missionsthemas auf dem Zweiten Vatikanischen Konzil (1963–1965). Diese zeigt sich im terminologischen Wandel von der Mission zur Evangelisierung, der im nachkonziliaren Schreiben „Evangelii nuntiandi“ Papst Pauls VI. (1975) zum Ausdruck kam. Von Papst Franziskus im ähnlich lautenden Schreiben „Evangelii gaudium“ (2013) wieder aufgenommen, gilt der Terminus „Evangelisierung“ als entscheidendes missionarisches Stichwort der Zeit.
+Against the background of the worldwide spread of the Christian faith, which has been called &quot;mission&quot; since the Early Modern Period, this article first analyzes the transformation of the mission theme at the Second Vatican Council (1963-1965). This is reflected in the terminological change from “mission” to “evangelization,” expressed in the postconciliar document &quot;Evangelii nuntiandi&quot; (1975) by Pope Paul VI. Taken up by Pope Francis in the similarly named document, &quot;Evangelii gaudium&quot; (2013), the term &quot;evangelization&quot; is now regarded as the decisive missionary keyword of our time.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>36</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34226</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3422</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3422">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3422/3422" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3422" DMDID="DMD_wwu-journals_3422">
+            <mets:fptr FILEID="FILE0_wwu-journals_3422"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3200">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vor Ort in Hamburg</title>
+                        <subTitle>Teilnehmende Beobachtung als Ausgangspunkt von Theologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spallek, Gerrit</displayForm>
+                        <namePart type="family">Spallek</namePart>
+                        <namePart type="given">Gerrit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Drei Orte einer säkularen Metropole wurden als Ausgangspunkte theologischer Reflexion wahrgenommen: teilnehmend beobachtend auf der Suche nach befremdlicher Gottespräsenz, Repräsentationen zeitgenössischer Religiosität oder Zeugnisse von Gott-Mensch-Beziehungen eigener Form und Gültigkeit. Eine Großstadt eignet sich für solch ein exploratives Vorgehen in besonderer Weise. Bereits im alltäglichen Umgang mit dem urbanen Raum fordert dieser permanent zu Relativierungsprozessen heraus, die auch theologisch zu denken geben. In diesem Beitrag werden rückblickend drei Schlaglichter auf die Chance und das Anforderungsprofil einer hier skizzierten Theologie vor Ort geworfen – lokalisiert auf einem Großstadtfriedhof, einem Punkfestival auf St. Pauli sowie dem Hamburger Hauptbahnhof.
+The research project outlined here combines theology with ethnographic methodology. Three locations in a secular city were explored as starting points for theology by means of participatory observation. The objective was to test a grounded theology that maintains the possibility of discovering traces and representations of God amid a secular, contemporary city. Urban space is particularly suitable for such an exploration. Anyone who practices theology in the city must expect surprises and irritations, which can put established theories and convictions into perspective. In this paper, three spotlights illuminate the chances and challenges of such a theological approach: at the largest cemetery in Europe, at a punk festival on the Reeperbahn, and at Hamburg&apos;s main train station.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31709</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3200</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3200">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3200/3170" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3200" DMDID="DMD_wwu-journals_3200">
+            <mets:fptr FILEID="FILE0_wwu-journals_3200"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

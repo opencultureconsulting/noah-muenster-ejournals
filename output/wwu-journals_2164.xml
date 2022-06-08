@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2164">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Integration im Fokus?</title>
+                        <subTitle>Politikwissenschaftliche und sozialethische Positionen zur Religionspolitik in Deutschland (Literaturüberblick)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liedhegener, Antonius</displayForm>
+                        <namePart type="family">Liedhegener</namePart>
+                        <namePart type="given">Antonius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lots, Laura</displayForm>
+                        <namePart type="family">Lots</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">38</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungEine aktive Religionspolitik ist in der Bundesrepublik Deutschland nach 1990 zu einer politischen Realität geworden. Über den rechtlichen und gesellschaftlichen Status von Religionsgemeinschaften wird öffentlich diskutiert und gestritten. Der Beitrag skizziert drei bzw. mittlerweile wohl vier Phasen deutscher Religionspolitik und analysiert vor diesem Hintergrund die wissenschaftliche Auseinandersetzung mit dem Für und Wider staatlicher Religionspolitik in der Politikwissenschaft und der akademischen Sozialethik in Deutschland. In der Politikwissenschaft gehen die Positionen dazu deutlich weiter auseinander als in der Sozialethik, in der die Unterstützung für die bestehenden Regelungen des Verhältnisses von Staat und Kirchen bzw. Religionen mit kritischen Hinweisen zu wünschenswerten Modifikationen und zur religionspolitischen Verantwortung der beiden großen Kirchen verbunden wird. Bezüge zur übergeordneten Problematik der Integration moderner Gesellschaften werden in beiden Disziplinen von Anfang an hergestellt, eine systematische Analyse der integrationspolitischen Wirkungen religionspolitischer Maßnahmen steht aber aus. Eine verstärkte interdisziplinäre Forschung könnte das Verständnis der normativen Grundlagen staatlicher Religionspolitik, ihrer Handlungsmöglichkeiten und integrationspolitischen Implikationen fördern.AbstractAn active religious policy became a political reality in Germany after 1990. The judicial and societal status of religious communities is debated and disputed in public. The article sketches three or maybe already four phases of German state religious policy. It analyzes the scientific discussion about the pros and cons of religious policy in the disciplines of political science and academic social ethics in Germany. In political science, the positions cover a broader range of options than they do in in social ethics. In the latter the general support for the existing rules that guide the relationship of state and churches and religious communities is combined with critical remarks about suitable modifications and the political responsibility of the two main churches. References to the general challenge of integration in modern societies are frequently present in both disciplines. However, a systematic analysis of the effects of religious policies on integration policies is lacking. Intensified joint interdisciplinary research could foster the understanding of the normative basis of religious policy, its opportunities and implications for integration policies.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>211</start>
+                                <end>248</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20765</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2164</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2164">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2164/2076" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2164" DMDID="DMD_wwu-journals_2164">
+            <mets:fptr FILEID="FILE0_wwu-journals_2164"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

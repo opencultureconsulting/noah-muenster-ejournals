@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1771">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Doing Christian Social Ethics in Ireland. From Hiberno-Christendom to Fragile Pluralism</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Regan, Ethna</displayForm>
+                        <namePart type="family">Regan</namePart>
+                        <namePart type="given">Ethna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Essay stellt die Praxis Christlicher Sozialethik (CSE) an Universitäten und in kirchlichen Gruppen in Irland vor und gibt einen Überblick über christlich-sozialethische Forschung anhand zweier theologischer Zeitschriften. Der irische Kontext ist überschattet von den jüngeren traumatischen Berichten über Kindesmissbrauch und die beschämenden Antworten vieler kirchlicher Autoritäten. Diese Krise wurde durch eine Verbindung zwischen Staat und Kirche im post-revolutionären Irland verschärft, die als Hiberno-Christentum bezeichnet werden kann. Die Konsequenz aus der Krise für die Christliche Sozialethik ist das Projekt der Entwicklung eines Paradigmas, auf zeitgenössische kritische Fragen in einem pluralen und globalisierten Kontext Antworten geben zu können, die einer interdisziplinären ethischen Reflexion erwachsen sind.AbstractThis essay examines the practice of Christian Social Ethics (CSE) in universities and ecclesial groups, and surveys CSE research through the lens of two theological journals. The Irish context is overshadowed by the recent traumatic reports into child abuse and the shameful responses by many Church leaders. This crisis was shaped by a relationship between Church and State in post-Independence Ireland, identifiable as an attempt at Hiberno-Christendom. The interdisciplinary ethical reflection emerging from this crisis is an ongoing project, a paradigm for CSE as it seeks to respond to other critical contemporary issues in a more pluralist and globalised context.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-17047</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1771</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1771">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1771/1704" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1771" DMDID="DMD_wwu-journals_1771">
+            <mets:fptr FILEID="FILE0_wwu-journals_1771"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

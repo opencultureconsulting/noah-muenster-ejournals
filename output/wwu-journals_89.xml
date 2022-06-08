@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_89">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einheitliche Gesundheitsversorgung oder Basisabsicherung mit privater Zusatzversicherung? Grundzüge einer Ethik des Gesundheitswesens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bobbert, Monika</displayForm>
+                        <namePart type="family">Bobbert</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vor dem Hintergrund der Finanzierungskrise der Gesetzlichen Krankenversicherung wird zunehmend die Frage diskutiert, ob eine öffentliche Gesundheitsversorgung wirklich immer umfassenden Charakter haben muss, oder ob nicht eine allgemeine, öffentlich garantierte Basisversorgung genügt, über die hinaus jede Einzelperson nach Maßgabe ihrer Bereitschaft und finanziellen Möglichkeiten selbst private Zusatzversicherungen abschließen muss, um für sich eine umfassendere Gesundheitsversorgung zu gewährleisten. Häufig wird die letztgenannte Auffassung aus dem liberalen Spektrum der politischen Philosophie heraus vertreten. Auch der vorliegende Beitrag geht von einer liberalen Grundkonzeption – von dem in der Tradition Kants stehenden Ansatz des US-amerikanischen Ethikers Alan Gewirth – aus, kommt aber zu dem Ergebnis, dass zur Realisierung der Bedingungen der Handlungsfähigkeit der Menschen eine umfassende allgemeine Gesundheitsversorgung notwendig ist. Er zeigt, wie sich Rechte auf Hilfeleistungen durch andere begründet fordern lassen. Schwerpunkt des Beitrags bilden aber nicht Begründungs-, sondern Anwendungsfragen: Etwa die gegenwärtig diskutierten Fragen der Prioritätensetzung in der Versorgung, des Selbstbestimmungsrechts, der Gesundheitsprävention und eines entsprechenden Anreizsystems oder der Überprüfung institutioneller Strukturen auf ihre Legitimität hin. Obwohl es im Wesentlichen um das Recht auf eine umfassende Gesundheitsversorgung geht, wird schließlich die Notwendigkeit einer gesellschaftlichen Kultur des Helfens betont.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>215</start>
+                                <end>239</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-836</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_89</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_89">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/89/83" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_89" DMDID="DMD_wwu-journals_89">
+            <mets:fptr FILEID="FILE0_wwu-journals_89"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,152 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2476">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Münzversorgung von Haltern und Kalkriese – eine Diskussion</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>supply of coins to Haltern and Kalkriese - a discussion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Werz, Ulrich</displayForm>
+                        <namePart type="family">Werz</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In seiner jüngsten Untersuchung über die Schlagmarken von Kalkriese weist Reinhard Wolters auf die Möglichkeit hin, dass Haltern und Kalkriese nach dem Jahre 9 n.Chr. erneut mit Assen der 1. Lyoner Altarserie versorgt wurden. Seine Überlegungen basieren dabei auf der zeitlichen Einordnung und relativen Abfolge der Gegenstempel CVAL und IMP mit Lituus. Die Datierung der Kontermarke IMP mit Lituus und die Möglichkeit diesen Stempel auf Germanicus zu beziehen, werden kritisch hinterfragt.</abstract>
+                    <abstract lang="eng">In his most recent study of the countermarks from Kalkriese, Reinhard Wolters suggests that Haltern and Kalkriese received a renewed supply of Asses of the first Lyons Altar Series after the year 9 A.D. His theories are based on the chronological order of the countermarks CVAL and IMP with Lituus. In this paper the date of the countermark IMP with Lituus and the possibility of linking this punch to Germanicus will be examined critically.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>11</start>
+                                <end>20</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2019-23418</identifier>
+                    <identifier type="doi">10.17879/ozean-2019-2476</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2476</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2341" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE1_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2344" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE2_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2345" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE3_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2346" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE4_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2349" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE5_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2350" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE6_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2351" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE7_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2352" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE8_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2353" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE9_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2359" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2476" DMDID="DMD_wwu-journals_2476">
+            <mets:fptr FILEID="FILE0_wwu-journals_2476"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE3_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE4_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE5_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE6_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE7_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART8_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE8_wwu-journals_2476"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART9_wwu-journals_2476" LABEL="">
+                <mets:fptr FILEID="FILE9_wwu-journals_2476"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

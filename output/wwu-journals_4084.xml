@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4084">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Diskussionsbeitrag zu Uwe Schimank</title>
+                        <subTitle>Grundriss einer integrativen Theorie der modernen Gesellschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weiß, Anja</displayForm>
+                        <namePart type="family">Weiß</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Eine gute Theorie ist einfach und elegant. Viele missverstehen diesen Anspruch und konzentrieren sich auf die eine große Erklärung. Alles, was nicht zu ihr passt, muss ignoriert, umdefiniert oder zumindest als nachrangig erklärt werden. Auf den einen großen Wurf muss der nächste konkurrierende Entwurf folgen. Nach einigen Zyklen dieser Art ist heute eine gewisse Sprachlosigkeit zu beobachten. Zu oft wurde gezeigt, dass eine Perspektive allein die Welt nicht erklären kann. Nun überwiegen Ausweichbewegungen wie die detailverliebte Exegese großer Würfe, die Selbstbeschränkung auf die mittlere Reichweite oder das eklektische Nebeneinander. Diesen Zustand will Uwe Schimank nicht hinnehmen. Er würdigt die Notwendigkeit unterschiedlicher Perspektiven auf die Welt und er will sie nicht nebeneinander stellen sondern präzise kombinieren. Damit entwickelt er eine wirklich weiterführende Theoriestrategie und er ebnet Gesellschaftstheorien den Weg, die mehr als eine Schule denken können.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>60</start>
+                                <end>65</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4084</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4084</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4084">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4084/4153" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4084" DMDID="DMD_wwu-journals_4084">
+            <mets:fptr FILEID="FILE0_wwu-journals_4084"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3166">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuroinflammation</title>
+                        <subTitle>2021 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lassmann, Hans</displayForm>
+                        <namePart type="family">Lassmann</namePart>
+                        <namePart type="given">Hans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Key requirements for the validity of a neuropathological study are the inclusion of large numbers of biopsy or autopsy cases and proper controls, the rigorous classification of the basic neuropathology and the selection of the most suitable technologies for investigation. Whether the studies are performed with the fanciest, new, and state of the art technology or with rather conventional methodology is of minor importance. Fol-lowing these criteria, a spectrum of neuropathological studies has been published in 2020, which provides new insights on important questions related to neurological disease. They include the pathological substrate of brain disease in COVID-19 infected patients, the nature of the adaptive and innate inflammatory response, or the type and mechanisms of tissue injury and repair in multiple sclerosis, and diagnostically relevant or mechanistic new insights into antibody-mediated diseases of the central nervous system. Other studies de-scribe in detail the dynamic changes of brain inflammation in patients with trisomy 21 as a disease model for Alzheimer’s disease, or the presence and consequences of vascular comorbidities in a chronic inflammatory disease, such as multiple sclerosis. All these contributions have provided important, highly relevant clues for basic and translational neuroscience.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-31469</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3166</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3166</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3166">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3166/3147" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3166">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3166/3146" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3166" DMDID="DMD_wwu-journals_3166">
+            <mets:fptr FILEID="FILE0_wwu-journals_3166"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3166" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3166"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

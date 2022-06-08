@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2298">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Digitalisierte Arbeit - Was Internet of Things, Artifical Intelligence, Blockchain, Cyborgs und Co. mit Pastoraltheologie zu tun haben</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klaiber, Judith</displayForm>
+                        <namePart type="family">Klaiber</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Artikel zu Digitalisierte Arbeit wurde für den Call „Was den wissenschaftlichen Nachwuchsbewegt“ 1 verfasst. Er ordnet die Themen der Digitalisierung und ihre möglichen Auswirkungenauf die Arbeitswelt in ihre kontextualisierten und kontingenten Zusammenhänge ein. Dabei wird zunächstauf einige Schlagwörter, die im Zusammenhang mit Digitalisierung fallen, fokussiert um hernachden Zusammenhang mit genuin pastoraltheologischen Fragestellungen in den Freiheiten undSpielräumen einer „kreativen Konfrontation von Evangelium und Existenz“ (R. Bucher) zu klären. Abschließendmöchte er weiterführende Denkanstöße bzw. Orientierungslinien für die relevante Anschlussfähigkeitvon Pastoraltheologie in Bezügen zur „Humanisierung von Arbeit“ liefern und auf dierelevanten anthropologischen Fragestellungen und den noch ausstehenden ethischen Diskurs im Zugevon Digitalisierungsprozessen verweisen.This article refers to the phenomenon of digitalization and its possible impact on the work environment.It raises new contemporary ethical questions in contextualized coherences. It will give a shortintroduction of digitalization and industrial production issues with so called cyber-physical systems, itwill raise some legal questions and will also refer to the future of digitalized work. The aim is to gainvital space for a “creative confrontation of evangel and existence” (R. Bucher) and to consider digitalizationin a pastoral-theological way, especially in anthropological discussions, ethical questions andpositions that refer to a “humanization of work”. For this reason the article provides six connectinglinks to start an acroamatic discussion with theological participation.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>59</start>
+                                <end>76</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21904</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2298</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2298">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2298/2190" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2298" DMDID="DMD_wwu-journals_2298">
+            <mets:fptr FILEID="FILE0_wwu-journals_2298"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

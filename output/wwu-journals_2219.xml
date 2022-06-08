@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2219">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Offen für alle - Offenheit für alle? - Das Beispiel der Vesperkirchen-Bewegung als Herausforderung diversitätssensibler Gemeinde- und Kirchenentwicklung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlag, Thomas</displayForm>
+                        <namePart type="family">Schlag</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Artikel wird auf der Grundlage diversitätstheoretischer Überlegungen entfaltet, wie die sogenannten „Vesperkirchen“ als spezifisch diakonisch-kirchliche Angebote evangelischer Kirchen zur diversitätssensiblen und symmetrischen Integration unterschiedlicher Zielgruppen beitragen und von dort aus Beispiele für eine offene und flexible Kirche „für alle“ und „mit allen“ werden können.In this article, on the basis of considerations of diversity theory, it is developed how the so-called “Vesperkirchen” as specifically diaconal-church offerings of Protestant churches can contribute to the diversity-sensitive and symmetrical integration of different groups and from become examples of an open and flexible church “for all” and “with all”.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>73</start>
+                                <end>90</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21219</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2219</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2219">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2219/2121" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2219" DMDID="DMD_wwu-journals_2219">
+            <mets:fptr FILEID="FILE0_wwu-journals_2219"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

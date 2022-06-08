@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2157">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religiöser Fundamentalismus in Einwanderungsgesellschaften als theologisch-ethische Herausforderung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bongardt, Michael</displayForm>
+                        <namePart type="family">Bongardt</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungGrundlage der hier vorgestellten Überlegungen ist die These, dass durch die Zuwanderung von Menschen aus anderen Ländern und Kontinenten nach Deutschland die Pluralität der Gesellschaft nochmals deutlich erfahrbar wächst. Diese Pluralität verursacht bei Zugewanderten wie in der Einwanderungsgesellschaft eine massive Verunsicherung der bisher für gewiss gehaltenen kulturellen und religiösen Zugehörigkeiten. Der Beitrag beschreibt die verschiedenen religiösen Antworten auf diese Verunsicherung, unter denen die Herausbildung fundamentalistischer Religiosität eine eher seltene, aber besonders auffällige ist. Der Fundamentalismus wird als eine dezidiert antimoderne Form von Religion verstanden, die gleichwohl die Moderne zur Voraussetzung hat. Er lehnt die gesellschaftliche Modernisierung nicht nur ab, sondern entzieht sich auch der tragenden Grundlage moderner Gesellschaften: der Kommunikation, in der Gründe ausgetauscht und abgewogen werden. Der Herausforderung durch die verschiedenen Formen des Fundamentalismus kann die Philosophie durch ein tragfähiges Konzept von Toleranz begegnen. Von der Theologie ist eine selbstkritische Fundamentalismuskritik gefordert, die in den Entwurf eines in Freiheit gewählten und gelebten Glaubens mündet.AbstractThe basis of the argument I present in this chapter is the thesis that the immigration of people from other countries and continents to Germany increases the experience of diversity in our society significantly. For both host society and migrants, this diversity leads to massive insecurity regarding categories of cultural and religious belonging that were previously regarded as fixed and secure. This contribution describes different religious responses to this insecurity, among which fundamentalism is relatively rare, but salient. Fundamentalism is understood as a decidedly anti-modern form of religiosity, which nevertheless depends on modernity. Fundamentalists do not just reject societal processes of modernization, but also refuse to acknowledge the basis of all modern societies: communication that facilitates the exchange and weigh reasons for action. The challenges posed by the various forms of fundamentalism can be met philosophically with a substantive concept of tolerance. Theologians should be expected to provide a critique of fundamentalism in the spirit of self-criticism, leading to the conception of a faith that is freely chosen and lived.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>115</start>
+                                <end>141</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20702</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2157</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2157">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2157/2070" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2157" DMDID="DMD_wwu-journals_2157">
+            <mets:fptr FILEID="FILE0_wwu-journals_2157"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2230">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stil und Lebensform - Zum Gespräch von Pastoraltheologie und Kirchengeschichte</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blum, Daniela</displayForm>
+                        <namePart type="family">Blum</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bock, Florian</displayForm>
+                        <namePart type="family">Bock</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Auf den folgenden Seiten wird das theoretisiert, was in der ZPTh 1/2017 am Beispiel des Priesterbildes zwischen Kirche und Welt praktisch durchgespielt wurde: ein Dialog von Pastoraltheologie und Kirchengeschichte. Beide theologischen Disziplinen treffen sich in ihrem Interesse für die raum-zeitlichen Bedingungen, unter denen das Christentum je neu verwirklicht wird. „Stil“ und „Lebensform“ vergangener und jetzt lebender ChristInnen stehen im Blickpunkt beider Fachkulturen, die gemeinsam und absichtsfrei die religiösen Archive des Christentums öffnen und den Menschen der Postmoderne verfügbar machen. Diese Archive können ganz unterschiedliches Potenzial auch für jene Menschen entfalten, die nicht mehr im Strom des Christlichen aufgewachsen sind.This essay will continue the dialogue between pastoral theology and church history. It is an effort to provide a theoretical framework and an elaboration to the practical considerations raised in the ZPTh 1/2017, concerning the image of the priest between the Church and the world. The opportunity for communication between the two theological disciplines arises from their shared interest in the inescapably transformative spatiotemporal conditions, to which Christianity is tied. The Christian “style” and “way of life” in the past and present are at the center of both disciplines. Jointly, these disciplines can open up the archives of Christianity in order to make them available to postmodern men and women, forsaking the possibility to control the treatment of their content. The archives can unfold as sources of potential for those, who have not previously been influenced by Christianity.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>227</start>
+                                <end>241</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21307</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2230</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2230">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2230/2130" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2230" DMDID="DMD_wwu-journals_2230">
+            <mets:fptr FILEID="FILE0_wwu-journals_2230"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

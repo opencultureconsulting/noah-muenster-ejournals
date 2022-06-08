@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_80">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Krankheit und Heilung. Zum theologischen Verständnis von Gesundheit und Krankheit und zur therapeutischen Kompetenz der Theologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kostka, Ulrike</displayForm>
+                        <namePart type="family">Kostka</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Krankheit und Gesundheit sind zentrale Themen der christlichen Theologie und kirchlichen Praxis. Inspiriert wurde die kirchliche und theologische Auseinandersetzung durch das biblische Paradigma ‚Krankheit und Heilung‘. Über das Phänomen Krankheit und Heilung wird in den Texten das biblische Menschenbild entwickelt sowie die Erlösungsbedürftigkeit des Menschen, die Gottesbeziehung sowie die lebensrettende Qualität des Reiches Gottes illustriert. Einzelmotive wie Krankheit als Folge von Sünde prägten viele Jahrhunderte die kirchliche und theologische Interpretation von Krankheit mit teilweise tragischen Folgen für die Betroffenen. Gleichzeitig inspirierte die biblische Botschaft die kirchliche Sorge für die Kranken und die damit verbundene Einrichtung von Hospitälern. Die Behandlung von Krankheiten orientierte sich dort vorwiegend an der kirchlichliturgischen Betreuung. Mit Entwicklung der modernen Medizin im 19. und 20. Jahrhundert übernahm die Medizin die therapeutische Kompetenz, die zuvor vorwiegend der Kirche zugeschrieben wurde. In den päpstlichen Verlautbarungen ab Mitte des 20. Jahrhunderts und den Texten des Zweiten Vatikanums wird Krankheit nicht mehr in Verbindung mit Sünde und Strafe gesetzt und das Mitgehen Gottes in Krankheit und Gesundheit hervorgehoben. Die therapeutische Kompetenz der Medizin wird anerkannt. Die Theologie übernahm die Rolle einer kritischen Begleiterin der Medizin. Sie kann auf der Basis des biblischen Paradigmas vielfältige Impulse in den individuellen, organisationalen und gesellschaftlichen Umgang mit und Diskurs über Krankheit und Gesundheit einbringen. Dabei hat sie ihre eigenen Deutungen sowie die kirchliche Praxis bezüglich Krankheit und Gesundheit zu reflektieren und im interdisziplinären Dialog weiterzuentwickeln.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>051</start>
+                                <end>076</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-741</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_80</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_80">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/80/74" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_80" DMDID="DMD_wwu-journals_80">
+            <mets:fptr FILEID="FILE0_wwu-journals_80"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

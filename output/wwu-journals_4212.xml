@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4212">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kumulative Erkenntnis in einer realistischen Soziologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Albert , Gert</displayForm>
+                        <namePart type="family">Albert</namePart>
+                        <namePart type="given">Gert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der deutschsprachigen Diskussion um methodologische Standards der Soziologie wird von Seiten »erklärender Soziologen« immer wieder auf das Ziel kumulativer Erkenntnis verwiesen, aber kein diesbezüglicher Ansatz angeboten. Hier soll entgegen deren typisch instrumentalistischer Position eine realistische Version kumulativer Erkenntnis in kritisch-rationaler Tradition skizziert werden. Es werden fünf Stufen der Wahrheitsannäherung inklusive handlungstheoretischer Illustration unterschieden sowie die für die verschiedenen Stufen möglichen Eigenwerte theoretischer Erkenntnis. Der spezifisch kumulative Aspekt wird über die zunehmende Beibehaltung realistisch zu interpretierender Bestandteile von Theorien modelliert. Zwei Arten besonderer empirischer Vorhersageerfolge werden als Bedingung für eine realistische Fortschrittsinterpretation angegeben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>4</start>
+                                <end>31</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4212</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4212</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4212">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4212/4291" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4212" DMDID="DMD_wwu-journals_4212">
+            <mets:fptr FILEID="FILE0_wwu-journals_4212"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

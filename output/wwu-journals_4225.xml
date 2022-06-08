@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4225">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>»Symbiose« bei Gilbert Simondon</title>
+                        <subTitle>Biologische, soziale und technische Individuationen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Delitz, Heike</displayForm>
+                        <namePart type="family">Delitz</namePart>
+                        <namePart type="given">Heike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag untersucht das in den 1950ern entstandene Werk Gilbert Simondons im Blick auf Konzepte symbiotischer Beziehungen. Solche – für die soziologische Theorie mehrfach instruktiven, weil geläufige Dualismen auflösenden – Konzepte finden sich bei Simondon einerseits ausdrücklich: In einer Klassifikation biologischer Individuationen erwähnt er auch symbiotische Beziehungen (die Flechte), außerdem spricht er im Blick auf die technische Aktivität metaphorisch von Symbiosen. Andererseits lässt sich Simondons Denkweise insgesamt als eine verstehen, die vielfältige ›symbiotische‹ Beziehungen ins Zentrum rückt, da sie die epistemischen Dualismen von Subjekt und Objekt, Materie und Leben, Natur und Kultur, Individuum und Kollektiv – und Materie und Form – durch Verflechtungen und Prozesse ersetzt. Anstelle dieser Dualismen geht es Simondon um permanente Individuations- oder Werdensprozesse, in denen die ontologischen Regionen ineinander verschränkt bleiben, und in denen es die Materie ist, die aktiv ist. Es geht ihm in diesem Rahmen ebenso darum, die Untrennbarkeit der Technik vom Menschen anzuerkennen, insbesondere im Fall moderner Gesellschaften: Sie sind solche einer zunehmend intensiven Verflechtung von Natur (Geografie), technischen Ensembles und menschlichen Akteuren.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>217</start>
+                                <end>237</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4225</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4225</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4225">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4225/4303" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4225" DMDID="DMD_wwu-journals_4225">
+            <mets:fptr FILEID="FILE0_wwu-journals_4225"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

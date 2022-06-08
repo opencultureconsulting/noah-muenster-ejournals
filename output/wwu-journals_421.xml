@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_421">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Systemrelevanz generativer Sorgearbeit. Oder</title>
+                        <subTitle>Was kommt nach dem Töchterpflegepotential?</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>Die </nonSort>
+                        <title>Systemrelevanz generativer Sorgearbeit. Oder</title>
+                        <subTitle>Was kommt nach dem Töchterpflegepotential?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meier-Gräwe, Uta</displayForm>
+                        <namePart type="family">Meier-Gräwe</namePart>
+                        <namePart type="given">Uta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag identifiziert zunächst das auch Anfang des 21. Jahrhunderts ausgeprägte strukturelle Beharren auf der Zuweisung generativer Sorgearbeit an die weibliche Genusgruppe bei stetig steigendem Bildungsniveau der Frauen als eine entscheidende Ursache für die im europäischen Vergleich besonders starke Abnahme von Familienbildungsprozessen und rückläufigen Solidaritätsressourcen in Deutschland. Am Beispiel der Sorgearbeit für pflegebedürftige Angehörige wird herausgearbeitet, welche lebenslaufbezogenen Nachteile sich derzeit für diejenigen ergeben, die diese gesellschaftlich notwendigen, aber kaum anerkannten und mit einer Erwerbstätigkeit selten kompatiblen Fürsorgeleistungen privat übernehmen. Unter Rückgriff auf das Sachverständigengutachten zum Ersten Gleichstellungsbericht der Bundesregierung werden Handlungsperspektiven aufgezeigt, die aus diesem Dilemma herausführen: Lebenslauftheoretisch gesehen, geht es um die Auflösung der traditionell nach Geschlecht getrennten Lebenswege und um eine Neujustierung sämtlicher Lebenslauf begleitenden Institutionen, so dass die Verbindung von Bildungs-, Erwerbs- und generativer Sorgearbeit als Grundmuster der Biographie einer Person und zwar unabhängig vom Geschlecht in unterschiedlichen Mischungen und mit flexiblen Übergängen gelebt werden kann.AbstractThe article identifies one of the determining factors for the – compared on a European level – particularly strong decline of family development processes and declining resources of solidarity in Germany. It is found in the assignment of generative care work to the female which is still structurally persistent at the beginning of the 21st century, while the women’s educational level is steadily increasing. The example of private care for relatives illustrates how providing care services entails life-course disadvantages for the caregiver. Care work is essential for society but it is merely recognized as such and often incompatible with regular employment. In reference to the expertise for the Federal Government’s first gender equality report, perspectives leading out of this dilemma are pointed out: the traditional gendering of lives needs to be abolished and all the institutions attending on the individual’s biography need to be readjusted in order to offer not a predefined but flexible combination of education, professional life, and private generative care work as a basic model of life, regardless of gender.</abstract>
+                    <abstract lang="eng">Der Beitrag identifiziert zunächst das auch Anfang des 21. Jahrhunderts ausgeprägte strukturelle Beharren auf der Zuweisung generativer Sorgearbeit an die weibliche Genusgruppe bei stetig steigendem Bildungsniveau der Frauen als eine entscheidende Ursache für die im europäischen Vergleich besonders starke Abnahme von Familienbildungsprozessen und rückläufigen Solidaritätsressourcen in Deutschland. Am Beispiel der Sorgearbeit für pflegebedürftige Angehörige wird herausgearbeitet, welche lebenslaufbezogenen Nachteile sich derzeit für diejenigen ergeben, die diese gesellschaftlich notwendigen, aber kaum anerkannten und mit einer Erwerbstätigkeit selten kompatiblen Fürsorgeleistungen privat übernehmen. Unter Rückgriff auf das Sachverständigengutachten zum Ersten Gleichstellungsbericht der Bundesregierung werden Handlungsperspektiven aufgezeigt, die aus diesem Dilemma herausführen: Lebenslauftheoretisch gesehen, geht es um die Auflösung der traditionell nach Geschlecht getrennten Lebenswege und um eine Neujustierung sämtlicher Lebenslauf begleitenden Institutionen, so dass die Verbindung von Bildungs-, Erwerbs- und generativer Sorgearbeit als Grundmuster der Biographie einer Person und zwar unabhängig vom Geschlecht in unterschiedlichen Mischungen und mit flexiblen Übergängen gelebt werden kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082177</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_421</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_421">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/421/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_421" DMDID="DMD_wwu-journals_421">
+            <mets:fptr FILEID="FILE0_wwu-journals_421"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

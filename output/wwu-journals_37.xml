@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_37">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Provokationen der Krise</title>
+                        <subTitle>Zum Verhältnis von Unternehmen, Zivilgesellschaft und politischen Institutionen auf der internationalen Ebene</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zintl, Reinhard</displayForm>
+                        <namePart type="family">Zintl</namePart>
+                        <namePart type="given">Reinhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die zentrale Lehre aus der gegenwärtig noch andauernden Krise ist sicherlich, dass Bedarf an Veränderungen der Beziehung zwischen Politik und Wirtschaft – auch im internationalen Zusammenhang – besteht. Worin genau dieser Bedarf besteht, ist allerdings umstritten. Die folgenden Überlegungen sollen einige ordnungspolitische Aspekte der Situation beleuchten und insbesondere der Frage nachgehen, welche Rolle die „Zivilgesellschaft“ bei alledem spielen könnte. Die Kernthese ist, dass hier nicht so viel von einer Stärkung einer transnationalen Zivilgesellschaft zu erwarten ist wie von der Unterstützung der Herausbildung ausgewogener Zivilgesellschaften in allen Staaten: Im Kern geht es darum, bestimmte gleiche Grundinstitutionen in allen souveränen politischen Gebilden durchzusetzen – nicht nur sehr grundlegende Verfassungstatbestände wie Demokratie und Rechtsstaatlichkeit, sondern spezifische Requisiten einer starken Zivilgesellschaft wie Vereinigungsfreiheit, Pressefreiheit, Streikrecht. Solche Eigenschaften haben Folgen für die Bedingungen, unter denen der Wettbewerb der Staaten stattfindet. Sie schaffen eine nationalstaatliche Infrastruktur für die Prozesse, die auf der zwischenstaatlichen Ebene ablaufen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>301</start>
+                                <end>320</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-337</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_37</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_37">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/37/33" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_37" DMDID="DMD_wwu-journals_37">
+            <mets:fptr FILEID="FILE0_wwu-journals_37"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

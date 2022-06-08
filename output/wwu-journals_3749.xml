@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3749">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Präsenz als Währung der Seelsorge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Roser, Traugott</displayForm>
+                        <namePart type="family">Roser</namePart>
+                        <namePart type="given">Traugott</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Corona-Pandemie führt vor Augen, wie sehr der Anspruch von Seelsorge von ihrer Verlässlichkeit und Erreichbarkeit abhängt. Anhand von Erfahrungsberichten wird die Bedeutung der Präsenz von kirchlichen Seelsorger*innen beschrieben, die sowohl analoge als auch digitale Kommunikationsmedien nutzten. Es zeigt sich a), dass die Vertrautheit mit konkreten Seelsorgepersonen die Voraussetzung der Möglichkeit erweiterter Kommunikationsangebote und Betreuungskonzepte darstellt; b) mit der Anwesenheit personaler Seelsorge fällt die Entscheidung über das Ob spiritueller Begleitung. Unter Bezug auf Steve Nolans Verständnis von Seelsorge als „hopeful presence“ wird der Präsenzbegriff als Kennzeichen von seelsorglichem Da-Sein eingeführt, das eine Anerkennung der Wirklichkeit vonNot mit sich bringt. Seelsorge verschafft marginalisierten Not- und Bedarfslagen Geltung und Anerkennung. Seelsorgerliche Präsenz symbolisiert und macht Gottes In-der-Welt-Sein erfahrbar. Im Anschluss an Hartmut Rosa wird dabei das systemkritische Potenzial von Seelsorge erschlossen.
+The Corona pandemic has demonstrated how much pastoral care within healthcare depends on reliability and accessibility. Chaplains use both analog and digital communication. Case studies show that (a) familiarity with specific pastoral-care individuals is a prerequisite for continued spiritual care; (b) the provision of spiritual care depends on the physical presence of chaplains within a healthcare institution. Presence, however, needs to be specified: Regarding Steve Nolan&apos;s understanding of pastoral care as &quot;hopeful presence,&quot; the article conceptualizes pastoral presence as bearing witness to the reality of needs. Nonpresence, in turn, equals the denial of the reality of needs. Pastoral care thusvalidates and recognizes the marginalized as well as symbolizing God&apos;s being-in-the-world. Following the sociologist Hartmut Rosa’s understanding of resonance, the system-critical potential of pastoral care becomes obvious.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>41</start>
+                                <end>54</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-37963</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3749</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3749">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3749/3796" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3749" DMDID="DMD_wwu-journals_3749">
+            <mets:fptr FILEID="FILE0_wwu-journals_3749"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

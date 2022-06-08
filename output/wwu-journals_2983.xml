@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2983">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Solidarität und Paternalismus</title>
+                        <subTitle>Ein postkolonialer Blick auf kirchliches Sprechen in der deutschen Migrationsgesellschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wittenbrink, Edith</displayForm>
+                        <namePart type="family">Wittenbrink</namePart>
+                        <namePart type="given">Edith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Kirchen sind mit ihrer migrationsfreundlichen Haltung von rassistischen und fremdenfeindlichen Stimmungen in der deutschen Gesellschaft herausgefordert. Neben der klaren Abgrenzung von solchen Positionen ist für sie die Frage nach Gründen für deren Auftreten relevant. Auf diese reagieren postkoloniale Theoretiker*innen mit dem Verweis auf Denkmuster kolonialen Ursprungs, die in der Aktualität weiterwirken. Dieser Zusammenhang von Fremdenfeindlichkeit und Kolonialismus wird plausibilisiert, indem postkoloniale Konzepte im Hinblick auf den Umgang mit Migration in Deutschland rezipiert werden. Es wird deutlich, wie die fehlende Auseinandersetzung mit den Folgen der Kolonialzeit die Einstellungen gegenüber Menschen aus ehemaligen Kolonialgebieten nach wie vor beeinflusst. Daran anschließend zeigt die exemplarische Untersuchung von zwei Dokumenten der DBK zu Migration aus einer postkolonialen Perspektive, inwiefern auch kirchliches Sprechen Zusammenhänge kolonialen Ursprungs ausblendet und entsprechende Haltungen reproduziert. Daher werden abschließend mögliche Folgerungen dargestellt, die sich aus dieser Analyse für kirchliches Sprechen ergeben können, um sich noch deutlicher gegen Fremdenfeindlichkeit zu positionieren.</abstract>
+                    <abstract lang="eng">The churches with their migration-friendly attitude are challenged by racist and xenophobic attitudes in German society. In addition to the clear distancing from such positions, the question of reasons for their occurrence is relevant for them. Postcolonial theorists react to this issue by referring to patterns of thought of colonial origin that continue to have an effect in the present. This connection between xenophobia and colonialism is made plausible by the reception of postcolonial concepts with regard to dealing with migration in Germany. It becomes visible how the lack of confrontation with the consequences of the colonial period continues to influence attitudes towards people from former colonial areas. Subsequently, the exemplary investigation of two documents of the German Bishops&apos; Conference on migration from a post-colonial perspective shows to what extent church discourse, too, ignores contexts of colonial origin and reproduces corresponding attitudes. Finally, thus, possible conclusions that may result from this analysis for church discourse in order to position itself even more clearly against xenophobia are presented.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>235</start>
+                                <end>256</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30901</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2983</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2983</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2983">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2983/3090" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2983" DMDID="DMD_wwu-journals_2983">
+            <mets:fptr FILEID="FILE0_wwu-journals_2983"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

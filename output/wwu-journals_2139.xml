@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2139">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rückkehr nach damals</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weyen, Frank</displayForm>
+                        <namePart type="family">Weyen</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Emotionalität wird häufig, beispielsweise in Stellenausschreibungen für Pfarrpersonen, mit Lebensnähe,Lebendigkeit, Begeisterungsfähigkeit oder auch als Einfühlsamkeit umschrieben. In diesen Begriffenwird die Erwartung dokumentiert, dass Gottesdienste eher das Gefühl als die Ratio ansprechensollten. Neben der darin implizierten Unterstellung, dass in herkömmlichen Gottesdiensten scheinbarein mangelhafter Unterhaltungswert erkennbar sei, was als fehlende Lebensnähe missdeutet wird,sollen als Lösung dieses konstruierten Problems emotional ansprechende Gottesdienste eben beidesbedienen: Gefühl und Ratio. Hier wird eine erste Problemanzeige im Verständnis des Gottesdienstesals eine Unterhaltungsveranstaltung zwecks Vermittlung von Lebensnähe deutlich. Der Autor fragtdaher danach, wie das menschliche Gehirn auf gottesdienstliches Geschehen emotional reagiert. Dazukönnten neurowissenschaftliche Forschungen interdisziplinär auch der Theologie eine Heuristik an dieHand geben, um für die gottesdienstliche Praxis zu verstehen, was die Menschen zu finden suchen,wenn sie kirchliche Veranstaltungen besuchen. Daraus ergibt sich, dass Menschen gelingende Beziehungenauch in der Kirchengemeinde suchen, um eine bessere Selbstwirksamkeit und, daraus folgend,ein subjektiv stärkendes Wohlgefühl im weitesten Sinne eines ‚bien-être‘ zu erlangen. Dazukönnen einerseits die vertikal-transzendentale individuelle Gemeinschaft mit Gott, andererseits diehorizontal-soziale Geselligkeit untereinander in der Kirchengemeinde verhelfen. Es wird in einem heuristischenSinne dargestellt, wie körpereigene Opiate zu einem solchen Glücksgefühl beitragen können,zu dem Menschen dann immer wieder gern emotional durch unterschiedlichste Handlungenzurückkehren dürften. Dies wäre dann als eine ‚Rückkehr nach Damals‘ zu verstehen. Ferner soll ineinem weiteren Schritt eine heuristische Herangehensweise entfaltet werden. Dieses hermeneutischeKonzept wird mithilfe neurowissenschaftlicher Erkenntnisse als eine ‚Heuristik der Emotion‘ dargestellt.Emotionality is often described, for example in job advertisements for pastors, as a near-lifebehaviour,enthusiasm, or also as empathy in worship service. In all terms used, it is expected thatworship services should appeal to the emotions rather than the ratio. In addition to the insinuation,which is reflected in a lack of entertainment value and misinterpreted as a lack of life, emotionallyappealing worship services are meant to transport both: emotions and ratios. This indicates a firstproblem: in the understanding of the worship as an entertainment event for the mediation of life. Theauthor asks, therefore, how the human brain is emotionally governed by participation in religiousworship. One thesis is that neuroscientific research could interdisciplinarily provide theology with aheuristic to understand for the practice of worship what people are looking for when they visit ecclesiasticalor worship. As a result, people are looking for successful relationships in local churches inorder to achieve a better self-efficacy and, consequently, a subjectively strengthening ‚well-being‘ inthe widest sense of a &apos;bien-être&apos;. On the one hand, the vertical-transcendental individual relationshipwith God, on the other hand, can contribute a horizontal-social socialization among the community inchurch. It is describes in a heuristic sense, how ‚body-like opiates‘ (hormones) can contribute to such asense of happiness, to which people are always able to return emotionally through various actions within the parish. That is, what we call an emotional ‚return to yesterday‘. Furthermore, a heuristicapproach is to be developed. This hermeneutic concept is presented as a &quot;heuristic of emotion&quot;using neuroscientific insights.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>231</start>
+                                <end>246</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20529</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2139</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2139">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2139/2052" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2139" DMDID="DMD_wwu-journals_2139">
+            <mets:fptr FILEID="FILE0_wwu-journals_2139"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

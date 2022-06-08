@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2322">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Journalismus als Friedensstifter?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Altmeppen, Klaus-Dieter</displayForm>
+                        <namePart type="family">Altmeppen</namePart>
+                        <namePart type="given">Klaus-Dieter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Evers, Tanja</displayForm>
+                        <namePart type="family">Evers</namePart>
+                        <namePart type="given">Tanja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Greck, Regina</displayForm>
+                        <namePart type="family">Greck</namePart>
+                        <namePart type="given">Regina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag geht der Frage nach, wie verantwortungsvolle journalistische Berichterstattung in Zeiten von Krisen und Kriegen möglich sein kann. Dazu beleuchtet er den Friedensjournalismus näher, ordnet ihn in das Berichterstattungsmuster des anwaltschaftlichen Journalismus ein und grenzt ihn vom Informationsjournalismus ab. Anschließend gibt er einen Überblick über die besonderen Herausforderungen, vor welchen der Friedensjournalismus steht. Dabei stellt er auch verschiedene Modelle sowie ihre Anliegen vor und reflektiert diese Forderungen kritisch. Daraus leitet der Beitrag ab, wie Medien, die sich dem deeskalierenden Konzept des Friedensjournalismus verschreiben wollen, ihre (gesellschaftliche) Verantwortung wahrnehmen können und diskutiert, inwieweit eine solche Verantwortung im Zuge der Digitalisierung der Gesellschaft noch alleine vom Journalismus wahrgenommen werden kann.</abstract>
+                    <abstract lang="eng">This contribution pursues the question how journalistic reporting can be done responsibly in times of crisis and war. Therefore, we will have a closer look at peace journalism, which considers reporting from this perspective. This contribution classifies peace journalism into the pattern of advocacy journalism and summarizes the specific challenges peace journalism is faced with. Afterwards, different approaches of peace journalism will be presented and their requirements will be reflected critically. On the basis of these considerations, this contribution deduces how editors committed to the deescalating reporting of peace journalism can discharge their duties. Furthermore, it will be discussed to what extent journalism can bear this responsibility considering the digitalization of society.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>177</start>
+                                <end>200</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22144</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2322</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2322">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2322/Altmeppen_Evers_Greck" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2322" DMDID="DMD_wwu-journals_2322">
+            <mets:fptr FILEID="FILE0_wwu-journals_2322"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

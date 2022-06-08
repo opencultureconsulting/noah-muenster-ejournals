@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1282">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kirche und Menschenrechte - Menschenrechte in der Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maier, Hans</displayForm>
+                        <namePart type="family">Maier</namePart>
+                        <namePart type="given">Hans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungMenschen- und Bürgerrechte als Katalog, System, Bestandteil von Verfassungen sind zunächst außerhalb der christlichen Kirchen entstanden. Vor allem in Europa stießen sie lange Zeit auf den Widerstand der katholischen Kirche. Erst gegen Ende des 19. Jahrhunderts begann ein langsamer Prozess der Annäherung, der nach dem Zweiten Weltkrieg seinen Höhepunkt in der Erklärung des Zweiten Vatikanischen Konzils über die Religionsfreiheit erreichte. Die Menschenrechte erreichten in dieser Zeit die Kirche, sie wurden auch theologisch integriert. Wie weit sie künftig auch im Innern der Kirche – als Christenrechte – Wirkungen entfalten, ist freilich gegenwärtig noch offen.AbstractHuman and civil rights as catalogue, system, constituent part of constitutions have emerged outside of the Christian churches. Particularly in Europe, they met for a long time with stiff resistance from the Catholic Church. Only towards the end of the 19th century did a slow process of rapprochement begin which culminated in the Second Vatican Council’s Declaration on Religious Freedom. It was at this time that human rights had reached the Church, which also integrated them theologically. To what degree human rights will have an effect inside the Church in the future – as Christian rights – remains an open question however.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12214</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1282</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1282">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1282/1221" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1282" DMDID="DMD_wwu-journals_1282">
+            <mets:fptr FILEID="FILE0_wwu-journals_1282"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

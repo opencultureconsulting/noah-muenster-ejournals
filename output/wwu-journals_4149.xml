@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4149">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Monismus, Dualismus, Pluralismus</title>
+                        <subTitle>Ein Kommentar zum Beitrag von Johann August Schülein</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kneer, Georg</displayForm>
+                        <namePart type="family">Kneer</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Johann August Schülein trägt in seinem Beitrag zur Theorienvielfalt in der Soziologie weitreichende Ansprüche vor. Ich möchte die Grundannahme, von der seine Überlegungen ausgehen, in folgender Weise zusammenfassen: Um eine Antwort auf die Frage zu finden, warum die Soziologie eine multiparadigmatische Struktur aufweist, müssen wir zuvor weit grundlegendere (ontologische und epistemologische) Fragen beantworten: Wie ist die Welt insgesamt aufgebaut bzw. gegliedert? Wie lässt sich Wirklichkeit erkennen? Welche Form weisen korrekte wissenschaftliche Theorien auf? Den thematischen Bezugspunkt seiner Überlegungen bildet die klassische Debatte zwischen monistischen und dualistischen Positionen der älteren Wissenschaftstheorie (Schülein 2002). Auch das eigene Theorieangebot, das Schülein präsentiert, wird erst vor dem Hintergrund dieser Kontroverse verständlich. Explizit votiert er gegen eine einheitswissenschaftliche Sichtweise. Insofern steht er der dualistischen Gegenpartei deutlich näher, ohne dass er diese Position ungebrochen fortschreiben möchte.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>228</start>
+                                <end>236</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4149</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4149</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4149">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4149/4232" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4149" DMDID="DMD_wwu-journals_4149">
+            <mets:fptr FILEID="FILE0_wwu-journals_4149"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1314">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Der Gerechtigkeit und nur der Gerechtigkeit sollst Du nachjagen!“ (Dtn 16,20). „Tun des Gerechten“ (Dietrich Bonhoeffer) – eine vernachlässigte Dimension der Pastoral. Udo F. Schmälzle OFM zum 70. Geburtstag</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mette, Norbert</displayForm>
+                        <namePart type="family">Mette</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel beabsichtigt, die Bedeutung der Gerechtigkeit für das Verständnis und die Praxisdes christlichen Glaubens herauszustellen – und zwar nicht nur als dessen (sozial-)ethischeKonsequenz, sondern als sein konstitutives Moment. Dazu wird zunächst der entsprechendebiblische Befund in Erinnerung gerufen. Im Vergleich dazu erweist sich das aktuell in Theologieund Kirche vorherrschende Bewusstsein als höchst defizitär. Anhand des Sakraments derEucharistie wird beispielhaft aufgezeigt, dass und wie die Aufforderung zum „Tun des Gerechten“(Dietrich Bonhoeffer) in die Mitte des Glaubens hineinreicht.The article emphasizes the importance of justice for the reflection and practice of the Christianfaith – not only as its (social-)ethical consequence but as its constitutive element. The articlewill first summarize the appropriate biblical witness in regard to this question and then showthat the current thinking dominating theology and church is highly deficient. The example ofthe Eucharist shows that and how the challenge of „doing the just“ (Dietrich Bonhoeffer) belongsto the very heart of faith.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>139</start>
+                                <end>161</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12477</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1314</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1314">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1314/1247" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1314" DMDID="DMD_wwu-journals_1314">
+            <mets:fptr FILEID="FILE0_wwu-journals_1314"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

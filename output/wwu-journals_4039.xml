@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4039">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Vielfalt soziologischen Erklärens und die (Un-)Vermeidbarkeit des Eklektizismus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Büttner, Sebastian M.</displayForm>
+                        <namePart type="family">Büttner</namePart>
+                        <namePart type="given">Sebastian M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adloff , Frank</displayForm>
+                        <namePart type="family">Adloff</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel des Aufsatzes ist es, einige zentrale Beiträge des amerikanischen Soziologen Andrew Abbott zur Methodologie der Sozialwissenschaften genauer vorzustellen und damit einen neuen Impuls in die Debatte über die Erklärungsproblematik der Soziologie einzubringen. Denn Abbott bietet auf Grundlage seines Theorems fraktaler Heuristiken eine äußerst anregende Interpretation der Entwicklung der Soziologie und des damit verbundenen methodologischen Richtungsstreits an. Des Weiteren macht sich Abbott für einen multiplen Erklärungsbegriff stark, der weder ein einzig gültiges deduktiv-nomologisches Erklärungsschema präjudiziert, noch das interpretative Lager von jeglicher Form eines Erklärungsanspruches befreit. Im Anschluss an Abbott plädieren wir abschließend für mehr Gelassenheit im Umgang mit der eigentümlichen Multiperspektivität der Soziologie. Denn aus Sicht der Fraktaltheorie soziologischer Wissensproduktion ist ein gewisser Eklektizismus in der soziologischen Theoriebildung scheinbar ohnehin unvermeidbar, und alle Versuche einer Purifizierung und Vereinheitlichung des soziologischen Blicks sind letztlich zum Scheitern verurteilt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>253</start>
+                                <end>268</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2013-4039</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4039</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4039">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4039/4085" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4039" DMDID="DMD_wwu-journals_4039">
+            <mets:fptr FILEID="FILE0_wwu-journals_4039"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>2911</id>
+	<dc:title xml:lang="en-US">Neuronal Transcriptome from C9orf72 Repeat Expanded Human Tissue is Associated with Loss of C9orf72 Function</dc:title>
+	<dc:creator>Liu, Elaine Y.</dc:creator>
+	<dc:creator>Russ, Jenny</dc:creator>
+	<dc:creator>Lee, Edward B.</dc:creator>
+	<dc:subject xml:lang="en-US">Dementia</dc:subject>
+	<dc:subject xml:lang="en-US">Transcriptome</dc:subject>
+	<dc:subject xml:lang="en-US">Frontotemporal</dc:subject>
+	<dc:subject xml:lang="en-US">Amyotrophic lateral sclerosis</dc:subject>
+	<dc:subject xml:lang="en-US">C9orf72</dc:subject>
+	<dc:subject xml:lang="en-US">TDP-43</dc:subject>
+	<dc:subject xml:lang="en-US">FACS</dc:subject>
+	<dc:subject xml:lang="en-US">RNA-seq</dc:subject>
+	<dc:subject xml:lang="en-US">Repeat expansion</dc:subject>
+	<dc:subject xml:lang="en-US">DENN</dc:subject>
+	<dc:subject xml:lang="en-US">Frontotemporal lobar degeneration</dc:subject>
+	<dc:subject xml:lang="en-US">Frontotemporal dementia</dc:subject>
+	<dc:description xml:lang="en-US">A hexanucleotide G4C2 repeat expansion in C9orf72 is the most common genetic cause of familial and sporadic cases of amyotrophic lateral sclerosis (ALS) and frontotemporal degeneration (FTD). The mutation is associated with a reduction of C9orf72 protein and accumulation of toxic RNA and dipeptide repeat aggregates. The accumulation of toxic RNA has been proposed to sequester RNA binding proteins thereby altering RNA processing, consistent with previous transcriptome studies that have shown that the C9orf72 repeat expansion is linked to abundant splicing alterations and transcriptome changes. Here, we used a subcellular fractionation method and FACS to enrich for neuronal nuclei from C9orf72 repeat expanded post-mortem human ALS/FTD brains, and to remove neuronal nuclei with TDP-43 pathology which are observed in nearly all symptomatic C9orf72 repeat expanded cases. We show that the C9orf72 expansion is associated with relatively mild gene expression changes. Dysregulated genes were enriched for vesicle transport pathways, which is consistent with the known functions of C9orf72 protein. Further analysis suggests that the C9orf72 transcriptome is not driven by toxic RNA but is rather shaped by the depletion of pathologic TDP-43 nuclei and the loss of C9orf72 expression. These findings argue against RNA binding protein sequestration in neurons as a major contributor to C9orf72 mediated toxicity.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2020-08-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2911</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2020-2911</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 1 (2020); 23</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 1 (2020); 23</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2911/2910</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2911/2909</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/2911/2907</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2020-29091</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2020 Edward Lee, Elaine Y. Liu, Jenny Russ</dc:rights>
+</oai_dc:dc>

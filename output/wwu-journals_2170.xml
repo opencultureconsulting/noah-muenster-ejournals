@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Frankreich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Renouard, Cécile</displayForm>
+                        <namePart type="family">Renouard</namePart>
+                        <namePart type="given">Cécile</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungDie Verfasstheit christlicher Ethik in Frankreich ist eng mit dem dortigen Verständnis von Säkularisierung und der Idee der Nation als abstrakte Gemeinschaft von Individuen verbunden. Aber besonders in Bezug auf die unterstützende Rolle von Religion und spirituellen Ressourcen für den sozialen und ökologischen Wandel deuten sich Veränderungen in verschiedenen Debatten sowohl in der katholischen Kirche als auch gesamtgesellschaftlich an. Auch wenn die Zahl der bekennenden Christen auf 38% innerhalb der Bevölkerung gesunken ist, spielt die christliche Soziallehre weiterhin eine wichtige Rolle, weil das soziale Engagement der Kirche ein fächerübergreifendes Nachdenken und gemeinsames Handeln fördert. Einige Themen polarisieren hierbei jedoch und offenbaren zwei verschiedene theologische Perspektiven. Eine politisch rechte identitätsorientierte Perspektive „von-oben“, die sich etwa gegen die gleichgeschlechtliche Ehe ausspricht und eine links-politische Perspektive „von-unten“, welche sich z. B. dem Kampf gegen globalen Kapitalismus verschrieben hat.AbstractThe place of Christian social ethics in France is tied to the French conception of secularism, which conceives of the nation as an abstraction of particulars. However, prospects for change are apparent in several debates, both in the Catholic Church and in society, notably regarding the role of religion and spiritual resources in order to support societal transformation and ecological transition. Even though the number of people claiming to be Christian has decreased to 38 % of the population, Christian social ethics continues to play a vital role through the Church’s social movements, fostering interdisciplinary reflection and collective action. Some topics still tend to polarize and reveal two different theological perspectives, one ‘from above’ and identity oriented such as the opposition to gay marriage on the right; and one ‘from below’, such as the fight against global capitalism on the left.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>275</start>
+                                <end>287</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20826</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2170</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2170">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2170/2082" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2170" DMDID="DMD_wwu-journals_2170">
+            <mets:fptr FILEID="FILE0_wwu-journals_2170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

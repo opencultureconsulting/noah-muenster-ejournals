@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4019">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was, wenn es viel mehr Positives gäbe? Zur Verteidigung der Spätkapitalismustheorie gegen den Bekanntesten unter ihren Erneuerern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lessenich, Stephan</displayForm>
+                        <namePart type="family">Lessenich</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Was soll man sagen zu diesem Buch? Zu einem Buch, das die akademische Soziologie hierzulande schlagartig zurück in die öffentliche Debatte gebracht hat, das eine renommierte Einrichtung der Max-Planck-Gesellschaft zum wahrnehmbaren Ort wissenschaftlicher Kapitalismuskritik hat werden lassen – und das man, in seiner gelungenen Mischung aus zugespitzter Analyse und politischem Impetus, nicht nur seines beeindruckenden Verkaufs- und Rezeptionserfolgs wegen gerne selber hätte schreiben mögen? Was anderes dazu sagen als ein schlicht-anerkennendes: »Chapeau!«? Die Frage stellt sich zudem in verschärfter Form, weil man vermuten kann und muss, dass die im Laufe des Erscheinungsjahres nur so aus dem Boden zeitdiagnostischer Sehnsucht gesprossenen Kommentare und Kritiken, Rezensionen und Reflexionen eigentlich schon alles gesagt haben, was an Wesentlichem zu Wolfgang Streecks Buch zu sagen wäre. Wenn ich hier dennoch das Wagnis eingehe, all dem Gesagten noch etwas hinzuzufügen, so in der Hoffnung, dass dieses Etwas etwas durchaus Eigenes ist. </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>114</start>
+                                <end>122</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4019</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4019</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4019">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4019/4065" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4019" DMDID="DMD_wwu-journals_4019">
+            <mets:fptr FILEID="FILE0_wwu-journals_4019"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

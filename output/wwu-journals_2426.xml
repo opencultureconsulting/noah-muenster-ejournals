@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2426">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theognis and the Ambivalence of Aristocracy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stein-Hölkeskamp, Elke</displayForm>
+                        <namePart type="family">Stein-Hölkeskamp</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The article focuses on the vexed methodological problem of how to establish a relationship between the historical tradition of Megara on the one hand and the content of the Theognidea on the other. The uncertainties concerning the author’s identity, place of birth, and date notwithstanding, the poems permit a cursory glimpse of a polis community which was characterized by a fierce competition for wealth, social recognition, and sheer power.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>129</start>
+                                <end>138</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2018-22941</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2426</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2426">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2426/2294" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2426" DMDID="DMD_wwu-journals_2426">
+            <mets:fptr FILEID="FILE0_wwu-journals_2426"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2473">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziale Nachhaltigkeit durch Community Supported Agriculture</title>
+                        <subTitle>Hält das Konzept, was es verspricht?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Diekmann, Marie</displayForm>
+                        <namePart type="family">Diekmann</namePart>
+                        <namePart type="given">Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Theuvsen, Ludwig</displayForm>
+                        <namePart type="family">Theuvsen</namePart>
+                        <namePart type="given">Ludwig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gesellschaftlich initiierte Ernährungskonzepte haben als Gegenentwurf zu den herkömmlichen Wertschöpfungsketten der Agrar- und Ernährungsbranche an Bedeutung gewonnen. Insbesondere Community Supported Agriculture (CSA), meist übersetzt mit „solidarische Landwirtschaft“, verbreitet sich rasch auf nationaler und internationaler Ebene. Neben besseren ökonomischen Konditionen für (kleine) landwirtschaftliche Betriebe und einer umweltschonenderen Produktionsweise ist eine stabile solidarische Gemeinschaft ein wichtiges Kernelement des CSA-Konzeptes. Dieser Beitrag untersucht, in wie weit die deutschen CSA-Gemeinschaften den Ansprüchen der sozialen Nachhaltigkeit gerecht werden. 196 CSA-Mitglieder nahmen an einer standardisierten Onlineumfrage teil, im Rahmen derer Angaben zu ihren sozio-demographischen Merkmalen und der wahrgenommenen Wertestruktur der CSA-Gemeinschaft erhoben wurden. Es zeigt sich, dass die im CSA-Konzept angestrebte Solidarität innerhalb der Gemeinschaft nur bedingt zur Integration sozial benachteiligter Personen führt. Basierend auf den empirischen Ergebnissen werden Möglichkeiten zur Verbesserung der sozialen Nachhaltigkeit innerhalb einer CSA aufgezeigt.
+Socially initiated food networks are currently experiencing an increasing popularity in many industrialized countries worldwide. Especially Community Supported Agriculture (CSA), an innovative grassroots movement connecting consumers with a local farm, has rapidly spread across Germany and other developed countries. The expected higher environmental, economic and social sustainability of CSA is an important aspect for concerned consumers to participate. The aim of this paper is to analyze the extent of social sustainability within the communities. 196 CSA members participated in a standardized online survey that collected information on their socio-demographic characteristics and the perceived value structure of the CSA community. It turns out that the solidarity within the community aspired to in the CSA concept only partially leads to the integration of socially disadvantaged people. Based on the empirical results, possibilities are shown that can contribute to the improvement of social sustainability within a CSA.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>110</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-23359</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2473</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2473</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2473">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2473/2335" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2473" DMDID="DMD_wwu-journals_2473">
+            <mets:fptr FILEID="FILE0_wwu-journals_2473"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

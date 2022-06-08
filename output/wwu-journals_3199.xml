@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3199">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Himmel über Berlin?! Experimentelle Pastoralprojekte in der Hauptstadt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böhnstedt, Carla</displayForm>
+                        <namePart type="family">Böhnstedt</namePart>
+                        <namePart type="given">Carla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Gottesfrage wachzuhalten, ist eine der vordringlichsten Aufgaben der Kirche. Leichter gesagt als getan, vor allem in einem so säkularen Umfeld wie Berlin, in der die überbordende Dynamik der rastlosen Stadt einer eher traditionell-konservativen Kirchlichkeit diametral gegenübersteht. Es ist deshalb spannend und herausfordernd, mit neuen Formaten urbaner Pastoral an anderen Orten zu ungewohnten Zeiten zu experimentieren und zu versuchen, Ereignisse der Stadt als Andockpunkt für Angebote zu nutzen, um sie so als spirituellen Raum erlebbar zu machen und (auch) Menschen zu erreichen, für die die Frage nach Gott und Glaube kein Thema mehr ist – oder nie war. Ziel dahinter: zeitgemäß erfahrbar zu machen, dass der Glaube für das Leben eine Relevanz haben kann. Dies gleicht zuweilen einem Hürdenlauf, der Durchhaltevermögen verlangt – kirchenintern ebenso wie -extern. Um dieses Unternehmen mit langem Atem verfolgen zu können, sind neue Paradigmen in der Pastoral notwendig.
+Keeping the question of God alive is one of the primary tasks of the Church. This is easier said than done, however, especially in such a secular environment as Berlin, where the exuberant dynamism of the restless city is diametrically opposed to a more traditionally conservative Church. It is therefore an exciting and challenging task to experiment with new formats of urban pastoral work in other places at unusual times, and to try to use events in the city as a docking point for offers so that they can be experienced in a spiritual context as well as reaching people for whom the question of God and faith is no longer an issue – or never was. The goal behind this is to make it possible to experience in a contemporary way that faith can be relevant to life. However, this is sometimes rather like a steeplechase that requires endurance and perseverance – both within and outside the Church. New paradigms are necessary in pastoral theology.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31699</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3199</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3199">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3199/3169" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3199" DMDID="DMD_wwu-journals_3199">
+            <mets:fptr FILEID="FILE0_wwu-journals_3199"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

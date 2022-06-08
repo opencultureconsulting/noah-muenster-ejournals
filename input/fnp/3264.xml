@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3264</id>
+	<dc:title xml:lang="en-US">Neurotrauma: 2021 update</dc:title>
+	<dc:creator>Perl, Daniel P.</dc:creator>
+	<dc:subject xml:lang="en-US">Traumatic brain injury</dc:subject>
+	<dc:subject xml:lang="en-US">Chronic traumatic encephalopathy</dc:subject>
+	<dc:subject xml:lang="en-US">Biomarkers</dc:subject>
+	<dc:subject xml:lang="en-US">Neuroinflammation</dc:subject>
+	<dc:subject xml:lang="en-US">Microglia</dc:subject>
+	<dc:subject xml:lang="en-US">Tau</dc:subject>
+	<dc:description xml:lang="en-US">Despite the interruptions and restrictions to the progress of science that the COVID-19 pandemic has introduced, 2020 was marked by a number of important advances in the field of neurotrauma. Here, I will highlight what I believe are among the most important contributions. This year there were notable advances towards providing clinically useful information on neurotrauma outcome through the use of fluid biomarkers. I also introduce fascinating approaches to studying the role of microglia in nervous system repair and neuroinflammatory mechanisms leading to dysfunction through the use of colony-stimulating factor 1 receptor inhibitors, especially Plexxikon 5622 (PLX5622). Oral administration of this compound is able to deplete microglial elements and then, following withdrawal from the drug, a new population of microglia then repopulates the brain. Use of this approach in traumatic brain injury experimental models has produced important insights into the pathogenetic role of microglia in responding to this process. Important new data on the nature and distribution of tau involvement of neurons and astrocytes in cases of chronic traumatic encephalopathy (CTE) also appeared suggesting differences and similarities to Alzheimer’s disease. Additionally, the use of tau-specific PET scan ligands in at-risk populations has suggested that this approach may be able to identify cases with CTE. Lastly, we note the death in the past year of a major contributor to the field of neurotrauma neuropathology, Professor J. Hume Adams.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-03-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Review</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3264</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3264</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 4</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 4</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3264/3231</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3264/3230</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-32301</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Daniel P. Perl</dc:rights>
+</oai_dc:dc>

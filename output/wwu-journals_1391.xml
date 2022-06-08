@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1391">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Herausforderung fluider Formen des Gemeindeaufbaus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>de Groot, Cornelis N.</displayForm>
+                        <namePart type="family">de Groot</namePart>
+                        <namePart type="given">Cornelis N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die heutigen Bedingungen der liquiden Moderne (liquid modernity) beeinflussen auch die Kirche.Einerseits hat sie die solide-moderne Denkweise angenommen, die die für die Industriegesellschaftentypischen Strukturen voraussetzt. Andererseits engagiert sich die Kirche auchin der liquiden Gesellschaft, zum Beispiel beim Organisieren von Großevents. Dieses Engagementist keineswegs unumstritten. Die begleitenden normativen Aspekte werden mit Hilfevon vier Aspekten analysiert: Kontext, Identität, Struktur und Autorität. Es geht um vier theologischeFragen: Wie schätzen wir die Welt ein und wie gehen wir mit ihr um? Wo manifestiertsich das Kirche-Sein? Wie offen sind wir gegenüber der Missionsdynamik, die unser Konzeptvon Innen und Außen unterminiert? Wo dient Führung wirklich den Menschen oder: Wo heiligtsie den Namen Gottes? Diese praktisch-theologische Erkundung beinhaltet drei Vorschläge,die neue Wege des Kirche-Seins berücksichtigen: unterstützen, moderieren und verbinden.The contemporary conditions of what is called „liquid modernity“ also affect the Church. Onthe one hand, the Church has embraced a solid modern mindset, presupposing the normativityof structures that are typical for industrial societies. On the other hand, the Church engagesin liquid modernity, for example by organizing events. These activities do not go undisputed.The accompanying normative questions are analyzed using four different viewpoints: context,identity, structure, and authority. Thus, four theological questions are raised: 1) How do wesee this world and deal with it? 2) Where do we locate manifestations of being church?3) How open are we to the dynamics of mission (undermining our conception of inside/outside)?4) Where does leadership serve humanity, or: Where does leadership sanctify God’sname? This practical-theological endeavor contains three suggestions in regard to the newways of being church: facilitating, moderating, and making connections.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>157</start>
+                                <end>170</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13105</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1391</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1391">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1391/1310" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1391" DMDID="DMD_wwu-journals_1391">
+            <mets:fptr FILEID="FILE0_wwu-journals_1391"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

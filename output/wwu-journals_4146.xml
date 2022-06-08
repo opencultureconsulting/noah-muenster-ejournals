@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4146">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Nationalstaat und das globale Feld der Macht, oder</title>
+                        <subTitle>Wie sich die Feldtheorie von ihrem methodologischen Nationalismus befreien lässt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitz, Andreas</displayForm>
+                        <namePart type="family">Schmitz</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Witte , Daniel</displayForm>
+                        <namePart type="family">Witte</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">33</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Soziologie gibt auf die Herausforderungen globaler Vergesellschaftung unterschiedliche theoretische Antworten; in jüngerer Zeit wird dabei zunehmend auch auf das begriffliche Instrumentarium Bourdieus zurückgegriffen. Dieser Zugangsweise steht jedoch das Problem gegenüber, dass das Bourdieu’sche Gesellschaftsverständnis in seiner klassischen Form auf der Annahme national begrenzter Felder und Räume fußt und damit letztlich ›Gesellschaft‹ mit ›Nationalstaat‹ gleichsetzt. In diesem Beitrag argumentieren wir, dass die bei Bourdieu angelegte Zentralsetzung des Staates aufzugeben und die hieraus resultierende theoretische Leerstelle mit einem abstrakteren Ersatzkonzept zu schließen ist. Zu diesem Zweck reflektieren wir zunächst kritisch Bourdieus Fassung des Nationalstaats als ›Feld der Macht‹ und legen ihre theoretischen Defizite und die daraus folgenden Herausforderungen für eine Analyse globaler Problemstellungen dar. Mit dem ›globalen Feld der Macht‹ wird dann ein theoriekonsistenter Gegenentwurf vorgeschlagen, der geeignet ist, unterschiedliche Forschungsrichtungen und -ergebnisse zu transnationalen Feldern theoretisch zu integrieren. Diese Modifikation erlaubt es darüber hinaus, den Nationalstaat als einen historischen und analytischen Spezialfall sozialer Ordnungsbildung zu diskutieren. Wir schließen mit einem Ausblick auf das analytische Potenzial einer solchermaßen generalisierten Feldtheorie</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>156</start>
+                                <end>188</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4146</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4146</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4146">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4146/4229" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4146" DMDID="DMD_wwu-journals_4146">
+            <mets:fptr FILEID="FILE0_wwu-journals_4146"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

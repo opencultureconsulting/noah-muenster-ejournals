@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4003">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entdifferenzierung der Rechtstheorie oder des Rechts? Zur problematischen Lage des Rechtssystems im Kontext funktionaler Differenzierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nell , Linda</displayForm>
+                        <namePart type="family">Nell</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Autonomie des Rechts kann Luhmanns Theorie funktionaler Differenzierung zufolge erst behauptet werden, wenn das Rechtssystem in seiner Funktion und seiner selbstreferentiellen Geschlossenheit nicht durch äußere Einflüsse, etwa durch politische Macht, beeinträchtigt oder auf sie angewiesen ist. Diese Prämisse gerät bei näherem Hinsehen jedoch in gleich mehreren Dimensionen unter Druck: Bereits mit dem systemtheoretischen Fokus auf den Nationalstaat, der angesichts der These der funktionalen Differenzierung gerade im Falle der Kopplung des Rechts und der Politik einen noch immer erstaunlich hohen systematischen Stellenwert einnimmt, verliert die strenge Selbstreferentialität des Rechts als Voraussetzung für die Systemautonomie so weit an Plausibilität, dass es schon schwierig wird, die Rechtsgeltung, -begründung und -setzung von einer machtbasierten Durchdringung als frei gehalten zu behaupten. Spätestens wenn es dann um das Recht in der Weltgesellschaft geht, ist es, wie sich empirisch und theoretisch zeigen lässt, kaum mehr möglich, Recht nicht von Macht ableitenzu müssen.Es ist zu vermuten, dass die Durchdringung des Rechts von Macht in diesem Sinne weder rein begrifflich »konstruiert«, noch bloß empirisch neutral ›beobachtbar‹ ist. Vielmehr ist anzunehmen, dass eine Theorie funktionaler Differenzierung noch zu einseitig ist, um die komplexe Differenzierung des Rechts der (Welt-)Gesellschaft angemessen zu beschreiben. Vor diesem Hintergrund kann die Autonomie des Rechts der Weltgesellschaft im Sinne der funktionalen Differenzierung erst wieder erfolgreich begründet werden, wenn man einerseits das mit der Systemtheorie erreichte Abstraktionsniveau als unhintergehbaren Maßstab für die jüngere rechtssoziologische Theorie versteht und andererseits aber einsieht, dass die Theorie funktionaler Differenzierung revisions- und ergänzungsbedürftig ist, und dass man nur so weiter sinnvoll zwischen Recht und Macht unterscheidenkann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>32</start>
+                                <end>59</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-4003</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4003</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4003">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4003/4049" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4003" DMDID="DMD_wwu-journals_4003">
+            <mets:fptr FILEID="FILE0_wwu-journals_4003"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

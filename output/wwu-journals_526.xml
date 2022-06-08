@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_526">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lebenslaufpolitik – Anforderungen an Generationen- und Geschlechtergerechtigkeit in einer Gesellschaft des langen Lebens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Welskop-Deffaa, Eva M.</displayForm>
+                        <namePart type="family">Welskop-Deffaa</namePart>
+                        <namePart type="given">Eva M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungMenschen leben heute durchschnittlich 30 Jahre länger als vor 100 Jahren. Gleichzeitig ist dieses längere Leben von vervielfältigten Entscheidungsnotwendigkeiten unter den Vorzeichen medialer Beschleunigung geprägt. Orientierung bietet in der Gesellschaft des langen Lebens die Zugehörigkeit zu einer Generation. Gemeinsame Generationenerfahrungen verweisen auf objektive Ähnlichkeiten, die Politik zum Ausgangspunkt passgenauer Konzepte nehmen sollte. Lebenslaufpolitik – stimmige Politik in einer Gesellschaft des langen Lebens – muss allerdings auch der Geschlechtergerechtigkeit herausgehobene Aufmerksamkeit schenken. Eine zentrale Erwartung der Menschen an den institutionellen Rahmen besteht darin, dass die mit gemeinsam getroffenen Entscheidungen (linked lives) verbundenen Chancen und Risiken nicht strukturell geschlechtshierarchisch ungleich verteilt sind. Anhand aktueller Rentenreformdebatten macht der Beitrag abschließend deutlich, welchen Anforderungen aktive Lebenslaufpolitik konkret genügen muss.AbstractOn average, people today live 30 years longer than a hundred years ago. At the same time, this extended life is marked by the new media and the resulting acceleration of processes and multiplied needs for decision. One anchor for orientation in a long-life society is the sense of belonging to a generation. Shared experiences refer to objective similarities, on which politics should base the development of apposite concepts. Life-course politics – inherently consistent politics in a long-life society – must of course also pay particular attention to gender equity. One of the citizens’ central expectations of the institutional framework is that the opportunities and risks involved in decisions taken together (linked lives) are not distributed unequally with regard to gender. Using the example of the ongoing debates on pension reform, this paper concludes by underlining the requirements active life-course politics has to meet.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082115</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_526</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_526">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/526/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_526" DMDID="DMD_wwu-journals_526">
+            <mets:fptr FILEID="FILE0_wwu-journals_526"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

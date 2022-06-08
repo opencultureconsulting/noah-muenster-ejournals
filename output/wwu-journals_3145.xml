@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3145">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Games for Girls? A Glance Inside the Gendered Language and Symbols of Videogame Marketing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>McDaniel, Allison</displayForm>
+                        <namePart type="family">McDaniel</namePart>
+                        <namePart type="given">Allison</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Splitting commodities into separate products based on gender is a prevalent tactic used in marketing. It is commonly seen in toys, personal hygiene products, and even advertisements of different foods. By targeting separate audiences, or even excluding groups, companies may focus on creating advertisements that will resonate with the majority’s desires, which in turn equals more profit. Videogames are a special topic in advertising. Unlike other toys and products, there is oftentimes no equal or clear division between what designates “boy” games and “girl” games. There are a few games that strongly target young girls, while the rest of games are assumed to be for a male audience. As an example of gendered marketing in this area, I decide to pay particular attention to one company, videogame developer and publisher Ubisoft. Ubisoft’s Imagine sub-company creates a small, highly feminine, genre of games aimed at young girls. The Imagine series allows you to play as babysitters and fashionistas, whereas Ubisoft’s other games may allow the player to be assassins and heroes. Fitness titles and dance games are also slightly geared more towards a feminine audience, though men may also be shown playing. Therefore, what I wish to uncover from this study are the answers to two questions: “How do differences in lexical usage of videogame descriptions attempt to target a gendered audience?” and “What are some of the signifiers used in advertising to denote masculine and feminine game types?”</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>51</start>
+                                <end>55</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31201</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3145</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3145</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3145">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3145/3120" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3145" DMDID="DMD_wwu-journals_3145">
+            <mets:fptr FILEID="FILE0_wwu-journals_3145"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

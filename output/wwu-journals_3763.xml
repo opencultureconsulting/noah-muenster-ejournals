@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3763">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pastoral in der Pandemie</title>
+                        <subTitle>eingeschränkte Sichtweisen: Diskussionsbeitrag zur Umfrage  unter Pastoralreferent*innen der deutschen Bistümer</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Holzner, Martin</displayForm>
+                        <namePart type="family">Holzner</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Honemann, Elmar</displayForm>
+                        <namePart type="family">Honemann</namePart>
+                        <namePart type="given">Elmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Corona-Pandemie zeitigt auch in der Pastoral gravierende Auswirkungen. Neben den zwischenzeitlich ausgesetzten Gottesdiensten waren und sind auch viele seelsorgliche Angebote nicht wie gewohnt möglich: Für die nachhaltig beeinträchtigten Kontakten gibt es nur begrenzt adäquate Alternativen, bisherige Selbstverständlichkeiten stehen auf dem Prüfstand. Eine Umfrage des Berufsverbverbands der Pastoralreferent*innen in Deutschland zeigt auf, welche tieferliegenden Defizite zutage getreten sind. Fragen von Haupt- und Ehrenamt, von Beteiligung und Kirchenbildern werden offensichtlich. Die Vielzahl qualifizierter Einzelantworten stellt Material dar für weitere Untersuchungen.Die vorliegende Auswertung arbeitet erste Aufgaben- und Weichenstellungen für eine Kirche heraus, deren Zukunft von weit mehr als dem Ende der Pandemie abhängt.
+The COVID-19 pandemic has had a great impact on pastoral work. Although some restrictions were only temporary, such as the suspension of religious services and gatherings, pastoral work is still highly affected by the pandemic. How to adequately substitute face-to-face contact? The professional role of pastoral workers has been under scrutiny for months. A survey among this group in Germany carried out by the “Federal Association of Pastoral Assistants” confirms the current deficits and illuminates even deeper structural problems and questions, such as the relationship between pastoral staff and volunteers in the parish, the possibilities of participating in decision-making processes, and the ongoing dialog about the conception of church. The research is based on evaluations of individual interviews. Yet this article focuses on the issues, responsibilities, and priorities for the future development of pastoral work that is being challenged not only by the COVID-19 pandemic.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>215</start>
+                                <end>238</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38097</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3763</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3763">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3763/3809" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3763" DMDID="DMD_wwu-journals_3763">
+            <mets:fptr FILEID="FILE0_wwu-journals_3763"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_8">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was hält Europa zusammen? Gemeinsame Werte und ethische Konfliktfelder der europäischen Gesellschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lesch, Walter</displayForm>
+                        <namePart type="family">Lesch</namePart>
+                        <namePart type="given">Walter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Erfolg des europäischen Integrationsprojekts ist nicht allein durch die Herausbildung politischer Institutionen und durch die Vollendung von Binnenmarkt und Währungsunion zu erreichen. Europäisierung hat eine gesellschaftliche Dimension, die zwarnicht von Politik und Wirtschaft zu isolieren ist, die aber einen eigenständigen Beitrag zum ethischen Profil Europas und zur Kohäsion dieses transnationalen Gebildes leistet. Auf dieser zivilgesellschaftlichen Ebene geschieht durch die wachsende Mobilität von Menschen und durch die Bearbeitung neuer Problemkonstellationen eine Grenzen überschreitende Wertekommunikation, die sich sozialwissenschaftlich beschreiben lässt und die für die Sozialethik neuartige Arbeitsfelder erschließt. Zwischen den Konstrukten von ‚Weltgesellschaft‘, ‚Weltmarkt‘ und ‚Weltinnenpolitik‘ einerseits und der nach wie vor weitgehend nationalstaatlich gerahmten sozialethischen Analyse andererseits entsteht durch die EU ein realer Erfahrungsraum, in dem die Frage nach fairen Normen und inspirierenden Werten zum Alltag gehört. Die Suche nach gemeinsamen Werten soll die divergierenden Interessen und geschichtlichen Prägungen nicht zum Verschwinden bringen, sondern in einer Kultur der Anerkennung von Differenzen interpretierbar machen, um Konsenslösungen und Kompromisse zu formulieren, wo sie möglich sind, und Dissens zu markieren, wo er nach dem derzeitigen Stand der Dinge unüberwindbar ist. Der Zusammenhalt Europas als einer im Entstehen begriffenen transnationalen Gesellschaftsform hängt von der aktiven Bejahung des Pluralismus ab und von der Alltagstauglichkeit eines attraktiven und effizienten Sozialmodells.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>50</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>110</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2009-74</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_8</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_8">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/8/7" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_8" DMDID="DMD_wwu-journals_8">
+            <mets:fptr FILEID="FILE0_wwu-journals_8"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

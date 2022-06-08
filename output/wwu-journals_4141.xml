@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4141">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Störungen von Was eigentlich? Ein Plädoyer für eine Objekt-bezogene Einordnung sozialer Situationen als Arbeitsepisoden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scheffer, Thomas</displayForm>
+                        <namePart type="family">Scheffer</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Praktische Vollzüge sind aufwendig. Sie verlangen, um zu gelingen, nicht nur situierte Koordination, sondern auch Gegenstandsangemessenheit. Die Teilnehmerinnen, dies betont Vollmer, investieren Engagement und Know-how in die Koordination. Im Falle des Falles führen sie Störungen und Brüche zurück in eine Verfahrensweise und Methodik. Doch all die Koordination, so mein Diskussionsbeitrag, ist kein Selbstzweck. Sie ist geprägt vom behandelten Gegenstand-im-Werden. Vollmer nimmt sich der Vollzüge an, wo sie aus den Fugen zu geraten scheinen (Vollmer 2013) – und fragt, wie Akteure mit solchen Momenten umgehen. Er fragt nach den Abbrüchen, in denen eine Ordnung suspendiert und Seinsgewissheiten ausgesetzt sind. Er fragt, wie diese geheilt werden. Für den folgenden Kommentar möchte ich den Wald, nicht so sehr die Bäume von Vollmers mikrosoziologischer Perspektive betrachten. Ich möchte fragen, wie Vollmer seine Analytik ansetzt und welche praxistheoretischen Alternativen er dabei ausschlägt (1). Auf dieser Grundlage möchte ich eine objekt-zentrierte Alternative skizzieren (2) und so weitergehenden Frage nachgehen, wie es um die je bedingten Problembearbeitungskapazitäten von Arbeitszusammenhängen (3) bestellt ist.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>110</start>
+                                <end>117</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4141</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4141</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4141">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4141/4210" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4141" DMDID="DMD_wwu-journals_4141">
+            <mets:fptr FILEID="FILE0_wwu-journals_4141"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

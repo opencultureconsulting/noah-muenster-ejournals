@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1466">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Diakonische Bildung – aber wie? Aufgaben diakonischen Lernens in einer sich verändernden Gesellschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eidt, Ellen</displayForm>
+                        <namePart type="family">Eidt</namePart>
+                        <namePart type="given">Ellen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulz, Claudia</displayForm>
+                        <namePart type="family">Schulz</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag diskutiert die Frage nach den Besonderheiten und Herausforderungen diakonischer Bildungsprozesse.Im Anschluss an einen Überblick über historische und aktuelle Bildungsdiskurse imBereich der Diakoniewissenschaft fokussieren die Autorinnen diakonische Bildungsprozesse von Studierendenund Lehrenden an der Hochschule. Am Beispiel zweier Projekte forschenden Lernens – indenen Studierende mit Hilfe von Sozialraumanalysen diakonische Handlungsprofile entwarfen – analysierensie die spezifischen Anforderungen: Zu entwickeln ist zugleich eine theologische Deutung deskonkreten sozialen Handelns, eine angemessene persönliche Haltung und eine der gesellschaftlichenSituation angemessene Sprachfähigkeit im Handlungsfeld. In dieser Entwicklungsaufgabe lässt sichnicht immer unmittelbar an bisherige Erfahrungen anknüpfen. Auf diese Weise ist die Kirche als Organisationselbst diakonischen Lernprozessen ausgesetzt.This article discusses the specifics and the challenges of the educational process in the field ofdiaconia. After giving an overview over historical and present discourses in regard to education in thefield of Diaconic Science (= Diakoniewissenschaften), the authors focus on education processes ofstudents and teaching staff at a university of applied sciences. Their analysis is based on two researchprojects, in which students developed diaconal courses of action by using social space analysis. Thestudents focused on the specific requirements as well as on the need to develop a theological constructionof the concrete social action. They work demanded an appropriate personal mindset and theability to express oneself according to the social context of the sphere of action. This developmentalprocess cannot always be tied to previous experiences. Therefore, the church itself becomes subjectto diaconal learning processes.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>111</start>
+                                <end>125</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13715</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1466</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1466">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1466/1371" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1466" DMDID="DMD_wwu-journals_1466">
+            <mets:fptr FILEID="FILE0_wwu-journals_1466"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

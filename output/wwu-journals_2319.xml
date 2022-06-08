@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2319">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Relationship between memory, justice and for-giveness with a focus on Bosnia and Herzegovina</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maros, Zorica</displayForm>
+                        <namePart type="family">Maros</namePart>
+                        <namePart type="given">Zorica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article highlights the correlation between collective memory, individual sense of justice and ability of forgiveness in the Bosnian-Herzegovinian (bh) society. In this paper I want to point out that justice, in the circumstances of this kind of social arrangement, is almost constitutionally disabled. To develop my argument, in the first two parts of this article, I will start with how the instrumentalization of the past influenced the recent war in our society (1992–1995). Then I will show that the same manipulation of the past is present in today&apos;s school system as well, especially when keeping in mind that education is one of the most important institutions for the transmission of historical memory. The next two parts of the article will show why the Church’s social teaching as a valuable mechanism for establishing a just society, is lacking its applicable force. In bh society justice has been practically disabled by the present constitutional arrangement of the state, in that it prevents the culture of memory, which is a necessary mechanism of transitional justice. I will also explain why the conviction of the perpetrators may be interpreted as unjust and wrong. The last two parts of this paper discuss the possibility of forgiveness. After a general insight into this topic, the article shows the difficulties that are already encountered in the terminological concept of forgiveness, as well as in its practical application in bh society.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>127</start>
+                                <end>154</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22113</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2319</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2319">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2319/Maros" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2319" DMDID="DMD_wwu-journals_2319">
+            <mets:fptr FILEID="FILE0_wwu-journals_2319"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

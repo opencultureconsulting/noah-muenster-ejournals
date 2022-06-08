@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2116">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sexueller Missbrauch als Ausdruck von Macht und Gewalt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klein, Stephanie</displayForm>
+                        <namePart type="family">Klein</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Während die kirchliche Diskussion den sexuellen Missbrauch als ein Sexualdelikt begreift und in Kategorien der Sexualethik behandelt, wird der Kindesmissbrauch in diesem Aufsatz im Zusammenhang von Macht und Gewalt verortet. Auf diese Weise kommen neue strukturelle Dimensionen in den Blick, die im Anschluss an die handlungstheoretische Gewaltforschung analysiert werden. Nach Hinweisen auf die Verbreitung des sexuellen Missbrauchs werden zentrale Merkmale der Erfahrungen der Missbrauchsopfer (die Nivellierung als Subjekt, das Abgeschnitten‐Sein von den sozialen Bezügen und die Traumatisierung) sowie Kennzeichen des Täterverhaltens (langfristiges und planvolles Vorgehen sowie Absicherung in der sozialen Umwelt und in Machtallianzen) benannt. Zu der Frage, wie Missbrauchssysteme so lange unbehelligt bestehen können, verweist die Gewaltforschung auf Machtkartelle und Allianzsysteme, die sich gegenseitig legitimieren. Solche Allianzen konnte man auch bei der Zusammenarbeit von staatlichen Behörden und der Kirche, die Kinder in Heimen erzog, beobachten. Wenn es heute solche Heime auch kaum noch gibt, so ist doch nach Machtkartellen und Allianzen in heutigen Institutionen zu suchen, in denen Gewalt und Missbrauch unentdeckt bleiben. In der Frage, wie solche Machtkartelle, die das Bewusstsein von Mächtigen und Ohnmächtigen bestimmen, aufgebrochen werden können, wird auf Empathie für die Leidenden verwiesen.While the ecclesiastic discussion understands sexual abuse as a sexual offense and treats it in the category of sexual ethics, in this article, child sexual abuse is located in the context of power and violence. In this way, new structural dimensions are coming into view, which are analyzed according to action theoretical research of violence. After indicating the prevalence of sexual abuse, central signs of the experiences of victims of sexual abuse (the leveling as subject, the being disconnected from social relations and traumatization), and the characteristics of the behavior of perpetrators (long term and tactical advancement as well as safeguarding in the social environment and alliances of power) are named. Concerning the question how systems of abuse can persist for so long without being challenged, violence research points to power cartels and alliance systems, which legitimize each other. Such alliances could also be found in the cooperation of public authorities and the church, which educated children in institutions. Although such institutions rarely exist anymore, one still has to search for power cartels and alliances, in which violence and sexual abuse remain undetected today. Concerning the question of how such power cartels, which rule the consciousness of powerful and powerless, can be broken up, the need to listen to the suffering of the subjects and to enable empathy is emphasized.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>85</start>
+                                <end>99</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17233</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2116</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2116">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2116/2030" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2116" DMDID="DMD_wwu-journals_2116">
+            <mets:fptr FILEID="FILE0_wwu-journals_2116"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

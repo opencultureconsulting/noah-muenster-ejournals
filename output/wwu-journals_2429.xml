@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2429">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Megarians’ Tears</title>
+                        <subTitle>Localism and Dislocation in the Megarika</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tober, Daniel</displayForm>
+                        <namePart type="family">Tober</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Daniel Tober’s “Megarians’ Tears: Localism and Dislocation in the&amp;nbsp;Megarika” explores the interaction between the local and nonlocal in Megarian cultural memory and historiography in the late Classical and early Hellenistic periods. Fragments from Megarian local histories (the&amp;nbsp;Megarika), along with other sources preserving Megarian tradition (from proverbs to Pausanias’s&amp;nbsp;Periegesis), suggest that the Megarian community conceived of its mythic territory differently from other&amp;nbsp;poleis. The Megarians, occupying the isthmus between the Peloponnese on the one hand and Attica and Boiotia on the other, generated a collective memory that was itself isthmian: constricted by traditions emanating from the communities on either side and at the same time availing itself of Megara’s intermedial position. While many Greek local histories extended the reach of the focal community outward into the greater Greek world, the&amp;nbsp;Megarika&amp;nbsp;and the traditions on which they drew took the opposite approach, dragging renowned figures from the cultural memory of neighboring communities inward and binding them permanently to Megarian land through remembered burial and monumentalized tombs. By filling the Megarid with the graves of celebrated nonlocals (e.g. Adrastos, Alkmene, Ino, and Iphigeneia), Megarians constructed a collective past that advertised their territory’s important role as a facilitator of movement between the Peloponnese and the rest of peninsular Greece.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>183</start>
+                                <end>207</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2018-22970</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2429</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2429">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2429/2297" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2429" DMDID="DMD_wwu-journals_2429">
+            <mets:fptr FILEID="FILE0_wwu-journals_2429"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

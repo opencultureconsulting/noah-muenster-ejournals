@@ -1,0 +1,57 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3326</id>
+	<dc:title xml:lang="en-US">Specific immune modulation of experimental colitis drives enteric alpha-synuclein accumulation and triggers age-related Parkinson-like brain pathology</dc:title>
+	<dc:creator>Grathwohl, Stefan</dc:creator>
+	<dc:creator>Quansah, Emmanuel</dc:creator>
+	<dc:creator>Maroof, Nazia</dc:creator>
+	<dc:creator>Steiner, Jennifer A.</dc:creator>
+	<dc:creator>Spycher, Liz</dc:creator>
+	<dc:creator>Benmansour, Fethalla</dc:creator>
+	<dc:creator>Duran-Pacheco, Gonzalo</dc:creator>
+	<dc:creator>Siebourg-Polster, Juliane</dc:creator>
+	<dc:creator>Oroszlan-Szovik, Krisztina</dc:creator>
+	<dc:creator>Remy, Helga</dc:creator>
+	<dc:creator>Haenggi, Markus</dc:creator>
+	<dc:creator>Stawiski, Marc</dc:creator>
+	<dc:creator>Selhausen, Matthias</dc:creator>
+	<dc:creator>Mailver, Pierre</dc:creator>
+	<dc:creator>Wolfert, Andreas</dc:creator>
+	<dc:creator>Emrich, Thomas</dc:creator>
+	<dc:creator>Madaj, Zachary</dc:creator>
+	<dc:creator>Su, Arel</dc:creator>
+	<dc:creator>Escobar Galvis, Martha L.</dc:creator>
+	<dc:creator>Mueller, Christoph</dc:creator>
+	<dc:creator>Herrmann, Annika</dc:creator>
+	<dc:creator>Brundin, Patrik</dc:creator>
+	<dc:creator>Britschgi, Markus</dc:creator>
+	<dc:subject xml:lang="en-US">Alpha-synuclein</dc:subject>
+	<dc:subject xml:lang="en-US">Experimental colitis</dc:subject>
+	<dc:subject xml:lang="en-US">Enteric nervous system</dc:subject>
+	<dc:subject xml:lang="en-US">Parkinson's disease</dc:subject>
+	<dc:subject xml:lang="en-US">Substantia nigra</dc:subject>
+	<dc:description xml:lang="en-US">Background: In some people with Parkinson’s disease (PD), a-synuclein (αSyn) accumulation may begin in the enteric nervous system (ENS) decades before development of brain pathology and disease diagnosis.
+Objective: To determine how different types and severity of intestinal inflammation could trigger αSyn accumulation in the ENS and the subsequent development of αSyn brain pathology.
+Methods: We assessed the effects of modulating short- and long-term experimental colitis on αSyn accumulation in the gut of αSyn transgenic and wild type mice by immunostaining and gene expression analysis. To determine the long-term effect on the brain, we induced dextran sulfate sodium (DSS) colitis in young αSyn transgenic mice and aged them under normal conditions up to 9 or 21 months before tissue analyses.
+Results: A single strong or sustained mild DSS colitis triggered αSyn accumulation in the submucosal plexus of wild type and αSyn transgenic mice, while short-term mild DSS colitis or inflammation induced by lipopolysaccharide did not have such an effect. Genetic and pharmacological modulation of macrophage-associated pathways modulated the severity of enteric αSyn. Remarkably, experimental colitis at three months of age exacerbated the accumulation of aggregated phospho-Serine 129 αSyn in the midbrain (including the substantia nigra), in 21- but not 9-month-old αSyn transgenic mice. This increase in midbrain αSyn accumulation is accompanied by the loss of tyrosine hydroxylase-immunoreactive nigral neurons.
+Conclusions: Our data suggest that specific types and severity of intestinal inflammation, mediated by monocyte/macrophage signaling, could play a critical role in the initiation and progression of PD.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-05-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3326</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3326</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 13</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 13</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3326/3338</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3326/3335</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3326/3337</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-33358</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-33370</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Stefan Grathwohl, Emmanuel Quansah, Nazia Maroof, Jennifer A. Steiner, Liz Spycher, Fethalla Benmansour, Gonzalo Duran-Pacheco, Juliane Siebourg-Polster, Krisztina Oroszlan-Szovik, Helga Remy, Markus Haenggi, Marc Stawiski, Matthias Selhausen, Pierre Mailver, Andreas Wolfert, Thomas Emrich, Zachary Madaj, Arel Su, Martha L. Escobar Galvis, Christoph Mueller, Annika Herrmann, Patrik Brundin, Markus Britschgi</dc:rights>
+</oai_dc:dc>

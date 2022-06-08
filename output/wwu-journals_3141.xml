@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3141">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>A </nonSort>
+                        <title>Brief History of Book Studies in Münster</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Barth, Ellen</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Ellen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">As students, we are intimately familiar with books. They are one of our main tools of learning, pages dog-eared and passages highlighted, as we piece together term papers, presentations and theses. We know the book, but we do not necessarily consider it beyond the text it provides. But for some students at the University of Münster’s English Department, the book itself is put under the spotlight.
+Book studies is currently part of the curriculum of the National and Transnational Studies and British, American and Postcolonial Studies master’s programs. Those wanting to delve deeper into the pages of this little-known field of study can go beyond the compulsory first semester course Text, Book and Culture: Introduction to Book Studies and choose from a small selection of elective courses on offer every semester, with some past options including “Printed Poison”: the English Book Trade in Religious and Political Conflicts and Print Is Dead? Publishing in the 21st Century.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>85</start>
+                                <end>90</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31124</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3141</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3141</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3141">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3141/3112" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3141" DMDID="DMD_wwu-journals_3141">
+            <mets:fptr FILEID="FILE0_wwu-journals_3141"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

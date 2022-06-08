@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1052">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dandyismus und Popkultur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hörner, Fernand</displayForm>
+                        <namePart type="family">Hörner</namePart>
+                        <namePart type="given">Fernand</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">This article examines the figure of the dandy as a mixture of a literary, historic and idealized figure and traces the roots back to the 19th century to underline and understand the paradoxes and ambivalences of dandyism in popular culture today. The four characteristics are oscillation between being and seeming/fiction and reality, the body as an object of fascination and self-fashioning, coolness and wit and finally the power to fascinate and provoke at the same time, showing an eccentric behaviour and staying in the centre of interest at the same time. The ambivalences of dandyism start with the first dandy of all time, George Brummell, who, at the same time, reclined to be called a dandy and was therefore, according to the elaborations of this figure in anecdotes, essays, caricatures etc., not only the first but also the last dandy, an original never to be achieved again. The dandy manages to make itself a work of art, not only in the classical sense, but also in the sense of performance art or even pop art. Thus, he takes his own body as a work of art, from the pornographic photos of Jeff Koons aka Gym Dandy to the chirurgical artificiality of Michael Jackson. Dandies like Jackson, Prince or Miles Davis refer directly to the tradition of the black dandy, once a symbol of the black slaves trying to be as elegant as his white oppressors, but then reconsidered as a positive sign of black elegance mixed with provoking if not frightening virility. All this is combined with the dandy’s typical coolness and his ability to use his words as a weapon for which Brummell remains the prototype. Dandyism is the art of juggling with these elements but not from the position of an outsider, but from inside a bored society that at once repel these figures and is attracted to them. The article wants to underline that the relation of dandyism and popular culture must be reconsidered in relation to the often forgotten figure of the black dandy.--------------URN: urn:nbn:de:hbz:6:3-20131111195</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>POP. Kultur &amp; Kritik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">POP. Kultur &amp; Kritik</publisher>
+                        </originInfo>
+                        <identifier type="issn">2194-6981</identifier>
+                        <part>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20131111195</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1052</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1052">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/pop/article/download/1052/995" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1052" DMDID="DMD_wwu-journals_1052">
+            <mets:fptr FILEID="FILE0_wwu-journals_1052"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

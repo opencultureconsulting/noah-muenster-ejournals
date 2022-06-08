@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_28">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Finanz- und Wirtschaftskrise – Folgen für die Arbeitswelt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schäfers, Michael</displayForm>
+                        <namePart type="family">Schäfers</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die ursprünglich von den USA ausgehende Finanz- und Wirtschaftskrise hat globale und weitreichende Konsequenzen für die lohnabhängig Beschäftigten und die Arbeitswelt. In den USA verlieren Arbeitnehmerhaushalte ihre Immobilien, weltweit steigenArbeitslosigkeit und prekäre Beschäftigung. Die bereits vor der Krise zunehmende Ungleichheit in den Einkommensverhältnissen wird durch weitere Umverteilungsprozesse verschärft und durch Massenarbeitslosigkeit beschleunigt, denn der Jobverlust in der Krise hat langfristige Folgen. Zudem drohen die Spaltungstendenzen in den Betrieben sich weiter zuzuspitzen. Die Vertrauenskultur in den Betrieben schwindet. Angst macht sich breit. Obwohl Deutschland im europäischen Vergleich glimpflich durch die Krise kommen könnte, lassen sich darüber hinaus weitreichende Folgen für die soziale Sicherung und die kollektive Interessenvertretung der Arbeitnehmerschaft feststellen. Zu befürchten ist, dass die menschliche Arbeit durch weitere Deregulierung und Flexibilisierung zum „Puffer“ der Krisenbewältigung degradiert wird. Eine konzeptionelle Beseitigung der Ursachen für die Finanz- und Wirtschaftskrise seitens der Politik ist derzeit nicht erkennbar. Dennoch hat in der Zivilgesellschaft verstärkt ein Nachdenken über zukunftsfähige Lösungen angesichts der Krisen eingesetzt. Dreh- und Angelpunkt der „sozialen Fragen“ bleibt der Vorrang der Arbeit vor dem Kapital.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>81</start>
+                                <end>95</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-248</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_28</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_28">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/28/24" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_28" DMDID="DMD_wwu-journals_28">
+            <mets:fptr FILEID="FILE0_wwu-journals_28"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2159">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religion als Ressource unter Bedingungen der Migration</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gärtner, Christel</displayForm>
+                        <namePart type="family">Gärtner</namePart>
+                        <namePart type="given">Christel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hennig, Linda</displayForm>
+                        <namePart type="family">Hennig</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag greift die kontroverse Diskussion um Religion als Ressource für die Integration von Zugewanderten auf. An empirischen Fallbeispielen wird gezeigt, wie Religion konkret zur Bearbeitung von (Identitäts-)krisen und der Bewältigung von Lebensanforderungen in Migrationskontexten genutzt werden kann. Anhand einer intersektionalen Analyse von Biografien migrierter Musliminnen mit der Methode der objektiven Hermeneutik werden zwei kontrastierende Typen dargestellt. Im Fall einer Gastarbeitertochter mit niedriger Ressourcenausstattung wird rekonstruiert, wie biografische Entwicklungen und Integration durch religiöse Bildung und Positionierung befördert werden. Dagegen wird im Fall einer individualisierten Kosmopolitin mit hoher Ressourcenausstattung Religion für die Persönlichkeitsentwicklung mobilisiert. Die Analyse deutet darauf hin, dass religionsbasierte Lösungen biografischer Krisen nicht determinieren, ob der Verlauf in eine gesellschaftliche Integration oder Desintegration mündet.AbstractThe article addresses the controversy about religion as a resource for the integration of immigrants. Drawing on empirical case studies we show how religion can be used pragmatically as means for dealing with (identity-)crises and life challenges in migratory contexts. An intersectional analysis of biographies of Muslim migrant women employing the method of objective hermeneutics, reveals two contrasting types. The reconstruction of the case of a guest worker’s daughter with low resources shows how biographical development and integration are supported by religious education and self-identification. In contrast, in the case of a highly individualized cosmopolitan woman religion is mobilized for personal development. The analysis suggests that religion-based solutions of biographical crises do not determine whether the process results in social integration or disintegration.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20728</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2159</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2159">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2159/2072" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2159" DMDID="DMD_wwu-journals_2159">
+            <mets:fptr FILEID="FILE0_wwu-journals_2159"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

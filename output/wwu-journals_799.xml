@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_799">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Protestantische Ethik und Demokratie. Ein deutschsprachiger Literaturbericht seit 1945</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Polke, Christian</displayForm>
+                        <namePart type="family">Polke</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag beschäftigt sich mit wichtigen Stationen der Annäherung von Demokratie und Protestantismus auf dem Gebiet der deutschsprachigen, protestantischen Ethik nach 1945. Standen zu Beginn – unter dem Eindruck der Folgen der NS-Diktatur – vor allem die Ansätze von Karl Barth und Dietrich Bonhoeffer im Mittelpunkt, denen es um den Nachweis der Affinität demokratischer Werte mit christlichen Glaubensgrundsätzen ging, so konzentrierte sich in den 1970er und 1980er Jahren die Debatte um die politischen Implikationen der christlichen Freiheit (libertas christiana). Liberaltheologische Stimmen mit ihrer Betonung der individuellen Autonomie fanden sich Positionen gegenüber, die stärker die Gleichursprünglichkeit von Individuum und Gemeinschaft betonten. Nach Wende und Wiedervereinigung rückten Phänomene wie der religiöse Pluralismus sowie das Problem der weltanschaulichen Neutralität des Staates in den Vordergrund. Bis heute konzentriert sich die protestantische Ethik der Demokratie vornehmlich auf rechtliche Aspekte. Andere Fragestellungen, wie nach der Rolle der zivilgesellschaftlichen Öffentlichkeit in einer Mediendemokratie oder der Autonomie des Rechts gegenüber Moral und Politik, blieben bislang weitgehend ausgespart.AbstractThis paper takes a look at important stages in the convergence of democracy and Protestantism within German protestant ethics after 1945. If at first and in the aftermath of the Nazi regime the debate focused on the approaches of Karl Barth and Dietrich Bonhoeffer, both of whom emphasised the affinities of democratic values and Christian belief, there was a notable shift towards the political implications of Christian liberty (libertas christiana) in the 1970s and 80s. Liberal theologians with their emphasis on individual autonomy found themselves opposed to stances insisting on the equiprimordiality of individual and community. After the fall of the Berlin Wall and the German reunification, questions of religious pluralism and the state’s ideological neutrality came to the fore. To date, the Protestant ethics of democracy chiefly concentrate on legal issues. Other matters, such as the question of the role of the civil public in a media democracy, or the autonomy of law from morality and politics, have so far been left unconsidered.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2013120293</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_799</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_799">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/799/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_799" DMDID="DMD_wwu-journals_799">
+            <mets:fptr FILEID="FILE0_wwu-journals_799"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

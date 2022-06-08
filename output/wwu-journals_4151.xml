@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4151">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Weshalb und wozu ist Soziologie multiparadigmatisch? Bemerkungen zum Vorschlag von Johann August Schülein</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reitz, Tilman</displayForm>
+                        <namePart type="family">Reitz</namePart>
+                        <namePart type="given">Tilman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Thema des zu kommentierenden Textes ist wichtig und seine Ausgangsthese allenfalls zuzuspitzen: Die Soziologie pflegt selbst verglichen mit anderen Sozialwissenschaften sehr heterogene, einander oft widerstreitende Zugänge zur Wirklichkeit des Zusammenlebens. Wer das Fach vertritt, kann sich für diese ›multiparadigmatische‹ Verfasstheit schämen oder stolz darauf sein. Sie erlaubt Debatten und Vorgehensweisen, die keiner einheitlichen Lehre und Ordnung unterliegen, bedingt aber auch Ärgernisse, die dem Zerfall in Teilgemeinschaften geschuldet sind: einseitige und begrifflich unzureichend kontrollierte Methoden, wiederholte Entdeckungen des Gleichen in verschiedenen Idiomen, einen Sog zu Schuldogmatismus und Laienphilosophie, der gerade von experimentelleren Denkern wie Luhmann oder Oevermann ausgeht. Johann August Schülein schlägt vor, diese Eigenart der Soziologie nicht zu beklagen oder zu feiern, sondern aus »der Logik ihres Gegenstandes« zu begreifen. Zugleich legt er einen wissenschaftssoziologischen Blick auf die Konflikte des Fachs nahe. Seine Annahme, dass die »Mittel der Soziologie [...] kaum bis gar nicht dazu verwendet [werden], zu erklären, warum es überhaupt zu Konflikten dieser Art kommt und wie sie verlaufen« (S. 193), blendet zwar vielleicht schon diverse ›Paradigmen‹ aus – Mannheim, Foucault und marxistische Ansätze. Doch weitere, genauere Forschungen und Reflexionen sind angesichts der Unklarheiten, die man dort jeweils antrifft, hochgradig wünschenswert.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>247</start>
+                                <end>253</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4151</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4151</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4151">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4151/4234" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4151" DMDID="DMD_wwu-journals_4151">
+            <mets:fptr FILEID="FILE0_wwu-journals_4151"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

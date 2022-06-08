@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1283">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Menschenrechtsrezeption in der Kirche</title>
+                        <subTitle>Was hat sich bisher entwickelt? Theologisch-ethische Perspektiven</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hilpert, Konrad</displayForm>
+                        <namePart type="family">Hilpert</namePart>
+                        <namePart type="given">Konrad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungIm Jahre 1963 hat sich die katholische Kirche in der Enzyklika Pacem in terris zum ersten Mal auf oberster Ebene explizit und vorbehaltlos zu den Menschenrechten als Voraussetzung und Garantie des weltweiten Friedens bekannt. Seitdem ist das Thema Menschenrechte zu einem zentralen und vielfach behandelten Gegenstand kirchlichen Sprechens und Handelns geworden. Der vorliegende Beitrag untersucht die Rezeption der Menschenrechte anhand der kompletten amtlichen Verlautbarungen auf Weltebene zum Thema und analysiert sie hinsichtlich ihrer Selbstpositionierung zur kirchlichen Lehrtradition, ihres spezifischen Profils und ihrer Entwicklungen. Er stellt weiterhin die Fragen nach den tatsächlichen Auswirkungen und nach dem Spannungspotential, das die Anerkennung der Menschenrechtsbewegung für die Kirche selbst und ihre Moralverkündigung in sich birgt.AbstractIn 1963, the Catholic Church for the first time explicitly and without reservations acknowledged human rights as prerequisite for and guarantee of world peace in the encyclical Pacem in terris. Since then, human rights have become a central and much discussed issue of ecclesial discourse and action. This contribution examines the reception of human rights on the basis of the complete official statements on human rights worldwide and analyses their position with regard to doctrinal tradition, their specific profile and their developments. It further investigates the real effects human rights may have on the Church itself, and the potential tension that the acknowledgement of the human rights movement may hold in store for the Church itself and its moral preaching.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12224</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1283</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1283">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1283/1222" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1283" DMDID="DMD_wwu-journals_1283">
+            <mets:fptr FILEID="FILE0_wwu-journals_1283"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

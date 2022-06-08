@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3317</id>
+	<dc:title xml:lang="en-US">Neurodegeneration: 2021 update</dc:title>
+	<dc:creator>Crary, John Fonda</dc:creator>
+	<dc:subject xml:lang="en-US">Neurodegeneration</dc:subject>
+	<dc:subject xml:lang="en-US">Neuropathology</dc:subject>
+	<dc:subject xml:lang="en-US">Alzheimer disease</dc:subject>
+	<dc:subject xml:lang="en-US">Tauopathy</dc:subject>
+	<dc:subject xml:lang="en-US">α-synucleinopathy</dc:subject>
+	<dc:subject xml:lang="en-US">Chronic traumatic encephalopathy</dc:subject>
+	<dc:subject xml:lang="en-US">Cryogenic electron microscopy</dc:subject>
+	<dc:subject xml:lang="en-US">Proteomics</dc:subject>
+	<dc:description xml:lang="en-US">This article reviews a collection of manuscripts in the field of neurodegenerative disease chosen from what are considered by the author to be among the 10 most important and potentially impactful topics or research trends of 2020 relevant to the field of experimental and diagnostic neuropathology. A deliberate effort was made to provide balance among disease categories covered. The result is a varied selection that includes not just individual papers but also research topics and trends. The association of COVID-19 with longer-term neurological symptoms has launched a research trend fueled by speculation that the SARS-CoV-2 might trigger neurodegenerative changes. The onslaught of transcriptomic studies has begun to give way to proteomics, with three transformative studies published examining glial contributions to Alzheimer disease, cerebral atherosclerosis in cognitive decline, and the complex sequence of post-translational modifications of the tau protein. Plasma biomarkers for Alzheimer disease have continued to make rapid advances, especially around highly sensitive assays capable of detecting different forms of abnormal hyperphosphorylated tau in peripheral blood. Two studies using cryo-electron microscopy showed the power of the approach by continuing to elucidate the diversity of filamentous tau inclusions, and a third study gave the first glimpse of α-synuclein aggregates at near atomic resolution. Another study continued to delineate how different α-synuclein conformers (“strains”) target specific brain regions and lead to neurodegeneration. In Huntington’s disease, we saw compelling molecular data showing how cells adapt to endoplasmic reticulum stress through the unfolded protein response. Finally, the role of astrocytes in chronic traumatic encephalopathy has emerged as a critical area of interest.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-04-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Review</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3317</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3317</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 9</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 9</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3317/3320</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3317/3319</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-33194</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 John Fonda Crary</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Vielfalt der Verletzbarkeit und die Ambivalenz der Sensibilität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nungesser, Frithjof</displayForm>
+                        <namePart type="family">Nungesser</namePart>
+                        <namePart type="given">Frithjof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Gewaltsoziologie untersucht bislang primär das Ausüben, wenig jedoch das Erleiden von Gewalt. Vor diesem Hintergrund möchte der vorliegende Aufsatz zeigen, dass die Analyse menschlicher Verletzbarkeit, also die Möglichkeit Schaden zu nehmen und zu leiden, als wesentlicher Gegenstand gewaltsoziologischer Forschung erachtet werden sollte. Um die Vielfalt der Vulnerabilität des Menschen – seine »Verletzungsoffenheit« (Popitz) – konzeptuell zu erfassen, werden sechs Kanäle der Sensibilität identifiziert: Körperkontrolle, Handlungssinn, soziale Einbettung, Territorien des Selbst, personaler Status und identitätsstiftende Werte. Anhand eines breiten Spektrums von Beispielen wird illustriert, dass jeder dieser Kanäle in unterschiedlichen Kontexten angesteuert werden kann: Von Situationen extremer asymmetrischer Gewalt über gezielte nicht-physische Verletzungskontexte bis hin zu nicht-intentionalen oder strukturellen Zusammenhängen. Anschließend wird gezeigt, dass die identifizierten Kanäle auch hochgradig positiven und erfüllenden Erfahrungen zugrunde liegen, wodurch die Ambivalenz der Sensibilität erkennbar wird. Zum Abschluss werden sieben Thesen zur allgemeineren sozialtheoretischen Relevanz von Verletzbarkeit und Sensibilität skizziert, die auf das Zusammenspiel von passiven und aktiven sowie positiven und negativen Erfahrungsdimensionen zielen und den Wurzeln sowie der Spezifik der menschlichen Verletzbarkeit nachgehen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>24</start>
+                                <end>37</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4191</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4191</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4191">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4191/4273" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4191" DMDID="DMD_wwu-journals_4191">
+            <mets:fptr FILEID="FILE0_wwu-journals_4191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

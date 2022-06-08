@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3432">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lässt sich Kirche entwickeln? Fünf Herausforderungen aktueller Prozesse  der Kirchenentwicklung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kläden, Tobias</displayForm>
+                        <namePart type="family">Kläden</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Containerbegriff „Kirchenentwicklung“ bezieht sich gemeinhin auf intendierte pastorale Veränderungs- und Transformationsprozesse. Er impliziert die Unvermeidlichkeit, Notwendigkeit und Möglichkeit dieser Prozesse sowie die Notwendigkeit externer Impulse. Behauptet werden fünf Perspektiven der Herausforderung, der die kirchlichen Akteur*innen nicht ausweichen können: Überwindung der Binnenperspektive, Intensivierung des Lebens als Christ*in, Ermöglichung und Partizipation, Dienstleistung/Mitgliederorientierung sowie die (zukünftige) Minderheitsposition des Christentums. Kirchliche Organisationen können das „Eigentliche“ von Kirchenentwicklungsprozessen, pastorale Praxis, nicht top-down herstellen, sondern nur gute Rahmenbedingungen für sie schaffen.
+The container term “church development” generally refers to intended pastoral changes and transformation processes. It implies the inevitability, necessity, and possibility of these processes as well as the necessity of external impulses. Five challenging perspectives are asserted which church actors cannot avoid: overcoming the internal perspective, intensifying life as a Christian, empowerment and participation, service/member orientation, and the (prospective) minority position of Christianity. Church organizations cannot produce the “essence” of church development processes – pastoral practice – in a top-down manner, but rather create proper framework conditions for them.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>131</start>
+                                <end>152</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34286</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3432</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3432">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3432/3428" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3432" DMDID="DMD_wwu-journals_3432">
+            <mets:fptr FILEID="FILE0_wwu-journals_3432"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

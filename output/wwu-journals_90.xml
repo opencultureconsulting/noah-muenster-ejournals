@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_90">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rationierung von Gesundheitsleistungen aus Altersgründen? Perspektiven theologischer Ethik unter Berücksichtigung intergenerationeller Gerechtigkeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dabrock, Peter</displayForm>
+                        <namePart type="family">Dabrock</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Verteilung knapper bzw. als knapp erachteter Gesundheitsgüter stellt uns vor ethische Herausforderungen: Nach welchen Kriterien sollen Güter zugeteilt werden? Auf der Basis welcher normativer Vorüberlegungen lassen sich solche Kriterien entwickeln? Wie unterscheiden sich diese normativen Vorüberlegungen, wie unterscheiden sich die daraus resultierenden Kriterien der Zuteilung voneinander? Welche Kriterien entwickelt eine theologische Ethik, die ihren Orientierungsmaßstab in der Heiligen Schrift findet? Im vorliegenden Beitrag werden aus dem alttestamentlichen ‚Elterngebot‘ Maßstäbe für eine gegenwärtige theologisch-ethische Beurteilung der Einbeziehung eines Alterskriteriums bei Verteilungsfragen im Gesundheitswesen entwickelt. Die bisweilen einseitige Darstellung des höheren Anteils älterer Menschen an der Gesamtzahl der Versicherten als Grund für die Überlastung der GKV wird dabei ebenso kritisiert wie die Auffassung, Alter sei ein besonders gerechtes Rationierungskriterium, weil diese Lebensphase prinzipiell allen Versicherten bevorstehe. In Auseinandersetzung mit anderen, nicht-theologischen ethischen Grundlagentheorien wird schließlich eine ‚kontextsensible, aber nicht begründungsvergessene‘ theologisch-ethische Perspektive skizziert, die insbesondere vor den Folgen eines konstruierten Generationenkonflikts warnt und demgegenüber einen ‚Generationen integrierenden und differenzierenden Grundsatz der Befähigungsgerechtigkeit‘ in den Mittelpunkt stellt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>241</start>
+                                <end>261</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-842</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_90</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_90">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/90/84" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_90" DMDID="DMD_wwu-journals_90">
+            <mets:fptr FILEID="FILE0_wwu-journals_90"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

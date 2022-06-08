@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_107">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Arbeiter(innen) ohne Grenzen. Zur Dringlichkeit einer sozialethischen Reflexion über transnationale Fürsorgearbeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schnabl, Christa</displayForm>
+                        <namePart type="family">Schnabl</namePart>
+                        <namePart type="given">Christa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungTransnationale Fürsorgemigration ist aufgrund ihrer wachsenden Relevanz als »neue soziale Frage« zu bezeichnen. Die katholische Kirche zeigt in der Sozialenzyklika Caritas in veritate und der Instruktion Erga migrantes caritas eine hohe Sensibilität gegenüber dem Globalisierungsphänomen »Migration«. Allerdings rückt die Figur der »weiblichen Care-Arbeit« in diesem Zusammenhang erst allmählich ins kirchliche Bewusstsein. Darunter fallen die »24-Stunden-Hilfe«, Au-Pairs und Nannys, aber auch Haushaltshilfen, da sich »care work« und »domestic work« vielfach nicht klar trennen lassen. Nicht nur geografisch befinden sich diese Fürsorgearbeiterinnen in einer trans-nationalen Situation, sondern auch ihre Arbeit ist wesentlich durch diverse Grenzüberschreitungen gekennzeichnet.In dem folgenden Beitrag erfolgt eine Beschreibung weiblicher, ethnisierter Fürsorgearbeit mit besonderem Augenmerk auf mögliche Diskriminierungszusammenhänge, die sich aus der irregulären Arbeitssituation in Privathaushalten ergeben. Integraler Bestandteil dieser Beschreibung sind auch zentrale Konzepte des gegenwärtigen Diskurses zu transnationaler Fürsorgemigration wie etwa sogenannte »global care chains« und »transnationale Mutterschaft/Familie«. Daran anschließend werden sozialethische Handlungsoptionen im Dialog mit bereits bestehenden Vorschlägen des Päpstlichen Rats der Seelsorge für die Migranten und Menschen unterwegs entwickelt. Zentral sind hierbei die nach wie vor ungelöste Problematik von Arm und Reich und die ungelöste Frage der Geschlechtergerechtigkeit, die beide zusammengenommen die treibenden Motoren im Prozess transnationaler Fürsorgearbeitsmigration sind.AbstractTransnational care migration can be seen as a “new social issue” because of its growing societal relevance. The social encyclical Caritas in veritate and the instruction Erga migrantes caritas are official Vaticanian documents which make apparent the great sensitivity shown by the Catholic Church in relation to the phenomenon of migration in the context of globalization. In contrast to this general fundamental awareness, female care has only recently begun to be noticed. The term “care work” encompasses, e. g., au-pairs, nannies and domestic care workers. Care workers should be considered in a transnational context, not only geographically but also with respect to the different elements of care work. Care work can be defined by different border transitions, physically and symbolically.This contribution describes female, ethnic care work and especially focuses on the potential contexts of discrimination embedded in this kind of work because of the particular working conditions, mainly in the private sphere. Among the several topics discussed in this paper are the so called “global care chains” as well as the phenomenon of “transnational motherhood/families”. After describing the main social aspects of care work in the context of globalization, I will develop different societal-ethical options based on the dialogue with the recommendations of the Pontifical Council for the pastoral Care of Migrants and Itinerant People. The discussion needs to focus on the unsolved problems of the chasm between poor and the rich in an international context and the unsolved question of justice between men and women. Both poverty and the lack of gender justice need to be considered together because both of them are the intertwined driving forces in the process of transnational care work migration.urn:nbn:de:hbz:6:3-2012012773</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012012773</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_107</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_107">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/107/98" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_107" DMDID="DMD_wwu-journals_107">
+            <mets:fptr FILEID="FILE0_wwu-journals_107"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2287">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Singles und Kasualien - wie passt das zusammen?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bernhardt, Birte</displayForm>
+                        <namePart type="family">Bernhardt</namePart>
+                        <namePart type="given">Birte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Evangelische suchen ihre Kirche vorwiegend an Weihnachten und vor allem an familiären Übergängenin ihrem Leben auf: wenn ein Kind geboren worden ist, wenn ein Kind langsam erwachsen wird, wennzwei Menschen beschließen, ihre Partnerschaft verbindlich zu machen, wenn ein Mensch gestorbenist. Die üblichen vier Kasualien Taufe, Konfirmation, Trauung und Bestattung entsprechen idealerweisediesen Übergängen. Viele Menschen gründen jedoch keine Familie, manche bleiben über langeStrecken ihres Lebens Single. Sie werden von den klassischen vier Kasualien nur in Ausnahmefällenerreicht und erleben diese auch nicht immer unbedingt positiv. Zum Teil haben sie aber Erfahrungenmit „neuen Kasualien“ gesammelt, die an anderen Übergangspunkten eines Erwachsenenlebens angesiedeltsind.Protestant Christians usually attend church during Christmas time and especially when there are transitionsin their lives: a child is born, a child slowly becomes an adult, two people decide to make alasting commitment to each other or someone has died. The typical four occasional liturgies, namelybaptism, confirmation, marriage ceremony and funeral, ideally match with these life transitions. However,there are many people who never start a family; some stay single for long periods in their life.That is why they are rarely reached by these characteristic liturgies and if they are present, it is notalways a positive experience for them. Some have, however, made experiences with „new occasionalliturgies“ which are related to other transition points in adult lives than those named above.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21819</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2287</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2287">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2287/2181" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2287" DMDID="DMD_wwu-journals_2287">
+            <mets:fptr FILEID="FILE0_wwu-journals_2287"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

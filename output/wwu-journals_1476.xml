@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1476">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Taufe des Äthiopiers</title>
+                        <subTitle>eine alternative Theologie der Taufpastoral</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fuchs, Ottmar</displayForm>
+                        <namePart type="family">Fuchs</namePart>
+                        <namePart type="given">Ottmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Unter dem Eindruck einer faszinierenden Äthiopienreise wird über die Taufe des Äthiopiers in derApostelgeschichte nachgedacht als gegenwartsbedeutsame Erinnerung an die ziemlich unbekannteTradition einer Taufpastoral, die weniger eine Initiation in bestehende Gemeinschafts- und Glaubensformenanzielt denn die Freigabe in die Unbekannte neuer Vorstellungen des Glaubens und der Sozialformender Getauften in den Blick nimmt. Solche Freigabe vertraut auf die in der Taufe verbürgteWegbegleitung der Getauften durch den Heiligen Geist in ihren „fernen“ Biographien, Familien undGesellschaften.Being enraptured by the memories of a fascinating journey through parts of Ethiopia, the author pondersthe story of the Ethiopian’s baptism in the Acts. The article suggests that there exists a ratherhidden tradition, which may be important for the future view of baptism as it addresses some of thechallenges of our societies. Against the dominating understanding of baptism as initiation into alreadyrealized shapes of communities and faith, this tradition sees baptism as a freeing and fresh startingpoint with maybe surprising impacts on the lives, the social arrangements and habits of the baptized.Such an openness is rooted in the confidence that the Holy Spirit will accompany the baptizedthroughout their lives, both within their families and within society.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>261</start>
+                                <end>279</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13800</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1476</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1476/1380" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1476" DMDID="DMD_wwu-journals_1476">
+            <mets:fptr FILEID="FILE0_wwu-journals_1476"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

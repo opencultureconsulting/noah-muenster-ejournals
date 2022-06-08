@@ -1,0 +1,264 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3326">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Specific immune modulation of experimental colitis drives enteric alpha-synuclein accumulation and triggers age-related Parkinson-like brain pathology</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grathwohl, Stefan</displayForm>
+                        <namePart type="family">Grathwohl</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Quansah, Emmanuel</displayForm>
+                        <namePart type="family">Quansah</namePart>
+                        <namePart type="given">Emmanuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maroof, Nazia</displayForm>
+                        <namePart type="family">Maroof</namePart>
+                        <namePart type="given">Nazia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steiner, Jennifer A.</displayForm>
+                        <namePart type="family">Steiner</namePart>
+                        <namePart type="given">Jennifer A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spycher, Liz</displayForm>
+                        <namePart type="family">Spycher</namePart>
+                        <namePart type="given">Liz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Benmansour, Fethalla</displayForm>
+                        <namePart type="family">Benmansour</namePart>
+                        <namePart type="given">Fethalla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Duran-Pacheco, Gonzalo</displayForm>
+                        <namePart type="family">Duran-Pacheco</namePart>
+                        <namePart type="given">Gonzalo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Siebourg-Polster, Juliane</displayForm>
+                        <namePart type="family">Siebourg-Polster</namePart>
+                        <namePart type="given">Juliane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Oroszlan-Szovik, Krisztina</displayForm>
+                        <namePart type="family">Oroszlan-Szovik</namePart>
+                        <namePart type="given">Krisztina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Remy, Helga</displayForm>
+                        <namePart type="family">Remy</namePart>
+                        <namePart type="given">Helga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haenggi, Markus</displayForm>
+                        <namePart type="family">Haenggi</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stawiski, Marc</displayForm>
+                        <namePart type="family">Stawiski</namePart>
+                        <namePart type="given">Marc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Selhausen, Matthias</displayForm>
+                        <namePart type="family">Selhausen</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mailver, Pierre</displayForm>
+                        <namePart type="family">Mailver</namePart>
+                        <namePart type="given">Pierre</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolfert, Andreas</displayForm>
+                        <namePart type="family">Wolfert</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Emrich, Thomas</displayForm>
+                        <namePart type="family">Emrich</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Madaj, Zachary</displayForm>
+                        <namePart type="family">Madaj</namePart>
+                        <namePart type="given">Zachary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Su, Arel</displayForm>
+                        <namePart type="family">Su</namePart>
+                        <namePart type="given">Arel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Escobar Galvis, Martha L.</displayForm>
+                        <namePart type="family">Escobar Galvis</namePart>
+                        <namePart type="given">Martha L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mueller, Christoph</displayForm>
+                        <namePart type="family">Mueller</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Herrmann, Annika</displayForm>
+                        <namePart type="family">Herrmann</namePart>
+                        <namePart type="given">Annika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brundin, Patrik</displayForm>
+                        <namePart type="family">Brundin</namePart>
+                        <namePart type="given">Patrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Britschgi, Markus</displayForm>
+                        <namePart type="family">Britschgi</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: In some people with Parkinson’s disease (PD), a-synuclein (αSyn) accumulation may begin in the enteric nervous system (ENS) decades before development of brain pathology and disease diagnosis.
+Objective: To determine how different types and severity of intestinal inflammation could trigger αSyn accumulation in the ENS and the subsequent development of αSyn brain pathology.
+Methods: We assessed the effects of modulating short- and long-term experimental colitis on αSyn accumulation in the gut of αSyn transgenic and wild type mice by immunostaining and gene expression analysis. To determine the long-term effect on the brain, we induced dextran sulfate sodium (DSS) colitis in young αSyn transgenic mice and aged them under normal conditions up to 9 or 21 months before tissue analyses.
+Results: A single strong or sustained mild DSS colitis triggered αSyn accumulation in the submucosal plexus of wild type and αSyn transgenic mice, while short-term mild DSS colitis or inflammation induced by lipopolysaccharide did not have such an effect. Genetic and pharmacological modulation of macrophage-associated pathways modulated the severity of enteric αSyn. Remarkably, experimental colitis at three months of age exacerbated the accumulation of aggregated phospho-Serine 129 αSyn in the midbrain (including the substantia nigra), in 21- but not 9-month-old αSyn transgenic mice. This increase in midbrain αSyn accumulation is accompanied by the loss of tyrosine hydroxylase-immunoreactive nigral neurons.
+Conclusions: Our data suggest that specific types and severity of intestinal inflammation, mediated by monocyte/macrophage signaling, could play a critical role in the initiation and progression of PD.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-33358</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3326</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3326</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3326">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3326/3338" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3326">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3326/3335" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3326">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3326/3337" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3326" DMDID="DMD_wwu-journals_3326">
+            <mets:fptr FILEID="FILE0_wwu-journals_3326"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3326" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3326"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3326" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3326"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

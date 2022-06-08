@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3138">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Film</title>
+                        <subTitle>A Motivating and Effective Medium for Teaching English? Summary of a Master’s Thesis on the Use of Films in English Foreign Language Teaching in North Rhine-Westphalia, Germany</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Naylor, Nathalie</displayForm>
+                        <namePart type="family">Naylor</namePart>
+                        <namePart type="given">Nathalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">With English being by far the most frequently taught foreign language in the German school system, English teachers have a special responsibility for ensuring their pupils’ language learning motivation and preparing them for real life communication with native speakers of different linguistic varieties outside school(Diehr 62). Working with films is considered an increasingly appreciated means of achieving these aims: films are motivating and authentic media which are a lso relevant in the pupils’ daily life outside school. In addition, films can be employed to promote different competences as well as the widely demanded film andmedia literacy that is called for by various institutions and associations&amp;nbsp;in Germany such as the Kultusministerkonferenz or the congress Cinema goes School: In its 2012 declaration on media education, the Kultusministerkonferenz states that media education is part of the schools’ teaching mission and thus has to be firmly established in German schools as an obligatory element of education.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>105</start>
+                                <end>110</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31088</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3138</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3138</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3138">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3138/3108" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3138" DMDID="DMD_wwu-journals_3138">
+            <mets:fptr FILEID="FILE0_wwu-journals_3138"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

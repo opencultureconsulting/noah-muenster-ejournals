@@ -1,0 +1,150 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3684">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Medulloblastoma and Cowden Syndrome</title>
+                        <subTitle>Further Evidence of an Association</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Albrecht, Steffen</displayForm>
+                        <namePart type="family">Albrecht</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miedzybrodzki, Barbara</displayForm>
+                        <namePart type="family">Miedzybrodzki</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Palma, Laura</displayForm>
+                        <namePart type="family">Palma</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nguyen, Van Hung</displayForm>
+                        <namePart type="family">Nguyen</namePart>
+                        <namePart type="given">Van Hung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dudley, Roy W.R.</displayForm>
+                        <namePart type="family">Dudley</namePart>
+                        <namePart type="given">Roy W.R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pietsch, Torsten</displayForm>
+                        <namePart type="family">Pietsch</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Goschzik, Tobias</displayForm>
+                        <namePart type="family">Goschzik</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jabado, Nada</displayForm>
+                        <namePart type="family">Jabado</namePart>
+                        <namePart type="given">Nada</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Goudie, Catherine</displayForm>
+                        <namePart type="family">Goudie</namePart>
+                        <namePart type="given">Catherine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Foulkes, William D.</displayForm>
+                        <namePart type="family">Foulkes</namePart>
+                        <namePart type="given">William D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Cowden syndrome (CS) is an autosomal dominant hamartoma and tumor predisposition syndrome caused by heterozygous pathogenic germline variants in PTEN in most affected individuals. Major features include macrocrania, multiple facial tricholemmomas, acral and oral keratoses and papillomas, as well as mammary, non-medullary thyroid, renal, and endometrial carcinomas. Lhermitte-Duclos disease (LDD), or dysplastic gangliocytoma of the cerebellum, is the typical brain tumor associated with CS; the lifetime risk for LDD in CS patients has been estimated to be as high as 30%. In contrast, medulloblastoma is much rarer in CS, with only 4 reported cases in the literature. We report a 5th such patient. All 5 patients were diagnosed between 1 and 2 years of age and not all showed the pathognomonic clinical stigmata of CS at the time of their medulloblastoma diagnosis. Where detailed information was available, the medulloblastoma was of the SHH-subtype, in keeping with the observation that in sporadic medulloblastomas, PTEN-alterations are usually encountered in the SHH-subtype. Medulloblastomas can be associated with several tumor-predisposition syndromes and of the 4 medulloblastoma subtypes, SHH-medulloblastomas in children have the highest prevalence of predisposing germline variants (approx. 40%). CS should be added to the list of SHH-medulloblastoma-associated syndromes. Germline analysis of PTEN should be performed in infants with SHH-medulloblastomas, regardless of their clinical phenotype, especially if they do not carry pathogenic germline variants in PTCH1 or SUFU, the most commonly altered predisposing genes in this age-group. In addition, these cases show that CS has a biphasic brain tumor distribution, both in regards to the age of onset and the tumor type: a small number of CS patients develop a medulloblastoma in infancy while many more develop LDD in adulthood.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-37844</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3684</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3684</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3684">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3684/3784" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3684">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3684/3785" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3684" DMDID="DMD_wwu-journals_3684">
+            <mets:fptr FILEID="FILE0_wwu-journals_3684"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3684" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3684"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

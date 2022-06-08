@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2227">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unterschiede, die einen Unterschied machen? - Überlegungen zur Alters- und Generationendiversität in Gesellschaft und Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feeser-Lichterfeld, Ulrich</displayForm>
+                        <namePart type="family">Feeser-Lichterfeld</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die meisten Begriffe, die wir viel und selbstverständlich gebrauchen, offenbaren bei genauerem Blick eine ausgeprägte Mehrdeutigkeit. Mit „Alter“, „Generation“ und „Diversität“ ist es nicht anders. Von daher braucht es die Vergewisserung, was (alles) mit diesen Schlagworten bezeichnet und beschrieben werden kann. Erst dann erschließt sich ihr Potenzial für eine geschärfte Wahrnehmung und aufmerksame Reflexion der Wirklichkeiten und der Konstruktionen, mit denen Gesellschaft und Kirche im Alters- und Generationendiskurs hantieren – oder dies anstelle undifferenzierter Stereotype besser tun sollten. Auf diese Weise eröffnet sich eine diversitätssensible Perspektive auf die unterschiedlichen Wege des Altwerdens und die vielen Gesichter der je eigenen Lebensalter. Auch die Rede von Generationen und Generationendialogen bekommt eine neue Qualität. Die sich über die Lebensspanne dynamisch und plural hinweg entwickelnde Religiosität sowie die Erfahrungs- und Meinungsvielfalt zur kirchlichen Sozialform „Gemeinde“ seien hierfür zwei exemplarische Fokussierungen.Most of the terms that we use a lot and in a seemingly self-evident way reveal a pronounced ambiguity on closer inspection. The same holds true for terms such as &quot;age&quot;, &quot;generation&quot; and &quot;diversity&quot;. Therefore, it is necessary to define what exactly can be described with these keywords. It is only then that their potential for a sharpened perception and a more attentive reflection of those realities and constructions which society and the church use in age and generation discourse is revealed – or better should do in place of using undifferentiated stereotypes. In this way, a diversity-sensitive perspective on the different ways of aging and the many faces of each distinct age opens up. Furthermore, the speech of generations and the dialogue between generations gets a new quality. Two exemplary focal points are religious beliefs, which develop dynamically and plurally over the lifespan, as well as the plurality of experiences with and opinions on the ecclesiastical social form &quot;parish&quot; resp. &quot;community&quot;.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>193</start>
+                                <end>207</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21280</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2227</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2227">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2227/2128" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2227" DMDID="DMD_wwu-journals_2227">
+            <mets:fptr FILEID="FILE0_wwu-journals_2227"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

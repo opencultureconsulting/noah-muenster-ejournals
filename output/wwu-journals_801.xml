@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Demokratie – systematisch-theologische Aspekte ihrer Genese</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Anzenbacher, Arno</displayForm>
+                        <namePart type="family">Anzenbacher</namePart>
+                        <namePart type="given">Arno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDie politische Demokratie etablierte sich in Europa erst relativ spät. Ihre Genese zeigt, welche Faktoren ihr Entstehen förderten und welche es blockierten. Freiheit, Gleichheit und Partizipation, die Basiswerte der Demokratie, finden sich theologisch schon im Idealbild der frühen christlichen Gemeinde bei Paulus. Auf drei blockierende Faktoren wird näher eingegangen: auf die ständische Überformung der Subjektstellung, den politischen Wahrheitsanspruch der Herrschaft und die defizienten Partizipationschancen der Menschen. An ihrer Überwindung waren vor allem Christentum und Aufklärung beteiligt. Die Genese macht deutlich, dass eine funktionsfähige politische Demokratie nur gelingen kann, wenn bestimmte soziale Voraussetzungen hinreichend gegeben sind.AbstractPolitical democracy established itself in Europe comparatively late. Its origins show which factors were conducive to and which factors impeded its development. The foundational values of democracy – freedom, equality, and participation – can already be found in Paul’s early Christian community. Three of the impeding factors are inspected more closely: the corporative transformation of the subject status, the political truth claim of authority , and the insufficient opportunities for popular participation. The major agents in overcoming these impediments were Christianity and the Enlightenment. The history of its genesis emphasises that political democracy can only succeed if particular social requirements are adequately met.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2013120246</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_801</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_801">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/801/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_801" DMDID="DMD_wwu-journals_801">
+            <mets:fptr FILEID="FILE0_wwu-journals_801"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

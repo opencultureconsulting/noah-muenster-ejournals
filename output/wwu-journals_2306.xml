@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2306">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religiöse Bildung als Transformationsprozess - Erörterungen zwischen Bildungstheorie und Empirie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Morawski, Marcin</displayForm>
+                        <namePart type="family">Morawski</namePart>
+                        <namePart type="given">Marcin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag befasst sich mit der Frage, ob und wie religiöse Bildung als Transformationsprozessverstanden werden kann. Dabei erfolgt zunächst eine Auseinandersetzung mit dem transformatorischenBildungsbegriff, wie er in der gegenwärtigen Erziehungswissenschaft etwa von Hans-ChristophKoller konzipiert wurde. Anschließend werden ausgewählte theologische und religionspädagogischeKonzepte eines transformatorischen Bildungsbegriffes vorgestellt und zum erziehungswissenschaftlichenAnsatz in Bezug gesetzt. Dies dient als Ausgangspunkt für die empirische Untersuchung vontransformatorischen Bildungsprozessen in den Biografien polnischstämmiger ReligionslehrerInnen,wobei ein Akzent auf die Frage nach der Relevanz von Fremdheitserfahrungen gelegt wird. Den Abschlussbildet die Frage nach dem Verhältnis von Bildungsprozess und den professionsbezogenen Zielvorstellungenund Überzeugungen der untersuchten Lehrkräfte.This paper deals with the question of whether and to what extent religious education can be regardedas a process of transformation. First of all, the transformational concept of education, as it was putforward within the field of present-day education by authors such as Hans-Christoph Koller, is investigated.Subsequently, selected theological and religious-pedagogical aspects regarding a transformativeconcept of education are presented and further on related to the educational approach. Thisserves as a starting point for the empirical evaluation of transformational educational processes in thebiographies of religious teachers of Polish origin, focussing on the relevance of experiences of foreignness.The paper concludes with an analysis of the relationship between educational process and professionalgoals as well as beliefs of the teachers surveyed in this study.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>69</start>
+                                <end>85</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21988</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2306</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2306">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2306/2198" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2306" DMDID="DMD_wwu-journals_2306">
+            <mets:fptr FILEID="FILE0_wwu-journals_2306"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

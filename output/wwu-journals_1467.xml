@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1467">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Zeichen der Zeit zu deuten wissen. Interreligiöse Bildung als pastorale Aufgabe im Kontext religiöser Pluralität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sajak, Clauß Peter</displayForm>
+                        <namePart type="family">Sajak</namePart>
+                        <namePart type="given">Clauß Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein signifikantes Charakteristikum unserer Zeit ist die Auflösung religiöser Homogenität und die darausresultierende weltanschauliche wie religiöse Pluralität. Während im Kontext schulischer Bildung dasinterreligiöse Lernen deshalb immer mehr an Bedeutung gewinnt, spielt die interreligiöse Bildung inpastoralen Zusammenhängen kaum eine Rolle. Das ist insofern besonders bedauerlich, als dass derLernort Gemeinde gegenüber der Schule den Vorteil einer sog. doppelten Authentizität von religiösemVollzug und interreligiöser Begegnung besitzt. Insofern mutet merkwürdig an, wenn die geplante undreflektierte Begegnung von Menschen unterschiedlicher Religionen im Leben einer gewöhnlichenPfarrgemeinde immer noch so selten stattfindet.The breakup of the traditional religious homogeneity as well as the resulting plurality in matters ofworld views and religion are significant characteristics of our time. While interreligious learning playsan ever increasing role in the schools, the churches rarely take part in this development. This articleviews the parish as a place of learning where religious expressions and interreligious communicationcould go hand in hand. The author discusses – with dismay – that this type of planned and reflectedcommunication between people of different religions is often missing in the life of an average congregation.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>127</start>
+                                <end>139</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13729</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1467</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1467">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1467/1372" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1467" DMDID="DMD_wwu-journals_1467">
+            <mets:fptr FILEID="FILE0_wwu-journals_1467"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

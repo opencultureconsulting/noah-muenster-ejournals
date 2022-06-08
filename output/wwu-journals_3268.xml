@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3268">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurodevelopmental disorders</title>
+                        <subTitle>2021 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zamora-Moratalla, Alfonsa</displayForm>
+                        <namePart type="family">Zamora-Moratalla</namePart>
+                        <namePart type="given">Alfonsa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Martínez de Lagrán, María</displayForm>
+                        <namePart type="family">Martínez de Lagrán</namePart>
+                        <namePart type="given">María</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dierssen, Mara</displayForm>
+                        <namePart type="family">Dierssen</namePart>
+                        <namePart type="given">Mara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">One of the current challenges in the field of neurodevelopmental disorders (NDDs) is still to determine their underlying aetiology and risk factors. NDDs comprise a diverse group of disorders primarily related to neuro-developmental dysfunction including autism spectrum disorder (ASD), developmental delay, intellectual dis-ability (ID), and attention-deficit/hyperactivity disorder (ADHD) that may present with a certain degree of cognitive dysfunction and high prevalence of neuropsychiatric outcomes. Last year, advances in human ge-nomics have begun to shed light on the genetic architecture of these disorders and large-scale sequencing studies are starting to reveal mechanisms that range from unique genomic DNA methylation patterns (i.e. “episignatures”) to highly polygenic conditions. In addition, the contribution of de novo somatic mutations to neurodevelopmental diseases is being recognized. However, progressing from genetic findings to underlying neuropathological mechanisms has proved challenging, due to the increased resolution of the molecular and genetic assays. Advancement in modelling tools is likely to improve our understanding of the origin of neuro-developmental disorders and provide insight into their developmental mechanisms. Also, combined in vivo editing of multiple genes and single-cell RNA-sequencing (scRNA-seq) are bringing us into a new era of un-derstanding the molecular neuropathology of NDDs.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-32846</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3268</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3268</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3268">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3268/3289" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3268">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3268/3284" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3268" DMDID="DMD_wwu-journals_3268">
+            <mets:fptr FILEID="FILE0_wwu-journals_3268"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3268" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3268"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1399">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Gott ist jeden Augenblick neu“ (E. Schillebeeckx). Plädoyer für eine eschato-praktisch geerdete Pastoraltheologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Loiero, Salvatore</displayForm>
+                        <namePart type="family">Loiero</namePart>
+                        <namePart type="given">Salvatore</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Plädoyer für eine eschato-praktisch geerdete Pastoraltheologie zielt auf das Praxispotentialeiner Kirche, die als passeuse (Übersetzerin) des Überraschungseffekts Gottes den Menschenim Kraftfeld des Evangeliums immer wieder so begegnet, dass diese der Offenheit undWeite ihres Wesens und den Möglichkeiten ihrer Potentiale zu trauen und sie im Jetzt zu leben beginnen.The call for an „eschato-practically“ grounded pastoral theology focuses on the practical potentialof a church, which – as the vessel that transmits the surprise effect of God – repeatedlyconfronts people within the force field of the Gospel, so that they trust the openness and vastnessof their being as well as the possibilities inherent in their potential and begin to live life inthe moment.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>257</start>
+                                <end>269</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13181</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1399</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1399">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1399/1318" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1399" DMDID="DMD_wwu-journals_1399">
+            <mets:fptr FILEID="FILE0_wwu-journals_1399"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

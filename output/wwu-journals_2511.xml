@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2511">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Doing Christian Social Ethics in the Czech Republic</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Štica, Petr</displayForm>
+                        <namePart type="family">Štica</namePart>
+                        <namePart type="given">Petr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Christliche Sozialethik in der Tschechischen Republik ist in den Kontext einer stark säkularisierten Gesellschaft eingebettet. Der Dialog der theologischen Sozialethik mit einer Gesellschaft, die den Kirchen gegenüber meistens skeptisch eingestellt ist und zugleich nicht einfach als atheistisch beschrieben werden kann, stellt eine spezifische Herausforderung für die tschechische Theologie dar. Die Christliche Sozialethik ist folglich – in vielerlei Hinsicht – herausgefordert, die Grenzen des ‚eigenen Hauses‘ zu überschreiten. Im ersten Teil des Aufsatzes wird der historische, soziale und kirchliche Kontext in den Fokus genommen. Dann werden die aktuelle Situation im Bereich der akademischen Lehre der Christlichen Sozialethik an den tschechischen staatlichen Universitäten vorgestellt und die nach 1989 erschienenen wichtigsten Buchpublikationen in Christlicher Sozialethik präsentiert. Abschließend werden einige Herausforderungen für christlich-sozialethisches Arbeiten in Tschechien formuliert.</abstract>
+                    <abstract lang="eng">Christian social ethics in the Czech Republic is embedded within a highly secularized society. Since this society is mostly sceptical towards the Churches, but can nonetheless not be seen simply as atheistic, the dialogue that theological social ethics has with society is a specific challenge for theology in the Czech Republic. Christian social ethics is therefore faced with having to cross its own borders in several ways. I will focus in the first part of this article on the historical, social, and ecclesial context. I will then present the current situation in teaching Christian social ethics at state universities, as well as the most relevant publications in Christian social ethics published in the Czech Republic since 1989. Finally, I will outline some challenges for doing Christian social ethics in the Czech Republic.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23907</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2511</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2511</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2511">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2511/2390" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2511" DMDID="DMD_wwu-journals_2511">
+            <mets:fptr FILEID="FILE0_wwu-journals_2511"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3889">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>سؤال الذات والحرية بين الموروثين العربيّ-الإسلاميّ والغربي</title>
+                        <subTitle>إشكالية التنوير في تمحّلاتها</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <nonSort>The </nonSort>
+                        <title>Question of self and freedom between the Arab-Islamic and Western traditions</title>
+                        <subTitle>The problematic of enlightenment in its striving</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Diani, Morad</displayForm>
+                        <namePart type="family">Diani</namePart>
+                        <namePart type="given">Morad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">يعرض‭ ‬هذا‭ ‬البحث‭ ‬لأحد‭ ‬الأبعاد‭ ‬الرئيسة‭ ‬لسُؤال‭ ‬التنوير‭ ‬في‭ ‬السياق‭ ‬العربيّ‭ ‬الإسلاميّ‭ ‬المُتمثِّل‭ ‬في‭ ‬سُؤال‭ ‬الذاتيّة،‭ ‬بشكلٍ‭ ‬موصول‭ ‬بسؤال‭ ‬الحرية‭. ‬نسعى‭ ‬في‭ ‬هذه‭ ‬الورقة‭ ‬البحثية‭ ‬إلى‭ ‬تقديم‭ ‬فهم‭ ‬متسق‭ ‬لأسباب‭ ‬غياب‭ ‬الذات‭ ‬الفردية‭ ‬في‭ ‬السياقات‭ ‬العربيّة‭ ‬الإسلاميّة،‭ ‬متوسّلين‭ ‬بفرضيتين‭ ‬بحثيتين؛‭ ‬تخصّ‭ ‬الفرضية‭ ‬الأولى‭ ‬الارتباط‭ ‬المتصل‭ ‬Continuum‭ ‬بين‭ ‬غياب‭ ‬التنوير،‭ ‬وغياب‭ ‬الحرية،‭ ‬وغياب‭ ‬الذاتيّة‭ ‬الفردية‭ ‬في‭ ‬السياقات‭ ‬العربيّة‭ ‬الإسلاميّة،‭ ‬ماضيًا‭ ‬وحاضرًا؛‭ ‬وتنفي‭ ‬الفرضية‭ ‬الثانية‭ ‬موجب‭ ‬تغييب‭ ‬الذاتيّة‭ ‬الفردية‭ ‬في‭ ‬الموروث‭ ‬العربيّ‭ ‬الإسلاميّ‭ ‬–على‭ ‬مستوى‭ ‬معياريّ–‭ ‬بغلبة‭ ‬الذات‭ ‬العلوية،‭ ‬لتؤكّد‭ ‬بالأحرى‭ ‬أنها‭ ‬جرت‭ ‬إزاحتها‭ ‬من‭ ‬خلال‭ ‬طغيان‭ ‬الذات‭ ‬الجماعية‭ ‬و‭ ‬‮«‬بارادايم‭ ‬الجماعة‮»‬‭. ‬ومن‭ ‬ثمّ،‭ ‬أطروحتنا‭ ‬في‭ ‬هذا‭ ‬البحث‭ ‬أنّ‭ ‬الذات‭ ‬الفردية‭ ‬في‭ ‬السياق‭ ‬العربيّ‭ ‬الإسلاميّ‭ ‬ما‭ ‬فتئت‭ ‬تغيب‭ ‬غيابًا‭ ‬قسريًا‭ ‬بفعل‭ ‬سيادة‭ ‬‮«‬فقه‭ ‬الغلبة‭ ‬والاستبداد‮»‬‭. ‬ومن‭ ‬ثمّ،‭ ‬يظلّ‭ ‬سؤال‭ ‬التنوير‭ ‬مؤجلًا‭ ‬ومرهونًا‭ ‬بالتصدي‭ ‬لأسئلة‭ ‬الذات‭ ‬الفردية‭ ‬واستقلالها‭ ‬عن‭ ‬الأغيار‭.‬</abstract>
+                    <abstract lang="eng">The aim of this research is to examine one of the main aspects of the question of enlightenment in the Arab-Islamic context‭, ‬which is the question of subjectivity‭, ‬in a way that is related to the question of freedom‭. ‬I try to provide a consistent understanding of the reasons for the absence of the individual self in Arab-Islamic contexts‭, ‬based on two hypotheses‭: ‬The first concerns‭ ‬the continuum link between the absence of enlightenment‭, ‬the absence of freedom and the absence of individual subjectivity in Arab-Islamic contexts‭; ‬in the second hypothesis‭, ‬I emphasize that the absence of individual subjectivity in the Arab-Islamic heritage‭ -‬at a normative level‭-, ‬is not caused by the presence of the transcendent‭, ‬but rather by the strong presence of the collectivism and the‭ ‬‮«‬Community Paradigm‮»‬‭. ‬Thus‭, ‬my thesis in this research is that the individual self in the Arab-Islamic context has‭ ‬been forcibly absent due to the rule of‭ ‬‮«‬predominance and tyranny‮»‬‭. ‬For that‭, ‬the question of enlightenment remains deferred‭.‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3889</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3889</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3889">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3889/3946" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3889">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3889/4217" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3889" DMDID="DMD_wwu-journals_3889">
+            <mets:fptr FILEID="FILE0_wwu-journals_3889"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3889" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3889"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

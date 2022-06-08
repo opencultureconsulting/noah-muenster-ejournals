@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4018">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Marktkritik als Kapitalismusanalyse?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maurer, Andrea</displayForm>
+                        <namePart type="family">Maurer</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der kapitalistischen Wirtschaftsform werden je nach theoretischer Position zum einen die Fähigkeit zugeschrieben, wirtschaftliches Wachstum und materiellen Wohlstand hervorzubringen und zum anderen unkalkulierbare materielle und soziale Krisen zu verursachen. Das Potential kapitalistisch organisierter Wirtschaftssysteme zur Steigerung der Produktion und Verteilung begehrter Güter und Dienstleistungen beizutragen, wurde von frühen politischen Ökonomen wie Adam Smith in England und im Anschluss daran dann auch durch die Vertreter der modernen ökonomischen Theorie von v. Hayek über Keynes bis Friedman hervorgehoben. Aber auch in der klassischen Sozialökonomik – insbesondere von Max Weber, Werner Sombart, Joseph A. Schumpeter – wurden die positiven Rationalisierungs- und Abstimmungseffekte hervorgehoben. Dieses klassischmoderne Denken bezieht sich wesentlich auf die Grundidee des sich selbst über den Preis- und Wettbewerbsmechanismus selbst regulierenden Marktes. Dieser wird dann als die institutionelle Rahmung der Produktion beschrieben, welche wohlfahrtssteigernde Effekte ohne zentrale Entscheidungen und Steuerungen hervorzubringen vermag; einerlei, ob diese durch Diktatoren, Expertengruppen oder Mehrheitsentscheidungen zustande kommen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>123</start>
+                                <end>132</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4018</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4018</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4018">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4018/4064" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4018" DMDID="DMD_wwu-journals_4018">
+            <mets:fptr FILEID="FILE0_wwu-journals_4018"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

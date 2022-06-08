@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2292">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Womit kann ich dienen?&quot; - Vorüberlegungen und Fragen im Vorfeld der Erstellung des Konzeptes einer Sozialraumorientierten Pastoral</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klein, Harald</displayForm>
+                        <namePart type="family">Klein</namePart>
+                        <namePart type="given">Harald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zusammenhang der Neustrukturierung der Seelsorge wird in den deutschen Diözesen häufig die„Sozialraumorientierte Pastoral“ als Ausweg aus einer erlebten Krise genannt. Aus sozialarbeiterischerPerspektive werden in diesem Artikel die Begriffe „Sozialraum“ und „Sozialraumorientierung“ geschichtlicheingeordnet. Sozialraumorientierung in der Sozialen Arbeit konkretisiert sich in der Wahrungvon fünf Prinzipien, die handlungsleitend sind. Die Systemtheorie Niklas Luhmanns ermöglicht es,„Soziale Arbeit“ und „Religion“ als zwei Systeme der Gesellschaft zu vergleichen. „SozialraumorientiertePastoral“ stellt zum einen den Transfer von Wissensbeständen des einen in das andere System dar.Dieser Transfer kann wissenschaftstheoretisch nur gelingen, wenn konvergierende Optionen zwischenden Systemen „Soziale Arbeit“ und „Religion“ im Blick auf Zielgruppe und Intention bestimmt werden.In der Logik der Systemtheorie müssen die Prinzipien der Sozialraumorientierung zum anderen daraufhinuntersucht werden, ob sie „theologisch übersetzt“ werden können, d. h., ob sie exegetisch,sozialethisch und lehramtlich verantwortet und kommuniziert werden können. Nur dann können sieals Handlungsprinzipien einer „Sozialraumorientierten Pastoral“ Geltung haben.Related to the restructuring of spiritual welfare, “pastoral care in social space orientation” seems tooffer a way out of a pastoral crisis in the German Catholic Church. From a social worker’s perspective,this article analyses the terms “social space” and “social space orientation” in a historical context.Social space orientation within the field of social work is based on and defined by five guideline principles.The system theory of Niklas Luhmann enables us to compare the two systems “social work” and“religion” as two systems of society. “Pastoral care in social space orientation” means a transfer ofscientific knowledge from one into another system. From an epistemological view, this transfer willsucceed only if converging options between the systems “social work” and “religion” regarding targetgroups and intention can be defined. In system theories logic, the principles of social space orientationshould be analysed regarding the possibility of a “theological translation” and regarding their exegetical,socio-ethical and dogmatical accountability as well as their communicational feasibilty. Only thenare these principles applicable as principles for pastoral care in social space orientation.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>77</start>
+                                <end>92</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21841</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2292</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2292">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2292/2184" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2292" DMDID="DMD_wwu-journals_2292">
+            <mets:fptr FILEID="FILE0_wwu-journals_2292"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

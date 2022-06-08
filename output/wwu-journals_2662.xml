@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2662">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neurotrauma</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perl, Daniel P</displayForm>
+                        <namePart type="family">Perl</namePart>
+                        <namePart type="given">Daniel P</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Neurotrauma represents a major public health problem and is one of the leading causes of death and disability worldwide. Despite its high prevalence, there are major gaps in our understanding of the underlying patho-physiology leading to the substantial morbidity and mortality associated with this problem. Here, ten studies published in 2019 are reviewed that addressed issues related to the acute and long-term effects of neurotrau-ma. These studies can be broken down into three separate categories, namely, the importance of neurotrau-ma-based damage to the cerebrovascular unit, white matter damage following neurotrauma, and research related to the long-term neurodegenerative consequences of repeated head trauma, especially chronic trau-matic encephalopathy. The advances highlighted here indicate that progress has been made. However, major gaps in knowledge remain which will require additional neuropathologic studies of clinical specimens, as well as the development and investigation of a wide range of relevant pre-clinical models. Further efforts in this field are clearly needed if there are to emerge better clinical outcomes for the numerous patients that suffer neuro-trauma each year as well as those currently suffering from its long-term effects.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-26119</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2662</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2662</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2662">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2662/2611" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2662">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2662/2612" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2662" DMDID="DMD_wwu-journals_2662">
+            <mets:fptr FILEID="FILE0_wwu-journals_2662"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2662" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2662"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

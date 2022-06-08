@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3761">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>offene Ende der Apostelgeschichte</title>
+                        <subTitle>Impulse für eine Pastoral der (sozialen) Raumkonstruktion</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brand, Fabian</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wie kann inmitten der vielfältigen Lebensräume der Menschen hier und heute das Reich Gottes anbrechen? Die Verkündigung des Evangeliums in Wort und Tat, wie sie in der Apostelgeschichte beschrieben wird, legt den Gedanken einer „Pastoral der (sozialen) Raumkonstruktion“ nahe. Wo Menschen an ihren alltäglichen Orten miteinander das Gotteswort und ihr Leben teilen, konstruieren sie einen Raum, der eine hohe Ähnlichkeit zum ureigenen Lebensraum Gottes aufweist. Dort verhelfen sie nicht nur dem Gottesreich zum Anbruch, sondern schreiben die Geschichte des Evangeliums mit dem eigenen Leben fort.
+How can the Kingdom of God dawn in the midst of the diverse living spaces of people here and now? The proclamation of the Gospel in word and deed, as described in the Acts of the Apostles, suggests the idea of a &quot;pastoral ministry of (social) space construction&quot;. Where people share the Word of God and their lives with one another in their everyday places, they construct a space that bears a high resemblance to God&apos;s very own living space. There, they not only help the Kingdom of God to dawn, but also continue to write the story of the Gospel with their own lives.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>185</start>
+                                <end>199</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38075</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3761</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3761">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3761/3807" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3761" DMDID="DMD_wwu-journals_3761">
+            <mets:fptr FILEID="FILE0_wwu-journals_3761"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

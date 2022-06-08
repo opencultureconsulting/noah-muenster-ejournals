@@ -1,0 +1,180 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3049">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Inhibiting the mitochondrial pyruvate carrier does not ameliorate synucleinopathy in the absence of inflammation or metabolic deficits</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Peelaerts, Wouter</displayForm>
+                        <namePart type="family">Peelaerts</namePart>
+                        <namePart type="given">Wouter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bergkvist, Liza</displayForm>
+                        <namePart type="family">Bergkvist</namePart>
+                        <namePart type="given">Liza</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>George, Sonia</displayForm>
+                        <namePart type="family">George</namePart>
+                        <namePart type="given">Sonia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Johnson, Michaela</displayForm>
+                        <namePart type="family">Johnson</namePart>
+                        <namePart type="given">Michaela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meyerdirk, Lindsay</displayForm>
+                        <namePart type="family">Meyerdirk</namePart>
+                        <namePart type="given">Lindsay</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulz, Emily</displayForm>
+                        <namePart type="family">Schulz</namePart>
+                        <namePart type="given">Emily</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steiner, Jennifer A.</displayForm>
+                        <namePart type="family">Steiner</namePart>
+                        <namePart type="given">Jennifer A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Madaj, Zachary</displayForm>
+                        <namePart type="family">Madaj</namePart>
+                        <namePart type="given">Zachary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ma, Jiyan</displayForm>
+                        <namePart type="family">Ma</namePart>
+                        <namePart type="given">Jiyan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Becker, Katelyn</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Katelyn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nilsson, K. Peter R.</displayForm>
+                        <namePart type="family">Nilsson</namePart>
+                        <namePart type="given">K. Peter R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Colca, Jerry R.</displayForm>
+                        <namePart type="family">Colca</namePart>
+                        <namePart type="given">Jerry R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brundin, Patrik</displayForm>
+                        <namePart type="family">Brundin</namePart>
+                        <namePart type="given">Patrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Epidemiological studies suggest a link between type-2 diabetes and Parkinson’s disease (PD) risk. Treatment of type-2 diabetes with insulin sensitizing drugs lowers the risk of PD. We previously showed that the insulin sensitizing drug, MSDC-0160, ameliorates pathogenesis in some animal models of PD. MSDC-0160 reversibly binds the mitochondrial pyruvate carrier (MPC) protein complex, which has an anti-inflammatory effect and restores metabolic deficits. Since PD is characterized by the deposition of α-synuclein (αSyn), we hypothesized that inhibiting the MPC might directly inhibit αSyn aggregation in vivo in mammals. To answer if modulation of MPC can reduce the development of αSyn assemblies, and reduce neurodegeneration, we treated two chronic and progressive mouse models; a viral vector-based αSyn overexpressing model and a pre-formed fibril (PFF) αSyn seeding model with MSDC-0160. These two models present distinct types of αSyn pathology but lack inflammatory or autophagy deficits. Contrary to our hypothesis, we found that a modulation of MPC in these models did not reduce the accumulation of αSyn aggregates or mitigate neurotoxicity. Instead, MSDC-0160 changed the post-translational modification and aggregation features of αSyn. These results are consistent with the lack of a direct effect of MPC modulation on synuclein clearance in these models.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-30670</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-3049</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3049</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3049">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3049/3068" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3049">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3049/3067" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3049">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3049/3066" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3049" DMDID="DMD_wwu-journals_3049">
+            <mets:fptr FILEID="FILE0_wwu-journals_3049"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3049" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3049"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3049" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3049"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

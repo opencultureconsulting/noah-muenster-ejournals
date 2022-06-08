@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3545">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation und Demokratieförderung im Wohnumfeld durch Gemeinwesenarbeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riede , Milena</displayForm>
+                        <namePart type="family">Riede</namePart>
+                        <namePart type="given">Milena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gemeinwesenarbeit ist eine zentrale Netzwerkakteurin und baut themenspezifische und unspezifische Netze zwischen Menschen, Gruppen und Institutionen im Gemeinwesen. Hierbei fördert sie eine partizipative, diversitätssensible und soziale Stadtentwicklung und unterstützt gemeinschaftliche Aktivitäten der Menschen zur Gestaltung der Lebenswelt. Lebensverhältnisse sollen im Sinne der Anwohner*innen verbessert werden, wobei insbesondere auf die Einbeziehung ökonomisch und/oder sozial Benachteiligter geachtet wird, so dass deren Interessen ebenfalls Gehör finden. Durch die Schaffung dauerhafter Beteiligungsstrukturen gelingt es, die politische Responsivität auch für Menschen mit niedrigem sozioökonomischem Status zu verbessern. Mit Hilfe kreativer, nachhaltiger Angebote kann Gemeinwesenarbeit Lust auf Zukunft und die Gestaltbarkeit der Lebenswelt wecken.</abstract>
+                    <abstract lang="eng">Community work is a central network actor and builds topic-specific and non-specific networks between people, groups and institutions in the community. In doing so, it promotes participatory, diversity-sensitive social urban development and supports people’s joint activities to shape their living environment. Living conditions are to be improved in the sense of the residents, whereby particular attention is paid to the inclusion of economically and/or socially disadvantaged people, so that their interests are also heard. By creating permanent participation structures, it is possible to improve political responsiveness also for people with a low socio-economic status. With the help of creative, sustainable offers, community work can awaken a desire for the future and the ability to shape the living environment.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>171</start>
+                                <end>194</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-36980</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3545</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3545</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3545">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3545/3698" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3545" DMDID="DMD_wwu-journals_3545">
+            <mets:fptr FILEID="FILE0_wwu-journals_3545"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

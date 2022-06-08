@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3395">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>SARS-CoV-2 vaccination induced cerebral venous sinus thrombosis</title>
+                        <subTitle>Do megakaryocytes, platelets and lipid mediators make up the orchestra?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chiang, Kate Chander</displayForm>
+                        <namePart type="family">Chiang</namePart>
+                        <namePart type="given">Kate Chander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Raghavan, Ravi</displayForm>
+                        <namePart type="family">Raghavan</namePart>
+                        <namePart type="given">Ravi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gupta, Ajay</displayForm>
+                        <namePart type="family">Gupta</namePart>
+                        <namePart type="given">Ajay</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The COVID-19 vaccines comprised of adenoviral vectors encoding the Spike (S) glycoprotein of SARS-CoV-2 are highly effective but associated with rare thrombotic complications. The adenovirus vector infects epithelial cells expressing the coxsackievirus and adenovirus receptor (CAR). The S glycoprotein expressed locally stimulates neutralizing antibody and cellular immune responses. These vaccines have been associated with thromboembolic events including cerebral venous sinus thrombosis (CVST). S glycoprotein stimulates the expression of cyclooxygenase-2 (COX-2) and leads to massive generation of thromboxane A2 in COVID-19. Megakaryocytes express CAR and we postulate that S glycoprotein stimulated generation of thromboxane A2 leads to megakaryocyte activation, biogenesis of activated platelets and thereby increased thrombogenicity. Cerebral vein sinuses express podoplanin, a natural ligand for CLEC2 receptors on platelets. Platelets traversing through the cerebral vein sinuses could be further activated by thromboxane A2-dependent podoplanin-CLEC2 signaling, leading to CVST. A prothrombotic hormonal milieu, and increased generation of thromboxane A2 and platelet activation in healthy females compared to males is consistent with increased risk for CVST observed in women. We propose that antiplatelet agents targeting thromboxane A2 receptor signaling such as low-dose aspirin merit consideration for chemoprophylaxis when administering the adenovirus based COVID-19 vaccines to young adults at risk of thrombosis provided there are no contraindications.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-34464</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3395</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3395</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3395">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3395/3445" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3395">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3395/3446" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3395" DMDID="DMD_wwu-journals_3395">
+            <mets:fptr FILEID="FILE0_wwu-journals_3395"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3395" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3395"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

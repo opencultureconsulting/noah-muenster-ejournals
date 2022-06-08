@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_67">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pflicht zur Solidarität? Zur Legitimität sozialer Sicherungssysteme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bobbert, Monika</displayForm>
+                        <namePart type="family">Bobbert</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Begriff der Solidarität ist vielfältig in seinen Bedeutungen und seinem moralischen Geltungsanspruch. Insgesamt lässt sich in Bezug auf das Solidaritätskonzept ein Begründungsdefizit feststellen, und es zeigt sich das Erfordernis, den Gegenstandsbereich zu klären. Unstrittig ist, dass Solidarität eng mit der Norm der sozialen Gerechtigkeit verbunden ist, ja häufig scheint implizit ein Verständnis individueller moralischer Rechte vorausgesetzt zu werden. Wenn in der Sozialstaatsdebatte bisher selbstverständliche Solidaritätsleistungen in Frage gestellt werden, gilt es zu erörtern, inwiefern man begründet von Solidaritätspflichten reden kann, worin sie bestehen und ob sie aufgekündigt werden dürfen. Mit Hilfe des Ansatzes von Alan Gewirth, der grundlegende individuelle Rechte zu begründen vermag, wird gezeigt, dass sich die gemeinsam finanzierte Gewährleistung bestimmter sozialer Hilfen von moralischen Individualrechten her, das heißt gewissermaßen ‚von unten nach oben‘ entfalten lässt. Ausgehend von grundlegenden Rechten bzw. Hilfspflichten lässt sich die Existenz bestimmten sozialer Institutionen mit guten Gründen fordern und bestehende Institutionen können hinsichtlich ihrer Strukturen und Effekte kritisiert werden. Außerdem lassen sich strittige Fragen wie das Recht auf Arbeit oder auf Privateigentum argumentativ ausleuchten.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>48</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>181</start>
+                                <end>204</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2007-611</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_67</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_67">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/67/61" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_67" DMDID="DMD_wwu-journals_67">
+            <mets:fptr FILEID="FILE0_wwu-journals_67"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

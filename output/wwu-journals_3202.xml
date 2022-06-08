@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3202">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Säkulare Existenzen</title>
+                        <subTitle>Führungskräfte und die Rolle von Werten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klaiber, Judith</displayForm>
+                        <namePart type="family">Klaiber</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Für den Kongress „Theologie säkularer Existenzweisen“ wurden im Rahmen eines Workshops die Resultate des Dissertationsprojektes „Werte:Bildung in Führung“ vorgestellt. Im Workshop wurden nicht nur die zentralen Zugänge und Erkenntnisse der explorativen Studie präsentiert, sondern auch das Nachdenken und Handeln der Teilnehmer*innen selbst aktiviert. Leitende Fragen waren: Ist Leadership ein Wertebildungsort? Welche Werte und welches Selbstverständnis werden sichtbar? Wie werden die essenziellen und existenziellen Dimensionen von „Führen“ und „Geführt werden“ im Alltag von Entscheidungsträger*innen gelebt? Schließlich: Wie könnte eine zeitgemäße Führungskräftepastoral designt sein?
+The congress “The Theology of Secular Ways of Existence” offered us the chance to present the results of a doctoral project on “Value:Edification takes the Lead.” This workshop not only aimed to discuss the perspectives and findings of our explorative study, but also to activate consideration of human values and leadership values among the workshop participants. The main questions were: Is leadership a locus of value:edification? Which human values and which self-concept of leaders become visible? How are the essential and existential dimensions on “leading” and “being lead” experienced during the daily business routine of decision-makers? And finally, how to design contemporary pastoral care for leaders?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31727</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3202</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3202">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3202/3172" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3202" DMDID="DMD_wwu-journals_3202">
+            <mets:fptr FILEID="FILE0_wwu-journals_3202"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

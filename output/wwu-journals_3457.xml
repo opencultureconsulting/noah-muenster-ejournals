@@ -1,0 +1,110 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3457">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hydrophilic polymer embolism identified in brain tumor specimens following Wada testing</title>
+                        <subTitle>A report of 2 cases</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goodwill, Vanessa S.</displayForm>
+                        <namePart type="family">Goodwill</namePart>
+                        <namePart type="given">Vanessa S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brandel, Michael G.</displayForm>
+                        <namePart type="family">Brandel</namePart>
+                        <namePart type="given">Michael G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steinberg, Jeffrey A.</displayForm>
+                        <namePart type="family">Steinberg</namePart>
+                        <namePart type="given">Jeffrey A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Beaumont, Thomas L.</displayForm>
+                        <namePart type="family">Beaumont</namePart>
+                        <namePart type="given">Thomas L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hansen, Lawrence A.</displayForm>
+                        <namePart type="family">Hansen</namePart>
+                        <namePart type="given">Lawrence A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Hydrophilic polymers are commonly used as coatings on intravascular medical devices. As intravascular pro-cedures continue to increase in frequency, the risk of embolization of this material throughout the body has become evident. These emboli may be discovered incidentally but can result in serious complications includ-ing death. Here, we report the first two cases of hydrophilic polymer embolism (HPE) identified on brain tu-mor resection following Wada testing. One patient experienced multifocal vascular complications and diffuse cerebral edema, while the other had an uneventful postoperative course. Wada testing is frequently per-formed during preoperative planning prior to epilepsy surgery or the resection of tumors in eloquent brain regions. These cases demonstrate the need for increased recognition of this histologic finding to enable fur-ther correlation with clinical outcomes.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-35289</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3457</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3457</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3457">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3457/3528" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3457">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3457/3527" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3457" DMDID="DMD_wwu-journals_3457">
+            <mets:fptr FILEID="FILE0_wwu-journals_3457"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3457" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3457"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

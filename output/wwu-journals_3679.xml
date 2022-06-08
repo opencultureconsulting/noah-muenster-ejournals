@@ -1,0 +1,124 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3679">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Friedreich cardiomyopathy is a secondary desminopathy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Koeppen, Arnulf</displayForm>
+                        <namePart type="family">Koeppen</namePart>
+                        <namePart type="given">Arnulf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rafique, Rahman</displayForm>
+                        <namePart type="family">Rafique</namePart>
+                        <namePart type="given">Rahman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mazurkiewicz, Joseph</displayForm>
+                        <namePart type="family">Mazurkiewicz</namePart>
+                        <namePart type="given">Joseph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pelech, Steven</displayForm>
+                        <namePart type="family">Pelech</namePart>
+                        <namePart type="given">Steven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sutter, Catherine</displayForm>
+                        <namePart type="family">Sutter</namePart>
+                        <namePart type="given">Catherine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lin, Qishan</displayForm>
+                        <namePart type="family">Lin</namePart>
+                        <namePart type="given">Qishan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Qian, Jiang</displayForm>
+                        <namePart type="family">Qian</namePart>
+                        <namePart type="given">Jiang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Heart disease is an integral part of Friedreich ataxia (FA) and the most common cause of death in this autosomal recessive disease. The result of the mutation is lack of frataxin, a small mitochondrial protein. The clinical and pathological phenotypes of FA are complex, involving brain, spinal cord, dorsal root ganglia, sensory nerves, heart, and endocrine pancreas. The hypothesis is that frataxin deficiency causes downstream changes in the proteome of the affected tissues, including the heart. A proteomic analysis of heart proteins in FA cardiomyopathy by antibody microarray, Western blots, immunohistochemistry, and double-label laser scanning confocal immunofluorescence microscopy revealed upregulation of desmin and its chaperone protein, αB-crystallin. In normal hearts, these two proteins are co-localized at intercalated discs and Z discs. In FA, desmin and αB-crystallin aggregate, causing chaotic modification of intercalated discs, clustering of mitochondria, and destruction of the contractile apparatus of cardiomyocytes. Western blots of tissue lysates in FA cardiomyopathy reveal a truncated desmin isoprotein that migrates at a lower molecular weight range than wild type desmin. While desmin and αB-crystallin are not mutated in FA, the accumulation of these proteins in FA hearts allows the conclusion that FA cardiomyopathy is a desminopathy akin to desmin myopathy of skeletal muscle.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3679</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3679</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3679">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3679/3718" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3679">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3679/3717" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3679" DMDID="DMD_wwu-journals_3679">
+            <mets:fptr FILEID="FILE0_wwu-journals_3679"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3679" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3679"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

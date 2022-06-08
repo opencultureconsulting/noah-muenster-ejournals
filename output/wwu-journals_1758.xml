@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1758">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Autonomie und Fürsorge. Pflege und Pflegepolitik aus der Sicht der Praxis institutioneller Pflege</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Giesbers, Markus</displayForm>
+                        <namePart type="family">Giesbers</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag nimmt zuerst die jüngste Entwicklung der Pflegepolitik in den Fokus und thematisiert dabei auch negative Auswirkungen der Pflegeversicherung, die mit dem Pflegestärkungsgesetz beseitigt werden sollen. Anschließend setzt sich der Aufsatz mit ethischen Fragen im Bereich der Pflege aus Perspektive der Praxis in stationären Einrichtungen auseinander. Ethisches Konfliktpotenzial bergen die Bereiche Selbstbestimmung versus Fürsorgepflicht sowie die Rahmenbedingungen, die sich nachteilig auf Bewohner- und Mitarbeiterschaft auswirken. Das aktuelle Pflegestärkungsgesetz setzt auf einen neuen Pflegebedürftigkeitsbegriff, der für eine gerechtere Verteilung der Pflegegrade sorgen soll; es bleiben dennoch Zweifel, ob sich diese Reform positiv für Pflegebedürftige und Pflegepersonal auswirkt. Vor allem in Bezug auf Personalbemessung und Wertschätzung pflegender Berufe wird Politik in Zukunft gefordert sein.AbstractIn a first step, this paper examines the recent developments in care policy, outlining the major drawbacks of the German long-term care insurance, which are to be overcome by the new care stabilisation law. Next, ethical questions of long-term care are discussed from the perspective of the practices in inpatient care. There seems to be some potential for ethical conflicts present in the field of autonomy versus duty of care, as well as in the basic conditions of care, both affecting care receivers and care staff unfavourably. The current care stabilisation law banks on a new concept of ‘need for permanent care’, which is to ensure a fairer allocation of attributed care levels; however doubts remain whether this reform will positively affect both individuals in need of care and care staff. In particular, the problems of staffing and the appreciation of care professions require the careful attention of policy makers.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16928</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1758</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1758">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1758/1692" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1758" DMDID="DMD_wwu-journals_1758">
+            <mets:fptr FILEID="FILE0_wwu-journals_1758"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

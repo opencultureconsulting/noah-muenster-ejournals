@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3185">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Bedeutung der Sakralität für die Pastoral</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wallner, Karl Josef</displayForm>
+                        <namePart type="family">Wallner</namePart>
+                        <namePart type="given">Karl Josef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nach klassisch katholischer Auffassung ist der Mensch von Natur aus religiös, veranlagt hin auf Gott. Er reagiert daher sehr stark auf „Berührungen“ durch das „Sacrum“, auf die Erfahrung eines „von oben“. Der Auffassung, dass der „säkulare“ Mensch religiös taub und desinteressiert geworden sei, widerspricht das Faktum, dass junge Menschen sehr nach Heiligkeits- oder Gotteserfahrungen suchen. Das Stift Heiligenkreuz im Wienerwald hat sich zu einer exemplarischen Oase der Gotteserfahrung entwickelt. Hier wird Jugendlichen durch feierliche Liturgie und Gebet ein Raum geöffnet, wo sie in ihrer Lebenswirklichkeit dem Sacrum begegnen können. Die Folge davon ist ein Boom bei den Gottesdiensten und bei vielen jungen Menschen eine nachhaltige Öffnung für den Glauben.
+According to the classical Catholic view, humans are religious by nature and inclined toward God. They therefore react very strongly to being &quot;touched&quot; by the &quot;sacred&quot; – to experiences “from above.” The view that the “secular” person has become religiously deaf and disinterested is contradicted by the fact that today young people are very much still searching for experiences of holiness or God. The Heiligenkreuz Abbey in the Vienna Woods has developed into an exemplary oasis for experiences of God. Here, through solemn liturgy and prayer, a space is revealed to young people where they can encounter the sacred within the reality of their lives. The result is a boom in church services and for many young people a long-lasting approach to faith.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31576</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3185</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3185">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3185/3157" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3185" DMDID="DMD_wwu-journals_3185">
+            <mets:fptr FILEID="FILE0_wwu-journals_3185"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

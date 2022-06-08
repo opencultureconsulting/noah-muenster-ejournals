@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2627">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neuromuscular disease</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Margeta, Marta</displayForm>
+                        <namePart type="family">Margeta</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This review highlights ten important advances in the neuromuscular disease field that either were first reported in 2019, or have reached a broad consensus during that year. The overarching topics include (i) new / emerging diseases; (ii) advances in understanding of disease etiology and pathogenesis; (iii) diagnostic advances; and (iv) therapeutic advances. Within this broad framework, the individual disease entities that are discussed in more detail include myoglobinopathy, POPDC3-mutated limb-girdle muscular dystrophy, neuromuscular adverse events associated with the immune checkpoint inhibition therapy, neuroglial stem cell-derived inflammatory pseudotumor of the spinal cord and spinal cord roots, acute flaccid myelitis, congenital myopathies, idiopathic inflammatory myopathies (with particular emphasis on immune-mediated necrotizing myopathies and sporadic inclusion body myositis), spinal muscular atrophy, and Duchenne muscular dystrophy. In addition, the review highlights several diagnostic advances (such as diagnostic RNA sequencing and development of digital diagnostic tools) that will likely have a significant impact on the overall neuromuscular disease field going forward.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-25083</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2627</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2627</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2627">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2627/2508" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2627">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2627/2507" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2627" DMDID="DMD_wwu-journals_2627">
+            <mets:fptr FILEID="FILE0_wwu-journals_2627"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2627" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2627"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

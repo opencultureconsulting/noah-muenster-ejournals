@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3147">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Symbol of Hair in ABC&apos;s How to Get Away with Murder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Salzburg, Marlene</displayForm>
+                        <namePart type="family">Salzburg</namePart>
+                        <namePart type="given">Marlene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">“I’m an African American woman and there is not enough time on the show to discuss hair issues” (“Viola”). This is what Viola Davis answered on Anderson Live when being asked whether she found it odd that people notice and comment on the hairstyle of black women so much recently. Beauty standards and hairstyle trends have shifted over time, but there is a profound difference recognisable between the prestige associated with hair of white people versus the hair of people with African heritage. The protagonist in ABC’s TV series How to Get Away with Murder, Annalise Keating, played by Viola Davis, is a successful defence attorney and lecturer. She lives in a big house and is married to a white man. She is also black and wears various hairstyles throughout the series. Whenever she is depicted as strong and professional, she wears a wig. On the other hand, her natural hair is only shown in a few scenes, particularly at times when she is undergoing a crisis. By discussing three scenes from How to Get Away with Murder in which her natural hair is shown, this article aims to reveal how hair is used as a symbol in the show How to Get Away with Murder.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>63</start>
+                                <end>67</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31223</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3147</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3147</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3147">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3147/3122" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3147" DMDID="DMD_wwu-journals_3147">
+            <mets:fptr FILEID="FILE0_wwu-journals_3147"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

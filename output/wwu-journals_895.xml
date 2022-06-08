@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_895">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Berlin</title>
+                        <subTitle>arm aber sexy – demokratiepraktische Beobachtungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kostka, Ulrike</displayForm>
+                        <namePart type="family">Kostka</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungIn dem Beitrag wird die Rolle des Diözesancaritasverbandes im Erzbistum Berlin im Hinblick auf demokratische Prozesse in der Landespolitik betrachtet. Ausgehend von der Beleuchtung von Armutsphänomenen in und um Berlin und demokratiepraktischen Beobachtungen, insbesondere im Bereich der Sozialpolitik, wird die Bedeutung der sozialethischen Reflexion bei der sozialpolitischen Profilierung und Praxis der Caritas herausgearbeitet. So ergibt sich ein Verständnis von der Caritas als kirchlicher Wohlfahrtsverband, dessen zentrale Aufgaben in der Anwaltschaftlichkeit für die Benachteiligten, in Dienstleistung und in der Solidaritätsstiftung bestehen.AbstractThis contribution sheds light on the role of the diocesan Caritas organisation in the archdiocese of Berlin with regard to democratic processes in regional politics. On the basis of the observed poverty in the Berlin region and the observation of democratic practices, particularly in the field of social politics, the significance of the organisation’s socio-ethical reflection concerning its socio-political profiling and praxis is assessed. As a result, an understanding is developed of Caritas as a church welfare organisation whose central mission is to speak up for disadvantaged groups, to provide services and to promote solidarity.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2013120220</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_895</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_895">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/895/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_895" DMDID="DMD_wwu-journals_895">
+            <mets:fptr FILEID="FILE0_wwu-journals_895"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

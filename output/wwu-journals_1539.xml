@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1539">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kosten der Energiewende, Wettbewerbsfähigkeit und Energiearmut</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Löschel, Andreas</displayForm>
+                        <namePart type="family">Löschel</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDie Kosten der Energiewende sind schwierig zu ermitteln, da hierzu der Status-quo mit kontrafaktischen Szenarien verglichen werden muss. Im Beitrag wird deshalb auf die Energiekostenbelastung fokussiert. Bei der Betrachtung der aggregierten Elektrizitätsausgaben zeigt sich, dass die Belastungen durch die Energiewende bisher durchaus tragbar erscheinen. Daneben ist auch eine vertiefte Betrachtung der Verteilungswirkungen der Energiewende notwendig. Hierzu werden die Energiestückkosten – die aggregierten Kosten des Energieeinsatzes im Verhältnis zur Bruttowertschöpfung – als Indikator für die Wettbewerbsfähigkeit bzw. für die Belastung von Unternehmen genutzt. Dabei wird deutlich, dass im internationalen Vergleich die Belastungen im Verarbeitenden Gewerbe in der aggregierten Betrachtung (wenn auch nicht für einzelne Teilbereiche) wie auch die Energiekosten für Haushalte noch moderat sind. Allerdings fordert die Umsetzung der Energiewende ein höheres Opfer von einkommensschwächeren Haushalten. Die Kosten werden in Zukunft weiter stark ansteigen. Daraus resultierende Verteilungskonflikte können durch eine Dämpfung des Kostenanstiegs maßgeblich entschärft werden. Eine effiziente Umsetzung der Energiewende ist notwendiger denn je.AbstractThe costs of the Energy Transformation are difficult to assess. It requires the comparison of the status quo with contra-factual scenarios. Rather it is proposed to look at the aggregate expenses for energy. In this perspective the cost situation is still under control. But it is also important to look at the distributional consequences of the Energy Transformation. Energy prices for households and industry are not good indicators. Energy per unit costs – the aggregated energy costs per unit of value added – are a better indicator of international competitiveness. It becomes clear that energy per unit costs are on aggregate still relatively low in the German manufacturing sector – although that is not true for some individual sectors. The costs are also relatively moderate for households. Yet, the Energy Transformation puts a larger burden on low income households. The costs are very likely to increase much further in the future. Distributional conflicts are reduced if these cost increases are dampened. An efficient implementation of the Energy Transformation is more important than ever.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14418</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1539</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1539">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1539/1441" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1539" DMDID="DMD_wwu-journals_1539">
+            <mets:fptr FILEID="FILE0_wwu-journals_1539"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2864">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation und Teilhabe im Kontext der Amazoniensynode</title>
+                        <subTitle>Eine kritisch würdigende Reflexion in nachsynodaler Perspektive</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weiler, Birgit</displayForm>
+                        <namePart type="family">Weiler</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Artikel wird in kritisch-würdigender Perspektive darüber reflektiert, wie Synodalität im Prozess der vielfältigen Dialogforen in Vorbereitung auf die Amazoniensynode sowie auf der Synode selbst verstanden und praktiziert wurde. Dabei sollen neben den Potenzialen für eine wahrhaft synodale Kirche auch die Grenzen und Widersprüchlichkeiten herausgearbeitet werden, die während der Synode als auch im Nachsynodalen Apostolischen Schreiben Querida Amazonía zutage getreten sind. Abschließend wird kurz über die anfängliche nachsynodale Phase und die damit verbundenen Zukunftsperspektiven der Kirche in Amazonien im Kontext der Weltkirche reflektiert.
+This article is a reflection from a critical but sympathetic perspective on the understanding and practice of synodality in the multiple dialogue forums prepared for the Amazonia Synod as well as at the Synod itself. It focuses on the potential for creating an authentically synodal Church as well on the limitations and contradictions that were manifested during the Synod and in the Postsynodal Apostolic Exhortation Querida Amazonía. Finally, it presents perspectives on the future of the Church in Amazonia within the global Church, as they are developing in the present postsynodal phase.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>145</start>
+                                <end>158</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27513</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2864</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2864">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2864/2751" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2864" DMDID="DMD_wwu-journals_2864">
+            <mets:fptr FILEID="FILE0_wwu-journals_2864"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

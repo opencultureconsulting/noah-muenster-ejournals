@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2296">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Rede von Freiheit in der evangelischen Predigt der Gegenwart</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt, Laura</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag stellt eine Auswahl gegenwärtiger protestantischer Predigten und ihren Umgangmit dem Thema Freiheit vor. Zwei Aspekte rücken dabei in den Vordergrund: Zum einen wirddargestellt, auf welche theologischen Konzepte Predigerinnen und Prediger zurückgreifen, wenn siemit Freiheit als Predigtthema konfrontiert werden. Zum anderen werden die sich für die Predigthörerinnenund -hörer ergebenden Konsequenzen der konkreten Kanzelrede aufgezeigt und bezüglichihrer Sinnhaftigkeit hinterfragt.This contribution presents a selection of current protestant sermons and their handling of the issue offreedom. Two aspects are very important: On the one hand we present the theological concepts thatpreachers put emphasis on when being confronted with this special sermon issue. On the other handwe present the consequences of this particular pulpit talk for the sermon listener and question theirmeaningfulness.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>135</start>
+                                <end>145</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21882</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2296</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2296">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2296/2188" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2296" DMDID="DMD_wwu-journals_2296">
+            <mets:fptr FILEID="FILE0_wwu-journals_2296"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

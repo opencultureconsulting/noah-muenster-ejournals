@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4162">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Drei sozial- und kulturtheoretische Anschlussmöglichkeiten der ›Praxeologie des Kredits‹</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langenohl, Andreas</displayForm>
+                        <namePart type="family">Langenohl</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Aaron Sahrs Studie stellt einen überzeugenden Anlauf dar, eines der Versprechen der Wirtschaftssoziologie einzulösen: nämlich, eine soziologische Beschreibung gegenwärtiger Wirtschaftspraktiken und der Wirtschaft selbst vorzulegen, die sich von der Ökonomik ihre Referenzkategorien nicht diktieren lässt. Im Zentrum dieses Anlaufs steht das Hauptergebnis der Studie: nämlich, dass die Herstellung von Geld und die Praxis seiner Verwendung in der Finanzwirtschaft nicht (mehr) vom Imperativ der Knappheit diktiert ist. Geld bildet somit den Kristallisationspunkt einer »paraökonomische[n] Zone« (346, Hvhg. i. O.) und entzieht sich daher auch dem analytischen Zugriff orthodoxer, mit Zentraltheoremen der Ökonomik operierender Kategorien, allen voran der der Knappheit. Dies stellt eine fulminante Kritik an soziologischen Geldansätzen von Simmel bis Luhmann und Baecker dar, insofern diese dazu tendieren, Geldpraktiken als Tauschpraktiken bzw. transaktionale Kommunikationen zu interpretieren. Gerade am Tauschparadigma der Geldverwendung hat der Verfasser eine wirksame Kritik. Denn dieses Paradigma negiert die Diagnose, dass Geldpraktiken, verstanden als Kredit, nicht als eine Transaktion zu begreifen sind, sondern, wie der Verfasser meint, als eine Wechselbeziehung von Zahlungsversprechen, die die konstitutive Basis für Kreditbeziehungen bilden. Es geht somit um die »Beobachtung befristeter, interdependenter Beziehungen« und nicht um diejenige »zeitpunktmäßiger Transaktionen« (196). Obwohl Sahr sich von wichtigen Strömungen der Neuen Wirtschaftssoziologie abgrenzt (131-134), verfolgt ersomit zugleich deren strategisches Anliegen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>100</start>
+                                <end>110</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4162</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4162</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4162">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4162/4244" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4162" DMDID="DMD_wwu-journals_4162">
+            <mets:fptr FILEID="FILE0_wwu-journals_4162"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

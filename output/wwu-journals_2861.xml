@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2861">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation durch streitbare Lernprozesse</title>
+                        <subTitle>Erfahrungen aus der Personalarbeit des Bistums Osnabrück</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Prior, Wilfried</displayForm>
+                        <namePart type="family">Prior</namePart>
+                        <namePart type="given">Wilfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag betrachtet das Thema Partizipation aus dem Blickwinkel der Personalarbeit mit Hauptamtlichen im Bistum Osnabrück und berücksichtigt die Erfahrungen aus Personalentwicklung, Fortbildung und Reformprojekten. Ausgehend von diesen Erfahrungen plädiert der Autor für intensive und auch konflikthafte Lernprozesse, welche die Rollenentwicklung der verschiedenen Berufsgruppen durch Vernetzung und Auseinandersetzung stärken, um Partizipation der Getauften und Gefirmten nachhaltig zu ermöglichen.
+&amp;nbsp;
+This article explores the topic of participation from the perspective of human resources management in the Diocese of Osnabrück. It takes into account the experience of human resources development, continuing education, and structural projects. Based on these experiences, the author advocates for intensive as well as critical learning processes that strengthen the role of the various professional groups through networking and engagement, the goal being to enable those who have been baptized and confirmed to participate in the long-term planning.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>105</start>
+                                <end>115</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27484</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2861</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2861">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2861/2748" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2861" DMDID="DMD_wwu-journals_2861">
+            <mets:fptr FILEID="FILE0_wwu-journals_2861"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

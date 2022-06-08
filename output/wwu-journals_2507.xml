@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2507">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Beitrag der Medienethik zur Diskussion über den öffentlich-rechtlichen Rundfunk</title>
+                        <subTitle>Ein Literaturbericht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kos, Elmar</displayForm>
+                        <namePart type="family">Kos</namePart>
+                        <namePart type="given">Elmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Speziell dem öffentlich-rechtlichen Rundfunk widmet sich die Medienethik selten ausdrücklich. Dabei sind sowohl in Bezug auf den Funktionsauftrag (bzw. die Rundfunkaufträge) als auch in Bezug auf die Kontrollgremien (Vertretung der verschiedenen gesellschaftlichen Gruppen) Fragen der Ethik tangiert. Für eine entsprechende medienethische Einschätzung ist zu klären, welche ethischen Kriterien und Werte durch die Medienethik als angewandte Ethik zur Anwendung kommen sollen. Da die Medienethik in dieser Hinsicht kaum über die Formulierungen des BVerfG hinausgeht, lassen sich diese Kriterien durch Rückgriff auf die demokratietheoretischen Überlegungen zur Funktion der Massenmedien und speziell des Nachrichtenjournalismus für die Öffentlichkeit gewinnen. Auf diese Weise ist grundsätzlich ein Beitrag der Medienethik zur Diskussion über den öffentlich-rechtlichen Rundfunk möglich.
+Die Digitalisierung der Kommunikationsverhältnisse verschärft die Diskussion über den öffentlich-rechtlichen Rundfunk. Hier ist die Medienethik bei der notwendigen Reformulierung des Funktionsauftrages als auch bei der entsprechenden Bestimmung der Kontrollmöglichkeiten durch die Gesellschaft gefragt. Inwiefern eine solche Reformulierung mittels des Public Value-Konzeptes möglich sein wird, ist noch nicht absehbar. In Bezug auf die Kontrollmöglichkeiten der Gesellschaft eröffnen sich neue Einflussmöglichkeiten der Zivilgesellschaft.</abstract>
+                    <abstract lang="eng">The Public Service Broadcasting (PSB) system is rarely discussed in media ethics, despite the fact that both its mission (regulate by the so-called Rundfunkaufträge) and the function of the committees that ensure its accountability (in which various social groups are represented) touch upon ethical questions. Regarding an analysis of these issues in media ethics, we need to delineate which values and criteria are operative in media ethics qua applied ethics. Since media ethics in this sense rarely goes beyond the judgments of the German Constitutional Court (BVerfG), these criteria can be gleaned from work in democratic theory about the public function of mass media and especially news journalism.
+The process of digitalization has intensified the debate about the PSB system. Here, media ethics plays a role both in discussions about the mission of PSB as well as about the PSB system’s accountability to the general public. Currently it is difficult to predict how far a reformulation of these aspects through the concept of public value might reach; with regard to the ways in which PSB can be held accountable to the broader public.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23860</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2507</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2507</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2507">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2507/2386" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2507" DMDID="DMD_wwu-journals_2507">
+            <mets:fptr FILEID="FILE0_wwu-journals_2507"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

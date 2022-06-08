@@ -1,0 +1,117 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3638">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ex vivo MRI facilitates localization of cerebral microbleeds of different ages during neuropathology assessment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nag, Sukriti</displayForm>
+                        <namePart type="family">Nag</namePart>
+                        <namePart type="given">Sukriti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Chen, Er-Yun</displayForm>
+                        <namePart type="family">Chen</namePart>
+                        <namePart type="given">Er-Yun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Johnson, Ryan</displayForm>
+                        <namePart type="family">Johnson</namePart>
+                        <namePart type="given">Ryan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tamhane, Ashish</displayForm>
+                        <namePart type="family">Tamhane</namePart>
+                        <namePart type="given">Ashish</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arfanakis, Konstantinos</displayForm>
+                        <namePart type="family">Arfanakis</namePart>
+                        <namePart type="given">Konstantinos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schneider, Julie. A</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Julie. A</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Cerebral microbleeds (CMBs) identified by in vivo magnetic resonance imaging (MRI) of brains of older persons may have clinical relevance due to their association with cognitive impairment and other adverse neurologic outcomes, but are often not detected in routine neuropathology evaluations. In this study, the utility of ex vivo MRI in the neuropathological identification, localization, and frequency of CMBs was investigated. The study included 3 community dwelling elders with Alzheimer’s dementia, and mild to severe small vessel disease (SVD). Ex vivo MRI was performed on the fixed hemisphere to identify CMBs, blinded to the neuropathology diagnoses. The hemibrains were then sliced at 1 cm intervals and 2, 1 or 0 microhemorrhages (MH) were detected on the cut surfaces of brain slabs using the routine neuropathology protocol. Ex vivo imaging detected 15, 14 and 9 possible CMBs in cases 1, 2 and 3, respectively. To obtain histological confirmation of the CMBs detected by ex vivo MRI, the 1 cm brain slabs were dissected further and MHs or areas corresponding to the CMBs detected by ex vivo MRI were blocked and serially sectioned at 6 µm intervals. Macroscopic examination followed by microscopy post ex vivo MRI resulted in detection of 35 MHs and therefore, about 12 times as many MHs were detected compared to routine neuropathology assessment without ex vivo MRI. While microscopy identified previously unrecognized chronic MHs, it also showed that MHs were acute or subacute and therefore may represent perimortem events. Ex vivo MRI detected CMBs not otherwise identified on routine neuropathological examination of brains of older persons and histologic evaluation of the CMBs is necessary to determine the age and clinical relevance of each hemorrhage.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-37323</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3638</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3638</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3638">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3638/3732" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3638">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3638/3731" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3638" DMDID="DMD_wwu-journals_3638">
+            <mets:fptr FILEID="FILE0_wwu-journals_3638"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3638" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3638"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

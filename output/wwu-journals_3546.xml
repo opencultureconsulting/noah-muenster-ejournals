@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3546">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>arrangierte Stadt</title>
+                        <subTitle>neue Segregationen als Ersatz planerischen Handelns in der kosmopolitischen Stadt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hillmann, Felicitas</displayForm>
+                        <namePart type="family">Hillmann</namePart>
+                        <namePart type="given">Felicitas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschäftigt sich mit den veränderten Segregationen in der kosmopolitischen Stadt. In der aktuellen Stadtforschungsliteratur werden die sich verstärkenden Dynamiken einer Selbst-Segregation der Stadtbewohner*innen fast immer als Ergebnis übergeordneter Marktmechanismen interpretiert. Diese übergeordnete Dynamik stellt eine wichtige Erklärungsvariante der beobachtbaren Re Arrangements der Städte dar. Jedoch wird hier argumentiert, dass die neuen Segregationen auch als individuelle Anpassungsstrategien in Folge veränderter Arbeitswelten und Mobilitätsanforderungen interpretiert werden sollten. Drei aktuelle Beispiele mit einem unterschiedlichen Grad an Privilegierung und Freiwilligkeit werden betrachtet: Binnenzuzügler in Baugruppen und Baugemeinschaften, neue Selbstständigkeit und transnationale Lebensentwürfe, Fach- und Wanderarbeiter in Unterkünften. Der Beitrag arbeitet heraus, dass diese Arrangements auf eine sozial-ethische Dimension verweisen: die unterschiedlichen Bevölkerungsgruppen arrangieren sich in der Stadt so gut sie können und ohne planerische Eingriffe arrangiert sich das Stadtgefüge neu, sortiert sich die Stadt um. Durch diese Selbst-Segregation erweist sich das lange gehegte Leitbild der gemischten Stadt zunehmend als Schimäre. Der Beitrag skizziert die Entwicklung ebenjenes Leitbildes der gemischten Stadt, widmet sich dann den Befunden der Segregationsforschung und umreißt die Tendenzen der sozialräumlichen Polarisierung der Städte hinsichtlich der Wohnraumentwicklung. Es folgt eine Befassung mit der arrangierten, kosmopolitischen Stadt, die unter anderem durch das Mehr und Anders von Mobilität und den Anforderungen eines flexibilisierten Arbeitsmarktes entsteht und die Segregationen vorantreibt.</abstract>
+                    <abstract lang="eng">This article addresses changing forms of segregation in the cosmopolitan city. In current urban research literature, the intensifying dynamics of self segregation among city dwellers are almost always interpreted as the result of superordinate market mechanisms. This overarching dynamic represents an important explanatory variant for developments observable in urban settlement. However, it is argued here that new forms of segregation should also be interpreted as individual adaptation strategies as a consequence of changing work environments and mobility demands. Three current examples are considered, each with its own degree of privilege and autonomy: Internal migrants in building groups and building communities, new self employment and transnational living arrangements, and skilled and migrant workers in shelters. The paper elaborates that these arrangements imply a socio-ethical dimension: the different population groups arrange themselves in the city as best they can, and without planning or intervention, the city sorts itself. Through this self-segregation, the long cherished model of the mixed city increasingly proves to be a chimera. The article sketches the development of the model of the mixed city, then turns to the findings of segregation research and outlines the socio-spatial polarization of cities with regard to housing development. This is followed by a discussion of the arranged cosmopolitan city, which is created by diversifying forms of mobility and by the demands of a flexible labor market that drive segregation.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>195</start>
+                                <end>220</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-36994</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3546</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3546</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3546">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3546/3699" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3546" DMDID="DMD_wwu-journals_3546">
+            <mets:fptr FILEID="FILE0_wwu-journals_3546"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

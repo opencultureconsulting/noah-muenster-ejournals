@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1845">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energiegenossenschaften und Nachhaltigkeit</title>
+                        <subTitle>Aktuelle Tendenzen und soziologische Überlegungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klemisch, Herbert</displayForm>
+                        <namePart type="family">Klemisch</namePart>
+                        <namePart type="given">Herbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Boddenberg, Moritz</displayForm>
+                        <namePart type="family">Boddenberg</namePart>
+                        <namePart type="given">Moritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das sozialwissenschaftliche Verständnis des gesellschaftlichen Leitbilds der Nachhaltigkeit betont zunehmend dessen transformatives Potenzial. Während sich aktuelle Perspektiven in erster Linie auf gesamtgesellschaftliche Veränderungsprozesse konzentrieren, versucht dieser Beitrag die Nachhaltigkeitsdiskussion mit der feststellbaren Renaissance der Organisationsform Genossenschaft zu verknüpfen. Ausgehend von soziologischen Überlegungen Max Webers und Robert Hettlages wird hierbei das Demokratiepotenzial von Energiegenossenschaften herausgearbeitet und in den Nachhaltigkeitsdiskurs eingeordnet. Dabei zeigt sich, dass die neugegründeten Energiegenossenschaften in der Ausgestaltung als Prosumenten-Organisationen eine zentrale Rolle in einer partizipativ ausgerichteten Energiewende spielen können.
+The scientific sociological understanding of the cultural role model emphasises more and more its potential of transformation. Whereas current perspectives focus primarily on transformation processes related to the society as a whole, this contribution seeks to connect the debate on sustainability with the ascertainable revival of the co-operative organisation model. Based on the sociological idea of Max Weber and Robert Hettlage the democratic potential of energy co-operatives is worked out and then incorporated into the debate on sustainability. As becomes evident, the newly founded energy co-operatives set up as “prosumer”-organisations may play a key role in an energy transition which is based on participatory principles.&amp;nbsp;
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2016-17902</identifier>
+                    <identifier type="doi">10.17879/sun-2016-1845</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1845</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1845">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/1845/1790" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1845" DMDID="DMD_wwu-journals_1845">
+            <mets:fptr FILEID="FILE0_wwu-journals_1845"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3126">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 02.2020.030</title>
+                        <subTitle>Fritz Mitthof – Peter Schreiner – Oliver Jens Schmitt (Hrsg.), Handbuch zur Geschichte Südosteuropas.: Bd. 1: Herrschaft und Politik in Südosteuropa von der römischen Antike bis 1300. Berlin – München – Boston: De Gruyter – De Gruyter Oldenbourg 2019.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Prinzing, Günter</displayForm>
+                        <namePart type="family">Prinzing</namePart>
+                        <namePart type="given">Günter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">37</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Fritz Mitthof – Peter Schreiner – Oliver Jens Schmitt (Hrsg. [Redaktion Edvin Pezo]), Bd. 1: Herrschaft und Politik in Südosteuropa von der römischen Antike bis 1300. 1. Teilband (Handbuch zur Geschichte Südosteuropas. Als Reihe herausgegeben von Ulf Brunnbauer – Konrad Clewing – Jens Oliver Schmitt). Berlin – Boston: De Gruyter Oldenbourg 2019. XXII, 599 S., mit 22 farbigen Karten. – 2.Teilband. Teil II: Südosteuropa zwischen Byzanz und den neuen Herrschafts- und Reichsbildungen (565–1300). (Handbuch zur Geschichte Südosteuropas. Als Reihe herausgegeben von Ulf Brunnbauer – Konrad Clewing – Jens Oliver Schmitt). Berlin – Boston: De Gruyter Oldenbourg 2019. XXII, S. 601–1121. – ISBN: 978-3-11-063966-7 (€ 189,95)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>193</start>
+                                <end>229</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-byzrev-2020-30723</identifier>
+                    <identifier type="doi">10.17879/byzrev-2020-3126</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3126</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3126">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/3126/3072" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3126" DMDID="DMD_wwu-journals_3126">
+            <mets:fptr FILEID="FILE0_wwu-journals_3126"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

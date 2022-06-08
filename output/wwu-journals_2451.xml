@@ -1,0 +1,105 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2451">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Herausforderung soziale Teilhabe</title>
+                        <subTitle>Repair-Cafés als Orte inklusiver nachhaltiger Entwicklung?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jaeger-Erben, Melanie</displayForm>
+                        <namePart type="family">Jaeger-Erben</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meißner, Magdalena</displayForm>
+                        <namePart type="family">Meißner</namePart>
+                        <namePart type="given">Magdalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hielscher, Sabine</displayForm>
+                        <namePart type="family">Hielscher</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vonnahme, Marco</displayForm>
+                        <namePart type="family">Vonnahme</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Zusammenfassung: In den vergangenen Jahren wird verstärkt das Potential von Repair- und Maker-Initiativen für eine inklusive nachhaltige Entwicklung diskutiert. Sie sollen die individuelle Verantwortungsübernahme für nachhaltigen Konsum ermöglichen und als Praxis der Kollaboration und des bürgerlichen Self-Empowerments den sozialen Wandel in Richtung Nachhaltigkeit verstärken. Ob die hiermit verbundene Verantwortungsaktivierung jedoch mit den entsprechenden Teilhabemöglichkeiten und einer Befähigung zu nachhaltigem Konsum durch Reparieren und Selbermachen einhergeht und die erhofften Wirkungen erzielt werden können, ist bisher noch wenig untersucht. Der vorliegende Beitrag entwickelt in diesem Zusammenhang erste Ideen, Fragen und Kategorien zur Beobachtung der Möglichkeiten und Hindernisse für soziale Teilhabe an Repair-Cafés und hierüber an sozialer Innovation und sozialem Wandel. Dabei werden praxistheoeretische Ansätze mit normativen Bewertungsperspektiven zu sozialer Teilhabe und Interpretationen aus einer ersten empirischen Annäherung an den Gegenstandsbereich im Rahmen teilnehmender (Selbst-)Beobachtungen verbunden.
+In the past few years, debates increasingly emerge that discuss the potential of repair and DIY initiatives to contribute to inclusive and sustainable developments. It is argued that initiatives enable individuals to take responsibility for sustainable consumption. Moreover, they are said to promote citizen empowerment and collaborative practices and therefore strengthening social transformations processes towards sustainability. Currently, there is little research that looks at whether the empowerment of citizen through repair and DIY activities will be inclusive to all people and enable more sustainable consumption patterns. This paper develops first ideas, questions and categories to observe the possibilities and constraints for inclusiveness in repair cafés, enabling collaborative practise and creating seedbeds for social transformations. We draw on a social practice theory approach and normative (evaluation) perspectives for inclusiveness to empirically examine practices in repair cafés through participant observations.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>44</start>
+                                <end>65</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-23134</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2451</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2451</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2451">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2451/2313" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2451" DMDID="DMD_wwu-journals_2451">
+            <mets:fptr FILEID="FILE0_wwu-journals_2451"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2236">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kulturelle Diversität in US-amerikanischen Gemeinden - eine internationale Praxisperspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karl, Katharina</displayForm>
+                        <namePart type="family">Karl</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bereits in ihrer Entstehungsgeschichte weisen US-amerikanische Pfarrgemeinden die Tendenz zur Diversitätsminimierung auf. Zugleich ist die Kirche in den USA von größter ethnischer Pluralität geprägt. Wie der Umgang mit Diversität im Gemeindealltag heute konkret aussieht, steht in diesem Beitrag im Zentrum des Interesses. Dabei wird das Konzept der „cultural encapsulation“ herangezogen und anhand von Beobachtungen verschiedener Studien näher ausgeführt, welche Mechanismen und Spannungspunkte das Miteinander bestimmen und welche Strategien im Diversitätsmanagement einer „shared parish“ zum Tragen kommen. Die Idee der Gemeinde als communio, die gemeinsam in Verschiedenheit unterwegs ist, bildet dabei die theologische Deutefolie, auch für den ausblickenden Vergleich auf die Gemeindesituationen in Deutschland.The history of US-American parishes shows in its origin a tendency towards reducing diversity. At the same time the Church in the US is shaped by great ethnic plurality. The leading question of this article is how parishes deal with diversity in their practical life. The concept of „cultural encapsulation“ and the results of different research studies in this field help to identify the mechanisms and fields of conflict in community life of the „shared parish“. The idea of the parish as „communio“, existing together in diversity, serves as theological hermeneutics for the comparison of the German parish-situation as well.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>159</start>
+                                <end>168</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21356</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2236</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2236">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2236/2135" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2236" DMDID="DMD_wwu-journals_2236">
+            <mets:fptr FILEID="FILE0_wwu-journals_2236"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

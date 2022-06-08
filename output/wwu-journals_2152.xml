@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2152">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>christlich-islamische Dialog in der Einwanderungsgesellschaft. Eine praxisbezogene Perspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lemmen, Thomas</displayForm>
+                        <namePart type="family">Lemmen</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungIn der Einwanderungsgesellschaft hat der christlich-islamische Dialog eine theologische und eine gesellschaftliche Bedeutung. Auf der theologischen Ebene kann er durch die Entdeckung von Gemeinsamkeiten und das Verstehen von Unterschieden zur Klärung des Verhältnisses von Christentum und Islam beitragen. Auf der gesellschaftlichen Ebene vermag er aufzuzeigen, dass ein gutes Verhältnis der Angehörigen beider Religionen eine unverzichtbare Grundlage für den Zusammenhalt einer multireligiösen Gesellschaft darstellt. Nachdem zunächst christliche Akteure den interreligiösen Dialog begonnen haben, ist er mittlerweile gemeinsames Anliegen von Christen und Muslimen. Dabei beeinträchtigen unzureichende finanzielle und strukturelle Unterstützung sowie politische Einflussnahmen den nachhaltigen Erfolg.AbstractInterfaith dialogue, in this case Christian-Muslim dialogue, can help societies to meet the challenges posed by immigration. The discovery of commonalities as well as the apprehension of differences are vital elements in the ongoing process of deepening our understanding of the relationship of Islam and Christianity as far as the theological level is concerned. From a sociological point of view interfaith dialogue can be regarded as a key element in providing social cohesion. Christian-Muslim dialogue in Germany was originally initiated by Christian activists. Today it has developed into a shared endeavour of Muslims and Christians. Its sustainable success, however, is hampered by lack of financial and other resources as well as political interference.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>43</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20667</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2152</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2152">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2152/2066" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2152" DMDID="DMD_wwu-journals_2152">
+            <mets:fptr FILEID="FILE0_wwu-journals_2152"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

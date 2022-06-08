@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2562">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Heuchelei und Heldentum</title>
+                        <subTitle>Zur Rolle von Organisationen in der sozial-ökologischen Transformation der Gesellschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arnold, Nadine</displayForm>
+                        <namePart type="family">Arnold</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mormann, Hannah</displayForm>
+                        <namePart type="family">Mormann</namePart>
+                        <namePart type="given">Hannah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Nachhaltigkeitsdiskurse und Organisationen prägen unsere Gesellschaft. Wir nutzen Einsichten des soziologischen Neo-Institutionalismus, um die Rolle von Organisationen in der sozial-ökologischen Transformation der Gesellschaft zu beleuchten. Im Fokus stehen Wirtschaftsorganisationen, die im Zuge der Nachhaltigkeitsdebatte mit einer Wertetrias – Umweltschutz, Gerechtigkeit, Effizienz – konfrontiert sind. Während programmatische Studien des Neo-Institutionalismus argumentieren, dass Organisationen diese Werte in ihrer Aktivitätsstruktur ignorieren, konzeptualisiert die jüngere Entrepreneurship-Forschung Organisationen als heldenhafte Transformatoren der Gesellschaft. Wir schlagen eine integrierende Perspektive zwischen Heldentum und Heuchelei vor, die dazu aufruft, die durch die Organisationen geleistete Wertearbeit zu untersuchen. Anhand von zwei illustrierenden Fallbeispielen zeigen wir, wie organisationsinterne Wertearbeit zu nicht-intendierten Effekten führt: 1) Gerechtigkeitsorientierte Wertearbeit führt zur Professionalisierung von Expertenwissen. 2) Ökologie-orientierte Wertearbeit führt zur Entstehung von neuen Märkten für Standards, Zertifikate und Akkreditierungen.
+Sustainability discourses and organizations shape our society. We use insights from sociological neo-institutionalism to illuminate the role of organizations in the socio-ecological transformation of society. We put the focus on economic organizations that are confronted with a triad of values – environmental protection, societal justice, efficiency – in the sustainability debate. Seminal studies of neo-institutionalism argue that organizations implement values in a hypocritical and superficial way, while more recent research on institutional entrepreneurship conceptualizes organizations as heroic transformers of society. We propose an integrating perspective between heroism and hypocrisy that calls for an analysis of the organizations’ value work. We mobilize two illustrative case studies to show how internal value work leads to unintended effects: 1) Justice-oriented value work leads to the professionalization of expert knowledge. 2) Ecology-oriented value work leads to the emergence of new markets for standards, certificates and accreditations.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>158</start>
+                                <end>176</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-24164</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2562</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2562</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2562">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2562/2416" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2562" DMDID="DMD_wwu-journals_2562">
+            <mets:fptr FILEID="FILE0_wwu-journals_2562"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

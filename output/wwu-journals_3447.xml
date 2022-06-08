@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3447">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Coins from the 2019 and 2020 ­Excavation Seasons of the German-Israeli Tell Iẓṭabba Excavation Project</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <nonSort>The </nonSort>
+                        <title>Coins from the 2019 and 2020 ­Excavation Seasons of the German-Israeli Tell Iẓṭabba Excavation Project</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lichtenberger, Achim</displayForm>
+                        <namePart type="family">Lichtenberger</namePart>
+                        <namePart type="given">Achim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tal, Oren</displayForm>
+                        <namePart type="family">Tal</namePart>
+                        <namePart type="given">Oren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Bericht katalogisiert und kontextualisiert die Fundmünzen aus den Grabungskampagnen 2019 und 2020 des deutsch-israelischen archäologischen Projekts auf dem Tell Iẓṭabba (Beth Shean). Der Großteil der Münzen ist hellenistisch und steht in Zusammenhang mit der seleukidischen Besiedlung des Ortes. Obwohl die Gesamtanzahl der Münzen klein ist, trägt sie doch zu unserem Verständnis der Siedlungsgeschichte der Stadt und ihrer turbulenten Geschichte bei.</abstract>
+                    <abstract lang="eng">This report catalogues and contextualizes the coin finds from the 2019 and 2020 excavation seasons of the German-Israeli archaeological project on Tell Iẓṭabba (Beth Shean). The majority of the coins are Hellenistic and relate to the Seleucid settlement at the site. Although the sample size is small, it contributes to our understanding of the overall and turbulent settlement history.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>37</start>
+                                <end>53</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2021-34475</identifier>
+                    <identifier type="doi">10.17879/ozean-2021-3447</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3447</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3447">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3447/3447" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3447">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3447/3504" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3447" DMDID="DMD_wwu-journals_3447">
+            <mets:fptr FILEID="FILE0_wwu-journals_3447"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3447" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3447"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

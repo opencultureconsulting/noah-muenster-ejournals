@@ -1,0 +1,96 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2732">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltige Transformation der Wissenschaft?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dickel, Sascha</displayForm>
+                        <namePart type="family">Dickel</namePart>
+                        <namePart type="given">Sascha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maasen, Sabine</displayForm>
+                        <namePart type="family">Maasen</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenninger, Andreas</displayForm>
+                        <namePart type="family">Wenninger</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bei der Frage, was systemstabilisierende „Ideologie“ oder aber systemtransformierende „Utopie“ ist, wird die Systemreferenz selten spezifiziert. Typischerweise wird direkt oder indirekt die Wirtschaft adressiert. Im Kontrast zur reichhaltigen Thematisierung wirtschaftlicher Zusammenhänge richtet dieser Beitrag sein Augenmerk auf das Wissenschaftssystem. Wir thematisieren dabei drei Leitbilder einer ökologisch resonanzfähigen Wissenschaft, nämlich (1) technoszientifische Innovationsbestrebungen, (2) eine Demokratisierung von Wissenschaft und (3) eine transformative Wissenschaft, welche die Wissensproduktion gezielt auf Nachhaltigkeit programmieren soll. Aus einer differenzierungstheoretischen Perspektive ist zu erkennen, dass keines der drei Leitbilder grundsätzlich infrage stellt, dass es auch in Zukunft einer Wissenschaft zur Lösung ökologischer Krisen bedarf. Die Frage ist eher, wieviel außerwissenschaftliche Fremdreferenz notwendig ist, um die Wissenschaft auf der Ebene ihrer Programme für die Anforderungen der Nach- haltigkeit zu sensibilisieren.
+Discussions on transformative changes towards sustainability usually address the economic system. In contrast to this, our contribution addresses the science system. We focus on three visions of science in service of sustainability, namely (1) technoscientific innovation, (2) a democratization of research, and (3) a transformation of knowledge production. We analyze these visions with the help of Luhmann’s theory of systemic resonance. None of the three visions fundamentally calls into question the need for a science system to solve ecological crises in the future. The question is rather how much external reference and structural change is necessary to make science responsive to the requirements of sustainability.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>20</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-26075</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2732</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2732</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2732">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2732/2607" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2732" DMDID="DMD_wwu-journals_2732">
+            <mets:fptr FILEID="FILE0_wwu-journals_2732"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

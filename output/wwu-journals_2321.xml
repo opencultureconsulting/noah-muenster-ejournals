@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2321">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gerechtigkeit und Frieden bei Papst Franziskus im Horizont von Zärtlichkeit und Gewaltfreiheit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nauerth, Thomas</displayForm>
+                        <namePart type="family">Nauerth</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel untersucht das Wirken und die Lehre von Papst Franziskus im Themenfeld „Frieden und Gerechtigkeit“. Basierend auf den Grundlagen, die seine Vorgänger gelegt haben, entwickelt Papst Franziskus eine radikalere Ablehnung tötender Gewalt als Mittel der Politik, lernt in der Ökumene von anderen Partnern und ist lehrmäßig stärker friedenstheologisch akzentuiert. Die theologischen Leitkategorien Liebe, Barmherzigkeit und Vergebung führen in der praktischen Konsequenz nicht nur zur Ablehnung der Todesstrafe, sondern auch zur Propagierung des Konzeptes „Aktiver Gewaltfreiheit“ für die katholische Kirche.</abstract>
+                    <abstract lang="eng">This article analyzes the influence and the teachings of Pope Francis in the area of “peace and justice.” Based on the ideas of his predecessors, Pope Francis develops a more radical rejection of lethal violence of a means of politics, is open to learning from ecumenical partners, and dogmatically, he has emphasized a theology of peace. The practical implication of central theological categories of love, mercy, and forgiveness do not just lead to a repudiation of the death penalty, but also to the promotion of the concept of “active non-violence” for the Catholic Church.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>201</start>
+                                <end>223</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22134</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2321</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2321">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2321/Nauerth" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2321" DMDID="DMD_wwu-journals_2321">
+            <mets:fptr FILEID="FILE0_wwu-journals_2321"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

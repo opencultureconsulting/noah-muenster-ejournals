@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4113">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Leitbilder, Semantiken, Ideologien</title>
+                        <subTitle>Kultursoziologische Anmerkungen zum Platz des Religiösen in der Moderne</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karstein, Uta</displayForm>
+                        <namePart type="family">Karstein</namePart>
+                        <namePart type="given">Uta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein Grundanliegen des Buches ist die Auseinandersetzung mit religionssoziologischen Ansätzen, die Aussagen zu Entwicklungstendenzen von Religion in der Moderne treffen. Vor allem säkularisierungstheoretische Varianten sehen sich hier seit einigen Jahren einer vehementen Kritik gegenüber. Im Zuge dessen tritt nun an die Stelle bislang verbreiteter gesellschaftsevolutionärer Konvergenzannahmen und linear gedachter religiöser Niedergangszenarien eine starke Relativierung der dabei unterstellten Entwicklungen. Neben begrüßenswerten Tendenzen, die sich konkreten Akteurskonstellationen&amp;nbsp; zuwenden, historische Kontingenzen in Rechnung stellen und die normativen, eurozentrischen Implikationen des Konzeptes zurückweisen, drohen nun allerdings neue Einseitigkeiten. Religiöse Vitalität erscheint plötzlich als der Normalfall und die Betonung der Verschiedenheit von Konstellationen mündet zuweilen in einen Relativismus, »der den wissenschaftlichen Vergleich der Konstellationen behindert und die Herausarbeitung übergreifender Strukturen und Prozesse unter den Generalverdacht des Eurozentrismus stellt« (Wohlrab-Sahr 2010). Es ist Detlef Pollack und Gergely Rosta daher unbedingt zu folgen, wenn sie gegenüber solch »entschlossenen Gesten der Verabschiedung« (12) den Fragehorizont offen zu halten versuchen. Die Autoren interessiert dabei vor allem, ob wir tatsächlich bereits wissen, worin die dominanten Tendenzen des religiösen Wandels in modernen Gesellschaften bestehen und ob wir in der Lage sind, diese Tendenzen zu erklären (ebd.).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>231</start>
+                                <end>237</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4113</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4113</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4113">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4113/4185" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4113" DMDID="DMD_wwu-journals_4113">
+            <mets:fptr FILEID="FILE0_wwu-journals_4113"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

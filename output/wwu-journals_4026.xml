@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4026">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zweiwertigkeit und Mehrwertigkeit</title>
+                        <subTitle>Einige Vorschläge zu einer Soziologie der Polykontexturalität</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jansen, Till</displayForm>
+                        <namePart type="family">Jansen</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Luhmann entwirft in »Soziale Systeme« eine Theorie sich wechselseitig beobachtender sozialer Systeme. Dabei greift er jedoch auf Figuren der Subjektphilosophie zurück, die insofern Probleme der Subjekttheorie mittransportieren, als dass auch soziale Systeme letztlich in sich gefangen sind. Lösungsvorschläge wie strukturelle Kopplung oder Interpenetration bleiben hier unzureichend. Der Artikel schlägt vor, das Problem mit Gotthard Günther formallogisch zu interpretieren: In einer zweiwertigen Logik kann es nur eine Instanz der Reflexion und eine Instanz des Reflektierten geben. Einen Ausweg bietet Günther mit einer mehrwertigen Logik an, die eine wechselseitige Reflexion von Reflexionsbeziehungen beschreibbar macht. Indem die Einheit der Unterscheidung (von System und Umwelt) nicht in die Unterscheidung zurück geführt wird (dem System zugerechnet), können weitere Reflexionspositionen angenommen werden. Dies würde die Möglichkeit einer radikal deontologierten Protosoziologie bieten, die auf der einen Seite zwar den sicheren ontologischen Ausgangspunkt eines sozialen Systems oder eines Subjekts verliert, auf der anderen Seite jedoch ein hohes Potential an analytischen Möglichkeiten gewinnt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>20</start>
+                                <end>42</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4026</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4026</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4026">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4026/4072" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4026" DMDID="DMD_wwu-journals_4026">
+            <mets:fptr FILEID="FILE0_wwu-journals_4026"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

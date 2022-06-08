@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3740">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 03.2021.036</title>
+                        <subTitle>Robert H. Jordan – Rosemary Morris (Hrsg.), The Life and Death of Theodore of Stoudios: (Dumbarton Oaks Medieval Library 70). Cambridge, MA – London: Harvard University Press 2021.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pratsch, Thomas</displayForm>
+                        <namePart type="family">Pratsch</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">&amp;nbsp;
+Robert H. Jordan – Rosemary Morris (Hrsg.), The Life and Death of Theodore of Stoudios (Dumbarton Oaks Medieval Library 70). Cambridge, MA – London: Harvard University Press 2021. 382 S. – ISBN 978-0-6742-6119-8 (31.50 €)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>292</start>
+                                <end>293</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3740</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3740">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/3740/3783" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3740" DMDID="DMD_wwu-journals_3740">
+            <mets:fptr FILEID="FILE0_wwu-journals_3740"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

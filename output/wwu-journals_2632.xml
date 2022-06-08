@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2632">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>New examples of a rare coin type of Gerasa in the Decapolis</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>New examples of a rare coin type of Gerasa in the Decapolis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaplun, Alexander</displayForm>
+                        <namePart type="family">Kaplun</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag werden drei neue Exemplare eines seltenen Münztyps aus Gerasa vorgestellt; er wurde unter Elagabal ausgegeben und zeigt auf der Rückseite Artemis in einem zweisäuligen Tempel. Die Anzahl der überlieferten Stücke erhöht sich damit auf sechs. Es handelt sich um den bislang einzigen bekannten Architekturtyp aus Gerasa. Die Zuweisung zu Gerasa wird durch die nun klar lesbare Legende mit dem Ethnikon im Genitiv Plural bestätigt. Für diese Verortung spricht auch die Verwendung eines Gegenstempels mit Bogen.</abstract>
+                    <abstract lang="eng">We present three additional examples of an extremely rare coin type of Gerasa struck at the time of Elagabalus and depicting a statue of Artemis inside a distyle temple, bringing total number of known examples to six. The type is quite significant, being the only architectural type minted in Gerasa. The newly published examples allow to fully read the reverse inscription with the ethnic of the city in genitive plural form. One of the coins is bearing a bow shaped countermark known from two other coin types of Gerasa from the time of Elagabalus.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>3</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2020-25051</identifier>
+                    <identifier type="doi">10.17879/ozean-2020-2632</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2632</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2632">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2632/2505" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_2632">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2632/2506" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2632" DMDID="DMD_wwu-journals_2632">
+            <mets:fptr FILEID="FILE0_wwu-journals_2632"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2632" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2632"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1315">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verfolgte und bedrängte Christen – ein vergessenes Thema der Pastoraltheologie?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Philipp</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Pastoraltheologie hat in ihren Reflexionen bisher weitgehend ausgeblendet, dass Christenweltweit verfolgt und bedrängt werden. Dabei macht bereits das Neue Testament nachdrücklichdarauf aufmerksam, dass Bedrängnis und Verfolgung zum Christsein wesentlichdazugehören. Freilich sollte sich christliches Engagement nicht auf eine Solidarität mit denchristlichen Glaubensgeschwistern beschränken, sondern sollte alle Menschen im Blick haben,die aufgrund ihres Glaubens oder ihrer Weltanschauung benachteiligt werden.Up to now, Pastoral theology has largely ignored the fact that Christians worldwide are persecutedand oppressed even though the New Testament alerts its readers that persecution andoppression belong to the essence of Christian life. Christian commitment should not be limitedto solidarity among Christians, however, but it should also keep an eye on everyone who experiencesdiscrimination because of religion or Weltanschauung.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>163</start>
+                                <end>182</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12483</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1315</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1315">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1315/1248" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1315" DMDID="DMD_wwu-journals_1315">
+            <mets:fptr FILEID="FILE0_wwu-journals_1315"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

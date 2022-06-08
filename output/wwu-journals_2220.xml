@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Offen für alle? - Pastoraltheologische Annäherung an Heterogenität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grümme, Bernhard</displayForm>
+                        <namePart type="family">Grümme</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Unsere Gemeinden wollen offen für alle sein. Sie wollen Differenzen zu Wort kommen lassen und allen Gehör verschaffen. In diesem Sinne wollen sie heterogenitätsfähig sein. Nur scheinen dem manche Praktiken und Semantiken zu widersprechen. Dies aber konterkariert die Botschaft des Evangeliums, die doch in Martyria, Diakonia und Leiturgia in den Gemeinden bezeugt und bewahrheitet werden will. Wie geht Pastoraltheologie damit um? Welche hermeneutischen Instrumentarien hat sie, um in einem ambitionierten Sinne heterogenitätsfähig zu werden? Die folgenden Überlegungen wollen vorhandene Hermeneutiken kritisch analysieren und das Konzept einer Aufgeklärten Heterogenität als weiterführenden Vorschlag einbringen.Our parishes want to be open to all. They want to make all differences heard. In this sense, they want to enable heterogeneity. But some practices and semantics in our parishes seem to contradict this. This, however, counteracts the message of the Gospel, which is to be testified and fulfilled through Martyria, Diakonia and Liturgeia in the Church. How does pastoral theology deal with it? What hermeneutical instruments does it have in order to become sensitive for heterogenity in an ambitious sense? The following considerations will critically analyze existing hermeneutics and introduce the concept of an enlightened heterogeneity („Aufgeklärte Heterogenität“) as a further proposal.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>101</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21228</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2220</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2220">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2220/2122" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2220" DMDID="DMD_wwu-journals_2220">
+            <mets:fptr FILEID="FILE0_wwu-journals_2220"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

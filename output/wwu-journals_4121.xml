@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4121">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>5th Asian Oceanian Congress of Neuropathology along with the 5th Annual Conference of the Neuropathology Society of India - Meeting Abstracts, September 24–26, 2021</title>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The 5th Asian Oceanian Congress of Neuropathology along with the 5 th Annual Conference of the Neuropathology Society of India  (AOCN-NPSICON) was held in virtual mode on September 24–26, 2021, at National Institute of Mental Health and Neurosciences (NIMHANS), Bangalore, India, hosted by the Department of Neuropathology. It had 361 attendees from 20 countries from Asia and Oceania including India.
+The event brought together pathologists, clinicians and neuroscientists from all over Asia and Oceania with invited speakers from the USA, Germany and Canada. The program was very comprehensive and covered advances in the fields of neurooncology with emphasis on the upcoming WHO 2021 classification of CNS tumors, neuromuscular disorders, epilepsy and neurodegenerative disorders through key note addresses and symposia that featured 78 distinguished international and national faculty sharing their expertise. In addition, there were case-based learning modules, opportunities for paper presentations and poster sessions for young faculty and postgraduates with several awards for young investigators, best papers and posters. A highlight of the conference was a unique debate on the hot topic of the decade: Methylation-based classification of CNS tumors and a panel discussion on COVID-19. The participants were highly appreciative of the academic content.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-42289</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-4121</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4121</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_4121">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4121/4228" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_4121">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4121/4227" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4121" DMDID="DMD_wwu-journals_4121">
+            <mets:fptr FILEID="FILE0_wwu-journals_4121"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_4121" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_4121"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

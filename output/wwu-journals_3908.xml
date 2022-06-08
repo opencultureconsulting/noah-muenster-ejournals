@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3908">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>مفهوم السلام في اليهوديّة والمسيحيّة والإسلام لجورج تامر وآخرين</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <nonSort>The </nonSort>
+                        <title>Concept of Peace in Judaism, Christianity and Islam, by Georges Tamer et (ed.)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yahyaoui, Yassine</displayForm>
+                        <namePart type="family">Yahyaoui</namePart>
+                        <namePart type="given">Yassine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">مفهوم السلام في اليهوديّة والمسيحيّة والإسلام لجورج تامر وآخرين</abstract>
+                    <abstract lang="eng">The Concept of Peace in Judaism, Christianity and Islam, by Georges Tamer et (ed.)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3908</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3908</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3908">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3908/3955" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3908">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3908/4226" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3908" DMDID="DMD_wwu-journals_3908">
+            <mets:fptr FILEID="FILE0_wwu-journals_3908"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3908" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3908"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

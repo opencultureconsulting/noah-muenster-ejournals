@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3583">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 03.2021.029</title>
+                        <subTitle>Marina Loukaki, Les Grâces à Athènes : Éloge d&apos;un gouverneur byzantin par Nikolaos Kataphlôron: (Byzantinisches Archiv 36). Berlin – Boston: Walter de Gruyter 2019. XXIX, 206 pp.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Giannouli, Antonia</displayForm>
+                        <namePart type="family">Giannouli</namePart>
+                        <namePart type="given">Antonia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Marina Loukaki, Les Grâces à Athènes : Éloge d&apos;un gouverneur byzantin par Nikolaos Kataphlôron (Byzantinisches Archiv 36). Berlin – Boston: Walter de Gruyter 2019. XXIX, 206 pp. – ISBN: 978-3-11-063386-3 (€ 102.95)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>236</start>
+                                <end>240</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-byzrev-2021-35766</identifier>
+                    <identifier type="doi">10.17879/byzrev-2021-3583</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3583</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3583">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/3583/3576" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3583" DMDID="DMD_wwu-journals_3583">
+            <mets:fptr FILEID="FILE0_wwu-journals_3583"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

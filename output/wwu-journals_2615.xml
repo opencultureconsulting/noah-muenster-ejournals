@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2615">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neurovascular disease</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Planas, Anna Maria</displayForm>
+                        <namePart type="family">Planas</namePart>
+                        <namePart type="given">Anna Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The aim of this review is to highlight novel findings in 2019 in the area of neurovascular disease. Experimental studies have provided insight into disease development, molecular determinants of pathology, and putative novel therapeutic targets. Studies in genetic experimental models as well as monogenic forms of human cere-brovascular diseases identified pathogenic molecules that may also be relevant to sporadic cases. There have been advances in understanding the development of cerebral cavernous angiomas and arteriovenous malfor-mations, and putative curative treatments have been suggested from experimental models. Key pathogenic pathways involved in vessel calcification and stiffness have also been identified. At the cellular level, studies showed that proper function of endothelial and mural cells, particularly pericytes, is crucial to ensure full endo-thelial differentiation and blood-brain barrier integrity. Moreover, recent discoveries support the existence of a homeostatic crosstalk between vascular cells and other neural cells, including neurons. Cerebrovascular diseas-es are strongly associated with inflammation. Beyond pathogenic roles of specific components of the inflam-matory response, new discoveries showed interesting interactions between inflammatory molecules and regu-lators of vascular function. Clinical investigation on cerebrovascular diseases has progressed by combining ad-vanced imaging and genome-wide association studies. Finally, vascular cognitive impairment and dementia are receiving increasing attention. Recent findings suggest that high-salt intake may cause cerebrovascular dys-function and cognitive impairment independent of hypoperfusion and hypertension. These and other recent reports will surely inspire further research in the field of cerebrovascular disease that will hopefully contribute to improved prevention and treatment.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-25170</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2615</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2615</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2615">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2615/2517" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2615">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2615/2516" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2615" DMDID="DMD_wwu-journals_2615">
+            <mets:fptr FILEID="FILE0_wwu-journals_2615"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2615" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2615"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

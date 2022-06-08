@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4023">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>»hayekianisches« Europa? Zu Wolfgang Streecks Buch »Gekaufte Zeit – Die vertagte Krise des demokratischen Kapitalismus«</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Deutschmann, Christoph</displayForm>
+                        <namePart type="family">Deutschmann</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Streecks Buch ist mit Recht gelobt worden. Es basiert auf profunder, in jahrzehntelanger Forschung erworbener politökonomischer Expertise, ist glänzend geschrieben und voller präziser Beobachtungen und Pointen. Der Autor entwickelt eine prägnante Interpretation der politisch-ökonomischen Entwicklung der westlichen Industrieländer seit den 1970er Jahren und eine Diagnose der gegenwärtigen Krise. Der Text ist auf der Basis der vom Autor im Jahr 2012 in Frankfurt gehaltenen Adorno-Vorlesungen entstanden. Auf diesen Kontext nimmt Streeck auch Bezug, indem er mit einer Kritik der im Umkreis der Frankfurter Schule in den späten 1960er und 1970er Jahren entstandenen Krisenund Spätkapitalismustheorien (Pollock, Habermas, Offe) beginnt: Die Krisenhaftigkeit des Kapitalismus sei zwar erkannt, aber unter dem Einfluss der damals vorherrschenden Umdeutung des Kapitalismus als eines Systems »technokratischer Wirtschaftsverwaltung « als eine rein politisch vermittelte fehlgedeutet worden. Die Krisenhaftigkeit der kapitalistischen Ökonomie selbst und das »Kapital in Gestalt seiner Organisatoren, Organisatoren und Eigentümer« (41) habe man aus dem Blick verloren. Unter dem Druck der Anspruchsinflation der Arbeitnehmer in den 1970er Jahren habe dieser Akteur sich freilich in unmissverständlicher Weise wieder ins Spiel gebracht.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>67</start>
+                                <end>77</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4023</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4023</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4023">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4023/4069" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4023" DMDID="DMD_wwu-journals_4023">
+            <mets:fptr FILEID="FILE0_wwu-journals_4023"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

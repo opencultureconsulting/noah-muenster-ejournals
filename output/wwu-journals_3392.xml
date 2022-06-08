@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3392">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Some New Insights and a Note Regarding  Alexander Jannaeus Anchor/Star (TJC  Group L) Coins</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Some New Insights and a Note Regarding  Alexander Jannaeus Anchor/Star (TJC  Group L) Coins</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Farhi, Yoav</displayForm>
+                        <namePart type="family">Farhi</namePart>
+                        <namePart type="given">Yoav</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Larsen, Kevin W.</displayForm>
+                        <namePart type="family">Larsen</namePart>
+                        <namePart type="given">Kevin W.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Artikel untersucht einen spezifischen Münztyp, der von Alexander Jannaeus und wahrscheinlich von seinen Nachfolgern im 1. Jh. v. Chr. geprägt wurde. Neue Varianten und unpublizierte Exemplare werden diskutiert, einhergehend mit dem Vorschlag, diesen Münztyp in vier Untertypen aufzugliedern. Daneben wird die Herstellung der Stempel berücksichtigt, mit denen die kleinsten Exemplare dieses Typs geprägt wurden. Schließlich machen die Autoren einen Vorschlag, welches&amp;nbsp; Nominal diese Münzen im judäischen Zahlungsverkehr einnahmen.</abstract>
+                    <abstract lang="eng">The article examines one specific type of coin that was minted by Alexander Jannaeus and probably by his successors, during the first century BCE. New variants and unpublished specimens are discussed along with a proposal that this coin type may be divided into four subtypes. The article also considers the preparation of the dies used to mint the smallest of this type of coin. Finally, the article proposes the denomination that these coins had in the ancient Judean marketplace.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>10</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2021-33657</identifier>
+                    <identifier type="doi">10.17879/ozean-2021-3392</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3392</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3392">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3392/3365" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3392">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3392/3366" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3392" DMDID="DMD_wwu-journals_3392">
+            <mets:fptr FILEID="FILE0_wwu-journals_3392"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3392" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3392"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

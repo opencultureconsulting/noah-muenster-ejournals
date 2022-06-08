@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3751">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf der Spur der Spiritualität</title>
+                        <subTitle>Zur Frage nach dem „Wie“ der Seelsorge</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weiher, Eberhard</displayForm>
+                        <namePart type="family">Weiher</namePart>
+                        <namePart type="given">Eberhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der gesundheitsfachlichen und in der praktisch-theologischen Debatte wird immer mehr gesehen, dass die Kernaufgabe von (Klinik-)Seelsorge die Spiritual Care ist. Dabei wird die spirituelle Begleitung in ihrer grundsätzlichen Bedeutung und Notwendigkeit betont. Konzepte dafür sind jedoch nur umrisshaft beschrieben. Die Konzepte, die seelsorgliche Spiritual Care genauer entfalten und spezifische Methoden für das konkrete „Wie“ der Seelsorge vorstellen, sind noch rar. Der folgende Beitrag skizziert eine Grunddimension von und daraus folgend eine Handlungsmethodik für Seelsorge, die sich über die religiöse Binnenkultur hinaus der spirituellen Realität der Menschen in der säkularen Moderne verpflichtet sieht.
+In the ongoing debate concerning healthcare and practical theology, the core task of (hospital) pastoral care is increasingly being seen as a form of spiritual care. Thus, emphasis is being put on the fundamental significance and necessity of the spiritual aspects of caring. To date, however, conceptualizations for such caring are mainly restricted to outlines. Such concepts of how pastoral spiritual care unfolds in detail still rarely present specific methods for the concrete &quot;how.&quot; This contribution outlines a basic dimension of pastoral care and, following from this, its methodological operationalization. This approach sees itself as committed to the spiritual reality of people in secular modernity beyond religious culture.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>67</start>
+                                <end>80</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-37987</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3751</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3751">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3751/3798" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3751" DMDID="DMD_wwu-journals_3751">
+            <mets:fptr FILEID="FILE0_wwu-journals_3751"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

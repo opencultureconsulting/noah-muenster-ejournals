@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3799">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Politische und andere Deutungsmöglichkeiten von Gorgoneia auf Münzen</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Politische und andere Deutungsmöglichkeiten von Gorgoneia auf Münzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haymann, Florian</displayForm>
+                        <namePart type="family">Haymann</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">32</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die diachrone Untersuchung des Gorgoneion-Motivs und verwandter Objekte bringt eine Reihe von neuen Erkenntnissen. Um die Gefährlichkeit des Blicks zu inszenieren, bedienten sich die Stempelschneider verschiedenster Mittel. Neben der besonderen Betonung der Augenpartie sind dies die Verdoppelung des Gorgoneions, die Hervorhebung einer Stirnfalte zur Verdeutlichung der Anstrengung, der ›schräge‹ Blick, die Verzierung mit Schlangen und die demonstrative Abwendung des Perseus vom Gorgoneion. Die Bildidee des Gorgoneions auf Münzen scheint die Inszenierung der Angst vor dem Blick zu sein. Was die visuelle Botschaft betrifft, so gibt es keinen Hinweis darauf, dass ein ›apotropäischer‹ Effekt, wie auch immer dieser genau zu verstehen sein mag, bei Münzen mit Gorgoneion eine Rolle gespielt haben könnte. Diese Funktion scheint hauptsächlich auf den architektonischen Kontext und vergleichbare Objekte beschränkt gewesen zu sein. Auch für einen solar-astralen Aspekt des Gorgoneions, wie er gelegentlich diskutiert wurde, gibt es keine Belege im Medium Münze.
+Auf der anderen Seite ergibt sich aus der diachron vergleichenden Perspektive ein überraschend starker politischer Aspekt des Gorgoneions. Neben der Hervorhebung städtischer Traditionen, die die Identität der Polis prägen, ist das Gorgoneion seit Beginn des 5. Jahrhunderts gelegentlich ein Bekenntnis zur Herrschaft der Achaimeniden. Seit der zweiten Hälfte des 5. Jahrhunderts verwenden mit Athen konkurrierende Städte und Herrscher gelegentlich das Gorgoneion und beanspruchen damit, von Athena besonders begünstigt zu sein. Eine Verbindung zwischen der mit einem Gorgoneion geschmückten Ägis und Alexander dem Großen entstand dagegen in hellenistischer Zeit. Dieser Aspekt, der von Nero wieder aufgegriffen wurde, mag auch bei der Verwendung der Ägis durch römische Kaiser eine Rolle gespielt haben. Das Gorgoneion selbst spielte in der römischen Kaiserzeit kaum eine Rolle in der Münzprägung. Seine Verwendung beschränkte sich auf einen Bestandteil des kaiserlichen Brustpanzers, auf dem es am ehesten die ›apotropäische‹ Wirkung entfalten konnte, die ihm auch sonst oftmals zugeschrieben wurde und wird.</abstract>
+                    <abstract lang="eng">The diachronic examination of the gorgoneion motif as well as closely related objects yielded a number of findings. In order to stage the dangerousness of the gaze, the celators used a wide variety of means. In addition to the special emphasis on the area surrounding the eyes, these are: doubling of the gorgoneion, highlighting a forehead crease to illustrate the effort, ›oblique‹ gaze, the adornment with snakes and the demonstrative turning away of Perseus from the gorgoneion. The image idea of the gorgoneion on coins seems to be the visualization of a fear of gaze. As far as the visual message is concerned, there is no indication that an ›apotropaic‹ effect, however exactly this should be understood, could have played any role for coins with a gorgoneion. This function seems to have been mainly limited to the architectural context and certain objects. Also for a solar-astral aspect of the gorgoneion, as it was occasionally discussed by scholars, there is no evidence for the medium of the coin.
+On the other hand, a surprisingly strong political aspect of the gorgoneion emerges from the diachronically comparative perspective. In addition to highlighting civic traditions that shape the identity of the polis, the gorgoneion has occasionally been a commitment to the rule of the Achaemenids since the beginning of the 5th century. Since the second half of the 5th century, cities and rulers competing with Athens occasionally use the gorgoneion in order to claim to be particularly favored by Athena. In contrast, a connection between the aegis decorated with a gorgoneion and Alexander the Great emerged in the Hellenistic period. This aspect, taken up again by Nero, may also have played a role in the use of the aegis by Roman emperors. The gorgoneion itself hardly played a role in imperial coinage in Roman times. Its use was narrowed to a component of the imperial breastplate on which it was most likely to develop the ›apotropaic‹ effect that was and is otherwise always ascribed to it.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>32</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2022-38416</identifier>
+                    <identifier type="doi">10.17879/ozean-2022-3799</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3799</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3799">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3841" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3799">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3839" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3799">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3840" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3799" DMDID="DMD_wwu-journals_3799">
+            <mets:fptr FILEID="FILE0_wwu-journals_3799"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3799" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3799"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3799" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3799"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

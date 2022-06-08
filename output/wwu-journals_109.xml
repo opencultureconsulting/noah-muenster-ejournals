@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_109">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bruchlinien gewerkschaftlicher Solidarität?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hengsbach SJ, Friedhelm</displayForm>
+                        <namePart type="family">Hengsbach SJ</namePart>
+                        <namePart type="given">Friedhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Text beschäftigt sich vor dem Hintergrund der Finanzkrise mit den aktuellen Herausforderungen und Problemen der deutschen Gewerkschaften und der Organisation der Arbeitnehmersolidarität. Ausgangspunkt ist die Frage, inwiefern und warum die Gewerkschaften in der heutigen Zeit politisch ohnmächtig erscheinen. Der Autor kommt zu dem Ergebnis, dass die gewerkschaftliche Solidarität seit dem Ende der Nachkriegszeit brüchig geworden ist, lokalisiert die Gründe für die Entwicklung in wirtschaftlichen und gesellschaftlichen Trends sowie im politischen Umgang mit diesen und schlägt gewerkschaftliche Reformen und eine Ausnutzung gewerkschaftlicher Kampfmittel vor. Die Untersuchung verfolgt dabei methodisch eine Klärung der Zusammenhänge zwischen gewerkschaftlichen Aktivitäten auf der einen und politischen und gesellschaftlichen Prozessen auf der anderen Seite und unterzieht diese einer sozialethischen Reflexion.Der Gedankengang der Untersuchung beginnt zunächst mit einer zeitgeschichtlichen Analyse der Gründe für die wahrgenommene politische Schwäche der Gewerkschaften (1). Diese Analyse wird in einem nächsten Schritt ergänzt durch die Darstellung von Anzeichen, die für eine positive Erweiterung gewerkschaftlicher Handlungsspielräume sprechen (2). Dieses ambivalente Bild der deutschen Gewerkschaften provoziert dann die zentrale sozialethische Reflexion anhand von drei exemplarischen Handlungsfeldern (3). Das Resümee bilanziert die Ergebnisse und schlägt Maßnahmen für eine Stärkung gesellschaftlicher Solidarität vor (4).AbstractAgainst the backdrop of the financial crisis this paper tackles the current challenges and problems faced by the German trade unions and the issue of ‘organising’ solidarity. The point of departure here is the question to what extent and why trade unions presently appear to be without political power. The paper comes to the conclusion that union solidarity has become brittle since the end of the post-war era. The reasons for this can be located in economic and social trends and their political handling. In response to these developments, union reforms and the full use of trade-union means for industrial action are proposed.The aim of the analysis in this context is to clarify the relationships between tradeunion activity and political and social processes submitting them to social-ethical reflections. The line of argument will begin with an historical analysis of the reasons for the perceived political weakness of the trade unions (1). The analysis will then be complemented by an account of the signs suggesting a positive extension of the trade unions scope of action (2). This ambivalent image will then lead to the central social-ethical considerations on the basis of three exemplary fields of action (3). The conclusion will summarize the results and propose measures for strengthening trade-union solidarity (4).urn:nbn:de:hbz:6:3-2012012796</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012012796</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_109</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_109">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/109/100" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_109" DMDID="DMD_wwu-journals_109">
+            <mets:fptr FILEID="FILE0_wwu-journals_109"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

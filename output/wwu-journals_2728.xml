@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2728">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Dem Volk auf’s Maul schauen!“ (M. Luther)</title>
+                        <subTitle>Heterogenität und Solidarität als wichtige Navigationskoordinaten für den synodalen Weg</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Loffeld, Jan</displayForm>
+                        <namePart type="family">Loffeld</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die sogenannte MHG-Studie hat für den Bereich der deutschen Bischofskonferenz die vorher nicht sichtbaren Ausmaße und Ermöglichungszusammenhänge sexueller Gewalt durch Kleriker in Deutschland seit 1945 bekannt gemacht. Infolgedessen haben die Deutsche Bischofskonferenz und das Zentralkomitee der deutschen Katholiken einen „verbindlichen synodalen Weg“ für die deutsche Kirche beschlossen, der sich allerdings bereits im Vorfeld mit sehr unterschiedlichen Erwartungen und Anfragen konfrontiert sieht. Dieser Aufsatz möchte jene Unterschiede analysieren sowie deren Herkunft ansatzweise nachzeichnen und versucht, sie durch einen Rückgriff auf die „Theologie der Synodalität“, wie sie Papst Franziskus 2015 entwickelt hat, miteinander zu vermitteln. Dabei stellt sich die Frage, wie Partizipation an diesem Weg überhaupt gedacht werden soll, ob auch die Opfer sexueller Gewalt beteiligt werden und ob das Unterfangen eines „synodalen Weges“ angesichts der Massivität der Problemlage überhaupt ausreicht. The German “MHG-report“ has shown the incredible facts and the great extent of sexual violence, perpetrated by clerics in Germany since 1945. Due to this report, the German Bishops’ Conference and Central Committee of German Catholics initiated the so called “Synodaler Weg“, which just before its beginning is confronted with different expectations and issues. This article intends to do an analysis of those differences and tries to convey them by referring to the “Theology of Synodality”, developed by Pope Francis in 2015. By doing so the following issues arise: Which concept of participation implies the German process? Which role do survivors of sexual abuse play during these consultations? This leeds totthe question whether the intended process will be the sufficient answer to all those and other massive problems of today’s Catholic Church.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>39</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2019-25793</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2728</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2728">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2728/2579" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2728" DMDID="DMD_wwu-journals_2728">
+            <mets:fptr FILEID="FILE0_wwu-journals_2728"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

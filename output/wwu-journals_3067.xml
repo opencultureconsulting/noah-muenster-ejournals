@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3067">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Influence of Polysemy When Teaching History Through Film</title>
+                        <subTitle>The Case of the Amistad</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ehnmark, Hanna</displayForm>
+                        <namePart type="family">Ehnmark</namePart>
+                        <namePart type="given">Hanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Films or (recorded) theater plays have been part of language courses at school for quite some time. During the last couple of years though, the use of audiovisual materials for educational purposes has increased significantly (Stoddard &amp;amp; Marcus, “Tinsel Town” 305): Students use the internet, social or other media to gather information and complete their workload at school or university. This is also the case when it comes to history and teaching or learning about history. It is often easier and faster for a student to watch a movie than to read a book about a historical event. Additionally, history feature films are mostly more entertaining than reading said book. They can be loaded with emotion and tension in order to appeal to the masses and could therefore transmit incorrect messages about the past. To counteract the possibility of misleading information, it makes sense to include historical movies in a teacher’s curriculum. That way, students learn about history not only through a medium they know and enjoy, but also in an environment where mistakes are not overlooked. They gain the ability to analyze such movies considering the context of production and the historical event shown on screen and therefore manage to extract accurate information. This of course might not always work, as “different students can ‘read’ the same film and its historical messages differently” (Metzger 68). The feature being described here is that of polysemy, an essential part of any written, audiovisual or other text. It can greatly influence the way students understand a movie and think of the history it shows and, if not properly managed by the teacher, it might transmit the wrong message or false information.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>42</start>
+                                <end>49</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2019-30035</identifier>
+                    <identifier type="doi">10.17879/satura-2019-3067</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3067</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3067">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3067/3003" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3067" DMDID="DMD_wwu-journals_3067">
+            <mets:fptr FILEID="FILE0_wwu-journals_3067"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

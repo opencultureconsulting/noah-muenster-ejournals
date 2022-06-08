@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2221">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Unbeglichene Übersetzungen&quot; (Bruno Latour) - Reflexionen über die exklusive und inklusive Sprache der Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Altmeyer, Stefan</displayForm>
+                        <namePart type="family">Altmeyer</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit der Metapher der Übersetzung wird häufig eine zentrale Aufgabe beschrieben, vor welche kirchliche Verkündigung heute gestellt ist. Dabei wird die Diagnose vorausgesetzt, dass sich die Sprachen gegenwärtiger Lebenswelten und der christlichen Tradition voneinander entfernt haben und sich wie Fremdsprachen gegenüberstehen. Mittels der Kategorie Übersetzung soll beantwortet werden, wie mit der Distanz zwischen diesen Sprachwelten umzugehen ist. Der Beitrag nimmt diesen Diskurs kritisch auf und reflektiert mit Bruno Latour und Armin Nassehi, welcher kirchliche Umgang mit Sprache angesichts der gegenwärtigen gesellschaftlichen Koordinaten von Pluralität, Diversität und Heterogenität zu beobachten ist bzw. prospektiv zu entwickeln wäre. Die Herausforderung ist, religiöses Sprechen nicht auf eine instrumentell gedachte, lineare Übersetzung zu reduzieren.A central task for the proclamation of the Churches has often been described by the metaphor of translation. In doing so, the underlying diagnosis is that the languages of contemporary life-worlds and Christian tradition have become detached and are now facing each other like foreign languages. By means of translation it is to be answered how to cope with these linguistic disruptions. The paper critically addresses the translation discourse and together with Bruno Latour and Armin Nassehi reflects on which religious interaction with language can be observed and could be developed, considering the contemporary social coordinates of plurality, diversity and heterogeneity. The challenge is not to reduce religious speech to an instrumental and linear translation practice.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>114</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21237</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2221</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2221">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2221/2123" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2221" DMDID="DMD_wwu-journals_2221">
+            <mets:fptr FILEID="FILE0_wwu-journals_2221"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

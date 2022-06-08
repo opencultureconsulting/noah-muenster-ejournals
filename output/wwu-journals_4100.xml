@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Leben in der Zeit</title>
+                        <subTitle>Theoretische Perspektiven auf die Analyse von Lebensalter und die gesellschaftliche Norm der Alterslosigkeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>van Dyk , Silke</displayForm>
+                        <namePart type="family">van Dyk</namePart>
+                        <namePart type="given">Silke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag zielt darauf, die Doppelstruktur von Alter(n) als soziale Strukturkategorie und Prozess theoretisch zu erhellen, um im Lichte dessen die gegenwärtig zu beobachtende, gesellschaftliche Neuverhandlung des höheren Lebensalters zu reflektieren. Mittels einer »doppelten« Bewegung wird erörtert, dass und inwiefern ein Theorieimport verschiedener poststrukturalistisch-praxistheoretischer Konzepte die Erforschung von Fragen des Lebensalters befruchten kann, wenn in umgekehrter Bewegung die konstitutive Temporalität der menschlichen Existenz Eingang in die sozialwissenschaftliche Theoriebildung findet. Eine derart theoretisch-konzeptionell inspirierte Analyse führt nicht zuletzt vor Augen, dass die gut belegte Persistenz negativer Altersstereotype nicht auf einen Mangel an Aufklärung über die Potenziale des Alters zurückgeht, sondern dass sie sehr viel grundsätzlicher durch die Bestimmung des Alters als »Anderes« eines vermeintlich alterslosen Erwachsenenlebenserzeugt wird.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>208</start>
+                                <end>235</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-4100</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4100</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4100">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4100/4169" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4100" DMDID="DMD_wwu-journals_4100">
+            <mets:fptr FILEID="FILE0_wwu-journals_4100"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

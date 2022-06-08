@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4072">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Markenbildung und Markenbindung auf dem Theorie-Markt – Eine Notiz zur Soziologie der Soziologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schimank, Uwe</displayForm>
+                        <namePart type="family">Schimank</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Hat die Soziologie tatsächlich eine »vitale Streitkultur«, wie ihr etwa von Georg Kneer und Stephan Moebius attestiert wird? Die multiparadigmatische Theorienlandschaft wird oft mit der Konkurrenz auf wirtschaftlichen Märkten verglichen – was stimmt, aber anders, als es gemeint ist. Bei genauerem Hinsehen zeigt sich, dass Unternehmen bemüht sind, der Konkurrenz untereinander möglichst auszuweichen, und dies vor allem durch Markenbildung tun. Genau das Gleiche lässt sich für die Theorienkonkurrenz der Soziologie aufzeigen; und so wie sich die Unternehmen den postulierten positiven Effekten der Marktkonkurrenz subversiv entziehen, dürfte auch die Streitkultur der Soziologie nicht viel zu einem kumulativen Erkenntnisfortschritt beitragen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>10</start>
+                                <end>16</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2012-4072</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4072</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4072">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4072/4118" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4072" DMDID="DMD_wwu-journals_4072">
+            <mets:fptr FILEID="FILE0_wwu-journals_4072"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

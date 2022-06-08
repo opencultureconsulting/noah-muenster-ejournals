@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4158">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von Vermögen zu Versprechen</title>
+                        <subTitle>Für eine beziehungstheoretische Soziologie des Geldes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sahr, Aaron</displayForm>
+                        <namePart type="family">Sahr</namePart>
+                        <namePart type="given">Aaron</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Sozialwissenschaften verhandeln seit langer Zeit zwei metatheoretische Zugänge zu Geld. Beide Zugänge nehmen jeweils ein anderes Phänomen, oder einen anderen Aspekt dieses komplexen sozialen Sachverhalts zum Ausgangspunkt der Theoriebildung. Der Begriff ›Geld‹ bezeichnet also jeweils etwas Anderes und es stellt sich die Frage, wie sich die Soziologie des Geldes zu beiden Ausgangspunkten verhalten sollte, was also für oder gegen die eine oder andere Metatheorie spricht und was durch die Anwendung der Einen oder der Anderen zu gewinnen ist. Zumeist hat Soziologinnen und Soziologen Geld als ein Mittel fasziniert, das allgemein begehrt wird, weil man durch den Geldbesitz unzählige unterschiedliche Güter und Dienste kaufen kann. Geld war und ist besonders, weil es nicht auf die Befriedigung eines speziellen Bedürfnisses festgelegt ist, sondern gegen alles Mögliche eingetauscht werden kann, weil auch die Verkäufer von Gütern und Diensten es bereitwillig akzeptieren, um es wiederum einzutauschen. Geld als ein universeller Tauschwert, anders gesagt: die Kaufkraft des Geldes ist das Faszinosum der traditionellen Geldsoziologie. Sie identifiziert Geld metatheoretisch mit seinem Warencharakter, mit seiner Austauschbarkeit oder Liquidität. Diese metatheoretische Perspektive wird dementsprechend als Warentheorie des Geldes bezeichnet. Die zweite, (noch immer) heterodoxe metatheoretische Grundlage beginnt mit einer anderen Beobachtung. Ausgangspunkt ist der Umstand, dass Kaufkraft (in modernen Ökonomien) durch eine soziale Beziehung getragen wird – und zwar eine Beziehung vom Typ des Versprechens: Modernes Geld besteht aus Bankschulden, aus Zahlungsversprechen. Diese Variation des Beobachtungsstandorts impliziert eine alternative metatheoretische Struktur der Geldsoziologie, die Kredittheorie des Geldes genannt wurde. Dieser Beitrag ist ein Plädoyer für die zweite Metatheorie.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>40</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4158</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4158</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4158">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4158/4240" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4158" DMDID="DMD_wwu-journals_4158">
+            <mets:fptr FILEID="FILE0_wwu-journals_4158"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

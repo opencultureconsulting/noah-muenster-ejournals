@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2178">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Lage des wissenschaftlichen Nachwuchses in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Emunds, Bernhard</displayForm>
+                        <namePart type="family">Emunds</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hagedorn, Jonas</displayForm>
+                        <namePart type="family">Hagedorn</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">63</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungDer vorliegende Bericht gibt Auskunft über die Stellenstruktur, die Zusammensetzung der Professorien und des akademischen Mittelbaus sowie die Entwicklung der Qualifikationsarbeiten und anstehende Emeritierungen an den Fakultäten und nichtfakultären Einrichtungen für Katholische Theologie in Deutschland. Im Zehnjahresvergleich sank die Zahl der Professuren lediglich um 9 %. Demgegenüber reduzierte sich die Zahl der Habilitationen pro Jahr gegenüber dem Zeitraum 2000 – 2006 um 37 % auf durchschnittlich 14,4 Habilitationen pro Jahr. Der Frauenanteil an den ProfessorInnen liegt bei 17 %; beim Mittelbau sind es 44 %. Überdurchschnittlich viele Frauen schließen ihre Promotionsprojekte gar nicht oder erst nach langer Zeit ab. Bei den haushaltsfinanzierten Stellen für Wissenschaftliche MitarbeiterInnen gab es in den letzten fünf Jahren einen deutlichen Zuwachs, so dass der akademische Mittelbau heute wieder größer ist als 2006. Durch den Einbezug der Katholisch-Theologischen Fakultäten in Österreich, Südtirol und der Schweiz lässt sich schließlich abschätzen, dass im deutschsprachigen Raum bis 2020 etwa mit 76 Ausschreibungen von Professuren zu rechnen ist, auf die etwa 186 habilitierte BewerberInnen kommen könnten (Nachwuchsquote 2,4). Eine besonders geringe Zahl an BewerberInnen ist u. a. für praktisch-theologische Fächer zu erwarten.AbstractThis report provides information about the structure of academic positions, the composition of professorships and academic junior faculty, as well as the development of scientific qualification works and upcoming retirements (“Emeritierungen”) within departments and other institutions of Catholic Theology in Germany. The results show that the number of professorships dropped 9 percent in the last ten years. Moreover, compared to the previous study period between 2000 and 2006, the number of postdoctoral lecture qualifications (“Habilitationen”) decreased by 37 percent to an average of 14.4 per year. The share of women holding professorships is 17 percent; the share of women in academic junior faculty is 44 percent. According to the data, an above average number of women require a longer period of time to finish their dissertation or don’t finish it at all. Internally financed jobs for research assistants strongly increased during the last five years. The academic junior faculty is now bigger than in 2006. Until 2020, we estimate that 186 qualified scientists will apply for 76 professorship vacancies (professional qualification rate 2.4) in German speaking countries including Austria, Switzerland and South Tyrol. We expect an especially low number of applicants for the practical theological disciplines.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>341</start>
+                                <end>403</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20892</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2178</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2178">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2178/2089" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2178" DMDID="DMD_wwu-journals_2178">
+            <mets:fptr FILEID="FILE0_wwu-journals_2178"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

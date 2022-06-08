@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4175">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Quexit</title>
+                        <subTitle>Das Mannemer Milieu im Abseits der Soziologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hirschauer,  Stefan</displayForm>
+                        <namePart type="family">Hirschauer</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Essay von Hartmut Esser ist eine Art wissenschaftlicher Stellungnahme zur Gründung der sog. »Akademie für Soziologie«. Der Beitrag hat ein für eine Fachzeitschrift ungewöhnliches Diskursniveau, ist sein Referenzpunkt doch eine Art Kamingespräch dreier Fachkollegen in der Nachbarschaft von Essers Alterskohorte, das – wohl zur Erbauung der Leser – in einem professionspolitischen Organ publiziert wurde. Hartmut Esser kommentiert diese Plauderei, mal bissig, mal launig-scherzhaft, so dass man beim Lesen den Eindruck gewinnt, er wäre vielleicht gern dabei gewesen. Dieser Diskussionsbeitrag versucht, vier Gründe zu bestimmen, warum er nicht ›dabei‹ war – soll heißen: warum die quantifizierende, individualistische Soziologie, die Esser exemplarisch verkörpert, sich so sehr an den Rand ihres Faches manövriert hat, dass sie nun begonnen hat, ihren orga-nisatorischen Rückzug aus diesem anzutreten, der sich – je nach Entwicklung – als bloße Etablierung einer Wohlfühlnische zur Stärkung des Selbstbildes oder als Anfang des Aus-zugs der quantitativen Sozialforschung aus der Soziologie darstellt: als Quexit.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>153</start>
+                                <end>167</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4175</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4175</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4175">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4175/4260" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4175" DMDID="DMD_wwu-journals_4175">
+            <mets:fptr FILEID="FILE0_wwu-journals_4175"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3642">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>[Die Combinations of] Unrelated Obverses and Reverses of Ancient Coins in Jacopo Strada’s Numismatic Works</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>[Die Combinations of] Unrelated Obverses and Reverses of Ancient Coins in Jacopo Strada’s Numismatic Works</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heenes, Volker</displayForm>
+                        <namePart type="family">Heenes</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gáldy, Andrea M.</displayForm>
+                        <namePart type="family">Gáldy</namePart>
+                        <namePart type="given">Andrea M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Jacopo Strada beschreibt in seinen hinterlassenen numismatischen Manuskripten (i.e. Magnum ac Novum Opus, Diaskeué, Series Imperatorum Romanorum) Münzaverse und -reverse als zusammengehörig, die aber in Wirklichkeit mit jeweils anderen Vorder- und Rückseiten kombiniert sind. In einigen Bänden des MaNO und der Diaskeué ist die Anzahl solcher Münzen signifikant hoch (i.e. Augustus, Antoninus Pius, Mark Aurel). Durch die Besitzerangabe in der Diaskeué verleiht er ihnen eine vermeintlich sichere Authentizität.
+In dem Beitrag werden einige dieser Stempelkombinationen vorgestellt und es wird der Frage nachgegangen, was Strada zu diesen Zusammenstellungen veranlasst haben könnte. Hat er diese Münzen wirklich gesehen, d. h. existierten sie zu seiner Zeit und sind nicht auf uns gekommen oder hat er sie komplett ›erfunden‹? Dazu sollen auch die Werke seiner Zeitgenossen herangezogen werden (Pirro Ligorio, Sebastiano Erizzo, Antonio Agustín), um zu überprüfen, ob sich diese möglicherweise erfundenen Stempelkombinationen auch in deren Werken wiederfinden. Dadurch ergeben sich neue Einblicke in die Arbeits- und Vorgehensweise renaissancezeitlicher Antiquare.</abstract>
+                    <abstract lang="eng">In his surviving numismatic manuscripts (i.e. Magnum ac Novum Opus, Diaskeué, Series Imperatorum Romanorum) Jacopo Strada describes coin obverses and reverses as belonging together, when in reality they had originally been part of coins displaying other obverses and reverses. In some volumes of the MaNO and Diaskeué, the occurence of such coins is very high (e.g. coins of Augustus, Antoninus Pius, Marcus Aurelius). By naming their sixteenth-century owners in the Diaskeué, Strada gave them a supposedly secure authenticity.
+My contribution presents some of these ›combinations‹ and examines what may have prompted Strada to create them. Did he really see these coins, i.e. did they exist in his time but have not been preserved, or did he completely ›invent‹ them? This investigation will also involve the works of his contemporaries (Pirro Ligorio, Sebastiano Erizzo, Antonio Agustín) to check whether such potentially invented ›combinations‹ can also be found in the works of other antiquarians. This investigation will also provide new insights into the work and approach of renaissance antiquarians.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>55</start>
+                                <end>76</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2021-36372</identifier>
+                    <identifier type="doi">10.17879/ozean-2021-3642</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3642</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3642">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3642/3637" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3642">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3642/3651" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3642" DMDID="DMD_wwu-journals_3642">
+            <mets:fptr FILEID="FILE0_wwu-journals_3642"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3642" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3642"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

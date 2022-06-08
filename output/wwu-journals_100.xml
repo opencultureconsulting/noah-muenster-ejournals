@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Impulse der Christlichen Soziallehre für die EU. Personen und Themen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lunte, Stefan</displayForm>
+                        <namePart type="family">Lunte</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungImpulse Christlicher Soziallehre für die Europäische Union können persönlicher und theoretisch-konzeptioneller Natur sein. Den persönlichen Aspekt konkretisiert der Essay am Beispiel wichtiger europäischer Protagonisten. Mit ihrer gemeinsamen geistigen Grundlage in der Christlichen Soziallehre stehen diese Persönlichkeiten stellvertretend für viele Akteure auf unterschiedlichen Ebenen der EU. Aber auch die vertragliche Gestalt der EU ist von der Christlichen Sozialethik geprägt und es gibt demnach ebenfalls einen theoretisch-konzeptionellen Impuls christlich-sozialethischer Ideen in der EU. Diese Beobachtung führt der Text anhand der Themen »Stellung der Arbeit«, »Solidarität« sowie »Subsidiarität« weiter aus. Abschließend fragt er, inwiefern auch die EU Einfluss auf die Weiterentwicklung der Christlichen Sozialethik habe.AbstractThis paper illustrates the impacts of Christian social ethics on the European Union. These suggestions have a personal as well as a theoretical-conceptual focus. The personal focus is realised through the example of important European protagonists. Having in common their spiritual grounding in Christian social ethics, the quoted personalities are representative of a great many actors at various levels within the EU. Since the contractual framework of the EU is also informed by Christian social ethics, there is also an impact at the theoretical-conceptual level. This observation will be further elaborated on the basis of such topics as “status of labour”, “solidarity” and “principle of subsidiarity”. Finally, there will be an investigation of the question in how far the EU, in turn, impacts on the development of Christian social ethics.urn:nbn:de:hbz:6:3-2012012721</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>041</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012012721</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_100</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_100">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/100/93" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_100" DMDID="DMD_wwu-journals_100">
+            <mets:fptr FILEID="FILE0_wwu-journals_100"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 03.2021.033</title>
+                        <subTitle>Katharina Palmberger, Das unverrückbar Heilige – Jerusalems Loca Sancta in der Kreuzfahrerzeit : Spätantike – Frühes Christentum – Byzanz. Reihe B, Studien und Perspektiven 49). Wiesbaden: Reichert Verlag 2020.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Poeschel, Hildegard</displayForm>
+                        <namePart type="family">Poeschel</namePart>
+                        <namePart type="given">Hildegard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">&amp;nbsp;
+Katharina Palmberger, Das unverrückbar Heilige – Jerusalems Loca Sancta in der Kreuzfahrerzeit (Spätantike – Frühes Christentum – Byzanz. Reihe B, Studien und Perspektiven 49). Wiesbaden: Reichert Verlag 2020. 264 S., 24 Taf. mit 50 Abb. – ISBN: 978-3-95490-343-6 (€ 98.00)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>260</start>
+                                <end>266</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3690">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/3690/3725" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3690" DMDID="DMD_wwu-journals_3690">
+            <mets:fptr FILEID="FILE0_wwu-journals_3690"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

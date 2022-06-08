@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4086">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theorie der modernen Gesellschaft oder theoretisch fundierte Makrosoziologie? Bemerkungen zu Uwe Schimanks Beitrag »Grundriss einer integrativen Theorie der modernen Gesellschaft«</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rössel, Jörg</displayForm>
+                        <namePart type="family">Rössel</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für einen primär empirisch arbeitenden Sozialwissenschaftler ist es sehr erfreulich, aber auch eine grosse Herausforderung sich an einer grundlegenden Diskussion über soziologische Theorien beteiligen zu können. Die umfangreiche Literatur im Bereich der soziologischen Theoriebildung zu verfolgen, von den ambitionierten Versuchen zu einer formalen und integrativen Theoriebildung für die Verhaltenswissenschaften bis hin zu den Neuinterpretationen soziologischer Klassiker ist wohl selbst für den Spezialisten kaum noch möglich, noch weniger für jemanden, der sich eher als Nebenbeschäftigung auch ab und an mit soziologischer Theorie beschäftigt. Dies gilt selbst für die unglaubliche und kaum überschaubare Vielzahl von Publikationen zu zentralen soziologischen Themengebieten, die Uwe Schimank in den vergangenen Jahren produziert hat. Neben der Systematisierung und der nachvollziehbaren Darstellung der soziologischen Theoriebildung, hat er sich wiederholt um die Integration verschiedener soziologischer Theorieangebote bemüht. In diesem Zusammenhang lässt sich auch der hier diskutierte Beitrag zu einer integrativen Theorie der modernen Gesellschaft verorten.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>41</start>
+                                <end>51</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4086</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4086</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4086">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4086/4155" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4086" DMDID="DMD_wwu-journals_4086">
+            <mets:fptr FILEID="FILE0_wwu-journals_4086"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

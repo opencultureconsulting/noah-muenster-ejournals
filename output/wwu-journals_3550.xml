@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3550">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christlich-sozialethische Beiträge zu den wohnraumpolitischen Debatten der Bundesrepublik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Degan , Julian</displayForm>
+                        <namePart type="family">Degan</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Emunds, Bernhard</displayForm>
+                        <namePart type="family">Emunds</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meireis , Torsten</displayForm>
+                        <namePart type="family">Meireis</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wustmans, Clemens</displayForm>
+                        <namePart type="family">Wustmans</namePart>
+                        <namePart type="given">Clemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">30</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Wohnraumfrage stellt sich als drängende Gerechtigkeitsfrage in gegenwärtigen gesellschaftspolitischen Debatten, zu der sich die beiden großen Kirchen und die konfessionellenTheologien sozialethisch zu verhalten haben. Dabei kann an zeitgeschichtliche Diskurse angeknüpft werden, denn parallel zu politischen Konjunkturen des Themas haben sich die Vertreter der christlichen Sozialethik, fußend auf ihrem je konfessionell spezifischen Eigentumsverständnis, v. a. bis in die 1970er Jahre intensiv mit boden- und wohnungspolitischen Einwürfen zu Wort gemeldet. Schwerpunkte bildeten die Förderung des familiengerechten Eigenheims sowie Bodenreformansätze. Nach einem Abebben der Debatte ab den 1980er Jahren ist seit rund einer Dekade wieder eine intensivierteReflexion des  Themas zu verzeichnen. In der Sozialethik ist dies nicht zuletzt die Folge eines „spatial turn“, aber auch neuere kirchliche Veröffentlichungen zur gegenwärtigen Wohnraumfragen zeugen von einem wiedererstarkten Interesse. Inhaltlich präsentiert sich die jüngere Diskussion weniger eigentumszentriert und stärker struktur-, gerechtigkeits- und nachhaltigkeitsorientiert, etwa durch die Reflexion von Divergenzen und Disparitäten zwischen städtischen und ländlichen Regionen, im Vergleich boomender und zunehmend abgehängter Regionen, von Gentrifizierungsprozessen und unter Einbezug sozialökologischer Kriterien. In der Sprache der Menschenrechte wird ein individuelles Grundrecht auf Wohnen diskutiert und in seiner Bedeutung für die Gesamtgesellschaft und ökologische Zusammenhänge thematisiert.</abstract>
+                    <abstract lang="eng">The provision of adequate housing is one of the most pressing issues in political debates on social justice in contemporary Germany. Building on a tradition of social commitment and debates on the ethical role of property, Christian churches and theologians partake in such debates as stakeholders and researchers. In this article, we depict these Christian social ethical commentaries on housing since the begin of the Bonn Republic. Until the 1970s, Christian social ethical debates and political commitments focused on the family homestead, understood as a privately owned house (Eigenheim) and questions of land reform. Christian housing debates have subsided in the 1980s but have been revived in the last decade due in part to a spatial turn in social ethics as well as the current urban housing shortage in Germany. In comparison to earlier debates, recent discussions are less centered on questions of property, and take instead questions of structural inequality, justice and social ecology into account. Thus, disparities between urban and rural, booming and declining regions are considered, and processes of gentrification regarding socio-ecological criteria are scrutinized. Utilizing human rights language, the individual’s fundamental right to adequate housing is discussed in relation to society at large as well as ecological concerns.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>269</start>
+                                <end>298</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37029</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3550</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3550</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3550">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3550/3702" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3550" DMDID="DMD_wwu-journals_3550">
+            <mets:fptr FILEID="FILE0_wwu-journals_3550"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

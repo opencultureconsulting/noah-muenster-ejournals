@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2024">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>religiösen Aktionsräume verändern sich. Konsequenzen für die räumliche Organisation von Kirche im Spannungsfeld zwischen Privatisierung und Regionalisierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hilpert, Markus</displayForm>
+                        <namePart type="family">Hilpert</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mahne-Bieder, Johannes</displayForm>
+                        <namePart type="family">Mahne-Bieder</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Derzeit lassen sich zwei scheinbar gegenläufige Phänomene beobachten: Einerseits wird die Glaubensausübungimmer individueller, verschwindet scheinbar im Privaten und konzentriert sich dabeigeographisch auf den Standort des Subjektes (anstatt auf die Standorte kirchlicher Manifestationen).Andererseits diffundiert mit zunehmender Mobilität die persönliche Glaubenspraxis immer stärker inden Raum, da trotz Individualisierung der Wunsch nach gemeinschaftlicher Praxis bestehen bleibt. DieAtomisierung und die Dispersion religiöser Handlungen schwächen jedenfalls gemeinsam das traditionellbedeutsame, unmittelbare geographische Umfeld der Gläubigen (z. B. Pfarreien) und führen fallweisebereits zu einer geringeren Sichtbarkeit institutioneller Religion im öffentlichen Raum. DieseTransition trifft die katholischen Bistümer und die evangelischen Landeskirchen in einer Phase derräumlichen Neuorganisation. Mehr noch: Langfristige Konsequenzen neuer räumlicher Zuschnitte derPfarreien wurden bislang kaum vor dem Hintergrund individualisierter religiöser Aktionsräumen diskutiert.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>165</start>
+                                <end>175</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19421</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2024</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2024">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2024/1942" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2024" DMDID="DMD_wwu-journals_2024">
+            <mets:fptr FILEID="FILE0_wwu-journals_2024"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1761">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rahmenbedingungen der Altenpflege in Frankreich – Situation und ethische Fragen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thiel, Marie-Jo</displayForm>
+                        <namePart type="family">Thiel</namePart>
+                        <namePart type="given">Marie-Jo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag gibt einen Einblick in die aktuelle Situation der Rahmenbedingungen der Altenpflege in Frankreich. Dabei wird insbesondere die historische Entwicklung der Pflegepolitik dargestellt. So gibt der Aufsatz einen Überblick über die wichtigsten rechtlichen Regelungen in der Sozial- und Pflegegesetzgebung und betrachtet dabei sowohl allgemeine Vorgaben im Gesundheitswesen als auch Gesetze zu den Fragen rund um die Alterspolitik. Sodann werden die Strukturen der stationären Altenpflege in Frankreich vorgestellt, wobei zum einen das System von Pflegestufen (GIR), zum anderen statistische Daten Beachtung finden. Abschließend kommt die Autorin zu einem kritischen Ausblick auf das Pflegesystem in Frankreich, das zunehmender Ökonomisierung und damit verbundenem Finanzierungsdruck ausgesetzt ist, der verstärkt auf die Verantwortung des Einzelnen übertragen wird und so strukturelle Herausforderungen individualisiert.AbstractThe article introduces into the current situation of the framework of care policy in France. It presents the historical development of care policy and surveys the most important laws concerning welfare and care legislation. Hence, it focuses general laws in healthcare services and laws in the context of the ‘politics of ageing’. Furthermore the structures of in-patient elderly care are presented, especially the system of GIR and statistics are mentioned. In the end, the author criticizes the economization of the French care and nursing system, which finds expression by a growing pressure for institutions and individuals as well.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16957</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1761</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1761">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1761/1695" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1761" DMDID="DMD_wwu-journals_1761">
+            <mets:fptr FILEID="FILE0_wwu-journals_1761"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

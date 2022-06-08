@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3149">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Out of Time</title>
+                        <subTitle>Temporal and Heteropatriarchal Confinements in Sarah Waters&apos; Fingersmith</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolters, Corinna</displayForm>
+                        <namePart type="family">Wolters</namePart>
+                        <namePart type="given">Corinna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Time is of the essence in Sarah Waters’ neo-Victorian novel Fingersmith. Previous works have merely brushed upon this subject, often mentioning the temporal element only in direct relation to spatiality. However, little attention has been paid to time in its own regard as a structuring element and symbol within Fingersmith. As the characters move between different spaces, their awareness of time is conspicuous and hints towards the overall importance of time and its specific significance for the character’s gender and sexuality. In an analysis of Space and Sexuality in the Post-Victorian Fiction of Sarah Waters, Demelza Morgana Hall remarks that “all human-made structures unavoidably encode assumptions about gender and sexuality” (18). Time, as a structuring element of life, should then show similar qualities. The chiming bell at Sue’s first arrival; the three watches of Dr. Christie, Gentleman, and Mr. Lilly; the clock-hand that halts at the end— all listed examples show that time may be a major area of interest while analyzing and interpreting the novel. By taking a feminist and queer approach it can be examined that in the novel, clocks and watches serve as symbols of dominance in a heteropatriarchal society. It can also be argued that the omnipresence of time symbolizes the heteropatriarchal power structures that the protagonists of Fingersmith oppose by their act of living “out-of-time” (Mitchell 1 40).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>77</start>
+                                <end>82</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31244</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3149</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3149</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3149">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3149/3124" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3149" DMDID="DMD_wwu-journals_3149">
+            <mets:fptr FILEID="FILE0_wwu-journals_3149"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

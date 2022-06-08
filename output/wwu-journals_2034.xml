@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2034">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Seht, ich mache alles neu“ (Offb 21,5)? Kirche anders - Ressourcen und Chancen kirchlicher Sozialformen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karl, Katharina</displayForm>
+                        <namePart type="family">Karl</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Kirche ist in Bewegung. Vieles wird anders, alte und neue Sozialformen existieren und wachsengleichzeitig nebeneinander. Worin lässt sich das Innovationspotenzial christlicher Gemeindeformenbestimmen? Welche Kriterien tragen dazu bei, dass Transformation gelingt? Und welche Kirchenvorstellungenfinden sich darin wieder? Diesen Fragen geht der vorliegende Beitrag nach und orientiertsich dabei an der Diskussion auf dem Kongress der deutschsprachigen Pastoraltheologen und Pastoraltheologinnen„Kirche anders. Personen – Sozialformen – Katholizität“ 2015 in Wiesbaden‐Naurod. DieErgebnisse bilden eine Zwischenstation im andauernden Veränderungsprozess und entwerfen einPlädoyer für ein diverses und in anderer Weise missionarisches Kirchenbild.The church is ever evolving. Many things change, old and new social forms exist and are growing together.How does one detect the innovative potential of Christian forms of community? Which are theinherent criteria promoting change? And which images of the church lie within? This article investigatesthese questions making reference to the discussion during the conference of the Society ofGerman‐Speaking Pastoral Theologians 2015 in Wiesbaden‐Naurod. The results reflect an interim viewof this ongoing process and promote a diverse and new missionary image of the church.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>64</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19520</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2034</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2034">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2034/1952" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2034" DMDID="DMD_wwu-journals_2034">
+            <mets:fptr FILEID="FILE0_wwu-journals_2034"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

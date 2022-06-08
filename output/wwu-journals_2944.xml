@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2944">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltigkeitspolitik in und nach der Pandemie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ott, Konrad</displayForm>
+                        <namePart type="family">Ott</namePart>
+                        <namePart type="given">Konrad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel begründet und skizziert eine mögliche Nachhaltigkeitspolitik im Ausgang der Covid-Pandemie. Es wird argumentiert, dass es fahrlässig wäre, die durch die Pandemie eröffnete Gelegenheit zugunsten einer Reformoffensive nicht zu nutzen. Der Artikel klärt die normativen Voraussetzungen und weist nach, dass alle erforderlichen Voraussetzungen für eine solche Reformoffensive erfüllt sind. Er identifiziert deren institutionelle Rahmung und deren mögliche Schwerpunkte.
+The article substantiates and outlines a presumptive political strategy on behalf of sustainable development. It is argued that the CoVid-19-crisis has opened a window of opportunity for such policy making which shouldn’t be missed. All requirements of such policy making are at hand. The article identifies institutions, governance structures, and focal fields of actions. &amp;nbsp;
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>130</start>
+                                <end>142</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-29005</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2944</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2944</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2944">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2944/2900" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2944" DMDID="DMD_wwu-journals_2944">
+            <mets:fptr FILEID="FILE0_wwu-journals_2944"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

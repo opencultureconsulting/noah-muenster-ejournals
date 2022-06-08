@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4213">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Entwurf zur Handlung</title>
+                        <subTitle>Argumente für ein relevanztheoretisches Handlungsmodell</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krieg , Rene</displayForm>
+                        <namePart type="family">Krieg</namePart>
+                        <namePart type="given">Rene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">36</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es wird ein handlungstheoretisches Modell vorgestellt, welches auf der Wissenssoziologie und Relevanztheorie von Alfred Schütz basiert. Es vereint diese jedoch mit entscheidungstheoretischen Ansätzen und ist als Prozess-Modell formuliert. Dieses ›relevanztheoretische Handlungsmodell‹ beschreibt den für jegliches Handeln notwendigen Entwurfsprozess, berücksichtigt systematisch Entscheidungen des Akteurs sowie iterative Entwürfe. Es erlaubt auch die Untersuchung von Gruppenunterschieden und großen Fallzahlen. Damit werden nicht nur Defizite der Ausgangstheorie überwunden, sondern auch eine Alternative zu weiteren etablierten soziologischen Handlungsmodellen bereitgestellt. Insbesondere werden im Beitrag Schwächen des Modells der Frame-Selektion benannt und gezeigt, wie diese durch das neue Modell vermieden werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>32</start>
+                                <end>67</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4213</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4213</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4213">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4213/4292" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4213" DMDID="DMD_wwu-journals_4213">
+            <mets:fptr FILEID="FILE0_wwu-journals_4213"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

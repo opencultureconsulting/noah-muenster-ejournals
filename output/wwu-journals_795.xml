@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_795">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Zukunft der Demokratie unter Globalisierungsbedingungen Eine sozialethische Problemanzeige</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gabriel, Ingeborg</displayForm>
+                        <namePart type="family">Gabriel</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Text benennt die wesentlichen Herausforderungen der Demokratie unter Globalisierungsbedingungen. Die Globalisierung fördert die weltweite Verbreitung der Demokratie, höhlt sie jedoch zugleich aus und unterminiert ihren Bestand. Der Beitrag geht zunächst den Gründen für diese paradoxe Situation nach. In einem weiteren Schritt wird das Konzept der global governance als wichtigster Versuch der letzten Jahrzehnte, neue globale Steuerungsmechanismen zu erfinden, analysiert und die Frage nach seiner Leistungsfähigkeit gestellt. Wiewohl Netzwerkstrukturen auf der Mesoebene der Weltgesellschaft eine wichtige Rolle spielen, bieten sie doch – so die These – keinen Ersatz für eine Weltordnung. Dieser Befund führt zu der Frage, ob und inwiefern eine Demokratie auf Weltebene als Gegengewicht zu einer globalisierten Wirtschaft denkund realisierbar ist. Abschließend werden die so gewonnenen Einsichten sozialethisch gebündelt, und es wird gefragt, welchen Beitrag die katholische Kirche, die seit längerem die Errichtung einer politischen Weltautorität fordert, leisten kann.AbstractThis paper addresses the main challenges of democracy posed by the processes of globalisation. While promoting the worldwide spread of democracy, globalisation at the same time undermines and endangers its continued existence. This contribution starts by considering the reasons for this paradoxical situation. In a second step, the concept of global governance will be analysed and its potential examined in terms of being the most promising attempt in recent decades to find new global control mechanisms. As much as networking may play an important part at the meso-level of the global community, it will not – this is the guiding thesis – suffice as a surrogate for a world order. This raises the question if and to what extent a global democracy counterbalancing the forces of the global economy is conceivable and viable. In a final step, the conclusions from this investigation will be reconsidered from a socio-ethical perspective, and it will be asked which contribution the Catholic church, which has been calling for the establishment of a global political authority for some time, can make.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2013120252</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_795</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_795">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/795/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_795" DMDID="DMD_wwu-journals_795">
+            <mets:fptr FILEID="FILE0_wwu-journals_795"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

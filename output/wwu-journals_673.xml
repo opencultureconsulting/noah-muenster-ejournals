@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_673">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie sieht die Zukunft des Sozialstaats aus?  Ein sozialethisches Diskussionspapier</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mack, Elke</displayForm>
+                        <namePart type="family">Mack</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lampert, Martin</displayForm>
+                        <namePart type="family">Lampert</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungIm vorliegenden Artikel wird gezeigt werden, dass angesichts einer dreifachen Problemlage von demografischem Wandel, Pluralisierung und der Brüchigkeit traditioneller Lebensgemeinschaften und zunehmender Ergänzung von Normalarbeitsverhältnissen durch atypische Beschäftigung neue Problemtypen von Unterversorgung und Ausschluss in der Bevölkerung generiert werden. Auf der Basis empirisch-sozialwissenschaftlicher Untersuchungen lotet der Beitrag prinzipielle Reformchancen aus. Hier ist zu beobachten, dass es hauptsächlich normative Gerechtigkeitsintuitionen der Bevölkerung sind, die eine ausgeglichene sozialstaatliche Umverteilung innerhalb der Bevölkerung argumentativ stützen, gleichwohl werden aber konkrete Leistungseinschnitte nur in geringem Umfang akzeptiert. Für die Christliche Sozialethik bedeutet diese differenzierte Problematik eine konkrete Herausforderung, aufklärend am Gerechtigkeitsdiskurs mitzuwirken, advokatorisch stets die Perspektive der am wenigsten Begünstigten in diesen Diskurs einzubringen und schließlich, durch Aufdeckung von Widersprüchlichkeiten und Inkonsistenzen, konsensuelle Lösungen über soziale Gerechtigkeit vorzuschlagen.AbstractThis paper sets out to show how demographic change, pluralisation, and the brittleness of traditional life partnerships and the increasing need to supplement standard with atypical employment produce new types of shortage and exclusion in the population. Based on empirical social research, the paper explores opportunities for reform. It can be observed that in this context it is primarily popular normative institutions of justice that support a well-balanced redistribution of welfare, while at the same time accepting benefit cuts only reluctantly. For Christian Social Ethics this complex set of issues presents the direct challenge to contribute to the discourse of justice by providing information, to persistently champion the perspective of the least privileged, and finally, after identifying paradoxes and inconsistencies, to suggest consensual solutions to achieve social justice.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20131202130</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_673</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_673">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/673/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_673" DMDID="DMD_wwu-journals_673">
+            <mets:fptr FILEID="FILE0_wwu-journals_673"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

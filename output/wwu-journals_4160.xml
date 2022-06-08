@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>neue Geldtheorie? Zu Aaron Sahrs »Das Versprechen des Geldes«</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Deutschmann, Christoph</displayForm>
+                        <namePart type="family">Deutschmann</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Anspruch, den Aaron Sahr mit seinem Buch erhebt, ist kein geringer. Er möchte eine neue soziologische Interpretation des Geldes entwickeln, eine »kredittheoretische« nämlich, die er einer seiner Meinung nach sowohl in der Ökonomik wie in der Soziologie bislang herrschenden »Warentheorie« des Geldes entgegensetzt: »Die Kredittheorie des Geldes begreift Geld anders als die ökonomische und soziologische Tradition nicht als ein durch seine Tauschbarkeit konstituiertes Objekt in einer als Eigentum zu charakterisierenden Akteur-Objekt-Beziehung. Vielmehr versteht sie Guthaben als ein Versprechen und unterstellt, dass damit Geld insgesamt – und nicht nur einige wenige Schwundformen – soziologisch begriffen ist« (95/96). Der Anlass für ein solches Unternehmen scheint zunächst – folgt man Sahrs Ausführungen – ein historischer zu sein: die Aufhebung der Bindung des Dollar und damit indirekt des gesamten Weltwährungssystems an die Goldreserven der amerikanischen Federal Reserve Bank im Jahren 1971. In den gut vierzig Jahren seit der damals eingeleiteten Aufhebung des Bretton-Woods-Systems sind nicht nur die Geldmengen der OECD-Länder spektakulär (um das 77-fache) gestiegen, sondern auch die Geldvermögen. Sahr interpretiert diese Entwicklung als Indiz für eine grundlegende Veränderung der »Produktionsbedingungen« des Geldes.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>74</start>
+                                <end>82</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4160</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4160">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4160/4242" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4160" DMDID="DMD_wwu-journals_4160">
+            <mets:fptr FILEID="FILE0_wwu-journals_4160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

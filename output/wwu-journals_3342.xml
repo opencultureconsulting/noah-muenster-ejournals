@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3342">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hypersexualized Monsters in ›Beowulf‹ Director’s Cut (USA 2007) and the Sharp Objects Constantly Threatening to Castrate Him</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>van Beek, Alan Lena</displayForm>
+                        <namePart type="family">van Beek</namePart>
+                        <namePart type="given">Alan Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This essay explores the 2007 cinematic adaptation of ›Beowulf‹, written by Neil Gaiman and Roger Avary. It will focus on narration, sexuality and virility in in the original poem and hypersexualized bodies in the movie. Gilded genitalia, absent genitalia and the sharp objects constantly threatening to castrate Beowulf are being analysed as a cultural text.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mittelalter Digital</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Mittelalter Digital</publisher>
+                        </originInfo>
+                        <identifier type="issn">2747-9757</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>11</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-mittelalterdigital-2021-33751</identifier>
+                    <identifier type="doi">10.17879/mittelalterdigital-2021-3342</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3342</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3342">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3342/3375" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3342">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3342/3376" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3342" DMDID="DMD_wwu-journals_3342">
+            <mets:fptr FILEID="FILE0_wwu-journals_3342"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3342" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3342"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

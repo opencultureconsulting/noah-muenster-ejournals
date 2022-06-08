@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3745">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seelsorge – eine überdeterminierte Praxis</title>
+                        <subTitle>Fünf Thesen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feiter, Reinhard</displayForm>
+                        <namePart type="family">Feiter</namePart>
+                        <namePart type="given">Reinhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die hier vorgelegten fünf Thesen verstehen Seelsorge als eine überdeterminierte Praxis. D. h., Seelsorge hat nicht nur eine Fülle von Subjekten und Gestalten und sie ist auch nicht nur Praxis einer Suche und Wahl von Menschen, sondern bezieht sich auch auf die nie hinreichend beschreibbare noch jemals manipulierbare Beziehung Gottes zum Menschen.
+The five theses presented here understand pastoral care as an overdetermined practice, that is, not only does it have an abundance of subjects and forms, and not only does it represent how people search and choose; it is also concerned with the relationship of God to humankind, something that can be neither adequately described nor ever manipulated.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>11</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-37937</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3745</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3745">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3745/3793" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3745" DMDID="DMD_wwu-journals_3745">
+            <mets:fptr FILEID="FILE0_wwu-journals_3745"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4159">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wider die Eindimensionalität von Geldtheorien</title>
+                        <subTitle>Zur institutionellen Ambiguität des Geldes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langenohl, Andreas</displayForm>
+                        <namePart type="family">Langenohl</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Über Geld wird typischerweise immer dann geforscht, wenn es zuvor zu tiefgreifenden wirtschaftlichen Krisen gekommen ist (vgl. Brugger 2015: 79). Insofern verwundert es nicht, dass in Reaktion auf die Finanz- und Wirtschaftskrise von 2007/2008 eine Reihe von Büchern und wissenschaftlichen Artikeln publiziert wurden, die sich dem Thema Geld zuwenden und diesem neue Aufmerksamkeit widmen (z.B. Bandelj/Wherry/Zelizer 2017; Dodd 2014, Kraemer/Nessel 2015; Ganßmann 2012; Reifner 2017). So wie man Verhaltensdispositionen (z.B. »greed«, »animal spirits«), Machtverschiebungen (z.B. »too big to fail«, »investor power«), institutionellen Wandel (z.B. »financialization«) und grundsätzliche Zweifel an der Wirtschafts- und Gesellschaftsordnung des Kapitalismus (z.B. »secular stagnation«, »end of capitalism«) und vieles Mehr im Lichte der krisenhaften Ereignisse des letzten Jahrzehnts zur Diskussion stellen kann, so bietet es sich auch an, die Verfasstheit des Geldsystems einem erneuten prüfenden Blick zu unterziehen. Aaron Sahr hat dies getan. In seinem Buch »Das Versprechen des Geldes – Eine Praxistheorie des Kredits« entwickelt er eine aus seiner Sicht »praxeologisch adäquate« Geldtheorie, die den aktuellen Verhältnissen und den Gegebenheiten des von ihm so benannten, latent krisenanfälligen »Keystroke-Kapitalismus« (Sahr 2017a) gerechter wird, als dies bisherige Geldtheorien vermochten.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>62</start>
+                                <end>73</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4159</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4159</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4159">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4159/4241" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4159" DMDID="DMD_wwu-journals_4159">
+            <mets:fptr FILEID="FILE0_wwu-journals_4159"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

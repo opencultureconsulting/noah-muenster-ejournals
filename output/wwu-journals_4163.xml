@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4163">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theorieform, strategische Positionierungen und Persuasionskraft</title>
+                        <subTitle>Überlegungen zu einer öffentlichen Soziologie des Geldes im Anschluss an Aaron Sahrs »Das Versprechen des Geldes«</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pahl , Hanno</displayForm>
+                        <namePart type="family">Pahl</namePart>
+                        <namePart type="given">Hanno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ich möchte mit meinem Diskussionsbeitrag an einen zentralen Fluchtpunkt anknüpfen, der sich in Aaron Sahrs Buch findet: der Forderung nach so etwas wie einer öffentlichen Soziologie des Geldes (siehe S. 340ff.). Was kann man sich darunter vorstellen, was sind Potenziale, was mögliche Schwierigkeiten eines solchen Unterfangens? Dieser Fluchtpunkt ergibt sich einerseits relativ direkt aus den geldsoziologischen Befunden bei Sahr: Seine kredittheoretische Analyse des Geldes führt zu der Erkenntnis, dass es »(i)n Kreditgeldgesellschaften […] kaum mehr politische Entscheidungen [gibt], die nicht den Prozess der Generierung von Verschuldungsnachfrage, Kreditwürdigkeitskonstruktion und Tilgungsmodalitäten berühren« (S. 340 f.). Hinzu kommt, dass sich der für die Gesamtwirtschaft zentrale Nexus der Geschäftsbanken laut Sahr als »paraökonomische Zone im Maschinenraum des Kapitalismus« (S. 346) bestimmen lässt. Das Kerngeschäft von Geschäftsbanken prozessiert jenseits ökonomischer Knappheitsbedingungen und ist stattdessen in politisch offerierten Privilegien fundiert, durch die Möglichkeit von autonomer Kreditschöpfung, die nicht auf vorherigen Ersparnissen (Vermögen) basiert. Das ist ein Sachverhalt, der sich problematisieren und auch skandalisieren lässt, weil er immer noch zu wenig bekannt ist und zugleich den vorherrschenden gesellschaftlichen Selbstbeschreibungen widerspricht, in denen Prämissen wie Leistungsgerechtigkeit und Chancengleichheit zu den beliebtesten normativen Ankerpunkten zählen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>111</start>
+                                <end>118</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4163</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4163</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4163">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4163/4245" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4163" DMDID="DMD_wwu-journals_4163">
+            <mets:fptr FILEID="FILE0_wwu-journals_4163"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

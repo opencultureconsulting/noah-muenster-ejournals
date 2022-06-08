@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_69">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Solidarität als Positivsummenspiel. Sozialstaatsbegründung in der Perspektive der Neuen Intstitutionenökonomik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dölken, Clemens</displayForm>
+                        <namePart type="family">Dölken</namePart>
+                        <namePart type="given">Clemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Klassische Sozialethik und Neue Institutionenökonomik lassen sich in ihrem Verständnis von Solidarität anhand der Paradigmata des Null- bzw. Positivsummenspiels unterscheiden. Da das Positiv- das Nullsummenspiel dem Umfang nach umfassen kann, liegt die Überlegung nahe, dass die Neue Institutionenökonomik dem Umfang nach den Sozialstaat mindestens so weit begründen kann wie die Christliche Sozialethik. Ökonomie ist damit nicht per se auf Sozialabbau angelegt. Der ökonomische Ansatz interpretiert Moral, Sozialstaat und Sozialversicherung als Institutionen zur Ermöglichung von Kooperationschancen zum wechselseitigen Vorteil. Der Sozialstaat kann verallgemeinert als eine Sozialversicherung aufgefasst werden, die Menschen risikoreicheres und damit produktiveres Handeln ermöglicht. Institutionen der sozialen Sicherung sind solange zu etablieren, wie ihre Kosten unter dem wechselseitigen Nutzen der durch sie realisierten Kooperationschancen für die Gesellschaftsmitglieder liegen. Die Betrachtung der Neuen Institutionenökonomik zeigt weiterhin, dass sich Teilfunktionen von Solidarität in konkreten Sozialversicherungssystemen differenzieren lassen. Daraus lassen sich Empfehlungen zu einer auch sozial effizienteren Rekombination dieser Teilfunktionen bei Reformen ableiten. Generell gilt, dass im Sektor der sozialen Sicherung ebenso wie auf dem Gesamt der Märkte für materielle Güter Wettbewerbselemente so etabliert werden können, dass sie auf einer vorgelagerten Ebene als Kooperation zum wechselseitigen Vorteil verstanden und auf der nachgelagerten Ebene auch so gestaltet werden können. Die normative Ambivalenz der im Wettbewerb begegnenden Dilemmastrukturen muss dazu allerdings durch geeignete Rahmenbedingungen zielgerichtet etabliert werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>48</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>225</start>
+                                <end>248</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2007-632</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_69</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_69">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/69/63" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_69" DMDID="DMD_wwu-journals_69">
+            <mets:fptr FILEID="FILE0_wwu-journals_69"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

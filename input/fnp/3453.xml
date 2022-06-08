@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3453</id>
+	<dc:title xml:lang="en-US">Differential gene expression in the cortical sulcus compared to the gyral crest within the early stages of chronic traumatic encephalopathy</dc:title>
+	<dc:creator>Cherry, Jonathan D.</dc:creator>
+	<dc:creator>Agus, Filisia</dc:creator>
+	<dc:creator>Dixon, Erin</dc:creator>
+	<dc:creator>Huber, Bertrand</dc:creator>
+	<dc:creator>Alvarez, Victor E.</dc:creator>
+	<dc:creator>Mez, Jesse</dc:creator>
+	<dc:creator>McKee, Ann C.</dc:creator>
+	<dc:creator>Labadorf, Adam</dc:creator>
+	<dc:creator>Stein, Thor D.</dc:creator>
+	<dc:subject xml:lang="en-US">CTE</dc:subject>
+	<dc:subject xml:lang="en-US">RNA-seq</dc:subject>
+	<dc:subject xml:lang="en-US">Repetitive head trauma</dc:subject>
+	<dc:subject xml:lang="en-US">Inflammation</dc:subject>
+	<dc:subject xml:lang="en-US">Tau</dc:subject>
+	<dc:subject xml:lang="en-US">TBI</dc:subject>
+	<dc:description xml:lang="en-US">Chronic traumatic encephalopathy (CTE) is a progressive neurodegenerative tauopathy found in individuals with a history of repetitive head impacts (RHI). Previous work has demonstrated that neuroinflammation is involved in CTE pathogenesis, however, the specific inflammatory mechanisms are still unclear. Here, using RNA-sequencing and gene set enrichment analysis (GSEA), we investigated the genetic changes found in tissue taken from the region CTE pathology is first found, the cortical sulcus, and compared it to neighboring gryal crest tissue to identify what pathways were directly related to initial hyperphosphorylated tau (p-tau) deposition. 21 cases were chosen for analysis: 6 cases had no exposure to RHI or presence of neurodegenerative disease (Control), 5 cases had exposure to RHI but no presence of neurodegenerative disease (RHI), and 10 cases had exposure to RHI and low stage CTE (CTE). Two sets of genes were identified: genes that changed in both the sulcus and crest and genes that changed specifically in the sulcus relative to the crest. When examining genes that changed in both the sulcus and crest, GSEA demonstrated an increase in immune related processes and a decrease in neuronal processes in RHI and CTE groups. Sulcal specific alterations were observed to be driven by three mechanisms: anatomy, RHI, or p-tau. First, we observed consistent sulcal specific alterations in immune, extracellular matrix, vascular, neuronal, and endocytosis/exocytosis categories across all groups, suggesting the sulcus has a unique molecular signature compared to the neighboring crest independent of pathology. Second, individuals with a history of RHI demonstrated impairment in metabolic and mitochondrial related processes. Finally, in individuals with CTE, we observed impairment of immune and phagocytic related processes. Overall, this work provides the first observation of biological processes specifically altered in the sulcus that could be directly implicated in CTE pathogenesis and provide novel targets for biomarkers and therapies.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-08-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/zip</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3453</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3453</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 21</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 21</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3453/3499</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3453/3498</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3453/3496</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-34991</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-34980</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-34965</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Jonathan D. Cherry, Filisia Agus, Erin Dixon, Bertrand Huber, Victor E. Alvarez, Jesse Mez, Ann C. McKee, Adam Labadorf, Thor D. Stein</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

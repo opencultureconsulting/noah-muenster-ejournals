@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Befreiung im Dazwischen</title>
+                        <subTitle>Postheroische Transformation von Caritas- und Diakonietheologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schüßler, Michael</displayForm>
+                        <namePart type="family">Schüßler</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Option für die Armen und Anderen hat nichts an Dringlichkeit verloren. Doch es ist eine „Entgiftung“ des heroischen Befreiungspathos im Gange, etwa durch genderbezogene, intersektionale oder postkoloniale Kritik. Soziales Engagement und befreiende Theologie sind im 21. Jahrhundert vielfältiger, komplexer, aber auch wirklichkeitsnäher geworden. Die solidarische und Leben gebende Kraft des Evangeliums ereignet sich weniger im „Dagegen“ als im „Dazwischen“. Man kann das als postheroischen Transformationsimperativ verstehen. Statt sich im selbstgewissen Kampf gegen das Falsche der richtigen Identität zu versichern, geht es um postheroische Ereignisse des Richtigeren im Falschen, auf deren verwandelnde Dynamik eine christlich affizierte Hoffnung setzen darf. Das bedeutet ein offeneres Verhältnis von Glaube und Solidaritätshandeln, offen für eine entdeckungsbereite theologischeNeugier in den Feldern sozial und politisch engagierter Praktiken.The option for the poor and others has lost nothing of its urgency. But a &quot;detoxification&quot; of the heroic pathos of liberation is necessary, for instance through gender-related, intersectional or postcolonial critique. Social commitment and liberating theology have become more diverse, more complex, but also more realistic in the 21st century. The solidary and life-giving power of the gospel occurs less in &quot;against&quot; than in &quot;in between&quot;. One can understand this as post-heroic imperative of transformation. Instead of asserting the right identity against the wrong in a self-confident fight against the wrong, it is about post-heroic events of the right in the wrong, on whose transforming dynamics a Christianinfluenced hope may rely. That means a more open relationship between faith and solidarity action, open to a theological curiosity ready to discover in the fields of socially and politically engaged practices.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>39</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2019-25813</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2730">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2730/2581" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2730" DMDID="DMD_wwu-journals_2730">
+            <mets:fptr FILEID="FILE0_wwu-journals_2730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

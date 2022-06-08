@@ -1,0 +1,152 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>neurovascular unit in diffuse intrinsic pontine gliomas</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>El-Khouly, Fatma E.</displayForm>
+                        <namePart type="family">El-Khouly</namePart>
+                        <namePart type="given">Fatma E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haumann, Rianne</displayForm>
+                        <namePart type="family">Haumann</namePart>
+                        <namePart type="given">Rianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Breur, Marjolein</displayForm>
+                        <namePart type="family">Breur</namePart>
+                        <namePart type="given">Marjolein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Veldhuijzen van Zanten, Sophie E.M.</displayForm>
+                        <namePart type="family">Veldhuijzen van Zanten</namePart>
+                        <namePart type="given">Sophie E.M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaspers, Gertjan J.L.</displayForm>
+                        <namePart type="family">Kaspers</namePart>
+                        <namePart type="given">Gertjan J.L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hendrikse, N. Harry</displayForm>
+                        <namePart type="family">Hendrikse</namePart>
+                        <namePart type="given">N. Harry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hulleman, Esther</displayForm>
+                        <namePart type="family">Hulleman</namePart>
+                        <namePart type="given">Esther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van Vuurden, Dannis G.</displayForm>
+                        <namePart type="family">van Vuurden</namePart>
+                        <namePart type="given">Dannis G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bugiani, Marianna</displayForm>
+                        <namePart type="family">Bugiani</namePart>
+                        <namePart type="given">Marianna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aims: Diffuse intrinsic pontine glioma (DIPG) is a childhood brainstem tumor with a median overall survival of eleven months. Lack of chemotherapy efficacy may be related to an intact blood-brain barrier (BBB). In this study we aim to investigate the neurovascular unit (NVU) in DIPG patients.
+Methods: DIPG biopsy (n = 4) and autopsy samples (n = 6) and age-matched healthy pons samples (n = 20) were immunohistochemically investigated for plasma protein extravasation, and the expression of tight junction proteins claudin-5 and zonula occludens-1 (ZO-1), basement membrane component laminin, pericyte marker PDGFR-β, and efflux transporters P-gp and BCRP. The mean vascular density and diameter were also assessed.
+Results: DIPGs show a heterogeneity in cell morphology and evidence of BBB leakage. Both in tumor biopsy and autopsy samples, expression of claudin-5, ZO-1, laminin, PDGFR-β and P-gp was reduced compared to healthy pontine tissues. In DIPG autopsy samples, vascular density was lower compared to healthy pons. The density of small vessels (&amp;lt;10 µm) was significantly lower (P&amp;lt;0.001), whereas the density of large vessels (≥10 µm) did not differ between groups (P = 0.404). The median vascular diameter was not significantly different: 6.21 µm in DIPG autopsy samples (range 2.25-94.85 µm), and 6.26 µm in controls (range 1.17-264.77 µm).
+Conclusion: Our study demonstrates evidence of structural changes in the NVU in DIPG patients, both in biopsy and autopsy samples, as well as a reduced vascular density in end-stage disease. Adding such a biological perspective may help to better direct future treatment choices for DIPG patients.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-34408</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3341</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3341</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3341">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3341/3442" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3341">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3341/3440" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3341">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3341/3437" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3341" DMDID="DMD_wwu-journals_3341">
+            <mets:fptr FILEID="FILE0_wwu-journals_3341"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3341" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3341"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3341" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3341"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2942">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Corona und die Politik multipler Resonanzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffmeister, Dieter</displayForm>
+                        <namePart type="family">Hoffmeister</namePart>
+                        <namePart type="given">Dieter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">29</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Corona-Krise hat, ganz anders als die ökologische Krise, umfangreiche, elementare und vom Bürger weitgehend akzeptierte politische, medizinische und mediale Maßnahmen und Reaktionen in Gang gebracht. Das ist erstaunlich, entspringen doch beide Krisen ein und derselben Ursache: einer konsumorientierten Lebensweise, die spätestens seit der Industrialisierung immer mehr zur zweiten Natur des Menschen geworden ist. Das wirft Fragen auf. Etwa die danach, warum vor allem politische und mediale Resonanzen auf die Krisen im Lichte ihrer Gleichursprünglichkeit so unterschiedlich ausfallen. Ob dies womöglich als Ausdruck der Tatsache zu deuten ist, dass zentrale gesellschaftliche Funktionssysteme den von ihnen selbst geschaffenen Leviathan Wachstum im Horizont einer immer radikaler vergesellschafteten Natur nicht mehr zu bändigen in der Lage sind. Und auch die danach, welche Fallstricke lauern, wollten sie dies überhaupt noch bewerkstelligen. Wenn, so die zentrale These, die ökologische Krise die Welt weitaus stärker bedroht als das Corona-Virus, dann sehen sich alle gesellschaftlichen Funktionssysteme künftig vermutlich mit Fragen sehr grundsätzlicher Art konfrontiert - und es wäre dann nicht nur die Perspektive auf das menschliche Naturverhältnis, sondern auch der Begriffsapparat zu wechseln.
+Different to the ecological crisis, the corona-crisis has induced extensive political, medical, and mass-media measures that are widely accepted by the general public. This is astonishing, because both crises arise from one and the same cause: a way of life, that is focused on consumption and that became a second nature of man since the beginning of industrialization. That raises questions. For example, why, political and media responses to the crises are so different considering their shared origin; or if this could be interpreted as an expression of the fact, that central social systems are no longer able to tame the leviathan „growth“ they have created themselves. Especially, in the context of an increasingly socialized nature. If the ecological crisis poses far more of a threat than the corona virus, then social systems will be confronted with fundamental questions in the future - and then it will probably not only be necessary to change the perspective on the human relationship to nature, but also to change the conceptual apparatus.&amp;nbsp;
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>84</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28980</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2942</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2942</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2942">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2942/2898" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2942" DMDID="DMD_wwu-journals_2942">
+            <mets:fptr FILEID="FILE0_wwu-journals_2942"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

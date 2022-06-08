@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1382">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Liquid church“ – und Partizipation in Kirche und Gemeinde</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pott, Martin</displayForm>
+                        <namePart type="family">Pott</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Liquid church sucht einen Unterschied zu ent-decken: Ehemals „Festes“ verflüssigt sich.Gläubige suchen und schaffen sich in Kirche ihre Partizipation. Sie bahnen sich ein neues„Flussbett“ für ihr Leben- und Glauben-Können. Kirchenleitende geben teils aus theologischerEinsicht, teils wegen der Macht des Faktischen starre Positionen auf. In diesem Prozesskommen zwangsläufig auch Leitungsformen in Fluss. Liquid church bedeutet dann zum Beispiel,Verantwortung nicht nur zu delegieren, sondern wirklich zu teilen. Die wichtigste Fragejedoch bleibt, wohin die Kraft und der Trost einer liquid church fließen? Mit welcher Option istdie neue Praxis am Start?Liquid church attempts to find a difference: What has formerly been solid is now liquefying.Believers are searching and creating participation in their churches. They create new „riverbeds“for their lives and beliefs. Leaders of the church give up their rigid positions, partly becauseof theological insights, partly due to the power of the actual facts. During this process,styles of leadership become liquid as well. Therefore, liquid church does not merely mean todelegate responsibility but to truly share it. But the most important questions remains: Wheredo the strength and the comfort of a liquid church flow? Which option does the new approachof liquid church bring to the table?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>57</start>
+                                <end>68</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13018</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1382</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1382">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1382/1301" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1382" DMDID="DMD_wwu-journals_1382">
+            <mets:fptr FILEID="FILE0_wwu-journals_1382"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

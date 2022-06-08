@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3426">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mujeres-Iglesia Chile</title>
+                        <subTitle>evangelization, feminism, and faith in a Church in crisis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Del Villar Tagle, Maria Soledad</displayForm>
+                        <namePart type="family">Del Villar Tagle</namePart>
+                        <namePart type="given">Maria Soledad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article highlights the contribution to evangelization made by a women&apos;s movement in the Catholic Church in Chile. The members of the “Mujeres-Iglesia” give testimonies of their faith and share their stories about the double vulnerability women experience who are less privileged both in the church and society and as Christians in the Catholic Church, which is currently struggling for credibility.
+Welchen Beitrag zur Evangelisierung die Frauenbewegung in der katholischen Kirche in Chile leistet, zeigt der vorliegende Beitrag auf. Eine doppelte Verwundbarkeit, als kirchlich und gesellschaftlich minderprivilegierte Frauen und als Christinnen in der katholischen Kirche, die aktuell um ihre Glaubwürdigkeit ringt, geben die Mitglieder von “Mujeres-Iglesia” Zeugnis von ihrem Glauben und teilen ihre Geschichten.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>81</start>
+                                <end>97</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34332</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3426</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3426">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3426/3433" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3426" DMDID="DMD_wwu-journals_3426">
+            <mets:fptr FILEID="FILE0_wwu-journals_3426"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

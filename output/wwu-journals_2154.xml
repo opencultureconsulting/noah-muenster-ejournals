@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2154">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Geflüchtete in der Christlichen Arbeiterjugend (CAJ). Die Rolle der Religion für Selbstorganisation und gemeinsame Aktion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Holbein, Christoph</displayForm>
+                        <namePart type="family">Holbein</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungIn der Christlichen Arbeiterjugend (CAJ) organisieren sich junge Geflüchtete und setzen sich gemeinsam mit anderen CAJler*innen für eine gerechte Welt ein. Der Artikel stellt die These auf, dass der Verband zum gemeinsamen Empowerment von Menschen mit und ohne Fluchthintergrund beiträgt und dadurch deren Integration fördert. In einem ersten Schritt wird aufgezeigt, warum und wie die CAJ als Bildungs- und Aktionsbewegung danach strebt, gerade die Menschen zu organisieren, deren Würde bedroht ist. Sie überschreitet dabei Religionsgrenzen. Im zweiten Schritt stellt der Artikel anhand der CAJ Berlin dar, wie Geflüchtete in der CAJ mit der Methode Sehen-Urteilen-Handeln arbeiten. Auf diesem Weg werden Geflüchtete nicht nur integriert, sondern werden als gesellschaftsverändernde Akteure anerkannt und gefördert.AbstractIn the Young Christian Workers (YCW), young refugees organize themselves and fight for a just world together with other members of the organization. The article argues that the YCW contribute to the empowerment of people with and without a refugee background, thereby promoting their integration. In a first step, the article shows why and how the YCW organizes people whose dignity is threatened as an educational and action movement. It transcends religious boundaries. In the second step, the article shows how refugees in the YCW Berlin use the method See-Judge- Act. In this way, refugees do not only integrate themselves, but they are recognized and promoted as social actors who promote change.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>57</start>
+                                <end>66</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20687</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2154</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2154">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2154/2068" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2154" DMDID="DMD_wwu-journals_2154">
+            <mets:fptr FILEID="FILE0_wwu-journals_2154"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

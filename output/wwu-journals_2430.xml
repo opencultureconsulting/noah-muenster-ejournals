@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2430">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Megarian Local Adjudication</title>
+                        <subTitle>The Case of the Border Dispute between Epidauros and Corinth in 242-240 BCE (IG IV2.I.70 and 71)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Smith, Philip J.</displayForm>
+                        <namePart type="family">Smith</namePart>
+                        <namePart type="given">Philip J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Over the last quarter century, the study of interstate arbitration and the use of foreign judges to adjudicate disputes between city-states has been rejuvenated. This article re-examines the well-known Megarian adjudication of the border dispute between Epidauros and Corinth by the Achaean League in the 3rd century BCE, with a view to determining the reason for the Achaeans’ choice of Megara as judge and, more importantly, the acceptance of this decision by Corinth, given the less than friendly history between these two city-states.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>209</start>
+                                <end>216</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2018-22988</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2430</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2430">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2430/2298" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2430" DMDID="DMD_wwu-journals_2430">
+            <mets:fptr FILEID="FILE0_wwu-journals_2430"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

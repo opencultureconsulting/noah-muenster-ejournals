@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2309">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Historische Religionspädagogik mit Pierre Bourdieu - Ein Beitrag zur Ausbildung wissenschaftlicher Reflexivität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ricken, Lukas</displayForm>
+                        <namePart type="family">Ricken</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Geschichte der katholischen Religionspädagogik ist nicht nur die Geschichte theoretischer Konzepte,sondern ebenso die Beziehungsgeschichte einer Gruppe von Akteur_innen und Institutionen, diezu einer Scientific Community wurden. Auf den folgenden Seiten wird ein Vorschlag entwickelt, wiedie Wissenschaftssoziologie Pierre Bourdieus als heuristischer Rahmen zur Erforschung der Disziplingeschichtekatholischer Religionspädagogik zwischen 1965 und 1975 angewendet werden kann. DieFeldtheorie Pierre Bourdieus wird schließlich als Beitrag zur Förderung wissenschaftlicher Reflexivitätdiskutiert, von der auch die religionspädagogische Praxis profitieren kann.The history of research in religious education is far more than the development of theoretical concepts.It is also the history of the relations between a group of social actors and institutions as well astheir strategies of building a collective identity as a scientific community. This article discusses thepossible benefits of applying Pierre Bourdieu’s sociology of science as a heuristic frame for the studyof catholic religious education between 1965 and 1975. It argues that a deeper knowledge of the developmentof religious education as a scientific field can promote a culture of reflexivity within researchand educational practice.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>123</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-22016</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2309</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2309">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2309/2201" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2309" DMDID="DMD_wwu-journals_2309">
+            <mets:fptr FILEID="FILE0_wwu-journals_2309"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3528</id>
+	<dc:title xml:lang="en-US">Strategies to gain novel Alzheimer’s disease diagnostics and therapeutics using modulators of ABCA transporters</dc:title>
+	<dc:creator>Pahnke, Jens</dc:creator>
+	<dc:creator>Bascuñana, Pablo</dc:creator>
+	<dc:creator>Brackhan, Mirjam</dc:creator>
+	<dc:creator>Stefan, Katja</dc:creator>
+	<dc:creator>Namasivayam, Vigneshwaran</dc:creator>
+	<dc:creator>Koldamova, Radosveta</dc:creator>
+	<dc:creator>Wu, Jingyun</dc:creator>
+	<dc:creator>Möhle, Luisa</dc:creator>
+	<dc:creator>Stefan, Sven Marcel</dc:creator>
+	<dc:subject xml:lang="en-US">ABC transporter</dc:subject>
+	<dc:subject xml:lang="en-US">ABCB1 (P-gp)</dc:subject>
+	<dc:subject xml:lang="en-US">ABCC1 (MRP1)</dc:subject>
+	<dc:subject xml:lang="en-US">ABCG2 (BCRP)</dc:subject>
+	<dc:subject xml:lang="en-US">ABCA1 (ABC1)</dc:subject>
+	<dc:subject xml:lang="en-US">ABCA2</dc:subject>
+	<dc:subject xml:lang="en-US">ABCA5</dc:subject>
+	<dc:subject xml:lang="en-US">ABCA7</dc:subject>
+	<dc:subject xml:lang="en-US">Multitarget inhibitor (PANABC)</dc:subject>
+	<dc:subject xml:lang="en-US">Broad-spectrum modulator</dc:subject>
+	<dc:subject xml:lang="en-US">Alzheimer’s disease</dc:subject>
+	<dc:subject xml:lang="en-US">Amyloid-beta (Aβ / Abeta)</dc:subject>
+	<dc:subject xml:lang="en-US">Inhibition</dc:subject>
+	<dc:subject xml:lang="en-US">Activation</dc:subject>
+	<dc:subject xml:lang="en-US">Induction</dc:subject>
+	<dc:subject xml:lang="en-US">Downregulation</dc:subject>
+	<dc:subject xml:lang="en-US">PET Tracer (PETABC)</dc:subject>
+	<dc:subject xml:lang="en-US">Pattern analysis</dc:subject>
+	<dc:subject xml:lang="en-US">Polypharmacology</dc:subject>
+	<dc:subject xml:lang="en-US">Rational drug design and development</dc:subject>
+	<dc:description xml:lang="en-US">Adenosine-triphosphate-(ATP)-binding cassette (ABC) transport proteins are ubiquitously present membrane-bound efflux pumps that distribute endo- and xenobiotics across intra- and intercellular barriers. Discovered over 40 years ago, ABC transporters have been identified as key players in various human diseases, such as multidrug-resistant cancer and atherosclerosis, but also neurodegenerative diseases, such as Alzheimer’s disease (AD). Most prominent and well-studied are ABCB1, ABCC1, and ABCG2, not only due to their contribution to the multidrug resistance (MDR) phenotype in cancer, but also due to their contribution to AD. However, our understanding of other ABC transporters is limited, and most of the 49 human ABC transporters have been largely neglected as potential targets for novel small-molecule drugs. This is especially true for the ABCA subfamily, which contains several members known to play a role in AD initiation and progression. This review provides up-to-date information on the proposed functional background and pathological role of ABCA transporters in AD. We also provide an overview of small-molecules shown to interact with ABCA transporters as well as potential in silico, in vitro, and in vivo methodologies to gain novel templates for the development of innovative ABC transporter-targeting diagnostics and therapeutics.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Review</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3528</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3528</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 33</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 33</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3528/3720</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3528/3719</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-37208</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-37192</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Jens Pahnke, Pablo Bascuñana, Mirjam Brackhan, Katja Stefan, Vigneshwaran Namasivayam, Radosveta Koldamova, Jingyun Wu, Luisa Möhle, Sven Marcel Stefan</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3435">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Blick ins Feld</title>
+                        <subTitle>Zum Umgang mit qualitativen Daten in  kleineren empirischen Untersuchungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kalbheim, Boris</displayForm>
+                        <namePart type="family">Kalbheim</namePart>
+                        <namePart type="given">Boris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kleinere empirische Untersuchungen bieten die Möglichkeit, mit begrenzten Mitteln ein Thema der praktischen Theologie empirisch zu bearbeiten. Insbesondere Qualifikationsarbeiten, aber auch explorative Studien kann man als kleinere empirische Untersuchung durchführen. Im Artikel werden die methodologischen Grundlagen solcher kleineren empirischen Untersuchungen am empirischen Forschungszyklus entwickelt. Danach wird ein Vorschlag zu Datenerhebung, Datenauswertung und Ergebnisdarstellung vorgelegt und kritisch reflektiert. Es zeigt sich, dass bei kleineren empirischen Untersuchungen die Person des*der Forschenden im Zentrum der Reflexion steht und dass Qualifikationsarbeiten, die als kleinere empirische Untersuchungen durchgeführt werden, biografische Bedeutung für die Forschenden haben.
+Smaller empirical studies, such as qualification thesis or exploratory studies, often examine topics of practical theology using limited methods. This article develops the methodological basics of such smaller empirical studies based on the empirical research cycle. It also presents and then critically reflects on a proposal for data collection, data evaluation, and the presentation of results. Clearly, the researchers themselves lie at the center of such empirical studies and qualification theses, which remain biographically significant to their authors.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>189</start>
+                                <end>204</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34361</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3435</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3435">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3435/3436" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3435" DMDID="DMD_wwu-journals_3435">
+            <mets:fptr FILEID="FILE0_wwu-journals_3435"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

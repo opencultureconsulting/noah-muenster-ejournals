@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1475">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>„rites de passage“ nach Arnold van Gennep. Ritualanalyse und theologische Legitimationsstrategien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leonhard, Clemens</displayForm>
+                        <namePart type="family">Leonhard</namePart>
+                        <namePart type="given">Clemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Rituale können an Übergängen zwischen Lebensphasen oder gesellschaftlichen Status vollzogen werdenund dadurch den vollzogenen Wechsel erfahrbar machen. In diesem Kontext wurde die Theorievon Arnold van Gennep breit rezipiert. Van Gennep hat nicht nur aus der ethnologischen Literatur desspäten neunzehnten und frühen zwanzigsten Jahrhunderts viele Beispiele für solche Übergangsritengesammelt, sondern meinte auch, im Vollzug dieser Rituale ein universelles, dreistufiges Schema zuerkennen. Menschen würden in Trennungsriten zunächst aus ihrem alten sozialen Status herausgelöst.Sie würden anschließend in einer liminalen Phase transformiert und schließlich durch Angliederungsritenin ihren neuen Status eingesetzt. In diesem Essay soll erstens gezeigt werden, dass dasdreistufige Schema, welches die Theorie von Arnold van Gennep auf konkrete Beispiele anwendbarmacht, nutzlos ist, wobei dabei die Kategorie der Übergangsriten im Allgemeinen weder gestützt nochangegriffen werden soll. Zweitens soll die aus der Behauptung der Universalität von Übergangsritenabgeleitete Norm, dass Lebensphasen von Übergangsritualen begleitet, dargestellt oder hergestelltwerden müssen, in Frage gestellt werden. Schließlich soll drittens gefragt werden, warum sich dieseTheorie trotz der aufgezeigten Mängel so großer Beliebtheit und Plausibilität erfreut.1 Der Essaykommt zu dem Schluss, dass die van Gennep‘sche Theorie der Übergangsriten als Analyseinstrumentfür Rituale aufzugeben ist. Gleichzeitig muss untersucht werden, welche politischen Implikationen dieAnwendung dieser Theorie haben kann.In 1909, Arnold van Gennep published a theoretical study about a type of rituals that he called rites depassage. He observed that such rituals were performed all over the world and consisted of three consecutivestages – rites of separation, the liminal phase of transformation, and rites of aggregation.These rituals transform the social status of individuals. Van Gennep’s basic intuition is of course valid.Yet, when he applied his own theory to actual examples, inconsistencies abound especially in his analysesof Christian rituals such as baptism. While one must not disdain a pioneer like van Gennep whomight have overstated the force of his own thesis, it is stunning that contemporary theologians simplytake his theory for granted and apply it ubiquitously (as van Gennep did). Furthermore, it may be observedthat the universality of the thesis is used in quite crude cases of natural fallacies. Thus, certainmodern texts insinuate that certain rituals must be performed because they are rites de passage, andbecause rites de passage are part and parcel of human nature. The paper presents examples thatshow how an admittedly sweeping anthropological thesis becomes a truism that supports theologicalvalue judgments about modern rituals and even life-styles. It argues that these value judgements areinadmissible and that Christian rituals must be studied with more elaborate and refined methods thanvan Gennep’s observations about rites de passage.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>245</start>
+                                <end>260</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13790</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1475</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1475">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1475/1379" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1475" DMDID="DMD_wwu-journals_1475">
+            <mets:fptr FILEID="FILE0_wwu-journals_1475"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

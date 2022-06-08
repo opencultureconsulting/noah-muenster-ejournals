@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4153">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Diskurse über Multiparadigmatik – mission impossible?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schülein,  Johann August</displayForm>
+                        <namePart type="family">Schülein</namePart>
+                        <namePart type="given">Johann August</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dass ein Text von kompetenten Fachkollegen diskutiert wird und man auf deren Kritik antworten kann, ist eine außerordentliche Möglichkeit, Fragestellungen und Hypothesen weiterzuentwickeln. Dafür möchte ich der Zeitschrift und den Kollegen danken, die sich die Mühe gemacht haben, sich mit meinen Überlegungen zum Thema Multiparadigmatik auseinander zu setzen. Ein generelles Problem meines Textes: Es ist (zumal im Rahmen eines Aufsatzes) unmöglich, alle dabei auftauchenden Themen angemessen zu behandeln. Um überhaupt die ganze Strecke zu schaffen, werden die einzelnen Etappen im Eilschritt begangen. Daher bleibt manches unexpliziert, verkürzt und vereinfacht – Defizite sind unvermeidbar. Insofern ist die in den Kommentaren immer wieder geäußerte Kritik, dieses oder jenes sei zu wenig expliziert, in den meisten Fällen nachvollziehbar. Was auch stimmt: Es gibt eine ganze Reihe von relevanten Texten und Diskursen, die ich nicht einbezogen oder auch nicht hinreichend zur Kenntnis genommen habe (danke für die Hinweise!). Und schließlich gibt es eine ganze Reihe von inhaltlichen Auseinandersetzungen, die eine gründliche Diskussion verdienen. – Aus Zeit- und Platzgründen beschränke ich mich hier auf einige der angesprochenen Aspekte und gehe der Einfachheit halber (alphabetisch) nach Autoren vor.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>266</start>
+                                <end>278</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4153</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4153</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4153">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4153/4236" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4153" DMDID="DMD_wwu-journals_4153">
+            <mets:fptr FILEID="FILE0_wwu-journals_4153"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

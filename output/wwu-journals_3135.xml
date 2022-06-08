@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3135">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Linguistic Construction of Power along the Concepts of Race, Class and Speciesism in Harry Potter and the Chamber of Secrets</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neumann, Dorit</displayForm>
+                        <namePart type="family">Neumann</namePart>
+                        <namePart type="given">Dorit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Harry Potter (HP) is arguably the favourite children’s book series of a whole generation of now young adults. But it is not only a children’s story about a magical world – it contains highly political themes like power, race, class and fascism. As it can be fruitful to take a look at how certain topics are presented to readers at a young age, I will try to open up a new, linguistic perspective on the construction of power in HP by employing methods of a literary linguistic analysis. A close look at how power relations are constructed linguistically is necessary since language is an important means to reproduce, enforce and create power. Or as Dumbledore says: “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it” (Harry Potter, 01:34:57-01:35:08).&amp;nbsp;In order to answer the question of how power is constructed along the concepts of race, class and speciesism in Harry Potter and the Chamber of Secrets, the analysis will be structured as follows: First, the literary linguistic analysis of the construction of power will be presented, touching brieflyupon the theoretical background of the methods used for analysis along the way. Then, the findings will be discussed from an intersectional perspective.In the end, I will provide a summary of the linguistic features primarily contributing to the construction of power hierarchies in the novel. The analysis&amp;nbsp;mainly focuses on the second novel of the series because issues of racial or class differences begin to play a central role there. When the Chamber ofSecrets has been opened, racially motivated attacks on students begin, and the topic of power structures moves to the centre of the story.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>15</start>
+                                <end>20</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31066</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3135</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3135</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3135">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3135/3106" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3135" DMDID="DMD_wwu-journals_3135">
+            <mets:fptr FILEID="FILE0_wwu-journals_3135"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

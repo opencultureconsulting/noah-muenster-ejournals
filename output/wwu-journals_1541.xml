@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1541">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energiewende heißt handeln</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lehmann, Hanna</displayForm>
+                        <namePart type="family">Lehmann</namePart>
+                        <namePart type="given">Hanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Aufsatz widmet sich der Vorreiterrolle der Stadt Freiburg im Breisgau im Kontext der Energiewende in Deutschland und richtet sein Augenmerk in besonderem Maße auf den Beitrag der Katholischen Akademie der Erzdiözese Freiburg. Freiburg ist in seiner energiepolitischen Haltung geprägt vom frühen Widerstand gegen Kernenergie, der zu zahlreichen bürgerschaftlichen und institutionellen Initiativen zur Förderung alternativer Energien führte. Auch die Katholische Akademie als kirchliche Institution leistet durch Tagungen, fairen Einkauf, die Erzeugung bzw. Beziehung ökologischen Stroms u. v. a. m. einen Beitrag zur Energiewende, der aber immer auch von internen und externen Auseinandersetzungen begleitet ist.AbstractThe article informs about the pioneering role of the city of Freiburg/Breisgau in the process of the energy transition in Germany and, in particular, the contribution made by the Catholic Academy of the Archdiocese of Freiburg. The attitude of Freiburg concerning energy policies has been shaped by its early resistance against the nuclear power station in Wyhl, which led to a number of civil and institutional initiatives to encourage renewable energies. The Catholic Academy equally supports the energy transition by convening conferences, through education, fair trade, ecological mobility and by using sustainable electricity, actions that are constantly accompanied by internal and external discussions.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14432</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1541</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1541">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1541/1443" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1541" DMDID="DMD_wwu-journals_1541">
+            <mets:fptr FILEID="FILE0_wwu-journals_1541"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

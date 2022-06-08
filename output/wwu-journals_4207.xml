@@ -1,0 +1,101 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4207">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>In welcher Gesellschaft forschen wir eigentlich? Struktur und Dynamik des Feldes der deutschen Soziologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitz, Andreas</displayForm>
+                        <namePart type="family">Schmitz</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt-Wellenburg, Christian</displayForm>
+                        <namePart type="family">Schmidt-Wellenburg</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Witte, Daniel</displayForm>
+                        <namePart type="family">Witte</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Keil , Maria</displayForm>
+                        <namePart type="family">Keil</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">32</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die historisch in regelmäßigen Abständen auflebende Debatte über den Charakter und die Aufgaben des Fachs sowie über das Gesicht und die Zukunft der Soziologie hat im Zuge der Ausgründung der Akademie für Soziologie (AS) im Jahr 2017 eine lange nicht dagewesene Dynamik entfaltet. Zahlreiche Vertreterinnen und Vertreter des Faches haben sich in öffentlichen Medien wie in teilöffentlichen Diskussionszusammenhängen zu diesem Ereignis zu Wort gemeldet. Ein Jahr nach dem Gründungsmanifest der AS reagierte die Deutsche Gesellschaft für Soziologie (DGS) offiziell mit einer kritischen Stellungnahme, die auf der Homepage der DGS veröffentlicht wurde und das Ergebnis von Gesprächen mit Vertreterinnen und Vertretern der AS darstellt (DGS 2018). Darin weist die DGS einen allgemeinen Vertretungsanspruch des Fachs seitens der AS zurück und reklamiert diesen ihrerseits für sich. In zahlreichen Artikeln und Kommentaren, auf Blogs und Webseiten, in offenen Briefen und E-Mails sowie in verschiedenen Diskussionsrunden – so beispielsweise 2018 auf dem DGS-Kongress in Göttingen und jüngst beim »Soziologischen Aschermittwoch«, ausgerichtet vom Institut für Soziologie und Sozialpsychologie der Universität Köln (ISS 2019) – wurden durchaus unterschiedliche Bewertungen der Entwicklungen und zum Teil harsche wechselseitige Kritik vorgetragen (siehe u.a. Strübing 2017a; 2017b; Scheffer 2017; Hinz 2018; Müller 2018; Nassehi 2018; Pries 2018; Burzan 2018). Im Zuge dieser lebhaften Debatte wurden – von Hartmut Esser und Stefan Hirschauer prominent in der Zeitschrift für Theoretische Soziologie – unterschiedlichste Deutungsangebote vorgelegt, die neben (wissenschafts-)theoretischen und methodologischen Aspekten auch Fragen der Konkurrenz um (unterschiedliche) Ressourcen und der (verweigerten) Anerkennung berühren.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>245</start>
+                                <end>276</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4207</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4207</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4207">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4207/4288" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4207" DMDID="DMD_wwu-journals_4207">
+            <mets:fptr FILEID="FILE0_wwu-journals_4207"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

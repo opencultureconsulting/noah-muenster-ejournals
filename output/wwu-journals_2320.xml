@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2320">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Statebuilding – Widerspruch zu politischer Selbstbestimmung?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Justenhoven, Heinz-Gerhard</displayForm>
+                        <namePart type="family">Justenhoven</namePart>
+                        <namePart type="given">Heinz-Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Statebuilding als Konfliktnachsorge steht unter Legitimationsdruck. Die Kritik entzündet sich an den konzeptionellen Widersprüchen zwischen den Grundideen liberalen statebuildings und ihrer autoritären Durchsetzung durch internationale Akteure. So wurde der eigentlich anzustrebende politische Prozess z. B. in Bosnien untergraben. Staatliche Institutionen werden aufoktroyiert und drücken nicht den Gestaltungs- und Selbstverwaltungswillen der sie tragenden Gesellschaften aus. Dagegen formiert sich z. B. in Afghanistan gewaltsamer Widerstand. Damit steht die Frage im Raum, wie (staats-) ethische Grundpositionen internationaler Akteure im Sinne der Autonomie des Subjekts und Ansprüche politischer Selbstgestaltung vordemokratischer Gesellschaften gegeneinander abgewogen werden können. Hier wird die These vertreten, dass die intervenierenden Akteure sich an den Prinzipien der Subsidiarität und ownership orientieren sowie dem Faktor Zeit eine entscheidendere Rolle gewähren müssen.</abstract>
+                    <abstract lang="eng">As a strategy of post conflict treatment, statebuilding is under pressure: The conceptional contradictions criticized are the foundations of liberal statebuilding on one hand and its autocratic implementation by international actors on the other; this was, for instance, how the political process strived for in Bosnia was undermined. State institutions are created against the creative political will of the respective societies that are supposed to be their source; which, for instance, is one strong reason for the violent resistance in Afghanistan. So how to balance the opposing positions of international actors emphasizing the autonomy of the individual on the one hand and the demand for political self-formation of pre-democratic societies on the other? The author argues that the intervening actors should orientate themselves to the principle of subsidiarity and ownership and let time play a more decisive role.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>155</start>
+                                <end>176</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22120</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2320</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2320">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2320/Justenhoven" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2320" DMDID="DMD_wwu-journals_2320">
+            <mets:fptr FILEID="FILE0_wwu-journals_2320"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

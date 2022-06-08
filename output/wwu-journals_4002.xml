@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4002">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Problem der doppelten Kontingenz als Ausgangsproblem des Sozialen und der soziologischen Theorie</title>
+                        <subTitle>Vorschlag zu einer Systematisierung der soziologischen Systemtheorie Niklas Luhmanns</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kärtner, Jurit</displayForm>
+                        <namePart type="family">Kärtner</namePart>
+                        <namePart type="given">Jurit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">29</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In Soziale Systeme vollzieht Luhmann eine Radikalisierung der Parsonsschen Formulierung des Problems doppelter Kontingenz (I). Von einer reinen Fassung unterscheidet er eine strukturierte Fassung des Problems, die dessen kommunikative Problematisierung und Lösung beschreibt (II). Deren Analyse entlang der Sinndimensionen erlaubt die systematische Unterscheidung von Teiltheorien des gesellschaftlichen Operierens (Theorie sozialer Positionen / Theorie symbolisch generalisierter Kommunikationsmedien; Zeittheorie / Handlungstheorie; Theorie der Selektionsbereiche / Theorie der Kontingenzformeln; III.1). Davon unabhängig werden dann sinndimensionsspezifische Teiltheorien der Beobachtung der Gesellschaft unterschieden (Kopplungstheorie; Evolutionstheorie; Struktur- und Systemdifferenzierungstheorie; III.2). Im Rahmen der Analyse des Problems doppelter Kontingenz und der Systematisierung der Soziologie als zweifacher Gesellschaftstheorie und -analyse liefert der Artikel insbesondere auch eine Hervorhebung der Bedeutung des Grundbegriffs der Asymmetrisierung, eine Bestimmung der Funktionen der Freiheitszuschreibung für Kommunikationssysteme, eine Neufassung der Unterscheidung systemtheoretischer Ebenen – samt eines Vorschlags zur Unterscheidung sachlicher, sozialer und temporaler Teilsysteme der Gesellschaft – sowie eine klare Unterscheidung von Struktur- und Systemdifferenzierung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>60</start>
+                                <end>88</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-4002</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4002</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4002">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4002/4048" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4002" DMDID="DMD_wwu-journals_4002">
+            <mets:fptr FILEID="FILE0_wwu-journals_4002"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

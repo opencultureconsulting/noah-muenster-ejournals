@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>wunde Punkt</title>
+                        <subTitle>Seelsorge angesichts von Vulnerabilität und Kontingenz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karl, Katharina</displayForm>
+                        <namePart type="family">Karl</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Verletzlichkeit findet sich im Seelsorgegeschehen in vielfacher Hinsicht. Sie betrifft die seelsorgliche Situation an sich sowie die Anliegen der Menschen, aber auch die Person des Seelsorgers, der Seelsorgerin. Neben einer Einordnung in die Diskurse um das Konzept der Vulnerabilität und einer Unterscheidung der Bezüge, in denen Vulnerabilität in der Seelsorge vorkommt, werden mit dem Auflösen des Gewaltsamen, „doing loss“ und dem Anschluss an die Frage der Nachhaltigkeit drei exemplarische Aspekte beleuchtet, die inspirierend für eine seelsorgliche Haltung angesichts von Vulnerabilität und Kontingenz sein können.
+Vulnerability occurs in pastoral care in many ways. It affects the pastoral situation itself as well as the concerns of the individuals, while also concerning the pastoral worker. In addition to a classification in the discourses surrounding the concept of vulnerability and a differentiation of the situations in which vulnerability occurs in pastoral care, this article illuminates three exemplary aspects – dissolving the violent, “doing loss,” and addressing the question of sustainability – that may inspire a pastoral attitude in the face of vulnerability and contingency.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>55</start>
+                                <end>65</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-37977</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3750">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3750/3797" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3750" DMDID="DMD_wwu-journals_3750">
+            <mets:fptr FILEID="FILE0_wwu-journals_3750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4006">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>dünne Firnis der Zivilisation</title>
+                        <subTitle>Krisen in der Öffentlichkeit und die Krise der Öffentlichkeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Imhof, Kurt</displayForm>
+                        <namePart type="family">Imhof</namePart>
+                        <namePart type="given">Kurt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">35</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kritik ist das Salz der Erde – seit der Aufklärung und den Revolutionen an der Schwelle der Moderne entbehren wir letzter sinnstiftender Gewissheiten hinsichtlich der Erklärung von Sachverhalten in der materialen Welt, der Begründung von Normen und Werten in der sozialen Welt und der Bedeutung von Emotionen in unserer subjektiven Welt. Aus einem religiösen Weltbild, in dem die Bezüge zum Wahren, zum Guten und zum Schönen noch im Gottesbegriff verankert waren, ist eine »dezentrierte« Welt entstanden. Diese Bezüge haben sich von Gott und voneinander abgelöst (Habermas 1984: 588f.). Vormoderne, religiöse Verbindungen zwischen diesen drei Bezügen und dem Göttlichen in Begriffen wie Schöpfung, Wunder, Schicksal, Fügung, Vorsehung, göttliche Strafen sowie Termini wie Seele, Talente (Gaben) und Sünden, die das Subjekt mit dem Göttlichen verbinden, stehen uns nur noch in der Intimsphäre oder in religiösen Gemeinschaften zur Verfügung, um irdische Vorgänge zu interpretieren. Das ist der Preis der Säkularisierung. Damit werden transzendentale Plausibilitäten für hiesige Phänomene obsolet. Wir haben nur noch die Plausibilitätsgehalte von Argumentationen und Gegenargumentationen, also Kritik.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>304</start>
+                                <end>338</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4006</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4006</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4006">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4006/4052" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4006" DMDID="DMD_wwu-journals_4006">
+            <mets:fptr FILEID="FILE0_wwu-journals_4006"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

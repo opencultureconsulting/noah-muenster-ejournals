@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3553">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hearing Earth’s Cry</title>
+                        <subTitle>Rhetoric and Reality in Integral Ecology</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Hearing Earth’s Cry</title>
+                        <subTitle>Rhetoric and Reality in Integral Ecology</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Slater , Gary</displayForm>
+                        <namePart type="family">Slater</namePart>
+                        <namePart type="given">Gary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Metapher „Schrei der Erde“ gewinnt in der Rhetorik der integralen Ökologie zunehmend an Bedeutung. In vorliegendem Beitrag wird argumentiert, dass diese Metapher trotz ihrer rhetorischen Kraft in mindestens drei Hinsichten von einer kritischen Auseinandersetzung profitieren würde: Zu hinterfragen ist, wie sich die Wahrnehmung eines Schreis in der Urteilskraft und in der Praxis niederschlägt, wie die Metapher des Schreis menschlich-nichtmenschliche Beziehungen impliziert und wie der Schrei hilft, einen Weg zwischen Präzision und Unbestimmtheit zu finden. Eine solche kritische Auseinandersetzung trägt auf vier Arten zu unserem Verständnis der integralen Ökologie bei. Erstens bereichert sie, wie die integrale Ökologie die Zeichen der Zeit lesen kann. Zweitens bewahrt sie die integrale Ökologie vor mehreren zentralen Kritikpunkten, einschließlich der Kritik an ihrem Umgang mit dem Anthropozentrismus und an der Unfähigkeit, ihre Werte in der Realität umzusetzen. Drittens trägt sie zu Debatten über die Neuinterpretation von Werten wie Würde und Solidarität durch die integrale Ökologie bei. Viertens zeigt sie weitere Potentiale der Metapher auf – insbesondere legt sie eine Untersuchung nahe, wie der Schrei der Erde mit dem Schrei der Armen verwoben ist.</abstract>
+                    <abstract lang="eng">The metaphor of the cry of the Earth is increasingly prominent within the rhetoric of integral ecology. This essay argues that, in spite of its rhetorical power, this metaphor would benefit from critical attention in at least three respects: how perceiving a cry translates into judgment and praxis, how the cry implicates human-nonhuman relations, and how the cry navigates specificity and vagueness. Such critical attention contributes to our understanding of integral ecology in four ways. First, it enhances the integral ecology’s reading of the “signs of the times.” Second, it deflects key critiques of integral ecology, including its handling of anthropocentrism and its inability to apply its values. Third, it speaks to conversations on integral ecology’s reimagining of the values of dignity and solidarity. Fourth, it points toward further applications, most notably an exploration of how the cry of the Earth relates to the cry of the poor.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>341</start>
+                                <end>362</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37052</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3553</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3553</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3553">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3553/3705" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3553" DMDID="DMD_wwu-journals_3553">
+            <mets:fptr FILEID="FILE0_wwu-journals_3553"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

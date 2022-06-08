@@ -1,0 +1,116 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3640">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>An atypical teratoid/rhabdoid tumor (AT/RT) with molecular features of pleomorphic xanthoastrocytoma (PXA) in a 62-year-old patient</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dottermusch, Matthias</displayForm>
+                        <namePart type="family">Dottermusch</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Alomari, Ali</displayForm>
+                        <namePart type="family">Alomari</namePart>
+                        <namePart type="given">Ali</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Uksul, Nesrin</displayForm>
+                        <namePart type="family">Uksul</namePart>
+                        <namePart type="given">Nesrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Knappe, Ulrich J.</displayForm>
+                        <namePart type="family">Knappe</namePart>
+                        <namePart type="given">Ulrich J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neumann, Julia E.</displayForm>
+                        <namePart type="family">Neumann</namePart>
+                        <namePart type="given">Julia E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Atypical teratoid/rhabdoid tumors (AT/RT) are aggressively growing malignant embryonal neoplasms of the central nervous system (CNS), which mainly affect young children. Loss of SMARCB1/INI1 (or SMARCA4 in rare cases) is recognized as the genetic hallmark of AT/RTs and these tumors can be distinguished into three distinct DNA-methylation based molecular subgroups (i.e. -MYC, -SHH and -TYR). While most AT/RTs are considered to occur de novo, previous studies have recognized secondary SMARCB1/INI1-deficient rhabdoid tumors arising from other low grade CNS tumors in young patients. Three AT/RTs, which harbor epigenetic and mutational characteristics of pleomorphic xanthoastrocytoma (PXA), while being entirely void of nuclear SMARCB1/INI1 expression, were recently described in older children. We here report the first case of an AT/RT with molecular features of PXA in a senior patient. </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3640</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3640</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3640">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3640/3659" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3640">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3640/3658" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3640">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3640/3657" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3640" DMDID="DMD_wwu-journals_3640">
+            <mets:fptr FILEID="FILE0_wwu-journals_3640"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3640" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3640"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3640" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3640"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2634">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neurodegeneration</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Crary, John Fonda</displayForm>
+                        <namePart type="family">Crary</namePart>
+                        <namePart type="given">John Fonda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">As we embark on a new year of scientific inquiry in neurodegenerative disease research, it is helpful to take a look back and consider the contributions in the field with the potential to be the most impactful. The purpose of this review is to highlight recent advances in 2019 which have the potential to be transformative in the field of neurodegenerative neuropathology. Substantive scientific progress rarely occurs as a “eureka moment”, and when possible, we opted to highlight collaborative efforts and research trends. We also included groundbreaking methodologies and tools. The generous increases in federal funding in the United States and elsewhere have massively expanded the total number of active programs researching Alzheimer’s disease. This exacerbates an imbalance, and an effort was made to highlight innovations across disease categories, and not to permit dementia to crowd out movement disorders, motor neuron disease, ataxias, etc. Thus, our overall goal was to highlight some of the most important discoveries, tools or methods that we feel will most likely directly enhance our ability to understand and diagnose neurodegenerative brain diseases. Given space limitations and the targeted readership of this journal, we selected ten topics most relevant to neuropathologists and clinical neuroscientists: 1. A new neurodegenerative disease category, 2. A new approach to probing gene expression on the single cell level, 3. A new approach merging histology and gene expression profiling, 4. A new computational approach using deep machine learning and computer vision, 5. A neuropathological substrate for sleep disturbance in Alzheimer’s disease, 6. A candidate pathogenic agent for Alzheimer’s disease, 7. A comprehensive approach to morphometric analysis of cerebellar neurodegeneration, 8. The strongest evidence yet linking neurodegeneration to contact sports, 9. Mounting evidence for gut to central nervous system transmission in Parkinson’s disease, and 10. A spotlight on glia in Huntington’s disease.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-26210</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2634</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2634</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2634">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2634/2621" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2634">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2634/2620" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2634" DMDID="DMD_wwu-journals_2634">
+            <mets:fptr FILEID="FILE0_wwu-journals_2634"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2634" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2634"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

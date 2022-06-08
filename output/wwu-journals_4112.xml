@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4112">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bedingungsfaktoren und Muster religiösen Wandels in der Moderne</title>
+                        <subTitle>Ein multi-paradigmatisches Erklärungsmodell</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pollack, Detlef</displayForm>
+                        <namePart type="family">Pollack</namePart>
+                        <namePart type="given">Detlef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rosta, Gergely László</displayForm>
+                        <namePart type="family">Rosta</namePart>
+                        <namePart type="given">Gergely László</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die meisten religionssoziologischen Ansätze neigen dazu, entweder Prozesse des religiösen Niedergangs oder des religiösen Aufschwungs herauszustellen. Auf diese Weise scheint das Ergebnis der solchen theoretischen Annahmen folgenden empirischen Analyse schon im Voraus festzustehen. Das diesem kurzen Artikel zugrunde liegende Buch versucht, eine rein theoretisch orientierte Perspektive auf den religiösen Wandel zu vermeiden und die Frage über die Richtung der religiösen Entwicklungen offen zu halten. Nach theoretischen Reflexionen zum Moderne- und Religionsbegriff analysieren wir auf der Basis empirischer Daten, wie sich die gesellschaftliche Bedeutung von Religion in ihren verschiedenen Facetten in den modernen Gesellschaften verändert hat, und versuchen zu erklären, welche Faktoren und Bedingungen zu diesen Veränderungen beigetragen haben. In ausgewählten Fallstudien werden Muster und Determinanten des religiösen Wandels in modernen und sich modernisierenden Gesellschaften identifiziert. Im Ergebnis unserer Analysen schlagen wir eine multi-paradigmatischen Ansatz zur Erfassung des religiösen Wandels vor, der verschiedene theoretische Elementen enthält, welche für die Erklärung religiöser Veränderungen hilfreich sind und sich flexibel kombinieren lassen. Diese theoretischen Elemente umfassen funktionale Differenzierung und Diffusion, religiöse Individualisierung und Vergemeinschaftung sowie kulturelle Pluralisierung und Homogenisierung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>214</start>
+                                <end>230</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4112</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4112</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4112">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4112/4184" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4112" DMDID="DMD_wwu-journals_4112">
+            <mets:fptr FILEID="FILE0_wwu-journals_4112"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

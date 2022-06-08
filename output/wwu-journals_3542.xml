@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3542">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Weinstock, Feigenbaum und göttliche Gerechtigkeit</title>
+                        <subTitle>Biblisch-theologische Skizzen zum Wohnen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müllner, Ilse</displayForm>
+                        <namePart type="family">Müllner</namePart>
+                        <namePart type="given">Ilse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der biblische Begriff des Wohnens ist immer im Kontext von Bewegung, Migration und Veränderung zu denken. Die Sehnsucht, dass jeder unter seinem Weinstock und unter seinem Feigenbaum wohnt (1 Kön 5,5) ist an die Gerechtigkeit des Königs gebunden und verwirklicht sich in der Herrschaft Salomos. Gottes Verbindung zum Tempel in Jerusalem ist durch die Erfahrung des babylonischen Exils ihrer Sicherheit beraubt. Die theologische Reflexion dieses Ereignisses führt zu einer Personalisierung des Begriffs vom göttlichen Wohnen. Das Konzept der Heiligkeit spielt dabei eine zentrale Rolle und verbindet theologisches und anthropologisches Denken. Auch im Begriff der Heiligkeit ist das Denken der Gerechtigkeit zentral, wenn die Ordnung des Landes nicht nur als räumliche in Relation zum Tempel, sondern auch als soziale zu Gunsten aller Bewohner*innen konzipiert ist. Gott gilt als der eigentliche Eigentümer des Landes, so dass das Wohnen im Land den Charakter des Fremd-Seins eingeschrieben behält (Lev 25,23) und an die Gerechtigkeitsvorstellungen der Tora geknüpft ist.</abstract>
+                    <abstract lang="eng">God’s and Israel’s dwelling are intrinsically linked through the notion of holiness as well as through the experience of exile, diaspora, slavery and deliverance. Biblical literature shows strategies to cope with the Babylonian exile which implies the parting of God and the temple in Jerusalem. More and more God’s dwelling gets personified. Dwelling is always linked to wandering and movements of migration. In all periods of Israel’s history the concept of dwelling is bound to claims of justice. A central duty of the king as a guarantor of justice ist to ensure, that people can live in security – all of them under their vines and fig trees (1 Kgs 4:25). And for the people of Israel, living in the promised land demands efforts of justice, which contain implementing the commandments of the Torah.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>89</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-36961</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3542</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3542</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3542">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3542/3696" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3542" DMDID="DMD_wwu-journals_3542">
+            <mets:fptr FILEID="FILE0_wwu-journals_3542"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

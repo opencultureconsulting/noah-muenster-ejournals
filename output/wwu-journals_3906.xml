@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3906">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>فوكو ودراسة الدين</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Foucault and the Study of Religion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yahyaoui, Yassine</displayForm>
+                        <namePart type="family">Yahyaoui</namePart>
+                        <namePart type="given">Yassine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Carrette, Jeremy</displayForm>
+                        <namePart type="family">Carrette</namePart>
+                        <namePart type="given">Jeremy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">هذه‭ ‬المقالة‭ ‬هي‭ ‬فصل‭ ‬من‭ ‬الكتاب‭ ‬الذي‭ ‬حرره‭ ‬ريتشارد‭ ‬كينغ‭ ‬Richard King‭ ‬بعنوان‭ ‬الدين‭ ‬والنظرية‭ ‬والنقد‭: ‬المقاربات‭ ‬والمناهج‭ ‬الكلاسيكية‭ ‬والمعاصرة‭. ‬يُعد‭ ‬الكتاب‭ ‬الصادر‭ ‬عام‭ ‬2017‭ ‬دليلا‭ ‬أساسيّة‭ ‬لعموم‭ ‬المُتخصين‭ ‬في‭ ‬الدراسات‭ ‬الدينيّة،‭ ‬إذ‭ ‬تتفاعل‭ ‬فصوله‭ ‬مع‭ ‬المُستجدات‭ ‬في‭ ‬العلوم‭ ‬الاجتماعيّة،‭ ‬لاسيما‭ ‬في‭ ‬حقل‭ ‬الدرسات‭ ‬الثقافية‭ ‬والدراسات‭ ‬مابعد‭ ‬الكولونيالية،‭ ‬إذ‭ ‬تُؤكد‭ ‬على‭ ‬العلاقة‭ ‬الدينامية‭ ‬بين‭ ‬الدين‭ ‬كموضوع‭ ‬للدراسة‭ ‬والمقاربات‭ ‬المتبعة‭. ‬داخل‭ ‬هذا‭ ‬السياق‭ ‬يندرج‭ ‬فصل‭ ‬جيريمي‭ ‬كاريت‭ ‬Jeremy Carrette،‭ ‬الذي‭ ‬يحمل‭ ‬عنوان‭ ‬‮«‬فوكو‭ ‬ودراسة‭ ‬الدين‮»‬،‭ ‬حيث‭ ‬يعرض‭ ‬للأثر‭ ‬الذي‭ ‬تركته‭ ‬الأعمال‭ ‬النقدية‭ ‬لميشيل‭ ‬فوكو‭ ‬في‭ ‬تطوير‭ ‬حقل‭ ‬الدراسات‭ ‬الدينيّة،‭ ‬منذ‭ ‬السبعينيات‭ ‬إلى‭ ‬الآن،‭ ‬سواء‭ ‬تعلّق‭ ‬الأمر‭ ‬بمقاربته‭ ‬الفلسفيّة‭ ‬‭-‬ما‭ ‬بعد‭ ‬البنوية‭- ‬أو‭ ‬في‭ ‬اعتماده‭ ‬لمنهج‭ ‬تاريخيّ‭ ‬يستند‭ ‬في‭ ‬جُزء‭ ‬كبير‭ ‬منه‭ ‬على‭ ‬التقليد‭ ‬الذي‭ ‬رسَّخته‭ ‬مدرسة‭ ‬الحوليات‭ ‬الفرنسية‭. ‬لم‭ ‬يكن‭ ‬من‭ ‬السهل‭ ‬توطين‭ ‬مقاربة‭ ‬فوكو‭ ‬باعتبارها‭ -‬أولًا‭ ‬وقبل‭ ‬كل‭ ‬شيء‭- ‬‮«‬تفكيرٌ‭ ‬في‭ ‬اللامفكر‭ ‬فيه‮»‬‭ ‬داخل‭ ‬حقل‭ ‬الدراسات‭ ‬الدينيّة‭ ‬أو‭ ‬الدراسات‭ ‬اللاهوتية؛‭ ‬إذ‭ ‬تنزع‭ ‬حجاب‭ ‬البراءة‭ ‬عن‭ ‬التقاليد‭ ‬الدينيّة‭ ‬لتكشف‭ ‬عن‭ ‬مُختلفة‭ ‬علاقات‭ ‬القوة‭ ‬داخل‭ ‬أنظمتها‭ ‬التأديبية‭ ‬والعقابية‭ ‬وعن‭ ‬شبكات‭ ‬معقدة‭ ‬من‭ ‬السلطة‭. ‬ولعل‭ ‬الأهم‭ ‬في‭ ‬عمل‭ ‬كاريت،‭ ‬أنَّه‭ ‬من‭ ‬خلال‭ ‬دراسة‭ ‬الكتابات‭ ‬الأخيرة‭ ‬لفوكو،‭ ‬التي‭ ‬نُشر‭ ‬جُزء‭ ‬كبير‭ ‬منها‭ ‬بعد‭ ‬وفاته،‭ ‬قد‭ ‬سمح‭ ‬لنا‭ ‬بأنْ‭ ‬ننظر‭ ‬لموضوع‭ ‬دراسته‭ ‬‮«‬فوكو‭ ‬ودراسة‭ ‬الدين‮»‬‭ ‬من‭ ‬منظور‭ ‬جديد،‭ ‬ليس‭ ‬من‭ ‬مُنطلق‭ ‬التطور‭ ‬التاريخيّ‭ ‬لفكر‭ ‬فوكو‭ ‬والتغيرات‭ ‬التي‭ ‬طرأت‭ ‬على‭ ‬أدواته‭ ‬التحليلة‭ ‬فحسب،‭ ‬بل‭ ‬أيضا‭ ‬كيفية‭ ‬استجاب‭ ‬فوكو‭ ‬للإشكاليات‭ ‬التي‭ ‬أفرزتها‭ ‬كتاباته‭ ‬السابقة‭ ‬وتعامله‭ ‬مع‭ ‬إشكالية‭ ‬اللحظة‭ ‬الراهنة‭.‬</abstract>
+                    <abstract lang="eng">This article is a chapter of the book entitled Religion, Theory, Critique: Classic and Contemporary Approaches and Methodologies edited by Richard King. The book, published in 2017, is considered an essential guide for all scholars of religious studies, as its chapters interact with new theories in the social sciences, especially in the field of cultural and post-colonial studies, emphasizing the dynamic relationship between religions as a subject of study and the approaches applied. It is within this context that Jeremy Carrette’s chapter, entitled “Foucault and the Study of Religion”, can be placed. As it presents the impact of Michel Foucault’s work on the development of the field of religious studies, whether it is related to his philosophical approach -post-structuralism-, or his use of a historical method based in large part on the tradition established by the Annales school. It was not easy to localize Foucault’s approach in the field of religious and theological studies, as it is “Thinking the Unthinkable”, which leads to the lifting of the veil of innocence from religious traditions to reveal the various power relations within their disciplinary and punitive systems. By examining Foucault’s recent writings, Carrette’s work has allowed us to look at the subject of his study from a new perspective, not only from the perspective of the historical development of Foucault’s thought and the changes that occurred in his analytical tools, but also how Foucault responded to the problems arising from his previous writings and dealing with the current problem of his time.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3906</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3906</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3906">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3906/3953" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3906">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3906/4224" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3906" DMDID="DMD_wwu-journals_3906">
+            <mets:fptr FILEID="FILE0_wwu-journals_3906"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3906" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3906"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

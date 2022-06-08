@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1460">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildung am Ort Homiletik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richardt, Franz</displayForm>
+                        <namePart type="family">Richardt</namePart>
+                        <namePart type="given">Franz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bildung am Ort Homiletik zielt in zwei Richtungen. Da der Glaubwürdigkeit der Persönlichkeit des Predigers/der Predigerin im Vermittlungsprozess „Predigt“ eine wesentliche Bedeutung zukommt, hat diehomiletische Ausbildung die Bildung der Person in den Blick zu nehmen. Da die Predigt selber, in allerBegrenztheit dieser Kommunikationsform für Veränderungsprozesse, einen Bildungsauftrag im Kontextder Gemeindebildung hat, hat die homiletische Ausbildung Inhalte und Formen, Chancen undGrenzen, Ziele und Beziehungsebenen der Predigt zu bedenken.Education within the field of homiletics aims in two directions. Since the credibility of the preacher’spersonality during the mediation process of a sermon is of utmost importance, the homiletic trainingof a person should be based on the formation and education of the whole person. As the sermon itself– with all the limitations regarding processes of change that come along with this special form ofcommunication – has an educational mission in the context of parochial education, the homiletictraining has to consider various contents and forms, opportunities and limits, goals and relationshiplevels of preaching.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>34</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13653</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1460</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1460">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1460/1365" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1460" DMDID="DMD_wwu-journals_1460">
+            <mets:fptr FILEID="FILE0_wwu-journals_1460"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

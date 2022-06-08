@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1537">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sozial- und Suffizienzpolitik als Teil der Energiewende</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kopatz, Michael</displayForm>
+                        <namePart type="family">Kopatz</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag wirft einen Blick auf die politischen Bedingungen eines Gelingens der Energiewende. Dabei werden die Bekämpfung von Energiearmut, die Vorreiterrolle Deutschlands beim Ausbau erneuerbarer Energien im internationalen Kontext und konkrete, der Energiewende entsprechende politische Rahmenvorgaben erörtert. Als Kriterien werden die soziale Tragfähigkeit und die Fairness entwickelt und schließlich die Energiewende als sozial-kultureller Transformationsprozess entfaltet. Dabei spielen Suffizienz und Suffizienzpolitik eine wichtige Rolle.AbstractThis article takes a look at the political conditionsnecessary to make the energy transition in Germany successful. It discusses the fight against energy poverty, the leading role of Germany in the expansion of the use of renewable energies in the international context and political provisions facilitating the transition. As criteria of a successful energy transition, social sustainability and fairness are deployed. Finally, the article develops the energy transition as a process of socio-cultural transformation. Eco-sufficiency and eco-sufficiency policies play an important role in this.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14390</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1537</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1537">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1537/1439" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1537" DMDID="DMD_wwu-journals_1537">
+            <mets:fptr FILEID="FILE0_wwu-journals_1537"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

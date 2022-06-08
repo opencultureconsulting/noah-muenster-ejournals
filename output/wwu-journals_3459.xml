@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3459">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hypothesis</title>
+                        <subTitle>Entrapment of lipoprotein particles in the brain causes Alzheimer’s disease</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boche, Delphine</displayForm>
+                        <namePart type="family">Boche</namePart>
+                        <namePart type="given">Delphine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nicoll, James AR</displayForm>
+                        <namePart type="family">Nicoll</namePart>
+                        <namePart type="given">James AR</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We present for consideration a hypothesis that impaired movement of lipoprotein particles in the extracellular space in the brain in ageing is central to and causes all the key pathophysiological features of Alzheimer’s disease (AD). The role of lipoprotein particles is to transport cholesterol from glial cells, where it is synthesised, to neurons, which require cholesterol for synaptic plasticity. The lipoprotein particles have a cholesterol-containing hydrophobic core, in which amyloid-β (Aβ) can be solubilised. The core is surrounded by a hydrophilic surface containing apolipoprotein E (APOE) which, as neurons bear receptors for APOE, determines the destination of the particles. The problem arises because the extracellular space is a narrow cleft, barely wider than the lipoprotein particles themselves, which they have to navigate in order to perform their crucial cholesterol-transporting function. We explain how lipoprotein particles could become trapped in the ageing extracellular matrix and that this primary abnormality results in reduced delivery of cholesterol to neurons leading to impaired synaptic plasticity, crucial for learning and memory. It can also explain extracellular Aβ accumulation, to which a microglial response generates a neurotoxic reaction, and intraneuronal tau aggregation, each of which exacerbate the problem. All these players have been known for many years to be important in Alzheimer’s pathogenesis but a single unifying mechanism to explain how they are linked has been lacking. This proposed mechanism, with entrapment of lipoproteins particles as key to the development of AD, can explain the failure of so many clinical trials and points out new directions to be taken.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-36521</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3459</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3459</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3459">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3459/3652" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3459">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3459/3653" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3459" DMDID="DMD_wwu-journals_3459">
+            <mets:fptr FILEID="FILE0_wwu-journals_3459"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3459" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3459"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

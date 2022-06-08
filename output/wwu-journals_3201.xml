@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3201">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„St. Maria als“, oder</title>
+                        <subTitle>Wenn eine Kirche (sich) aufmacht: Ein Werkstattbericht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hofstetter-Straka, Andréas</displayForm>
+                        <namePart type="family">Hofstetter-Straka</namePart>
+                        <namePart type="given">Andréas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Kirchengemeinde St. Maria geht neue Wege im Hinblick auf eine Sanierung und Nutzung ihres Kirchenraumes. Sie bietet den Kirchenraum zivilgesellschaftlichen Gruppen an und öffnet sich so in den Sozialraum hinein. So wird der Kirchenraum ein Ermöglichungsraum für die Menschen aus dem Stadtviertel im Stuttgarter Süden. Im Sinne des Bibelverses „Suchet der Stadt Bestes“ (Jer 29,7) begibt sie sich so auf einen gemeinsamen Suchprozess danach, was dieser Raum alles kann und ermöglicht.
+The church of St. Mary in Stuttgart, first catholic building after the reformation is waiting for a renovation. The parish is offering the space of the church to other groups in the civil society. “Seeking together the welfare of the city” (Jer 29,7) by opening the sacral building to everybody offers for the parish the opportunity to be in touch with the people full of hope in the social area. This attitude enables and empowers many women and men to get involved with the problems of the quarter. So we hope to find the answer for the renovation in the tension of sacral building and opened space.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31712</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3201</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3201">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3201/3171" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3201" DMDID="DMD_wwu-journals_3201">
+            <mets:fptr FILEID="FILE0_wwu-journals_3201"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

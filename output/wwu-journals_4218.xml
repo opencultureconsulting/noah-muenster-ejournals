@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4218">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Gedächtnis wissenschaftlicher Disziplinen – unter primärer Berücksichtigung der Soziologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schneider, Wolfgang Ludwig</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Wolfgang Ludwig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Osrecki, Fran</displayForm>
+                        <namePart type="family">Osrecki</namePart>
+                        <namePart type="given">Fran</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der systemtheoretischen Annahme, dass die moderne Gesellschaft in eine Pluralität von Funktionssystemen differenziert ist, untersucht der Aufsatz die Rolle des Gedächtnisses im Kontext der Wissenschaft. Den Blick primär auf die Soziologie richtend wird die These ausgeführt, dass die Form ihres Gedächtnisses in Abhängigkeit von der disziplinären Binnendifferenzierung in Schulen, invisible colleges und paradigm communities variiert. Vor diesem Hintergrund werden Kanonbildung, turns und gegenwartsbezogene Zeitdiagnosen in ihrer Bedeutung für das Gedächtnismanagement der Soziologie analysiert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>122</start>
+                                <end>144</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4218</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4218</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4218">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4218/4297" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4218" DMDID="DMD_wwu-journals_4218">
+            <mets:fptr FILEID="FILE0_wwu-journals_4218"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

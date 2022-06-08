@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>2477</id>
+	<dc:title xml:lang="de-DE">Identifizierung von Münzen anhand eines digitalen Fingerabdrucks</dc:title>
+	<dc:title xml:lang="en-US">Identification of coins using a digital fingerprint</dc:title>
+	<dc:creator>Trostmann, Erik</dc:creator>
+	<dc:creator>Dresely, Veit</dc:creator>
+	<dc:creator>Tauschensky, Anika</dc:creator>
+	<dc:description xml:lang="de-DE">Das Landesamt für Denkmalpflege und Archäologie – Landesmuseum für Vorgeschichte - Sachsen-Anhalt hat in Kooperation mit dem Fraunhofer-Institut für Fabrikbetrieb und -automatisierung (IFF) in Magdeburg ein innovatives Verfahren entwickelt, mit dem einzelne Münzen anhand eines individuellen „digitalen Fingerabdrucks“ eindeutig und unverwechselbar beschrieben und identifiziert werden können. Dieses „Optical System for Coin Analysis and Recognition”, kurz O.S.C.A.R., ist ein optisches Datenerfassungssystem mit Softwareanalyseverfahren und basiert auf der photometrischen Stereoanalyse. Messdaten zur Objektgeometrie, Farbigkeit und Oberflächenstruktur einer Münze werden dabei genutzt, um einen individuellen Erkennungsschlüssel zu generieren, der bei einer Suchabfrage mit der Datenbank abgeglichen wird.</dc:description>
+	<dc:description xml:lang="en-US">The Landesamt für Denkmalpflege und Archäologie – Landesmuseum für Vorgeschichte - Sachsen-Anhalt has developed an innovative process in cooperation with the Fraunhofer-Institut für Fabrikbetrieb und -automatisierung (IFF) in Magdeburg, with which coins can be described and identified unmistakably by an individual "digital fingerprint". This “Optical System for Coin Analysis and Recognition”, O.S.C.A.R., is an optical data acquisition system with software analysis techniques based on photometric stereo analysis. Measurement data on the object geometry, color and surface structure of a coin are used to generate an individual recognition key, which is matched to the database during a search query.</dc:description>
+	<dc:publisher xml:lang="de-DE">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</dc:publisher>
+	<dc:date>2019-08-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:format>text/html</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2477</dc:identifier>
+	<dc:identifier>10.17879/ozean-2019-2477</dc:identifier>
+	<dc:source xml:lang="de-DE">Online Zeitschrift zur Antiken Numismatik; Bd. 1 (2019); 21-26</dc:source>
+	<dc:source xml:lang="en-US">Online Journal for Ancient Numismatics; Vol. 1 (2019); 21-26</dc:source>
+	<dc:source>2698-4490</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2477/2342</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2477/2343</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2477/2356</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-ozean-2019-23425</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-ozean-2019-23438</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-ozean-2019-23568</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2019 Erik Trostmann, Veit Dresely, Anika Tauschensky</dc:rights>
+	<dc:rights xml:lang="de-DE">http://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>

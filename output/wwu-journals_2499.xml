@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2499">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Debatte um den öffentlichen Rundfunk in der Schweiz</title>
+                        <subTitle>Mit „NoBillag“ gegen das gesellschaftliche Solidaritätsprinzip</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wyss, Vinzenz</displayForm>
+                        <namePart type="family">Wyss</namePart>
+                        <namePart type="given">Vinzenz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saner, Mirco</displayForm>
+                        <namePart type="family">Saner</namePart>
+                        <namePart type="given">Mirco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Kaum eine politische Vorlage der letzten Jahre hat in der Schweiz die Gemüter so erhitzt wie die „NoBillag“-Initiative zur Abschaffung der Rundfunkgebühren. Bezeichnend für die öffentliche Debatte dazu war eine Vielzahl von partizipierenden Akteuren, auch aus der Zivilgesellschaft. Der Impetus der Initianten entsprang libertärem Gedankengut und traf vordergründig den herrschenden Zeitgeist. Die ungewöhnlich lange Dauer des Abstimmungskampfes verdeutlichte den Stimmbürger*innen jedoch schließlich die argumentativen Schwächen und die radikalen gesellschaftlichen Konsequenzen dieses politischen Vorstoßes. Als wesentliches Learning ist festzuhalten, dass es bei medienpolitischen Debatten um die Weiterentwicklung des öffentlichen Rundfunks zukünftig nicht mehr genügt, institutionalisierte politische Kräfte hinter sich zu wissen, sondern dass es gelingen muss, auch Akteure der Zivilgesellschaft argumentativ zu erreichen. Dafür wird eine elaborierte Medienkompetenz unerlässlich sein.</abstract>
+                    <abstract lang="eng">Hardly any other political referendum in recent years has caused such a stir in Switzerland as the citizens` initiative “NoBillag” to abolish mandatory licence fees for its public service broadcaster. The public debate on this issue was characterised by a large number of participating actors, including those from civil society. The impetus of the initiators stemmed from libertarian ideas and was superficially in tune with the prevailing zeitgeist. However, the unusually long duration of the public debate finally made clear to the voters the argumentative weaknesses and radical societal consequences of this political undertaking. As an essential learning, it should be noted that in future it will no longer be sufficient to be supported by institutionalised political forces during media policy debates about the further development of public broadcasting, but that it also must be possible to reach actors of civil society with valid and qualified arguments. For this, elaborate media competence will be indispensable.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23788</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2499</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2499</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2499">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2499/2378" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2499" DMDID="DMD_wwu-journals_2499">
+            <mets:fptr FILEID="FILE0_wwu-journals_2499"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

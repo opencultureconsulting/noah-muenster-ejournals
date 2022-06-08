@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2118">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Veränderter Bedarf</title>
+                        <subTitle>Vernetzung statt Versorgung. Pastorale Reflexion und theologische Perspektiven anlässlich von 20 Jahren Forum internationaler Studierender an der Katholisch‐Theologischen Fakultät der WWU Münster</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harrich, Simon</displayForm>
+                        <namePart type="family">Harrich</namePart>
+                        <namePart type="given">Simon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hiepel, Ludger</displayForm>
+                        <namePart type="family">Hiepel</namePart>
+                        <namePart type="given">Ludger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Janhsen, Anna</displayForm>
+                        <namePart type="family">Janhsen</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die stetige Globalisierung ist nicht nur ein politisches und gesellschaftliches Thema, sondern wirkt auch in den Raum der Universität hinein. Dies zeigt sowohl ein veränderter Bedarf internationaler Studierender als auch die Wandlung in Arbeit und Ausrichtung des inzwischen 20‐jährigen Vereins Forum internationaler Studierender an der Katholisch‐Theologischen Fakultät der WWU Münster. Unter dem paradigmatischen Vorzeichen von Vernetzung statt Versorgung bietet der vorliegende Aufsatz aus Anlass dieses Jubiläums pastorale Reflexionen und theologische Perspektiven auf diesen Wandlungsprozess. In drei Schritten, die mit Sehen: Herausforderungen ernst nehmen – Urteilen: Rahmenbedingungen und Konsequenzen aus der Globalisierung für die Arbeit des Vereins und den Raum der Universität – Handeln: So einfach?! betitelt sind, wird dabei eine Profilierung der Unterstützung internationaler Studierender vor einem theologischen Hintergrund erreicht.The ongoing and encompassing process of globalization is not restricted to political and social domains but also leaves its marks in universities. This can be demonstrated by the changing needs of international students as well as by the modifications in the work and aims of university institutions such as the Forum internationaler Studierender an der Katholisch‐Theologischen Fakultät der WWU Münster (Forum for and of International Students at the Catholic‐Theological Faculty of the WWU Münster). Taking the 20th anniversary of this association as a starting point, this article provides pastoral reflections and theological perspectives on a path to change. Three steps are taken, which are entitled Looking: Taking Challenges Seriously – Judging: Basic Parameters of Globalization and Its Consequences for Activities of the Association as well as the Domain of the University – Acting: So Easy?!. Being based on a theological background, the articles argues for new ways to support international students.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>125</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17251</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2118</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2118">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2118/2032" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2118" DMDID="DMD_wwu-journals_2118">
+            <mets:fptr FILEID="FILE0_wwu-journals_2118"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

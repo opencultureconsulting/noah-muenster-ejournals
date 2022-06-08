@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1543">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energiewende konkret. Lokale Transformationsprozesse und ihre normative Einbettung in Governance-Strukturen des Mehrebenensystems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Graf, Antonia</displayForm>
+                        <namePart type="family">Graf</namePart>
+                        <namePart type="given">Antonia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fuchs, Doris</displayForm>
+                        <namePart type="family">Fuchs</namePart>
+                        <namePart type="given">Doris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zusammenfassung Im Anschluss an die Forschung zur Energiewende als sozio-ökonomischer Transition untersucht dieser Beitrag Lokale Energie-Governance (LEG) als wertebestimmten Gegenstand der Energiepolitik. LEG spielt eine zentrale Rolle hinsichtlich des Gelingens der Energiewende. Gleichzeitig ist sie zwingend in den Kontext europäischer Mehrebenen-Governance eingebunden und stößt diesbezüglich auf förderliche und hinderliche Rahmenbedingungen, die von den der LEG zugeschriebenen Werten und Erwartungen auf nationaler und europäischer Governance-Ebene abhängen. Ziel des Beitrags ist daher die Identifikation von mit LEG verbundenen Werten und Erwartungen auf Seiten der rahmensetzenden Akteure im europäischen Mehrebenensystem. Es wird gefragt, wie LEG auf unterschiedlichen Governance-Ebenen erlebt und dargestellt wird, welche Erwartungen mit ihr verknüpft sind und welche gesellschaftlichen Werte ihr zugeschrieben werden. Zur theoretischen Einordnung von LEG wird auf Ansätze und Perspektiven der Partizipationsforschung, der Mehrebenen-Governance und des Strategic Niche Managements rekurriert. Eine Inhaltsanalyse von Dokumenten und Stellungnahmen der EU, der Bundesregierung sowie von Energiewende-Blogs eröffnet anschließend erste empirische Einblicke in die dort mit LEG verbundenen Werte und Erwartungen und diskutiert relevante politische und wissenschaftliche Implikationen.Abstract Following the research on the energy transition as a socio-economic transition, this paper investigates local energy governance (LEG) as a value-directed subject of energy policy. While LEG lays a central role in the success of the energy transition, it is inescapably embedded in the context of European multi-level governance where it comes up against a general framework of conducive or hindering conditions. These depend on the values and expectations ascribed to LEG by national and European governance. The aim of this paper is therefore to identify these values and expectations attributed to LEG by the policy makers in the European multi-level system and to answer how LEG is perceived and represented at different governance levels, what the expectations are and what values ascribed. To place LEG in a theoretical context, recourse is taken to approaches and views of participation research, multi-level governance, and strategic niche management. First empirical insights into values and expectations connected with LEG are provided by a content analysis of documents and policy briefs by the EU and the German government as well as energy transition blogs, and relevant political and scientific implications are discussed.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14450</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1543</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1543">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1543/1445" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1543" DMDID="DMD_wwu-journals_1543">
+            <mets:fptr FILEID="FILE0_wwu-journals_1543"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

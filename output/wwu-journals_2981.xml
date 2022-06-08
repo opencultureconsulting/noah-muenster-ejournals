@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2981">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Rezeption Postkolonialer Theorie in der deutschsprachigen Theologie</title>
+                        <subTitle>Ein Literaturüberblick</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nausner, Michael</displayForm>
+                        <namePart type="family">Nausner</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Postkoloniale Theorie ist im englischsprachigen Raum – ausgelöst von Edward W. Saids bahnbrechendem Werk Orientalismus (1978) – in den 1980er-Jahren entstanden und gegen Ende des vergangenen Jahrhunderts auch im deutschsprachigen Raum angekommen. In der Theologie begann eine allgemein wahrnehmbare Rezeption erst vor gut zehn Jahren. Dabei war es zunächst vor allem die Missionswissenschaft/Interkulturelle Theologie, die die Bedeutung dieser Theoriebildung für die Theologie würdigte. In ihrer Thematisierung von bis heute wirksamen kolonialen Denk- und Handlungsweisen sowie kulturellen Veränderungsprozessen und den darin zum Ausdruck kommenden Machtverhältnissen ist Postkoloniale Theorie jedoch vor allem auch von sozialethischer Bedeutung. Ihre sozialethische Relevanz zeigt sich allgemein in der Analyse hegemonialer Denkstrukturen im interkulturellen und interreligiösen Kontext, in der postkoloniale Einsichten zu tieferem Verständnis beitragen, konkret jedoch in der theologisch-ethischen Diskussion über die Migration im deutschsprachigen Raum, bei der postkoloniale Theorie mit ihrer subtilen Analyse kultureller Vielfalt und Hybridität eine wichtige Rolle zu spielen beginnt. Dennoch steht eine ausführlichere Behandlung postkolonialer Theorie in ihrer Bedeutung für die christliche Sozialethik noch aus.</abstract>
+                    <abstract lang="eng">Postcolonial theory emerged in the English-speaking world in the 1980s, initiated by Edward W. Said’s influential study Orientalism (1978). It arrived in the German speaking world toward the end of the 20th century. In theology, the theory started to leave its mark a bit more than ten years ago. First above all scholars in missiology/intercultural theology honored the significance of the theory for theology. But by addressing the lasting significance of a colonial mindset and praxis as well as the complexities of cultural transformations and the accompanying power dynamics, the theory clearly is of importance for social ethics as well. The relevance for social ethics in general becomes visible in the analysis of hegemonic epistemologies in intercultural and interreligious contexts where postcolonial insights contribute to a deeper understanding. More specifically it is in the theological-ethical discussion of migration in the German speaking area where postcolonial theory has proven valuable with its subtle analysis of cultural diversity and hybridity. Yet, a more comprehensive treatment of postcolonial theory in its significance for Christian social ethics is still to be developed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>183</start>
+                                <end>209</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30881</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2981</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2981</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2981">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2981/3088" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2981" DMDID="DMD_wwu-journals_2981">
+            <mets:fptr FILEID="FILE0_wwu-journals_2981"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

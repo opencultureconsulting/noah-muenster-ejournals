@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1103">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>›Wallpaper Art‹. Zur Ästhetik seriell gestalteter Oberflächen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hahn, Torsten</displayForm>
+                        <namePart type="family">Hahn</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">This paper attempts an aesthetic positioning of the superficial medium ›wallpaper‹. The first part argues that the design of wallpapers in 1960’s Pop Art is no marginal phenomenon, this medium indeed accomplishes the demands and standards of art pop prior to all other mediums. This includes the question why the design of wallpapers has been a provocation and even still is, if a genuine aesthetic aspiration is pronounced. The mechanisms of exclusion are therefore, in the second part, located in the late eighteenth century, exactly the time when both aesthetics and wallpapers went into serial production. An examination of the aesthetic of pure form and Kant’s remarks on the artistic qualities of wall decoration makes clear that the exclusion of wallpaper from the sphere of art in the narrow sense (and thus the establishing of the dichotomy between auratic art and popular design) get caused by the following discursive guidelines: substance, originality, and invisibilisation of production. They prevent that mechanically reproduced forms on wallpapers can come into focus of aesthetic reflection even after the »Critique of Judgement«. Conversely, they are the reason for the fact that wallpapers become a (too often undervalued) leading medium of popular culture. This exclusion or rather the separation between pure form with aesthetic dignity and popular ornament will be exemplarily illustrated by Schiller’s letters and works.----------URN: urn:nbn:de:hbz:6:3-20140314183</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>POP. Kultur &amp; Kritik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">POP. Kultur &amp; Kritik</publisher>
+                        </originInfo>
+                        <identifier type="issn">2194-6981</identifier>
+                        <part>
+                            <detail type="issue">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20140314183</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1103</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1103">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/pop/article/download/1103/1055" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1103" DMDID="DMD_wwu-journals_1103">
+            <mets:fptr FILEID="FILE0_wwu-journals_1103"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

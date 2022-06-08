@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2301">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Wir, die wir länger weg waren&quot; - Religiöse Identität konstruieren in interkultureller christlicher Begegnung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bebber, Maria</displayForm>
+                        <namePart type="family">Bebber</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In unserer globalisierten Welt treffen Menschen in ihren Lebenskontexten auf eine Vielfalt kulturellerund religiöser Strömungen. Zugleich sind Identitäten heute nicht mehr eindeutig vorgegeben, sondernmüssen individuell konstruiert werden. Auch mit Blick auf die religiöse Identität stellt sich deshalb dieFrage, wie Menschen diese angesichts vielfältiger und heterogener religiöser und kultureller Einflüssekonstruieren. Dies wird im Rahmen des vorgestellten Promotionsprojektes untersucht am Beispiel vonChrist*innen, die in verschiedenen Ortskirchen gelebt haben. Durch Interviewgespräche mit ihnensollen Formen religiöser Identitätskonstruktion in interkultureller christlicher Begegnung erhobenwerden.Living in a globalized world, people of today come into contact with a variety of cultural and religiousways of life. At the same time, it is no longer possible to just adopt predefined identities; instead,there is the need to create individual, indepentent identities. This raises the question of the constructionof religious identity in contexts of various and heterogeneous religious and cultural influences.The study that is presented here will explore this question by conducting interviews with Christianswho have been part of several local church communities. In doing so, it will survey different patternsof religious identity construction in intercultural Christian encounters.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21938</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2301</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2301">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2301/2193" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2301" DMDID="DMD_wwu-journals_2301">
+            <mets:fptr FILEID="FILE0_wwu-journals_2301"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

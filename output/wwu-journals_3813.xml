@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3813">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuropathology and epilepsy surgery</title>
+                        <subTitle>2022 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blümcke, Ingmar</displayForm>
+                        <namePart type="family">Blümcke</namePart>
+                        <namePart type="given">Ingmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The impact of a precise histopathology diagnosis and molecular workup for surgical patient management remains a controversial issue in epileptology with a lack of diagnostic agreement as root cause. Very recent advances in genotype-phenotype characterization of epilepsy-associated developmental brain lesions, including the first diagnostically useful DNA methylation studies, opened new avenues and will help to finally resolve these issues. A series of most recent articles were decisively selected by the author to exemplify the areas of improvement in neuropathology and epilepsy surgery. These topics include the progress in genotype-phenotype association studies of Focal Cortical Dysplasia (FCD) leading to the discovery of new molecularly defined entities, i.e. mild malformation of cortical development with oligodendroglial hyperplasia in epilepsy (MOGHE), SLC35A2 altered. These studies also triggered the first update of the international FCD consensus classification scheme from 2011, which will hopefully support diagnostic agreement in clinical practice and research. The dilemma of new tumor entities proposed by the 5th edition of the WHO classification primarily associated with early seizure onset yet not well introduced to the epileptology community will also be discussed in the light of emerging experimental evidence when transfecting the developing murine brain with the single most important genetic alteration for both carcino- and epileptogenesis, i.e. BRAF V600E.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-41451</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3813</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3813</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3813">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3813/4145" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3813">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3813/4144" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3813" DMDID="DMD_wwu-journals_3813">
+            <mets:fptr FILEID="FILE0_wwu-journals_3813"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3813" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3813"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

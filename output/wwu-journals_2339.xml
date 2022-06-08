@@ -1,0 +1,147 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2339">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Zweite Welle“? Soziologie der Nachhaltigkeit – von der Aufbruchsstimmung zur Krisenreflexion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böschen, Stefan</displayForm>
+                        <namePart type="family">Böschen</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barth, Thomas</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Henkel, Anna</displayForm>
+                        <namePart type="family">Henkel</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Block, Katharina</displayForm>
+                        <namePart type="family">Block</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dickel, Sascha</displayForm>
+                        <namePart type="family">Dickel</namePart>
+                        <namePart type="given">Sascha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Görgen, Benjamin</displayForm>
+                        <namePart type="family">Görgen</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Köhrsen, Jens</displayForm>
+                        <namePart type="family">Köhrsen</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfister, Thomas</displayForm>
+                        <namePart type="family">Pfister</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rödder, Simone</displayForm>
+                        <namePart type="family">Rödder</namePart>
+                        <namePart type="given">Simone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schloßberger, Matthias</displayForm>
+                        <namePart type="family">Schloßberger</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das politische Leitbild Nachhaltiger Entwicklung mit seiner integralen Verknüpfung von globalen ökologischen und sozialen Problemlagen und der darin liegenden Vision ihrer Lösung, stiftete für eine Soziologie der Nachhaltigkeit nicht nur den Anlass, sondern zugleich eine dezidierte normative Orientierung. Inzwischen beobachten wir allerdings eine Veralltäglichung und Pluralisierung von Nachhaltigkeit, sodass nicht mehr umstandslos die Gültigkeit einer geteilten normativen Prämisse voraussetzt werden kann. Die von K.-W. Brand ins Gespräch gebrachte Kennzeichnung einer „zweiten Welle“ soziologischer Nachhaltigkeitsforschung greifen wir auf, ohne aber die Normativität des Brundtland’schen Nachhaltigkeitsbegriffs als Prämisse zu setzen, sondern um für die schon in der „ersten Welle“ aufscheinende Reflexivität als Integrationspunkt zu argumentieren. Zur Untersuchung von Nachhaltigkeitsphänomenen stellen wir eine entsprechende Heuristik vor. Gewendet als Forschungsprogramm kann dies den Kern einer von Brand in den Raum gestellten „zweiten Welle“ der Soziologie der Nachhaltigkeit darstellen.
+The political concept of sustainable development is built on the idea of an integral solution of global ecological as well as social problems. The underlying vision of their possible solution not only brought about a window of opportunity for creating a sociology of sustainability, but also offered a clear normative orientation for this field of investigation. In the meantime, we are observing a routinization and pluralization of sustainability practices. Thus, a shared normative premise can no longer be presupposed. We pick up the idea of a “second wave“ of sociological sustainability research, which was coined by K.-W. Brand, but without setting the normativity of the Brundtland’s conception of sustainability as the premise. Doing so, we argue for reflexivity, already apparent in the “first wave”, as an integration point in the “second wave”. To investigate sustainability phenomena we present a heuristic. Applied as a research program, this can be the core of a “second wave“ of the sociology of sustainability as suggested by Brand.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-0-22264</identifier>
+                    <identifier type="doi">10.17879/sun-2017-2339</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2339</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2339">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2339/2226" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2339" DMDID="DMD_wwu-journals_2339">
+            <mets:fptr FILEID="FILE0_wwu-journals_2339"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

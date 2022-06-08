@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_431">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verantwortung ermöglichen, Generationen- und Geschlechtergerechtigkeit fördern</title>
+                        <subTitle>Zur sozialethischen Rezeption der Lebenslaufperspektive. Eine Bestandsaufnahme in programmatischer Absicht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heimbach-Steins, Marianne</displayForm>
+                        <namePart type="family">Heimbach-Steins</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungVeränderte Generationen- und Geschlechterverhältnisse bringen neue Risiken der Lebensführung mit sich. Wirtschafts-, Sozial- und Gesellschaftspolitik brauchen daher eine sozialwissenschaftlich fundierte und ethisch gehaltvolle Leitidee zur Orientierung notwendiger Reformen für alle Handlungsfelder, die Lebensverläufe und Handlungsmuster beeinflussen. Das Prinzip der &quot;Lebenslauforientierung&quot; kann, so die These, ein solches Orientierungsangebot enthalten. Sozialwissenschaftliche Ansätze der Lebenslaufpolitik aufgreifend, werden Ansätze zur Rezeption einer Lebenslaufperspektive in der christlichen Sozialethik ausgewiesen und deren normativer Gehalt analysiert. Ziel ist es, die These zu plausibilisieren, eine Politik der Verantwortungsermöglichung bilde das sozialethische Korrelat zu einer sozialwissenschaftlich fundierten Lebenslaufpolitik, und sei als Desiderat für eine „Gesellschaft des langen Lebens“ geltend zu machen.AbstractThe change of gender and generation relations carries new risks for life choices. Economic, social, and societal politics therefore need a substantive ethical guiding principle grounded in social science to inform necessary reforms in all fields of action that bear on life courses and action patterns. The thesis here is that the principle of »life course orientation« may offer such a guideline. Seizing on social-scientific approaches to life-course politics, beginnings of an adoption of life-course perspectives in Christian social ethics are documented and their normative contents analysed. The aim here is to make plausible the thesis that a politics of enabling responsibility forms the socio-ethical correlate of social-scientifically grounded life-course politics and is most desirable for a long-life society.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082149</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_431</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_431">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/431/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_431" DMDID="DMD_wwu-journals_431">
+            <mets:fptr FILEID="FILE0_wwu-journals_431"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

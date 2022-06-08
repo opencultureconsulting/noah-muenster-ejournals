@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2114">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gewalt in Familien</title>
+                        <subTitle>eine Herausforderung für das kirchliche und theologische Sprechen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dillen, Annemie</displayForm>
+                        <namePart type="family">Dillen</namePart>
+                        <namePart type="given">Annemie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Familiäre Gewalt wird in der Gesellschaft und der Kirche immer mehr wahrgenommen, bleibt für viele aber immer noch ein Tabuthema. In diesem Artikel wird gezeigt, dass die Kirche sich viel mehr mit familiärer Gewalt beschäftigen muss, und es wird geklärt, warum das wichtig ist. Beim Umgang mit Gewalt in Familien ist es nicht nur die Frage, wie die Kirche gute Seelsorge leisten kann, sondern auch, wie familiäre Gewalt die Praktische Theologie herausfordert. Es wird außerdem dargelegt, dass verschiedene theologische Themen im Hinblick auf familiäre Gewalt mit viel Vorsicht angegangen werden müssen. Aspekte des christlichen Glaubens können Opfer von familiärer Gewalt nicht nur unterstützen, sondern sie auch passiv machen. Dies kann sogar dazu führen, dass Täter ihre Gewalt durch die Theologie legitimiert sehen. Fünf Aspekte werden diskutiert: Gendergerechtigkeit, Idealbilder der Familie, Vergebung, Leiden so wie Jesus am Kreuz und Sünde.While violence in families is increasingly recognized by the society and the church, for many people, the subject continues to be taboo. In this article, the author argues why the church should investigate the themes surrounding such violence much more intensely. In dealing with violence in the family, the church should ask itself not only how to offer good pastoral care, but also how such violence challenges theology. This article asserts that various theological themes deserve careful rethinking. The Christian faith may not only provide support to victims of violence in families but may also render victims more passive and confirm the status quo (violent situation). Offenders might even legitimate their violence with aspects of the Christian faith. Five main themes are considered in this vein: gender equality, ideal images of the family, forgiveness, suffering like Jesus on the cross, and sin.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>63</start>
+                                <end>74</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17206</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2114</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2114">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2114/2028" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2114" DMDID="DMD_wwu-journals_2114">
+            <mets:fptr FILEID="FILE0_wwu-journals_2114"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

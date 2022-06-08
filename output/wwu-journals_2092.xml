@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2092">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soll jetzt auch noch die Kirche flüssig werden? Fundamental-ekklesiologische Gedanken zu den Paradoxien unserer Zeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Borgman, Erik</displayForm>
+                        <namePart type="family">Borgman</namePart>
+                        <namePart type="given">Erik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-02-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Aufsatz problematisiert die Forderung nach einer liquid church im Rahmen der liquidmodernity. Es wird die Frage gestellt, wie liquid life als ein Zeichen der Zeit im Licht des Evangeliumsgelesen werden kann und ob es als fides informis zu begreifen ist auf dem Weg zueiner fides formata, wie Thomas von Aquin es formuliert. Der paradoxe Charakter der flüssigenModernität wird vorgestellt und die Art und Weise, in der sie die Menschen nötigt, sichimmer dessen bewusst zu sein und auf das zu reagieren, was von ihnen durch diese ‚Verflüssigung‘abverlangt wird, um zu überleben. Im Vergleich zur klassischen Moderne ist liquidmodernity weniger in der Gefahr, selbstgenügsam zu sein. Allerdings gilt die Offenheit nichtfür die Präsenz Gottes. Liquid modernity ist offen gegenüber immer neuen Möglichkeiten, umin einer feindlichen Umgebung zu überleben. Nicht durch eine Verdoppelung der ‚Verflüssigung‘der liquid modernity erfüllt die Kirche ihren Auftrag, so wird argumentiert, sondern durchdie je aktuelle Verkörperung der treuen Präsenz Gottes zu allen Zeiten, liquid oder nicht.This article discusses the call for a liquid church in the context of liquid modernity. The questionis asked how liquid life can be read as a sign of the times in light of the Gospel, in termsof the Second Vatican Council, and whether it can be understood as fides informis in the processof becoming fides formata, to use Thomas Aquinas’ terms. The paradoxical character ofliquid modernity is introduced as well as the way it obliges people to be always aware of andto respond to what is asked of them in order to survive. In comparison with classical modernity,liquid modernity is less in danger of being self-sufficient, however, its openness is notopenness in regard to God’s presence. Instead, liquid modernity is open towards new opportunitiesto survive in an inimical environment. It will be argued here that is therefore not bymirroring the hyper-change of liquid modernity that the church fulfills its mission, but byacutely embodying God’s faithful presence at all times, liquid or otherwise.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>9</start>
+                                <end>24</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12984</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2092</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2092">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2092/2008" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2092" DMDID="DMD_wwu-journals_2092">
+            <mets:fptr FILEID="FILE0_wwu-journals_2092"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

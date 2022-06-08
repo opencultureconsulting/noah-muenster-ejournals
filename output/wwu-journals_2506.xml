@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2506">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Debatte um den öffentlich-rechtlichen Rundfunk ist eine mediale Inszenierung</title>
+                        <subTitle>Eine Analyse der Kritik der Zeitungsverleger an den Strategien von ARD und ZDF</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dernbach, Beatrice</displayForm>
+                        <namePart type="family">Dernbach</namePart>
+                        <namePart type="given">Beatrice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Schon in den 1960er-Jahren beklagen sich die Zeitungsverleger über das gebührenfinanzierte, wettbewerbsverzerrende Monopol des öffentlich-rechtlichen Rundfunks. Rieben sich die Verleger damals an dem Recht der ARD-Sender und des ZDF, Werbung zu senden, liegt heute der Fokus auf den digitalen Angeboten. Der seit 2016 amtierende BDZV-Präsident Mathias Döpfner hat mit seinem „Staatsfernsehen“-Vorwurf die Diskussion auf eine verbale Spitze getrieben. Der Blick in die historische und aktuelle Medienpolitik zeigt, dass der Streit ein alter ist, die Akteure und Vorwürfe sich nicht wesentlich verändert haben, aber der Ton mancher Kommentare über das ethisch vertretbare Maß hinausgeht. Ist die aktuelle Debatte aber vielleicht nur eine mediale Inszenierung, in der die Falschen an den Pranger gestellt werden?</abstract>
+                    <abstract lang="eng">As early as the 1960s, newspaper publishers complained about the fee-financed, competition-distorting monopoly of public broadcasting. At that time, publishers were wary of the right of ARD and ZDF to broadcast advertising, but today the focus is on digital offerings. BDZV President Mathias Döpfner, who has been in office since 2016, has pushed the discussion to a verbal peak with his accusation of “state television”. A look at the historical and current media policy shows that the dispute is an old one, that the actors and accusations have not changed significantly, but that the tone of some commentaries exceeds what is ethically justifiable. But is the current debate perhaps only a media staging in which the wrong players are pilloried?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23854</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2506</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2506</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2506">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2506/2385" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2506" DMDID="DMD_wwu-journals_2506">
+            <mets:fptr FILEID="FILE0_wwu-journals_2506"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

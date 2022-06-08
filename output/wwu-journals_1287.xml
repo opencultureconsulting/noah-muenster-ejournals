@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1287">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religionsfreiheit und Kirchenrecht - offene Fragen und ungelöste Probleme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schüller, Thomas</displayForm>
+                        <namePart type="family">Schüller</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungIn der Erklärung Dignitatis humanae bekennt sich das Zweite Vatikanum zum Menschenrecht der Religionsfreiheit, das die Kirche auch für den bürgerlich-staatlichen Bereich immer wieder nachdrücklich einfordert. Der vorliegende Artikel untersucht kritisch das Spannungsfeld, das sich zwischen dem Anspruch der Religionsfreiheit auf der einen und dem bekannten Dictum extra ecclesiam nulla salus auf der anderen Seite erstreckt. Zunächst wird die differenzierte kirchliche Auffassung bezüglich einer Religionsfreiheit nach außen, also der Interaktion zwischen Staaten, ihren Subjekten und der Kirche, herausgearbeitet, die von einer Religionsfreiheit nach innen, also einer individuellen Handlungsfreiheit der Menschen selbst, insbesondere derer, die bereits Mitglieder der Kirche sind, deutlich unterschieden und abgegrenzt ist. Wird gegenüber den Staaten uneingeschränkte Handlungsfreiheit reklamiert, so ist letztere Gruppe durch die Erkenntnis der Wahrheit selbst an die Kirche gebunden und zu binden – nötigenfalls auch durch den Einsatz kanonischer Strafen. Die so herausgearbeiteten Prinzipien werden im Folgenden mit konkreten Beispielen weiter illustriert.AbstractWith the declaration Dignitatis humanae, Vaticanum II emphasises religious freedom as one of the core principles of human rights. Ever since, the Church has not spared efforts to demand adherence to this principle, especially when dealing with the public sector, governments and states. This article aims for a critical analysis of the tension between the idea of religious freedom and the well-known doctrinal catchphrase extra ecclesiam nulla salus. Firstly, the multi-facetted concept of a religious freedom ad extra, i. e., the interaction between states, their subjects and the Church – which is wholly different to a concept of religious freedom ad intra, i. e., between individuals and the Church, especially with regard to Church members – will be analysed in greater depth. Whilst the magisterium claims total independence as far as secular laws are concerned, it however stresses that especially baptised members of the Church, who have by this token recognised the Truth, must at all cost adhere to the teaching of the magisterium – if necessary under threat of canonical punishment. In the following, these principles are illustrated by further examples.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12262</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1287</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1287">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1287/1226" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1287" DMDID="DMD_wwu-journals_1287">
+            <mets:fptr FILEID="FILE0_wwu-journals_1287"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

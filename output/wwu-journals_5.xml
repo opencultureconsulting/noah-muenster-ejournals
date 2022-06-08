@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_5">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Armut und Reichtum</title>
+                        <subTitle>Auswirkungen der Ungleichheit von Einkommen und Vermögen auf den gesellschaftlichen Zusammenhalt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Huster, Ernst-Ulrich</displayForm>
+                        <namePart type="family">Huster</namePart>
+                        <namePart type="given">Ernst-Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Ungleichheit in unserer Gesellschaft nimmt zu. Dieses zeigt sich nicht nur auf dem Gebiet der Einkommen, sondern in vielfältigen Dimensionen der Lebenslage, bei den Bereichen Arbeit, Bildung, Ausbildung, Gesundheit, Wohnen wie insgesamt bei der gesamten soziokulturellen Teilhabe. Die frühliberale politische Theorie sprach sich zwar für eine gewisse Ungleichheit aus, setzte dieser aber Grenzen. In der späteren und aktuellen Wirtschaftstheorie kommt es zu einer Kontroverse zwischen stärker auf soziale Ungleichheit setzenden angebotsorientierten Theorien und stärker auf sozialen Ausgleich zielenden nachfrageorientierten Theorien. Der Sozialstaat seit Bismarck wollte soziale Inklusion auf dem Hintergrund gesellschaftlicher sozialer Hierarchien und Interessenwidersprüche, einen Kompromiss also, der allerdings geschichtlich nicht nur im Faschismus, sondern auch aktuell im Widerstreit wirtschaftspolitischer Zielvorstellungen auf dem Hintergrund von Europäisierung und Globalisierung immer wieder infrage gestellt wird. Es gibt keinen Social Body Mass Index, an dem man die Stabilität einer Gesellschaft oder deren Gefährdung ablesen kann. Aber es ist möglich, den vermeintlichen Widerspruch zwischen volkswirtschaftlicher Wertschöpfung und sozialer Verteilung zu überwinden und nach einer verbindenden Strategie zu suchen. Doch dazu muss die Ökonomie wieder – wie in langen Phasen der Fall – ‚politisch‘ werden, um individuelle und soziale Perspektiven in Bildung, Gesundheit, Erwerbsarbeit und kultureller Teilhabe mit dem Ziel der Wertsteigerung in der Wirtschaft zusammenzuführen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>50</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>15</start>
+                                <end>35</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2009-49</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_5</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_5">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/5/4" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_5" DMDID="DMD_wwu-journals_5">
+            <mets:fptr FILEID="FILE0_wwu-journals_5"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

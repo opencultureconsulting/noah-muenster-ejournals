@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3679</id>
+	<dc:title xml:lang="en-US">Friedreich cardiomyopathy is a secondary desminopathy</dc:title>
+	<dc:creator>Koeppen, Arnulf</dc:creator>
+	<dc:creator>Rafique, Rahman</dc:creator>
+	<dc:creator>Mazurkiewicz, Joseph</dc:creator>
+	<dc:creator>Pelech, Steven</dc:creator>
+	<dc:creator>Sutter, Catherine</dc:creator>
+	<dc:creator>Lin, Qishan</dc:creator>
+	<dc:creator>Qian, Jiang</dc:creator>
+	<dc:subject xml:lang="en-US">Friedreich ataxia</dc:subject>
+	<dc:subject xml:lang="en-US">Cardiomyopathy</dc:subject>
+	<dc:subject xml:lang="en-US">Proteomics</dc:subject>
+	<dc:subject xml:lang="en-US">Desmin</dc:subject>
+	<dc:subject xml:lang="en-US">αB-crystallin</dc:subject>
+	<dc:subject xml:lang="en-US">Desminopathy</dc:subject>
+	<dc:description xml:lang="en-US">Heart disease is an integral part of Friedreich ataxia (FA) and the most common cause of death in this autosomal recessive disease. The result of the mutation is lack of frataxin, a small mitochondrial protein. The clinical and pathological phenotypes of FA are complex, involving brain, spinal cord, dorsal root ganglia, sensory nerves, heart, and endocrine pancreas. The hypothesis is that frataxin deficiency causes downstream changes in the proteome of the affected tissues, including the heart. A proteomic analysis of heart proteins in FA cardiomyopathy by antibody microarray, Western blots, immunohistochemistry, and double-label laser scanning confocal immunofluorescence microscopy revealed upregulation of desmin and its chaperone protein, αB-crystallin. In normal hearts, these two proteins are co-localized at intercalated discs and Z discs. In FA, desmin and αB-crystallin aggregate, causing chaotic modification of intercalated discs, clustering of mitochondria, and destruction of the contractile apparatus of cardiomyocytes. Western blots of tissue lysates in FA cardiomyopathy reveal a truncated desmin isoprotein that migrates at a lower molecular weight range than wild type desmin. While desmin and αB-crystallin are not mutated in FA, the accumulation of these proteins in FA hearts allows the conclusion that FA cardiomyopathy is a desminopathy akin to desmin myopathy of skeletal muscle.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3679</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3679</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 34</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 34</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3679/3718</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3679/3717</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Arnulf Koeppen, Rahman Rafique, Joseph Mazurkiewicz, Steven Pelech, Catherine Sutter, Qishan Lin, Jiang Qian</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

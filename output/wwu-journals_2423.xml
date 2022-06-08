@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2423">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mythic Highways of the Megarid</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ager, Sheila</displayForm>
+                        <namePart type="family">Ager</namePart>
+                        <namePart type="given">Sheila</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">29</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The territory of the ancient polis of Megara, situated astride the Isthmus of Corinth, was subject to regular intrusion and invasion from its neighbours to the west and the east, notably Corinth and Athens. This paper explores the ways in which the complex of legends about Megara – whether of Megarian or non-Megarian origin – both shapes and reflects the perception of Megara and the Megarid as a place of passage and the borders of Megarian territory as fluid and susceptible to penetration by others.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>47</start>
+                                <end>75</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2018-22915</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2423</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2423">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2423/2291" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2423" DMDID="DMD_wwu-journals_2423">
+            <mets:fptr FILEID="FILE0_wwu-journals_2423"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

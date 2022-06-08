@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_85">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Krankheit – Abhängigkeit – Anerkennung. Gesundheitspolitik aus der Perspektive einer normativen Theorie der Intersubjektivität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spiess, Christian</displayForm>
+                        <namePart type="family">Spiess</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgangspunkt des vorliegenden Beitrags ist eine Kritik der gesundheitsethischen bzw. gesundheitspolitischen Konzeption des politischen Liberalismus John Rawls’, und zwar insbesondere im Hinblick auf den systematischen Ausschluss dauerhaft abhängiger Personen aus der Theorie der Gerechtigkeit als Fairness. Demgegenüber werden die Grundzüge einer Gesundheitsethik entwickelt, die Schwerkranke, chronisch Kranke und Personen, deren Krankheiten sich in Behinderungen manifestiert haben, nicht systematisch ausschließt, sondern – im Gegenteil – Menschen, die auf Grund ihrer Krankheit in besonderen, in der Regel als defizitär empfundenen Lebensformen leben (müssen), in den Mittelpunkt stellt. Dies geschieht im Rekurs auf die – in der Tradition maßgeblich von Hegel entwickelte – philosophische Anerkennungstheorie, deren Grundannahmen heute empirisch – mit Bezug auf die Erforschung frühkindlichen Imitationsverhaltens – gestützt werden können. Die drei Thesen einer normativen Theorie der Anerkennung – (a) Menschen begegnen einander mit prinzipiell immer schon vorhandenen Anerkennungserwartungen, (b) die Missachtung dieser Anerkennungserwartungen besitzt moralische Relevanz, (c) politisch institutionalisierte Formen der Missachtung stellen soziales Unrecht dar – werden dann auf die sozialethische Frage nach der angemessenen Versorgung der in einem Gemeinwesen zusammenlebenden Menschen mit gesundheitsrelevanten Gütern bezogen. Die Überlegungen münden schließlich in die These, dass eine Gesellschaft genau in dem Maße bereit ist, Mittel für gesundheitsrelevante Güter aufzubringen und bereitzustellen, wie sie bereit ist, kranken (und behinderten) Menschen soziale Anerkennung entgegenzubringen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>151</start>
+                                <end>176</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-799</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_85</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_85">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/85/79" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_85" DMDID="DMD_wwu-journals_85">
+            <mets:fptr FILEID="FILE0_wwu-journals_85"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,139 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2471">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziologie der Nachhaltigkeit</title>
+                        <subTitle>Zwischen Transformation und Reflexion</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Block, Katharina</displayForm>
+                        <namePart type="family">Block</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Karl-Werner</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Karl-Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Henkel, Anna</displayForm>
+                        <namePart type="family">Henkel</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barth, Thomas</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böschen, Stephan</displayForm>
+                        <namePart type="family">Böschen</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dickel, Sascha</displayForm>
+                        <namePart type="family">Dickel</namePart>
+                        <namePart type="given">Sascha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Görgen, Benjamin</displayForm>
+                        <namePart type="family">Görgen</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Köhrsen, Jens</displayForm>
+                        <namePart type="family">Köhrsen</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfister, Thomas</displayForm>
+                        <namePart type="family">Pfister</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Nachhaltigkeit ist ein Konzept mit einer großen Vergangenheit, aber einer ungewissen Zukunft. Dies spiegelt sich nicht zuletzt in den Beiträgen der Soziologie wider. Trotz eines kritischen Blicks auf das von Anfang an kontroverse Feld der Nachhaltigkeitsdebatte hat sie sich mit großem Engagement an der Analyse der gesellschaftlichen Transformationsprozesse beteiligt, die von der Brundtland-Kommission und der Rio-Konferenz 1992 angestoßen wurden. Aktuell ist eine Soziologie der Nachhaltigkeit mit neuen Herausforderungen konfrontiert: Sie kann sich nicht mehr auf ein vermeintlich gemeinsames, normatives Leitbild und dessen Umsetzungsprobleme beziehen. Sie muss vielmehr die verschiedenen Praktiken der Nachhaltigkeit sichtbar machen und diese auf deren unterschiedliche Prämissen und ihre jeweilige Strukturwirksamkeit hin befragen. Erst vor diesem Hintergrund können übergreifende normative Ansprüche, die sich gegenwärtig mit dem Leitbild Nachhaltigkeit verbinden, klären lassen. Anspruch und Form der Aufgabe legen es nahe, von einer zweiten Welle der Soziologie der Nachhaltigkeit zu sprechen.Sustainability is a concept with a great past, but an uncertain future. This reflects in the contributions that Sociology made to the debate. Despite its critical perspective on the controversial field of discourse that is sustainability, Sociology took an active part in the analysis of the societal transformation processes that where initiated by the Brundtland Commission and the Rio Summit 1992. Nowadays Sociology is confronted with new challenges: It cannot just draw on a common normative concept and its adaption. Rather it has to make different practices of sustainability visible and reflect on their diverse premises and structural outcomes. Only against this background, it is possible to reflect on the normative claims that are connected with sustainability nowadays. Requirements and form of this challenge suggest to speak of a second wave of the sociology of sustainability.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2017-23330</identifier>
+                    <identifier type="doi">10.17879/sun-2017-2471</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2471</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2471">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2471/2333" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2471" DMDID="DMD_wwu-journals_2471">
+            <mets:fptr FILEID="FILE0_wwu-journals_2471"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

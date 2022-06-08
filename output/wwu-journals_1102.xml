@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1102">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Annäherung durch Pop. Kulturimporte, staatliche Kontrolle und kulturelle Vielfalt in China</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yang, Ling</displayForm>
+                        <namePart type="family">Yang</namePart>
+                        <namePart type="given">Ling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Since the reform and open policy was carried out in late 1970s, transnational cultural forms and products have constituted the most diverse and dynamic area of Chinese popular culture. This article offers an overview of contemporary Chinese reception of Japanese, Korean, and American popular cultures in an attempt to give readers a glimpse of the constantly evolving popular cultural trends, sensibilities, and products in China, as well as the underlying interplay between state regulation, corporate push, and grassroots agency. In addition to sketching a general pattern of reception and diffusion of cultural imports in China, the paper also reveals the potential conflict in values between East Asian pop culture and Western pop culture, and highlights the significance of Chinese popular culture as the site of an emerging global cultural commons. ----------URN: urn:nbn:de:hbz:6:3-20140314174</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>POP. Kultur &amp; Kritik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">POP. Kultur &amp; Kritik</publisher>
+                        </originInfo>
+                        <identifier type="issn">2194-6981</identifier>
+                        <part>
+                            <detail type="issue">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20140314174</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1102</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1102">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/pop/article/download/1102/1054" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1102" DMDID="DMD_wwu-journals_1102">
+            <mets:fptr FILEID="FILE0_wwu-journals_1102"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3551">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Alterität oder Subalternität</title>
+                        <subTitle>Sozialethische Reflexion von Repräsentationsfragen in Anerkennungstheorien</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winkler, Katja</displayForm>
+                        <namePart type="family">Winkler</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die besondere Stärke von Anerkennungstheorien liegt darin, dass sie konzeptionelle Lösungen des, für die Sozialethik zentralen, Problems der Exklusion und Partizipation bieten. In diesem Beitrag wird dieses Potential aufgegriffen und auf den Problemkontext der politischen und ethischen Repräsentation bezogen. Es geht vor allem darum, wie Anerkennungsethiken auf Subalternität reagieren. Das kritische Konzept der Subalternität stellt gewissermaßen eine verschärfte Form von Ausschluss dar, der in Stellvertretungsprozessen durch sog. Othering erzeugt wird. Subalterne werden nämlich, so die These, durch Repräsentationsprozesse unsichtbar gemacht, weil sie nicht ihre eigenen Erfahrungen äußern können, sondern immer nur ihre Fremddarstellung durch andere in der Öffentlichkeit Gehör findet. Die unterschiedlichen Antworten von einerseits intersubjektivistischen (z. B. Honneth) und andererseits responsiven (z. B. Levinas und Butler) Anerkennungstheorien auf dieses Repräsentationsproblem werden im Text erörtert. Beide Anerkennungstheorien bieten als Lösungsmöglichkeit die Figur der Selbstbeschränkung an, d. h. dass Repräsentation dann gelingen kann, wenn die Repräsentierenden von ihrer eigenen Besonderheit absehen; so können Anerkennungsordnungen destabilisiert oder modifiziert werden. Inwiefern diese anerkennungsethische Antwort weiterführend ist, aber auch inwieweit Anerkennungstheorien „dekolonisiert“ werden müssten, um auf das Repräsentationsdilemma zu reagieren, wird im letzten Teil des Beitrags diskutiert.</abstract>
+                    <abstract lang="eng">The particular strength of Theories of Recognition is that they offer conceptual solutions to the problem of Exclusion and Participation, which is central to social ethics. In this contribution this potential is taken up and related to the problem context of political and ethical representation. Above all, it is about how Ethics of Recognition react to Subalternity. To a certain extent, the critical concept of Subalternity represents an intensified form of Exclusion that is generated in substitution processes through so-called Othering. Subaltern, according to the thesis, are made invisible through representation processes, because they cannot express their own experiences, but only their external representation by others is heard in the public sphere. The different responses of intersubjectivist (e. g. Honneth) and responsive (e. g. Levinas and Butler) Theories of Recognition to this representation problem are discussed in the text. Both Theories of Recognition offer the figure of self-limitation as a possible solution, i. e. that representation can succeed if the representatives disregard their own peculiarity; in this way, recognition regulations can be destabilized or modified. To what extent this ethical recognition answer is more advanced, but also to what extent recognition theories would have to be “decolonized” in order to respond to the representation dilemma, is discussed in the last part of the article.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>301</start>
+                                <end>322</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37036</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3551</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3551</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3551">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3551/3703" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3551" DMDID="DMD_wwu-journals_3551">
+            <mets:fptr FILEID="FILE0_wwu-journals_3551"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

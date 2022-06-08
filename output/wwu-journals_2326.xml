@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2326">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gibt es strukturelle Korruption im deutschen Ge-sundheitswesen?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mandry, Christof</displayForm>
+                        <namePart type="family">Mandry</namePart>
+                        <namePart type="given">Christof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das deutsche Gesundheitswesen setzt erhebliche Finanzmittel ein, um für alle Versicherten eine hochwertige und allgemein zugängliche Gesundheitsversorgung sicherzustellen. Die Komplexität des Gesundheitssystems hat jedoch eine Intransparenz zur Folge, die mannigfaltige Gelegenheiten für Manipulation und Korruption bietet. Der Beitrag untersucht, ob der Begriff der Korruption dazu geeignet ist, bestimmte institutionelle und strukturelle Fehlentwicklungen im Gesundheitswesen zu analysieren und der ethischen Bewertung zuzuführen. Dies wird am Beispiel der Maßnahmen diskutiert, mit denen Krankenkassen den Risikostrukturausgleich zu ihren Gunsten beeinflussen. Das Ziel ist einerseits, einen sozialethisch relevanten Korruptionsbegriff zu erarbeiten, andererseits zu erörtern, ob das Gesundheitswesen in Deutschland von struktureller Korruption betroffen ist.</abstract>
+                    <abstract lang="eng">The German health system uses considerable financial resources to ensure high-quality and generally accessible health care for all insured persons. However, the complexity of the health care system results in a lack of transparency, which offers many opportunities for manipulation and corruption. The paper examines whether the concept of corruption is suitable for analyzing certain institutionally and structurally undesirabledevelopments in the health care system, and to what extent these can be ethically assessed on its basis. This is discussed using the example of activities with which health insurance companies influence risk structure compensation in their favour. The aim is, on the one hand, to develop a social-ethically relevant concept of corruption and, on the other hand, to discuss whether the German health care system is affected by structural corruption.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>293</start>
+                                <end>320</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22170</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2326</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2326">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2326/Mandry" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2326" DMDID="DMD_wwu-journals_2326">
+            <mets:fptr FILEID="FILE0_wwu-journals_2326"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

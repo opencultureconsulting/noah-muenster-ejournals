@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3500">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>65th Annual Meeting of the German Society of Neuropathology and Neuroanatomy (DGNN) - Meeting Abstracts, September 1–3, 2021</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Soc Neuropathol Neuroanat, German</displayForm>
+                        <namePart type="family">Soc Neuropathol Neuroanat</namePart>
+                        <namePart type="given">German</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Dear participants, dear colleagues,
+It is our great pleasure to welcome you to the 65th Annual Meeting of the German Society of Neuropathology and Neuroanatomy - the brain and nerve microenvironment in health and disease - which will be held as a virtual meeting from September 1–3, 2021.
+The meeting will bring together basic and clinical researchers, physicians as well as junior scientists and PhD students from different disciplines of basic and clinical neuroscience. We will have outstanding lectures by and with some of the most renowned international experts in the field of neuro-oncology, neuroinflammation, neurodegeneration and muscle and nerve diseases and look forward to exciting scientific discussions. There will also be a special and timely section on the effects of COVID-19 on the central and peripheral nervous system.
+The three days will offer exciting insights into different areas of basic and clinical neuroscience. We have also encouraged early career scientists to present their scientific findings in short talks and poster presentations. We are therefore particularly thankful that the abstracts of the meeting, which in their sum provide the best overview of the high scientific standing of the field, will be published in Free Neuropathology.
+Finally, we would like to thank you all for your active contribution to this conference in these difficult times. We also thank all supporters for their financial help.
+We wish you a stimulating and exciting conference.
+Yours sincerely,
+Prof. Dr. med. Till Acker Conference Chair (Justus Liebig University Giessen
+Dr. med. Anne Schänzer
+Dr. med. Hildegard Dohmen</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-35016</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3500</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3500</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3500">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3500/3501" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3500">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3500/3500" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3500" DMDID="DMD_wwu-journals_3500">
+            <mets:fptr FILEID="FILE0_wwu-journals_3500"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3500" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3500"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

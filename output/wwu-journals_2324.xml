@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2324">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christian Peace Ethics</title>
+                        <subTitle>Trends in the International (Anglophone) Debate</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scheid, Anna</displayForm>
+                        <namePart type="family">Scheid</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">38</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In den letzten Jahren zeichnen sich drei Trends christlicher Friedensforschung in der anglophonen Welt ab: Erstens eine erneute Debatte über den Ort der aktiven Gewaltfreiheit und der Tradition des gerechten Kriegs in der katholischen Soziallehre, zweitens das Aufkommen einer opferorientierten Gerechtigkeit in der Bemühung um Versöhnung nach gewaltsamen Konflikten und drittens eine Hinwendung zu indigenen Friedenspraktiken zur Lösung lokaler Konflikte. Diese drei Trends spiegeln den über alle Disziplinen hinweg geführten Dialog christlicher Wissenschaftler_innen wider, die dafür arbeiten, in der heutigen Welt zu mehr Frieden und Gerechtigkeit zu gelangen.</abstract>
+                    <abstract lang="eng">At least three trends mark the terrain of Christian peace studies in the Anglophone world in recent years: a renewed debate about the place of active nonviolence and the just war tradition in Catholic social teaching, the rise of restorative justice in efforts to reconcile after violence, and a turn toward indigenous peace practices for resolving local conflicts. These three trends reflect robust dialogue amongst Christian scholars, working across disciplines, to engender greater peace and justice in the world today.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>253</start>
+                                <end>290</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22160</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2324</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2324/Scheid" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2324" DMDID="DMD_wwu-journals_2324">
+            <mets:fptr FILEID="FILE0_wwu-journals_2324"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

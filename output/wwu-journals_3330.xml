@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3330">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 03.2021.014</title>
+                        <subTitle>Robert E. Bjork, Catastrophes and the Apocalyptic in the Middle Ages and Renaissance: (Arizona Studies in the Middle Ages and the Renaissance 43). Turnhout: Brepols 2019.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kraft, András</displayForm>
+                        <namePart type="family">Kraft</namePart>
+                        <namePart type="given">András</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Robert E. Bjork, Catastrophes and the Apocalyptic in the Middle Ages and Renaissance (Arizona Studies in the Middle Ages and the Renaissance 43). Turnhout: Brepols 2019. xii, 207 pp. – ISBN: 978-2-503-58297-9 (€ 70.00)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>136</start>
+                                <end>143</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-byzrev-2021-33169</identifier>
+                    <identifier type="doi">10.17879/byzrev-2021-3330</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3330</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3330">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/3330/3316" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3330" DMDID="DMD_wwu-journals_3330">
+            <mets:fptr FILEID="FILE0_wwu-journals_3330"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,103 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3754">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mehr Seelsorge als gedacht</title>
+                        <subTitle>Wahrnehmungen und Perspektiven seelsorglichen Engagements in Caring Communities</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feeser-Lichterfeld, Ulrich</displayForm>
+                        <namePart type="family">Feeser-Lichterfeld</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brüseke, Katharina</displayForm>
+                        <namePart type="family">Brüseke</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartl, Matthias</displayForm>
+                        <namePart type="family">Hartl</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riese, Marion</displayForm>
+                        <namePart type="family">Riese</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Beitrag soll der Diskurs um „seelsorgliche Seelsorge“ durch Erfahrungen und Einsichten aus dem Transferprojekt „Versorgungsbrücken statt Versorgungslücken – Potenziale und Limitierungen einer ambulante und stationäre Sektoren verbindenden Begleitung und Seelsorge“ bereichert werden. Dabei wird im Dialog mit älteren und alten Menschen bezüglich ihrer Versorgungsbedarfe wie auch durch Explorationen bei Sorgeakteur*innen deutlich, dass für angestrebte Caring Communities „Seelsorge“ in einem weiten Sinne des Wortes sowohl gefragt ist, als auch in vielerlei Weise und durch unterschiedliche Gruppen und Personen praktiziert wird. Dieser Befund stellt einmal mehr vor die Frage nach Kriterien seelsorglichen Handelns. Plädiert wird für ein Mit- und Füreinander im Seelsorger*innen-Sein, das sowohl in seinen formell-professionellen als auch informell-alltagsbezogenen Ausprägungen eine verantwortungsbewusste und verbindliche Rolle inmitten von Caring Communities spielt.
+This article serves to enrich the discourse on “caring pastoral care,” drawing on experiences and insights gained from the German transfer project entitled “Versorgungsbrücken statt Versorgungslücken – Potenziale und Limitierungen einer ambulante und stationäre Sektoren verbindenden Begleitung und Seelsorge“ (“Care Bridges Instead of Care Gaps – The Potentials and Limitations of Counseling and Pastoral Care Linking the Outpatient and Inpatient Sectors”). Conversations with elderly and old people about their care needs and a survey among caretakers indicate that, for theen visaged caring communities, pastoral care, in a broader sense of the term, is not only desired but also practiced in many ways and by very different groups and individuals. These findings once again raise the question of how to define the criteria for pastoral actions. The article pleads the case for pastoral actions that are done with and for others; a pastoral action that, in its formal-professional as well as informal-everyday manifestations, assumes a responsible and binding role within the caring communities.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>107</start>
+                                <end>119</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38014</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3754</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3754">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3754/3801" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3754" DMDID="DMD_wwu-journals_3754">
+            <mets:fptr FILEID="FILE0_wwu-journals_3754"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

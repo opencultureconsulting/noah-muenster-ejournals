@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation im Kirchenrecht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rehak, Martin</displayForm>
+                        <namePart type="family">Rehak</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Als „komplexe Wirklichkeit, die aus menschlichem und göttlichem Element zusammenwächst“ (LG 8) ist die Kirche einerseits auf ein ewiges Ziel hin ausgerichtet, verfügt andererseits jedoch über in der Welt sichtbare Strukturen und Ämter. Während aufgrund der Taufe alle Gläubigen zur Gemeinschaft der Kirche dazugehören, ist das Thema Partizipation unter der Perspektive des Zugangs zu kirchlichen (Leitungs-)Ämtern sowie der Teilhabe der Laien oder Nicht-Kleriker an der Ausübung von Leitungsgewalt ein Thema der Diskussion und theologischen Forschung. Der nachfolgende Beitrag erläutert dazu die von der gegenwärtigen Rechtsordnung der Kirche vorgesehenen Teilhabemöglichkeiten.
+According to LG 8, the Church forms “a complex reality that coalesces from divine and human elements” and is directed toward eternal goals while being based upon structures and offices visible on earth. Whereas all Christian faithful belong to the communion of the Church by virtue of their baptism, the question of their participation through access to (governance) offices and cooperation in the exercise of power is the subject of discussion and theological research. This contribution explains which possibilities of participation are provided by the present canonical order of the Church.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>36</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27430</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2856</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2856">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2856/2743" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2856" DMDID="DMD_wwu-journals_2856">
+            <mets:fptr FILEID="FILE0_wwu-journals_2856"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

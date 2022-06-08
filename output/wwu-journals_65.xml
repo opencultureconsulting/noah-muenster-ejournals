@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_65">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Taugt Solidarität als ein universales ethisches Konzept?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hübenthal, Christoph</displayForm>
+                        <namePart type="family">Hübenthal</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Beitrag geht es weniger um die historische oder sozialwissenschaftliche Rekonstruktion der Solidaritätssemantik, sondern vielmehr um den Versuch ihrer begrifflichen Konstruktion. Dazu wird in einem ersten Schritt auf der Grundlage eines handlungsreflexiven Ethikansatzes die Idee einer universalen, apriorischen Solidargemeinschaft entwickelt. Mit Hilfe dieses Ansatzes lässt sich darlegen, warum niemand seine Mitgliedschaft in einer solchen Gemeinschaft konsistent bestreiten kann. Dennoch ist Solidarität damit noch nicht auf ihr letztes, weil unbedingtes Fundament gestellt. Aus diesem Grund muss die Konzeptualisierung des Begriffs noch einen Schritt weiter gehen und mittels einer freiheitsanalytischen Betrachtung zeigen, wieso die Zugehörigkeit zur apriorischen Solidargemeinschaft nicht nur argumentativ unhintergehbar ist, sondern sich auch als adäquater Gehalt einer ursprünglich freien Willensbestimmung erweist. Der dritte Schritt geht dann auf die Frage nach der theologischen Anschlussfähigkeit des bis dahin entwickelten Solidaritätsverständnisses ein. Indem gezeigt wird, dass dieses Verständnis eine philosophische Gottesidee evoziert, die ihrerseits in einen wechselseitigen, theologisch zu explizierenden Bestimmungszusammenhang mit unserem historischen Wissen von der Geschichte Jesu gebracht werden kann, lässt sich die angesprochene Frage positiv beantworten. Zum Ende – allerdings noch vor einigen abschließenden Bemerkungen zum Verhältnis von theoretischer Universalität und empirischer Partikularität – wird dann ein vorläufiger Umschreibungsversuch für ein universales Solidaritätskonzept vorgelegt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>48</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>121</start>
+                                <end>141</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2007-593</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_65</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_65">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/65/59" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_65" DMDID="DMD_wwu-journals_65">
+            <mets:fptr FILEID="FILE0_wwu-journals_65"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

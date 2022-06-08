@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4164">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kredit, Kapital, Kaufkraft</title>
+                        <subTitle>Dimensionen der Geldsoziologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sahr, Aaron</displayForm>
+                        <namePart type="family">Sahr</namePart>
+                        <namePart type="given">Aaron</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Geld liegt in der Rechtsform der Forderung vor und kommt auch als diese – also durch den Akt der Verschuldung – in die Welt. Forderungen sind soziale Beziehungen zwischen zwei konkreten Akteuren – einem Gläubiger und einem Schuldner. Im Falle des Giral- oder Buchgeldes ist der Gläubiger der Begünstigte eines Bankkontos und der Schuldner die private Geschäftsbank, die das Konto anbietet. Bargeld ist als Schuld der Noten- oder Zentralbank vermerkt. Auch Bargeld kommt nicht durch das physische Drucken, sondern das Registrieren des entsprechenden Schuldbetrags als Geld in die Welt. Es spricht vieles dafür, diese soziale Form des Geldes als Spezifikum kapitalistischer Gesellschaften anzusehen (Schumpeter 1987, 2009; 2017; Ingham 2004; Hodgson 2015). Im Kapitalismus werden Zahlungen und Investitionen mit Bankschulden durchgeführt – das ist die Ausgangsüberlegung der neueren Geldforschung, zu der sich Das Versprechen des Geldes (Sahr 2017a) – im Folgenden kurz: Versprechen – zählt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>119</start>
+                                <end>128</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4164</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4164</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4164">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4164/4246" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4164" DMDID="DMD_wwu-journals_4164">
+            <mets:fptr FILEID="FILE0_wwu-journals_4164"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

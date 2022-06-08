@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2431">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>From the Cradle</title>
+                        <subTitle>Reconstructing the ephēbeia in Hellenistic Megara</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>McAuley, Alex</displayForm>
+                        <namePart type="family">McAuley</namePart>
+                        <namePart type="given">Alex</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This chapter re-constructs the form and function of the&amp;nbsp;ephēbeia&amp;nbsp;in Hellenistic Megara, beginning with an examination of the city’s military catalogues during its membership in the Boiotian League. Through comparison with other member cities, a detailed reconstruction of the Megarian&amp;nbsp;ephēbeia&amp;nbsp;is advanced beginning with the period stretching from 224-193 BC, and then expanding to consider the potential origins of the city’s ephebic program in its local context. Throughout, the place of the&amp;nbsp;ephēbeia&amp;nbsp;in the local discourse environment of Megara is emphasized for its role in training subsequent generations of Megarian citizens who would go on to participate actively in the city’s military and political life.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>217</start>
+                                <end>236</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2018-22997</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2431</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2431">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2431/2299" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2431" DMDID="DMD_wwu-journals_2431">
+            <mets:fptr FILEID="FILE0_wwu-journals_2431"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

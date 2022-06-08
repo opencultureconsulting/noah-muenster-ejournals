@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4009">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Krise der Öffentlichkeit</title>
+                        <subTitle>Krise eines Konzepts, einer Disziplin oder einer historischen Form von Öffentlichkeit?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krotz, Friedrich</displayForm>
+                        <namePart type="family">Krotz</namePart>
+                        <namePart type="given">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es ist ein schwieriges Buch, das Kurt Imhof vorgelegt hat. Schwierig aus mehreren Gründen. Einmal, weil es in einer zwar kraftvollen, aber zugleich ausgesprochen komplexen Sprache verfasst und schon deswegen nicht leicht zu lesen ist. Schwierig insbesondere auch für Leser aus anderen Disziplinen, weil es ein Buch eines Soziologen speziell für andere SoziologInnen ist, das Assoziationen und Bezüge aus bald 3.000 Jahren (europäischer) Philosophie und 300 Jahren Sozialtheorie beinhaltet – und das von Leserin und Leser einfordert, dass diese nicht nur über das gleiche Wissen verfügen, sondern deshalb auch an vielen Stellen auf genauere Begründungen und Argumente verzichten können, dass ihnen also allgemeine Hinweise und generelle Überlegungen ausreichen, um auch im Detail nachvollziehen zu können, was da an Relevanzen und Kriterien, an Assoziationen und Systematisierungen, an Zusammenhangswissen und detaillierten Schlussfolgerungen vorgetragen wird. Schließlich ist das Buch auch deswegen schwierig, weil es inhaltlich randvoll mit Thesen, Argumenten, Überlegungen und Hinweisen ist. Denn Imhof setzt sich seit Jahrzehnten sowohl theoretisch als auch empirisch mit den in dem Band verhandelten Fragen auseinander und bündelt hier nun sein Wissen und seine Überlegungen zu dem, was ihm schon immer am Herzen lag und liegt (soweit ich dies beurteilen kann): Dem Konzept »Öffentlichkeit« eine zentrale Rolle in der Soziologie zu verschaffen, die ihm in den Augen von Imhof vor allem deswegen zukommt, weil Öffentlichkeit die unabdingbare Basis von Demokratie ist.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>276</start>
+                                <end>286</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4009</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4009</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4009">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4009/4055" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4009" DMDID="DMD_wwu-journals_4009">
+            <mets:fptr FILEID="FILE0_wwu-journals_4009"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

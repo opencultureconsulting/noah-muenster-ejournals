@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_38">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aktuelle sozialethische Beiträge zu Wirtschaftsethik und Unternehmensethik. Ein Literaturüberblick</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kruip, Gerhard</displayForm>
+                        <namePart type="family">Kruip</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">30</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Überblick beleuchtet und analysiert den wirtschaftsethischen Diskurs der letzten zehn Jahre in der (katholisch-) christlichen Sozialethik. Im Blick auf den gesamten Diskurs wird festgestellt, dass im vergangenen Jahrzehnt zwar auch Grundsatzfragen geführt wurden. Aber zugleich befassten sich die Sozialethiker/innen zunehmend mit aktuellen und konkreten wirtschafts- und unternehmensethischen Problemkomplexen. Die Unternehmensethik kann in gewisser Weise als Neuentdeckung christlicher Wirtschaftsethik gelten. Herausforderungen für den zukünftigen Diskurs liegen vor allem in der ökologischen und interkulturellen Wirtschaftsethik.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>321</start>
+                                <end>350</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-349</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_38</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_38">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/38/34" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_38" DMDID="DMD_wwu-journals_38">
+            <mets:fptr FILEID="FILE0_wwu-journals_38"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

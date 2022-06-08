@@ -1,0 +1,139 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3340">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Desmoplastic myxoid tumor of pineal region, SMARCB1-mutant, in young adult</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Manoranjan, Branavan</displayForm>
+                        <namePart type="family">Manoranjan</namePart>
+                        <namePart type="given">Branavan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Starreveld, Yves P.</displayForm>
+                        <namePart type="family">Starreveld</namePart>
+                        <namePart type="given">Yves P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nordal, Robert A.</displayForm>
+                        <namePart type="family">Nordal</namePart>
+                        <namePart type="given">Robert A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dunham, Christopher</displayForm>
+                        <namePart type="family">Dunham</namePart>
+                        <namePart type="given">Christopher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bens, Susanne</displayForm>
+                        <namePart type="family">Bens</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thomas, Christian</displayForm>
+                        <namePart type="family">Thomas</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hasselblatt, Martin</displayForm>
+                        <namePart type="family">Hasselblatt</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Joseph, Jeffrey T.</displayForm>
+                        <namePart type="family">Joseph</namePart>
+                        <namePart type="given">Jeffrey T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">We present a young adult woman who developed a myxoid tumor of the pineal region having a SMARCB1 mutation, which was phenotypically similar to the recently described desmoplastic myxoid, SMARCB1-mutant tumor of the pineal region (DMT-SMARCB1). The 24-year-old woman presented with headaches, nausea, and emesis. Neuroimaging identified a hypodense lesion in CT scans that was T1-hypointense, hyperintense in both T2-weighted and FLAIR MRI scans, and displayed gadolinium enhancement. The resected tumor had an abundant, Alcian-blue positive myxoid matrix with interspersed, non-neoplastic neuropil-glial-vascular elements. It immunoreacted with CD34 and individual cells for EMA. Immunohistochemistry revealed loss of nuclear INI1 expression by the myxoid component but its retention in the vascular elements. Molecular analyses identified a SMARCB1 deletion and DNA methylation studies showed that this tumor grouped together with the recently described DMT-SMARCB1. A cerebrospinal fluid cytologic preparation had several cells morphologically similar to those in routine and electron microscopy. We briefly discuss the correlation of the pathology with the radiology and how this tumor compares with other SMARCB1-mutant tumors of the nervous system.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3340</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3340</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3340">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3340/3367" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3340">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3340/3368" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3340">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3340/3364" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3340" DMDID="DMD_wwu-journals_3340">
+            <mets:fptr FILEID="FILE0_wwu-journals_3340"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3340" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3340"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3340" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3340"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

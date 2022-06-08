@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2129">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>psychologischer Blick auf SeelsorgerInnen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Panhofer, Johannes</displayForm>
+                        <namePart type="family">Panhofer</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Pastoralpsychologie versucht die Erkenntnisse der (angewandten) Psychologie aufzugreifen und mitihnen in einen theologisch-kritischen Dialog zu kommen. Der Beitrag kommentiert die verwendetenKonzepte und Ergebnisse der Seelsorgestudie anhand ausgewählter Beispiele. Er will die unterschiedlichenPrämissen von Psychologie und Theologie bewusst machen, damit aus der Studie keine kurzschlüssigenErkenntnisse gezogen werden, sondern Wert und Grenze derselben deutlicher hervortreten.Pastoral psychology attempts to pick up the insights of (applied) psychology and wants to enter a criticaland theological dialogue with them. The present paper comments on definite concepts and resultsof the study about pastoral care using selected examples. This article wants to raise awareness of thedifferent premises of psychology and theology, so that the study does not cause a knee-jerk reactionbut rather emphasizes the value and the limits of the survey.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>97</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20421</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2129</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2129">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2129/2042" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2129" DMDID="DMD_wwu-journals_2129">
+            <mets:fptr FILEID="FILE0_wwu-journals_2129"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

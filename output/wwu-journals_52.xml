@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_52">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gerechte Beteiligung an und durch Bildung im Wandel gesellschaftlicher Generationenverhältnisse. Sondierungen zum Zusammenhang von Bildungs- und Generationengerechtigkeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heimbach-Steins, Marianne</displayForm>
+                        <namePart type="family">Heimbach-Steins</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">35</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Angesichts der spezifischen Problemlagen einer alternden Gesellschaft wird nach Defiziten, Chancen und Perspektiven gerechter Beteiligung an und durch Bildung gefragt. Zunächst werden Herausforderungen, die aus dem demographischen Wandel für die Fortentwicklung des Bildungswesens und die Ermöglichung umfassender Bildungsbeteiligung für alle resultieren, sondiert. Sodann werden normative Gehalte des aktuell vielfältig beanspruchten Topos ‚Bildungsgerechtigkeit‘ diskutiert. Es wird für eine sozialethisch begründete, vom Menschenrecht auf Bildung her erschlossene Fokussierung auf den Aspekt der Beteiligungsgerechtigkeit argumentiert. Dieses Verständnis wird mit den Anforderungen der Generationengerechtigkeit korreliert. Darauf aufbauend werden sozialethische Kriterien für eine generationen- und beteiligungsgerechte Bildungspolitik skizziert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>49</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>233</start>
+                                <end>267</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2008-488</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_52</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_52">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/52/48" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_52" DMDID="DMD_wwu-journals_52">
+            <mets:fptr FILEID="FILE0_wwu-journals_52"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

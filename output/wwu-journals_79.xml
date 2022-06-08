@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_79">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Krankheit und Gesundheit. Eine philosophische Annäherung an zwei Grundkategorien menschlichen Daseins</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lanzerath, Dirk</displayForm>
+                        <namePart type="family">Lanzerath</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">31</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gesundheit und Krankheit stellen Grundkategorien menschlichen Daseins dar, die als praktische Begriffe – das heißt im Handeln und existentiellen Entwerfen – unser individuelles Selbstverhältnis und unseren gesellschaftlichen Standpunkt in elementarer Weise bestimmen und normativ im Arzt-Patient-Verhältnis entwickelt werden und dort zur Geltung kommen. Als ein fundamentales individuelles Gut zählen wir Gesundheit zu den Elementar- oder Primärgütern. Und in dem Maß, in dem nicht nur der besondere Charakter des Guts Gesundheit erkannt wurde, sondern durch Entwicklung der medizinischen Forschung und ihrer Anwendung auch wirksame Verfahren entwickelt wurden, die Gesundheit zu bewahren oder wiederherzustellen, ist Gesundheit zu einem sozialen Gut und damit zum Gegenstand staatlicher Für- und Vorsorge geworden. Traditionell bestimmen daher Krankheits- und Gesundheitsbegriff Medizin und ärztliches Handeln. Doch machen beide einen fundamentalen Strukturwandel durch. Angeregt durch Bio- und Medizintechniken und verführt durch Utopien menschlicher Vervollkommnung erstreben wir eine zweite Gesundheit, indem wir unsere natürliche Natur – die wir dann nicht mehr als aufgegebene Kontingenz, sondern als defizitär- krankhaft empfinden – zu überwinden trachten. Ist dies gesellschaftlich gewollt, dann verliert die Medizin ihr durch ‚Krankheit/Gesundheit‘ beschriebenes Zentrum und Handlungsfeld. Medizin wird zur zieloffenen Anthropotechnik, der Patient wird zum reinen Kunden, der Arzt zum bloßen Anwender von Biotechniken und die Medizinethik zur reinen Technikfolgenabschätzung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>019</start>
+                                <end>049</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-733</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_79</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_79">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/79/73" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_79" DMDID="DMD_wwu-journals_79">
+            <mets:fptr FILEID="FILE0_wwu-journals_79"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

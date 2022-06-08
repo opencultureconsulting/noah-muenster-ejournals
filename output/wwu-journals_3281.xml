@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3281">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Who Cares? Eine ländervergleichende Analyse klimawandelbezogener Besorgnis in Europa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Droste, Luigi</displayForm>
+                        <namePart type="family">Droste</namePart>
+                        <namePart type="given">Luigi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wendt, Björn</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">42</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag untersucht ein bislang in der deutschsprachigen Klimaforschung weithin vernachlässigtes Thema: Die Besorgnis über den Klimawandel in der Bevölkerung. Auf der Grundlage eines zeitdiagnostischen Zugangs, der von der zentralen Bedeutung von Sorgen in der Gegenwartsgesellschaft ausgeht, untersuchen wir in einem ersten Schritt mittels eines internationalen Literaturüberblicks den Forschungsstand zur Wahrnehmung des Klimawandels in der Bevölkerung mit Schwerpunkt auf der Dimension der Klimabesorgnis. Davon ausgehend leiten wir Hypothesen zur Erklärung der klimabedingten Besorgnis ab, die wir mittels einer Mehrebenenanalyse und auf Basis von Daten des European Social Survey empirisch überprüfen. Die Analysen zeigen, dass Klimasorgen relativ weit verbreitet sind, sich jedoch nur in sehr geringem Maß über die Varianz zwischen Ländern erklären lassen. Vielmehr sind verschiedene soziale Prädikatoren auf Individualebene von zentraler Bedeutung. Insbesondere Variablen wie die individuelle Wertorientierung, die Gewissheit über den Klimawandel und die politische Orientierung der Befragten erweisen sich als konsistente und wirkmächtige Korrelate klimawandelbezogener Sorgen.
+This article investigates a rarely studied issue in climate change research in Germany: the worries about climate change among citizens. Against the backdrop of current sociological diagnoses of the times which suggest worries as of central importance in present society, we first address previous research on worries about climate change by taking a look at international research on climate change perceptions. On this basis, we formulate a set of hypotheses for explaining worries about climate change. We examine these hypotheses empirically by taking on a multi-level approach and utilizing data from the European Social Survey. The analyses show that worry about climate change depends strongly on individual attributes, rather than the country people live in. In particular, individual value orientations, climate change awareness and political attitudes prove to be consistent and important correlates of climate worries.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>42</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2021-32283</identifier>
+                    <identifier type="doi">10.17879/sun-2021-3281</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3281</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3281">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/3281/3228" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3281" DMDID="DMD_wwu-journals_3281">
+            <mets:fptr FILEID="FILE0_wwu-journals_3281"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

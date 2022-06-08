@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2943">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pandemien, globaler Umweltwandel und ‚smarte‘ Risikopolitik</title>
+                        <subTitle>Chancen für Wandel?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kropp, Cordula</displayForm>
+                        <namePart type="family">Kropp</namePart>
+                        <namePart type="given">Cordula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag befasst sich mit der Risikopolitik während der Corona-Krise und diskutiert, inwiefern sie Anlass zur Hoffnung in transformative gesellschaftliche Lernprozesse gibt. Dazu werden einleitend zwei Strukturmerkmale nicht-nachhaltiger Entwicklung benannt und deren mögliche Vertiefung durch die vermehrte Nutzung digitaler Steuerungssysteme erwogen. Auf dieser Basis zeichnet er das bisherige Risikomanagement im Umgang mit der Corona-Pandemie im ersten Abschnitt kritisch nach und stellt es im zweiten Abschnitt den sozialwissenschaftlichen Überlegungen zur politischen Veränderungskraft reflexiver Risikopolitik gegenüber. Der dritte Abschnitt beleuchtet die Art und Bedeutung digitaler Managementstrategien und die mit dieser Form der Problembearbeitung einhergehende Risikopolitik. Im Ergebnis werden die Grenzen des digitalen Risikomanagements für transformative Lernprozesse herausgestellt.
+The paper explores the risk policy during the Corona crisis and discusses the extent to which it gives rise to hope for transformative societal learning processes. To this end, two key characteristics of unsustainable development are briefly outlined in the introduction and their possible deepening through the increased use of digital control systems is considered. On this basis, the first section of the paper gives a critical overview of risk management in dealing with the corona pandemic and the second section contrasts it with considerations in sociology on the political power of reflexive risk policy to change social order. The third section illuminates the nature and significance of digital management strategies and the risk policy associated with this form of risk management. As a result, the limitations of digital risk management for transformative learning processes are highlighted.&amp;nbsp;
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>129</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28995</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2943</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2943</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2943">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2943/2899" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2943" DMDID="DMD_wwu-journals_2943">
+            <mets:fptr FILEID="FILE0_wwu-journals_2943"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3183">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Coincidentia oppositorum? Religiöser Glaube im säkularen Zeitalter</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Söder, Joachim</displayForm>
+                        <namePart type="family">Söder</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Sind im fortgeschrittenen säkularen Zeitalter religiöse Erfahrungen noch möglich? Oder gehören sie unwiderruflich einer vergangenen Epoche an? Dieselbe Modernisierungsdynamik, die eine ausschließlich säkulare Lebensform hervorgebracht hat, hat auch die Art des Glaubens verändert: Wer unter spätmodernen Bedingungen religiös ist, hat von außen vorgegebene Inhalte und Formen weitgehend hinter sich gelassen und sucht nach Weisen authentischer Stimmigkeit. Genau darin aber trifft sich die religiöse Persönlichkeit mit der säkularen. In dieser Konvergenz scheint die Möglichkeit einer Überwindung des Antagonismus religiös/säkular auf. Jenseits der eingespielten Gegensätze kann die postreligiöse mit der post-säkularen Lebensweise zusammenfallen.
+Is religious experience still possible in an advanced secular age? Or has faith become irrevocably outdated? The same dynamics of modernity that brought about the exclusively secular way of life has also effected a radically changed approach to beliefs: The believer in late-modern times has largely abandoned extrinsically prescribed creeds and practices and instead looks for forms of coherent authenticity. That is the common ground where the believer confronts the sophisticated secular individual. Such convergence enables the religious/secular antagonism to be overcome. Despite longestablished contradictions, the postreligious and the postsecular ways of living may still be able to concur.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31553</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3183</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3183">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3183/3155" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3183" DMDID="DMD_wwu-journals_3183">
+            <mets:fptr FILEID="FILE0_wwu-journals_3183"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

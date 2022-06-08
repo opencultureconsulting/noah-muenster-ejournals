@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2911">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuronal Transcriptome from C9orf72 Repeat Expanded Human Tissue is Associated with Loss of C9orf72 Function</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liu, Elaine Y.</displayForm>
+                        <namePart type="family">Liu</namePart>
+                        <namePart type="given">Elaine Y.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Russ, Jenny</displayForm>
+                        <namePart type="family">Russ</namePart>
+                        <namePart type="given">Jenny</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lee, Edward B.</displayForm>
+                        <namePart type="family">Lee</namePart>
+                        <namePart type="given">Edward B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">A hexanucleotide G4C2 repeat expansion in C9orf72 is the most common genetic cause of familial and sporadic cases of amyotrophic lateral sclerosis (ALS) and frontotemporal degeneration (FTD). The mutation is associated with a reduction of C9orf72 protein and accumulation of toxic RNA and dipeptide repeat aggregates. The accumulation of toxic RNA has been proposed to sequester RNA binding proteins thereby altering RNA processing, consistent with previous transcriptome studies that have shown that the C9orf72 repeat expansion is linked to abundant splicing alterations and transcriptome changes. Here, we used a subcellular fractionation method and FACS to enrich for neuronal nuclei from C9orf72 repeat expanded post-mortem human ALS/FTD brains, and to remove neuronal nuclei with TDP-43 pathology which are observed in nearly all symptomatic C9orf72 repeat expanded cases. We show that the C9orf72 expansion is associated with relatively mild gene expression changes. Dysregulated genes were enriched for vesicle transport pathways, which is consistent with the known functions of C9orf72 protein. Further analysis suggests that the C9orf72 transcriptome is not driven by toxic RNA but is rather shaped by the depletion of pathologic TDP-43 nuclei and the loss of C9orf72 expression. These findings argue against RNA binding protein sequestration in neurons as a major contributor to C9orf72 mediated toxicity.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-29091</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2911</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2911</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2911">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2910" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2911">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2909" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ID="FILE2_wwu-journals_2911">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2907" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2911" DMDID="DMD_wwu-journals_2911">
+            <mets:fptr FILEID="FILE0_wwu-journals_2911"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2911" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2911"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_2911" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_2911"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

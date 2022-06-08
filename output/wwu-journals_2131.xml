@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2131">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Spirit und Stress</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ilg, Wolfgang</displayForm>
+                        <namePart type="family">Ilg</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Buchveröffentlichung zur sogenannten „Deutschen Seelsorgestudie“ ist im Frühjahr 2017 unterdem Titel „Zwischen Spirit und Stress“ erschienen. Der vorliegende Artikel stellt das Buch ausführlichvor und befragt die Seelsorgestudie hinsichtlich ihrer Methodik und inhaltlichen Aussagekraft. DieBuchveröffentlichung bietet einen guten Zugang zu der Fülle empirischer Ergebnisse und macht dieseauch einem statistisch nicht einschlägig vorgebildeten Publikum zugänglich. Dagegen fehlen Beschreibungender Amtsrealität in der katholischen Kirche, sodass das Buch kaum über den Kreis einer mitder Kirche eng verbundenen Leserschaft hinausreichen dürfte. Einige Desiderate werden benannt,beispielsweise im Blick auf die Darstellung der Ergebnisse.In early 2017 the book „Zwischen Spirit und Stress“ (Between spirit and stress) was published, presentingthe results of the „Seelsorgestudie” (German Pastoral Ministry Study) on German Catholic clergy.The article takes a critical look at the book, discussing its methodological approach as well as mainoutcomes of the study. The book provides good insights into the manifold aspects of the study, makingit accessible also for readers without statistical expertise. On the other hand it lacks informationabout the contexts of pastoral work in the Catholic Church, which makes it difficult to understand forreaders without insights into the structures and the situation of German clergy. Critical reflections onthe book concern, among other issues, the presentation of the data.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>133</start>
+                                <end>145</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20447</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2131</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2131">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2131/2044" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2131" DMDID="DMD_wwu-journals_2131">
+            <mets:fptr FILEID="FILE0_wwu-journals_2131"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

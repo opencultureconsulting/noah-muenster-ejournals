@@ -1,0 +1,105 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2447">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Spielarten des Kapitalismus, Spielarten der Nachhaltigkeit und die ökosoziale Dimension der Energiewende</title>
+                        <subTitle>Soziale Nebenwirkungen von Energiesteuern im Bereich privater Haushalte</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gill, Bernhard</displayForm>
+                        <namePart type="family">Gill</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolff, Anna</displayForm>
+                        <namePart type="family">Wolff</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weber, Ines</displayForm>
+                        <namePart type="family">Weber</namePart>
+                        <namePart type="given">Ines</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schomburgk, Ricarda</displayForm>
+                        <namePart type="family">Schomburgk</namePart>
+                        <namePart type="given">Ricarda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die These von den „Spielarten der Nachhaltigkeit“ baut auf der Theorie von den Spielarten des Kapitalismus auf: Dieselben Ideen, Institutionen und Akteurskoalitionen, die zu unterschiedlichen Formen von Kapitalismus und Wohlfahrtsstaat führen, sind auch für die Bearbeitung zentraler ökologischer Probleme maßgeblich. Diese These wird am Beispiel der Behandlung der deutschen Energiewende in den Debatten des Bundestages empirisch überprüft. Es wird sichtbar, dass bei der deutschen Energiewende zentrale Diskurse vor allem auf Marktnähe der Instrumente, auf Wirtschaftswachstum und auf Arbeitsplätze fokussieren. Hingegen wird die ökosoziale Frage nach der Verteilungsgerechtigkeit bei den Investitionskosten in den Hintergrund gedrängt. Es zeigt sich zudem, dass die jeweiligen Regierungsparteien weitgehend unabhängig von ihrer programmatischen Ausrichtung zu sehr ähnlichen Rechtfertigungsmustern greifen und damit die Kontinuität des Reformvorhabens in der einmal gewählten Ausrichtung sichern.
+The thesis of the &quot;varieties of sustainability&quot; is based on the theory of the varieties of capitalism: The same ideas, institutions and actor-coalitions, which lead to different forms of capitalism and welfare state, are also crucial for the treatment of key ecological problems. This thesis is empirically examined in the debates of the Bundestag on the example of the treatment of the German energy transition (&quot;Energiewende&quot;). It becomes apparent that in the German energy transition, central discourses primarily focus on the market proximity of the instruments, on economic growth and on employment opportunities. On the other hand, the eco-social question of distributive justice in respect of the investment costs is being pushed into the background. It is also shown that the parties, while in government, resort to very similar models of justification largely independent of their own programmatic orientation, and thus en¬sure the continuity of the reform project within the once selected direction.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>26</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-23101</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2447</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2447</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2447">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2447/2310" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2447" DMDID="DMD_wwu-journals_2447">
+            <mets:fptr FILEID="FILE0_wwu-journals_2447"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

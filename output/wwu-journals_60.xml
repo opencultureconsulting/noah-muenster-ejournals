@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_60">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Jenseits von Mitleid und Barmherzigkeit. Zur Karriere solidaristischen Denkens im 19. und 20. Jahrhundert</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Große Kracht, Hermann-Josef</displayForm>
+                        <namePart type="family">Große Kracht</namePart>
+                        <namePart type="given">Hermann-Josef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Alle reden von Solidarität, aber was damit eigentlich gemeint ist, ist heute umstrittener denn je. Als programmatischer Leitbegriff der europäischen Moderne entstand das Konzept der Solidarität im Frankreich des 19. Jahrhunderts und entfaltete sich nicht allein als eine politisch-moralische, sondern – bei Auguste Comte und Émile Durkheim – auch als eine sozialwissenschaftlich-deskriptive Kategorie zur Beschreibung der sich verdichtenden Interdependenzverhältnisse moderner arbeitsteiliger  Gesellschaften. Auf dieser Grundlage entwickelte sich um die Jahrhundertwende in Frankreich unter dem Stichwort des solidarisme eine republikanisch-laizistische Reformbewegung, die den Anspruch erhob, mit der Kategorie der Solidarität eine jenseits von Liberalismus und Kollektivismus angesiedelte eigenständige Sozialphilosophie etablieren zu können. Mit beeinflusst vom laizistischen solidarisme Frankreichs entwickelte Heinrich Pesch SJ zu Beginn des 20. Jahrhunderts dann einen aristotelisch-thomistisch geprägten katholischen Solidarismus, der in der katholischen Soziallehre Deutschlands eine prominente Rolle spielen sollte. Dieser Beitrag rekonstruiert Elemente der neuzeitlichen Begriffsgeschichte der Solidarität und des solidaristischen Denkens in Frankreich und Deutschland und fragt anschließend, inwiefern in der politischen Philosophie des Liberalismus heute ein solidaritätstheoretisches up date des kontraktualistischen Denkens notwendig und möglich ist, das es erlaubt, die ‚liberalen Freiheitslektionen‘ des 18. Jahrhunderts mit den ‚solidaristischen Interdependenzlektionen‘ des 19. Jahrhunderts zu einer solidaritätstheoretisch grundierten Theorie sozialer Gerechtigkeit zu verbinden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>48</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>13</start>
+                                <end>38</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2007-551</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_60</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_60">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/60/55" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_60" DMDID="DMD_wwu-journals_60">
+            <mets:fptr FILEID="FILE0_wwu-journals_60"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

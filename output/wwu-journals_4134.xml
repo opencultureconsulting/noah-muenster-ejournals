@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4134">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Handeln und Struktur, Akteur und System</title>
+                        <subTitle>Die kausale Rekonstruktion von sozialen Makrophänomenen am Beispiel der Finanzkrise</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mayntz, Renate</displayForm>
+                        <namePart type="family">Mayntz</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bei einer theoretisch orientierten kausalen Rekonstruktion des Entstehens der Finanzkrise von 2008 auf der Grundlage der Diskussion in Wissenschaft und Medien lassen sich verschiedene Erklärungsansätze identifizieren, die teils dem Schema Handeln und Struktur und teils dem Schema Akteur und System zuzuordnen sind. Drei im weitesten Sinn akteurtheoretische Ansätze beziehen sich auf die Mikroebene sozialen Handelns, die Mesoebene von Organisationen und die Makroebene der Finanzindustrie. Auf jeder Ebene spielen besondere, für sie spezifische Krisenursachen die zentrale Rolle. Bei den zur Erklärung der Finanzkrise benutzten systemtheoretischen Ansätzen geht es nicht um das Handeln individueller und korporativer Akteure, sondern um kausale Zusammenhänge zwischen abstrakten Systemvariablen, auf denen die Stabilität des Finanzsystems beruht. Abschließend werden die methodologischen Fragen diskutiert, die diese Übung in kausaler Rekonstruktion aufwirft; die Möglichkeit der Integration der verschiedenen Erklärungsansätze wird erörtert, ohne ein integriertes Erklärungsmodell vorzuschlagen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>5</start>
+                                <end>26</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4134</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4134</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4134">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4134/4203" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4134" DMDID="DMD_wwu-journals_4134">
+            <mets:fptr FILEID="FILE0_wwu-journals_4134"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

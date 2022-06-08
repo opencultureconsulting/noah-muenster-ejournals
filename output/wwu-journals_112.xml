@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_112">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ethik der Menschenrechte im Kontext von Klimawandel und Entwicklung. Überlegungen im Anschluss an Axel Honneth</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reder, Michael</displayForm>
+                        <namePart type="family">Reder</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungKlimawandel und Entwicklung stellen politisch wie ethisch zwei große globale Herausforderungen dar, die eng miteinander verbunden sind. In aktuellen Debatten spielen dabei divergierende Gerechtigkeitsvorstellungen eine Rolle. Um eine möglichst allgemeine Basis für die ethische Reflexion dieser Themenkomplexe zu schaffen, werden mit Rekurs auf Honneths gesellschaftstheoretische Konzeption die Menschenrechte als Ausgangspunkt des ethischen Nachdenkens interpretiert. Eine kritische Rekonstruktion der bereits etablierten globalen Menschenrechtspraxis weist Freiheit, Gleichheit, Solidarität und Partizipation als ihre zentralen normativen Implikationen auf, die eine ethische Richtschnur für die zukünftige Ausgestaltung von Klima- und Entwicklungspolitik sein können. Aufbauend auf einer solchen Ethik der Menschenrechte kann das Gerechtigkeitsverständnis mit Blick auf Klimawandel und Entwicklung neu ausbuchstabiert werden. Bedarfs-, Chancen- und Verfahrensgerechtigkeit erweisen sich hierbei als Kernelemente. Ausgehend hiervon werden abschließend einige Schlussfolgerungen für den weltpolitischen Diskurs im Zeitalter des Klimawandels gezogen.AbstractClimate change and development are two major political and ethical global challenges that are closely intertwined. In current debates on these issues, diverging ideas about justice play a crucial role. In order to provide a common basis for ethical considerations pertaining to these complex questions, this paper takes the cue from Axel Honneth’s social theory and posits human rights as the starting point for the ethical discussion. The critical reconstruction of established global practice reveals liberty, equality, solidarity and participation to be the central normative implications of human rights capable of providing the guiding ethical principles for future climate and development policies. On the basis of this type of human rights ethic, it is possible to redefine the idea of justice in the context of climate change and development. The central points here are justice with regard to basic needs, opportunities, and procedure. Finally, some conclusions will be drawn with regard to the world-political discourse in the age of climate change.urn:nbn:de:hbz:6:3-20120127122</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20120127122</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_112</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_112">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/112/103" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_112" DMDID="DMD_wwu-journals_112">
+            <mets:fptr FILEID="FILE0_wwu-journals_112"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

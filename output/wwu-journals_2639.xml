@@ -1,0 +1,104 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2639">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuronal intermediate filament inclusion disease may be incorrectly classified as a subtype of FTLD-FUS</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bieniek, Kevin F</displayForm>
+                        <namePart type="family">Bieniek</namePart>
+                        <namePart type="given">Kevin F</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Josephs, Keith Anthony</displayForm>
+                        <namePart type="family">Josephs</namePart>
+                        <namePart type="given">Keith Anthony</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lin, Wen-Lang</displayForm>
+                        <namePart type="family">Lin</namePart>
+                        <namePart type="given">Wen-Lang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dickson, Dennis W</displayForm>
+                        <namePart type="family">Dickson</namePart>
+                        <namePart type="given">Dennis W</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: The majority of cases of frontotemporal lobar degeneration (FTLD) are characterized by focal cortical atrophy with an underlying tau or TDP-43 proteinopathy. A subset of FTLD cases, however, lack tau and TDP-43 immunoreactivity, but have neuronal inclusions positive for ubiquitin, referred to as atypical FTLD (aFTLD-U). Studies have demonstrated that ubiquitin-positive inclusions in aFTLD-U are immunoreactive for fused in sarcoma (FUS). As such, the current nosology for this entity is FTLD-FUS, which is thought to include not only aFTLD-U but also neuronal intermediate filament inclusion disease (NIFID) and basophilic inclusion body disease.
+Objective: To compare pathological features of cases of aFTLD-U and NIFID.
+Methods: We reviewed the neuropathology of 15 patients (10 males and 5 females; average age at death 54 years (range 41-69 years)) with an antemortem clinical diagnosis of a frontotemporal dementia and pathological diagnosis of aFTLD-U (n=8) or NIFID (n=7). Sections were processed for immunohistochemistry and immunoelectron microscopy with FUS, TDP-43, and α-internexin (αINX) antibodies.
+Results: Eight cases had pathologic features consistent with FTLD-FUS, with severe striatal atrophy (7/8 cases), as well as FUS-positive neuronal cytoplasmic and vermiform intranuclear inclusions, but no αINX immunoreactivity. Five cases had features consistent with NIFID, with neuronal inclusions positive for both FUS and αINX. Striatal atrophy was present in only two of the NIFID cases. Two cases had αINX-positive neuronal inclusions consistent with NIFID, but both lacked striatal atrophy and FUS immunoreactivity. Surprisingly, one of these two NIFID cases had lesions immunoreactive for TDP-43.
+Discussion: While FUS pathology remains a prominent feature of aFTLD-U, there is pathologic heterogeneity, including rare cases of NIFID with TDP-43- rather than FUS-positive inclusions.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-25671</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2639</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2639</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2639">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2639/2567" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2639">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2639/2568" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2639" DMDID="DMD_wwu-journals_2639">
+            <mets:fptr FILEID="FILE0_wwu-journals_2639"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2639" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2639"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

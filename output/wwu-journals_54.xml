@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_54">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was brauchen Kinder? Ethische Überlegungen zur vernachlässigten Kategorie des ‚Kindswohls‘</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bormann, Franz-Josef</displayForm>
+                        <namePart type="family">Bormann</namePart>
+                        <namePart type="given">Franz-Josef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">34</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zusammenhang mit den spektakulären Fällen der Vernachlässigung von Kindern wird in jüngster Zeit verstärkt über politische Maßnahmen diskutiert, die dem Wohl der Kinder dienen sollen, etwa über eine verpflichtende Teilnahme an den medizinischen Standarduntersuchungen für Kinder und Jugendliche. In den entsprechenden Debatten wird allerdings kaum gefragt, wie eine Vorstellung vom ‚Kindswohl‘ zu bestimmen, geschweige denn, wie sie zu begründen und wie entsprechende politische Maßnahmen zu legitimieren sind. Darauf weist der vorliegende Beitrag hin sowie ferner auf einige Widersprüche, die in den Diskussionen um das Wohl von Kindern auftreten. Nach einer Erörterung der ethischen Konzeptionen von John Rawls und Martha Nussbaum im Hinblick auf die einschlägige Fragestellung entwickelt der Autor eine eigene ethische Perspektive auf die Thematik, um diese schließlich an drei Anwendungsfeldern – Lebensschutz, Gesundheitsfürsorge, Bildungsförderung – zu konkretisieren.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>49</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>297</start>
+                                <end>330</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2008-506</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_54</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_54">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/54/50" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_54" DMDID="DMD_wwu-journals_54">
+            <mets:fptr FILEID="FILE0_wwu-journals_54"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

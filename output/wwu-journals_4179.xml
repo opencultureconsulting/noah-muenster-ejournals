@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4179">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Varianten der Distinktion</title>
+                        <subTitle>Eine Systematisierung der gegenwärtigen Omnivorizitätsforschung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berli, Oliver</displayForm>
+                        <namePart type="family">Berli</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Seit den 1990er Jahren hat sich eine Diskussion um den Wandel von kulturellen Präferenzen und Praktiken entwickelt, die unter dem Schlagwort »cultural omnivorousness« vor allem im englischsprachigen Raum geführt wird. Unter Omnivorizität werden dabei distinktive Muster kulturellen Konsums verstanden, die sich durch eine spezifische Vermengung von Hoch- und Populärkultur auszeichnen. Die Diskussion über Varianten von Distinktionsmustern und -praktiken ist gleichermaßen für Ungleichheitsforschung wie Kultursoziologie von Relevanz. Der vorliegende Beitrag verfolgt zwei Ziele: Erstens bietet er einen Überblick über deutschsprachige und internationale Beiträge und Fragestellungen der Forschung zu »cultural omnivorousness«. Zweitens werden im Anschluss an diesen Überblick in systematischer Absicht distinkte Lesarten und Dimensionen von Omnivorizität unterschieden. Auf dieser Basis diskutiert der Beitrag Varianten der Distinktion und benennt Ansatzpunktefür weiterführende Forschung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>203</start>
+                                <end>227</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4179</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4179</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4179">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4179/4264" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4179" DMDID="DMD_wwu-journals_4179">
+            <mets:fptr FILEID="FILE0_wwu-journals_4179"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

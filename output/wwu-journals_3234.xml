@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3234">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wikinger und Normannen</title>
+                        <subTitle>Eine Einleitung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Enseleit, Tobias</displayForm>
+                        <namePart type="family">Enseleit</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Unheil versprechende Drachenboote, bärtige Mordbuben, metgeschwängerte Nächte, tapfere Schildmaiden, Mord und Todschlag – kein mittelalterliches Themenfeld erfreut sich gesamtgesellschaftlich derzeit so großer Beliebtheit wie die Wikinger und Normannen. Die gesamte Medienlandschaft wird von ihnen heimgesucht: ›The Last Kingdom‹ und ›Vikings‹ fesseln seit Jahren Serienfans, zahlreiche unbekanntere Produktionen überschwemmen in ihrem Fahrwasser die Filmsparte, mit ›Assassin’s Creed: Valhalla‹ steht brandaktuell die Videospiellandschaft in Flammen und in einer regen Reenactment-Community wird das Frühmittelalter wieder zum Leben erweckt. Das Interesse an Wikingern und Normannen und die Beschäftigung mit ihnen ist groß. Wir nähern uns ausgehend vom populärkulturellen Diskurs überblicksartig dem Thema.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mittelalter Digital</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Mittelalter Digital</publisher>
+                        </originInfo>
+                        <identifier type="issn">2747-9757</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>29</start>
+                                <end>50</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-mittelalterdigital-2020-32505</identifier>
+                    <identifier type="doi">10.17879/mittelalterdigi-2020-3234</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3234</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3234">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3234/3250" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3234">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3234/3251" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3234" DMDID="DMD_wwu-journals_3234">
+            <mets:fptr FILEID="FILE0_wwu-journals_3234"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3234" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3234"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1473">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kirche und Macht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mette, Norbert</displayForm>
+                        <namePart type="family">Mette</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wie in jeder anderen Institution oder Organisation wird auch in der Kirche Macht ausgeübt. Allerdingswird dies gern tabuisiert. Macht ist – das ergibt ein Blick in die sozialwissenschaftliche Diskussion – einBegriff, der unterschiedlich akzentuiert werden kann. Dies ermöglicht es, die faktische Machtausübungin der Kirche und deren Legitimation differenziert zu erfassen. Die Tatsache, dass das überkommenekirchliche Machtsystem in die Legitimationskrise geraten ist, hält dazu an, sich auf einenUmgang mit der Macht im Sinne Jesu zurückzubesinnen.As in any other institution, there is a certain use of power within the church. This fact, however, isoften treated as a taboo. Power is – as the discussion in the social sciences proves – a term, which canbe used in several different manners allowing us to differentiate between the (legitimate) uses ofpower within the church. The fact that the traditional system of power within the church is currentlyin crisis and feels the need for legitimization encourages us to reclaim the use of power in the traditionof Jesus.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>215</start>
+                                <end>233</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13770</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1473</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1473">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1473/1377" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1473" DMDID="DMD_wwu-journals_1473">
+            <mets:fptr FILEID="FILE0_wwu-journals_1473"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

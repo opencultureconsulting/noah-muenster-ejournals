@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_522">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wandel von Lebensverlaufsmustern – Herausforderungen für politisches Handeln</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wippermann, Carsten</displayForm>
+                        <namePart type="family">Wippermann</namePart>
+                        <namePart type="given">Carsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer unabgeschlossene Modernisierungs­prozess der Individualisierung hat zu einer Vielzahl perforierter Lebensverläufe und disparater Normalbiographien mit je eigener Logik geführt. Die Risiken dieser neuen und alten Lebenslaufregime treffen Frauen und Männer, die verschiedenen Generationen sowie die sozialen Milieus nicht in gleichem Maße. Zugleich sind die materiellen, sozialen und kulturellen Ressourcen und daraus resultierend die paradigmatischen Lebensverlaufsperspektiven sowie die Bereitschaften und Möglichkeiten zur Verantwortung in den Milieus sehr unterschiedlich. Das hat Konsequenzen für die Bewältigung der Haupt-, Neben- und Spätfolgen. Damit steht die Politik vor der Herausforderung der Gleichzeitigkeit des Ungleichzeitigen: Die veränderten und sich dynamisch weiter verändernden Realitäten zur Grundlage politischer Entscheidungen und Visionen zu machen. Das erfordert Multiperspektivität und verweist umso dringender auf Institutionalisierung (von Verfahrensweisen) einer konsistenten und konzertierten Politik statt primär eigenlogisch-abgeschlossen operierender Ressorts. Das zielt auf Reflexion der konkreten (!) Konsequenzen für die verschiedenen Zielgruppen in ihren aktuellen und weiteren Phasen im Lebenslauf. Nach Maßgabe der Milieu-, Generationen- und Geschlechtergerechtigkeit wäre ein naheliegendes politisches Prinzip das der Ermöglichung und Aufklärung.AbstractThe incomplete modern process of individualisation has led to a multiplicity of perforated lives and disparate standard biographies each following their own internal logic. The risks of these new and old life-course regimes do not affect men and women, the different generations or the different milieus to the same extent. At the same time, material, social, and cultural resources and the resulting paradigmatic life-course perspectives, and the willingness and possibilities to accept responsibility vastly differ depending on milieu. This of course has a great bearing on the handling of main, indirect, and late consequences. Hence, politics face the simultaneity of the nonsimultaneous: the challenge of making changed and dynamically further changing reality the basis of political decisions and ideas. This requires multiperspectivity and the urgent institutionalisation (of procedures) of consistent and focussed politics instead of departments locked in their primarily self-referential logics. This aims at considering the concrete (!) consequences for the different target groups in their current and further life-course phases. Taking milieu, generation and gender justice seriously, one political principle that offers itself is that of enablement and education.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082121</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_522</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_522">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/522/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_522" DMDID="DMD_wwu-journals_522">
+            <mets:fptr FILEID="FILE0_wwu-journals_522"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

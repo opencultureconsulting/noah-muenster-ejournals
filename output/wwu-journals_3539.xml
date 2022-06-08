@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3539">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quo vadis Wohnungspolitik? </title>
+                        <subTitle>Herausforderungen und Antworten am Fallbeispiel Wiens</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gutheil-Knopp-Kirchwald, Gerlinde</displayForm>
+                        <namePart type="family">Gutheil-Knopp-Kirchwald</namePart>
+                        <namePart type="given">Gerlinde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Wiener Wohnungspolitik gilt aufgrund der hohen Bedeutung des sozialen Wohnbaus sowie der Leistbarkeit des Wohnens und der guten Wohnqualität als Erfolgsmodell. Dennoch ist Wohnen in Wien nicht für alle leistbar. Gerade vulnerable Gruppen sind häufig auf das teuerste Wohnungsmarktsegment, nämlich die befristete private Miete, angewiesen. Gleichzeitig wird in Wien eine Abnahme der sozialräumlichen Mischung beobachtet. Für diese Entwicklung werden zwei Ursachen ausgemacht: Zum einen die zunehmende Finanzialisierung des Wohnungsmarkts, welchezu einer dynamischen Nachfrage- und Preisentwicklung geführt hat, und zum anderen ein Zielkonflikt zwischen dem utilitaristischen und dem sozialen Gerechtigkeitskonzept innerhalb der Wohnungspolitik. „Polis semper reformanda est“ lautet das Fazit – Politik muss sich immer erneuern. Es genügt nicht, das wertvolle Erbe eines großen gemeinwohlorientierten Wohnungssektors zu verteidigen. Zusätzlich gilt es, neue Allianzen zu bilden, um die Bedeutungsverschiebung einer Wohnung vom Grundbedürfnis zu einem Finanzprodukt wieder umzukehren und Wohnen für alle zugänglich(er) und leistbar(er) zu machen.</abstract>
+                    <abstract lang="eng">Due to the large share of social housing, the high quality and affordability of housing, Vienna&apos;s housing policy often is considered as a role model. However, housing in Vienna is not affordable for everyone. Vulnerable groups often are stuck to the most expensive market segment, the private rent with temporary contracts. Also, a decrease in the socio-spatial mix can be observed. Two causes are identified for this development: on the one hand, the financialisation of the housing market, which has led to a dynamic development of demand and prices, and on the other hand, a conflict of goals between the utilitarian and the social justice concept within housing policy. The conclusion reads &quot;Polis semper reformanda est&quot;: policy always needs to adapt. It is not enough to defend the valuable heritage of a large de-commodified housing sector. Additionally, new alliances need to be formed to reverse the re-interpretation of Housing from a financial product back to a basic need, and to make housing accessible and affordable for all.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>43</start>
+                                <end>54</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/jcsw-2021-3539</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3539</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3539">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3539/3691" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3539" DMDID="DMD_wwu-journals_3539">
+            <mets:fptr FILEID="FILE0_wwu-journals_3539"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

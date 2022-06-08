@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1544">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Akzeptanz und Energiewende. Bürgerbeteiligung als Voraussetzung für gelingende Transformationsprozesse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Renn, Ortwin</displayForm>
+                        <namePart type="family">Renn</namePart>
+                        <namePart type="given">Ortwin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDie Akzeptanz von Maßnahmen oder Planungen im Rahmen der Energiewende hängt von vier wesentlichen Faktoren ab: der Einsicht in die Notwendigkeit, der positiven Nutzen-Risiko-Bilanz, der Sicherstellung von Selbstwirksamkeit und dem Potenzial an emotionaler Identifikation mit dem Vorhaben. Nicht alle vier Bedingungen müssen vollständig erfüllt sein, aber nur wenn die betroffenen Menschen den Eindruck haben, dass alle vier in ausreichendem Maße gegeben sind, kann man mit Zustimmung oder zumindest Toleranz rechnen. Energiepolitik ist daher angewiesen, durch entsprechende Politikgestaltung, durch adressatenbezogene Kommunikation und vor allem durch mehr Chancen zur aktiven Mitwirkung der Bürgerschaft an öffentlichen Planungen die Voraussetzungen für Akzeptanz zu verbessern. Vor allem wenn ergebnisoffene Beteiligungsverfahren frühzeitig und fair durchgeführt werden, kann man mit einem höheren Maß an Zustimmung zu Maßnahmen der Energiewende rechnen.AbstractThe acceptance of plans and measures concerning the energy transitiondepends on four important factors: the understanding of its necessity, a positive balance of risks and benefits, the guarantee of self-efficacy, and the potentials of emotional identification with the project. It is not necessary that all four conditions are fulfilled completely, but only the impression of adequate realization will obtain approval or at least toleration. To improve the conditions for acceptance, energy politics must therefore formulate its policies accordingly, communicate in an audience-related manner, and in particular offer better opportunities for civil participation in public planning. Plans and measures for the energy transition will meet with greater approval if processes of participation are initiated early and in a fair manner.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14460</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1544</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1544">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1544/1446" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1544" DMDID="DMD_wwu-journals_1544">
+            <mets:fptr FILEID="FILE0_wwu-journals_1544"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

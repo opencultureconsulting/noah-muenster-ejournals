@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4181">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Knotenpunkt Marx</title>
+                        <subTitle>Anmerkungen zur Debatte um Kapitalismus und funktionale Differenzierung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mohan , Robin</displayForm>
+                        <namePart type="family">Mohan</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der aktuellen Debatte über den Zusammenhang von Kapitalismus und funktionaler Differenzierung, die anlässlich des Grundrisses einer integrativen Theorie der modernen Gesellschaft von Uwe Schimank auch in dieser Zeitschrift geführt wurde, wird ersterer häufig als ›Dominanz der Wirtschaft‹ über andere Teilsysteme konzipiert. Im Beitrag werden zunächst die Schwierigkeiten eines solchen Kapitalismusverständnisses aufgezeigt. Anschließend wird argumentiert, dass ein adäquater Begriff von Kapitalismus weiterhin an ein Verständnis der gesellschaftlichen Produktion gebunden ist. Diese wird in Schimanks Grundriss mit dem Begriff der »Leistungsproduktion« zwar angesprochen, bleibt theoretisch jedoch unterbelichtet. Ein Rückgriff auf Marx‹ Kritik der politischen Ökonomie kann hier weiterhelfen, wobei insbesondere die Unterscheidung von Form und Inhalt gesellschaftlicher Reichtumsproduktion instruktiv ist. Auf ihrer Grundlage lassen sich zwei Dimensionen gesellschaftlicher Differenzierung auseinanderhalten: Die »Leistungsproduktion« der modernen, kapitalistischen Gesellschaft ist zum einen in der Form-Dimension differenziert, und zwar in die vier Sektoren von Ökonomie, Staat, Zivilgesellschaft und Haushalt. Zum anderen ist sie in der Inhalts- bzw. Gebrauchswert- Dimension in verschiedene Produktionsfelder differenziert (etwa: Gesundheit, Bildung, Kunst), die mit verschiedenen und sich wandelnden Schwerpunkten durch die vier Sektoren hindurch institutionalisiert sind. So lässt sich eine von Marx inspirierte Differenzierungstheorie entwickeln, die Schimanks (aber etwa auch Bourdieus) kulturtheoretische Einsichten in die Eigenlogiken der gebrauchswert-geleiteten Produktionsfelder in sich integriert, gleichzeitig aber deren kapitalistische Prägung nicht aus dem Blick verliert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>228</start>
+                                <end>250</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4181</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4181</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4181">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4181/4265" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4181" DMDID="DMD_wwu-journals_4181">
+            <mets:fptr FILEID="FILE0_wwu-journals_4181"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2031">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Freiraum und Innovationsdruck. Begleitumstände innovativer kirchlicher Sozialformen an der Peripherie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlegel, Thomas</displayForm>
+                        <namePart type="family">Schlegel</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Geht Kirche anders? Die Frage nach Veränderung beschäftigt die Evangelische Kirche in Deutschlandseit Jahren. In einem ‚von oben‘ initiierten Reformprozess versucht sie, Neues anzustoßen. Danebenereignet sich Neues ‚an der Basis‘ – emergent, kontingent und oft abseits der kirchlichen Zentren. EineStudie des Greifswalder Instituts zur Erforschung von Evangelisation und Gemeindeentwicklung gingdiesen Bewegungen nach und versuchte, Begleitumstände sozial‐missionarischer Innovationen an derPeripherie zu rekonstruieren. Dabei erwies sich als bedeutsam: Die besondere Konstellation von Personenmit gewissen Haltungen (einzelnen „heros“ oder Pionieren, Teams und netzwerkartigen Geflechten),die weichen Faktoren (Stimmungen/Atmosphären) und das Setting, in dem jene agierten:Wo alte kirchliche Formen dysfunktional geworden waren (Innovationsdruck) und die daraus resultierendeBrache Freiräume zum Experimentieren geschaffen hat. Der Artikel führt in die Ergebnisse derStudie ein und fragt nach Konsequenzen für kirchenleitendes Handeln.Doing church differently? The Evangelical Church in Germany (EKD) has tried to modernize itself foryears. In 2006, the EKD initiated a reform process that has been adapted by almost every regionalchurch. Beside this top‐down‐process, the EKD experiences renewal from the bottom up and oftenoutside of the official institution and at the periphery. The Institute for Research on Evangelizationand Congregational Development of the University of Greifswald tried to analyze these movements. Ina current study, they reconstructed factors that go alongside the renewed practices. They found thatthe combination of people with certain attitudes (individual “heroes”, teams, networks), of soft factorslike atmospheres, and of the surrounding circumstances are especially fruitful for change. Thereappears to be a special need for change when old behavioral patterns no longer function and thusprovide the space for experimentation. The article introduces the study and asks for the consequencesin regard to church management.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19490</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2031</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2031">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2031/1949" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2031" DMDID="DMD_wwu-journals_2031">
+            <mets:fptr FILEID="FILE0_wwu-journals_2031"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

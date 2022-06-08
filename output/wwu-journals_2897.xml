@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2897">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Ordnung des Zerfalls</title>
+                        <subTitle>Verlaufsformen im Angesicht ökologischer Krisen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaven, Carsten</displayForm>
+                        <namePart type="family">Kaven</namePart>
+                        <namePart type="given">Carsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Erosion sozialer Strukturen betrifft nicht nur Länder des globalen Südens, wo seit langem über „failed states“ berichtet und geforscht wird. Ökologische Krisen machen an keinen Grenzen halt, Klimawandel und die Folgen des Artensterbens treffen auch Gesellschaften des globalen Nordens. Dürren, Extremwetterereignisse und Überschwemmungen setzen auch hier stabil geglaubte Infrastrukturen immer mehr unter Druck. Durch ökologische Krisen hervorgerufene Migrationsbewegungen treten an die Stelle lange eingeübter Bedrohungsszenarien zwischen Nationalstaaten und führen zu ebenso rigiden Grenzsicherungen. Soziologische Theorie war von jeher an Prozessen des Aufbaus und des Erhalts sozialer Ordnung interessiert. Die Folgen des Klimawandels regen an, die Perspektive zu wechseln und den möglichen Zerfall sozialer Ordnung in den Blick zu nehmen. Welchen Pfad beschreiten Gesellschaften, die so schwer von ökologischen Krisen getroffen werden, dass grundlegende und als stabil geglaubte Funktionen in Frage gestellt werden? Ein Prozessmodell soll helfen, dieses Terrain zu erkunden.
+The undermining of social structures does not affect only countries in the global south, where “failed states” have been subject of research for a long time. Ecological crises do not respect borders. The consequences of climate change and the extinction of species do affect countries of the global north as well. Also, in these regions, droughts, floods, and extreme weather will exert pressure on infrastructures regarded as stable. Migration, caused by ecological crises, replaces common threats between nation states and leads to rigid measures of border security. Sociological theory has always been interested in processes of constructing and maintaining social order. The consequences of climate change stimulate a change of perspective and a focus on the decline of social order. Which path will societies take when they are hit by ecological crises in a way that basic functions are challenged? A process model shall help to explore this area.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>49</start>
+                                <end>64</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28224</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2897</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2897</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2897">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2897/2822" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2897" DMDID="DMD_wwu-journals_2897">
+            <mets:fptr FILEID="FILE0_wwu-journals_2897"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

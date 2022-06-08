@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3896">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>سرديّة ذات نزوعات تنويريّة في الخطاب الإصلاحي الإسلاميّ المعاصر</title>
+                        <subTitle>النشأة والتطوّر والانتكاس</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Narrative with enlightening tendencies in contemporary Islamic reform discourse</title>
+                        <subTitle>Origin, development and relapse</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hbaieb, Souhail</displayForm>
+                        <namePart type="family">Hbaieb</namePart>
+                        <namePart type="given">Souhail</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">تُحاول‭ ‬هذه‭ ‬الورقة‭ ‬أن‭ ‬تبيّن‭ ‬كيف‭ ‬أن‭ ‬شطرًا‭ ‬من‭ ‬خطاب‭ ‬المصلحين‭ ‬المسلمين‭ ‬في‭ ‬العالم‭ ‬العربيّ،‭ ‬بين‭ ‬نهايات‭ ‬القرن‭ ‬التاسع‭ ‬عشر‭ ‬والنصف‭ ‬الأول‭ ‬من‭ ‬القرن‭ ‬العشرين،‭ ‬يستبطن‭ ‬ضربًا‭ ‬من‭ ‬ضروب‭ ‬السّرديات‭ ‬أو‭ ‬المرويات‭ ‬الكُبرى‭ ‬الجديدة‭ ‬التي‭ ‬حاول‭ ‬من‭ ‬خلالها‭ ‬بعض‭ ‬أعلام‭ ‬الفكر‭ ‬الإصلاحيّ‭ ‬الإسلاميّ‭ ‬المعاصر،‭ ‬وعلى‭ ‬رأسهم‭ ‬محمد‭ ‬عبده،‭ ‬أن‭ ‬يكرّس‭ ‬هويّة‭ ‬ثقافيّة‭ ‬وحضاريّة‭ ‬إسلاميّة‭ ‬ذات‭ ‬نزوعات‭ ‬تنويريّة‭ ‬بالمعنى‭ ‬المتعارف‭ ‬عليه‭ ‬عند‭ ‬فلاسفة‭ ‬أوروبا‭ ‬في‭ ‬القرنين‭ ‬السابع‭ ‬والثامن‭ ‬عشر‭. ‬وقد‭ ‬نشأتْ‭ ‬هذه‭ ‬السرديّة‭ ‬في‭ ‬شروط‭ ‬تاريخيّة‭ ‬مخصوصة‭ ‬موسومة‭ ‬بتسلّل‭ ‬الخطاب‭ ‬العلماني‭ ‬إلى‭ ‬الفكر‭ ‬العربيّ‭ ‬المعاصر‭ ‬خلال‭ ‬تلك‭ ‬المرحلة‭. ‬بيد‭ ‬أن‭ ‬متغيّرات‭ ‬الواقع‭ ‬العربيّ‭ ‬خلال‭ ‬القرن‭ ‬العشرين‭ ‬لم‭ ‬تتح‭ ‬لهذه‭ ‬السرديّة‭ ‬أنْ‭ ‬تتطوّر‭ ‬وتتكرّس‭ ‬في‭ ‬الثقافة‭ ‬العربيّة،‭ ‬بل‭ ‬بالعكس‭ ‬عرفت‭ ‬انتكاسًا‭ ‬واضحا‭ ‬مع‭ ‬هيمنة‭ ‬سرديات‭ ‬خطاب‭ ‬الإسلام‭ ‬السياسيّ‭ ‬ومتخيّلاته‭.‬</abstract>
+                    <abstract lang="eng">This paper aims to clarify how a part of Muslim reformers’s discourse‭&amp;nbsp; ‬in the Arab world‭, ‬between the end of the nineteenth century and the first half of the twentieth century‭, ‬contained‭ ‬a new grand narrative through which some reformers‭, ‬led by Muhammad Abdo‭, ‬tried to establish an Islamic identity Influenced by‭ ‬the European Enlightenment as it was known in the seventeenth and eighteenth centuries‭. ‬This narrative arose in specific historical conditions marked by the infiltration of secular discourse into contemporary Arab thought‭. ‬However‭, ‬the changes in the Arab‭ ‬context during the twentieth century did not allow this narrative to develop and be enshrined in Arab culture‭. ‬On the contrary‭, ‬there was a clear setback with the dominance of the narratives of political Islam›s discourse‭.‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3896</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3896</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3896">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3896/3948" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3896">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3896/4219" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3896" DMDID="DMD_wwu-journals_3896">
+            <mets:fptr FILEID="FILE0_wwu-journals_3896"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3896" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3896"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

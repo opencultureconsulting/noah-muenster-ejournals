@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3753">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rituale in der Seelsorge nach einem Trauma</title>
+                        <subTitle>Eine Untersuchung von Fallgeschichten aus der Psychiatrie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gärtner, Stefan</displayForm>
+                        <namePart type="family">Gärtner</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Artikel werden zwei Fallbeschreibungen aus dem niederländischen Case Studies Project in Chaplaincy Care untersucht, in denen die Betroffenen in einem psychiatrischen Setting mit einem Trauma konfrontiert waren. Insbesondere die rituellen Interventionen der Seelsorgepersonen werden auf Stil- und Qualitätskriterien von guter Seelsorge hin befragt. Die Ergebnisse lassen sich auch auf andere Handlungsformen, Arbeitsbereiche oder Seelsorgeanlässe übertragen, wie die Notwendigkeit der interdisziplinären Zusammenarbeit in der säkularen Organisation, die kreative Verbindung von individuellen und traditionellen Inhalten bei der Pastoral, die Bedeutung der sinnlichen und nonverbalen Kommunikation mit der Seelsorgeperson als symbolische Figur oder die Beachtung der typisch spätmodernen Transformationen auf dem religiösen Feld.
+This article examines two case studies from the Dutch Case Studies Project in Chaplaincy Care, in which the clients were confronted with a trauma in a psychiatric setting. In particular, it analyzes the ritual interventions of the chaplains to evaluate the stylistic and quality criteria of good pastoral care. The results can then be transferred to other forms of chaplaincy, pastoral settings, or occasions, such as the necessity of interdisciplinary cooperation in a secular organization, the creative combination of individual and traditional elements in pastoral care, the importance of sensual and nonverbal forms of communication with the chaplain as a symbolic figure, or the attention paid to typical late-modern transformations in the religious field.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>93</start>
+                                <end>105</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38002</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3753</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3753">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3753/3800" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3753" DMDID="DMD_wwu-journals_3753">
+            <mets:fptr FILEID="FILE0_wwu-journals_3753"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

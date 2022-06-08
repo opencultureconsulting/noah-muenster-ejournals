@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3418">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Two gold medallions of the Apostolo Zeno  Collection in the British Museum</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Two gold medallions of the Apostolo Zeno  Collection in the British Museum</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tomassoni, Roberto</displayForm>
+                        <namePart type="family">Tomassoni</namePart>
+                        <namePart type="given">Roberto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel dieses Beitrags ist es, den Verbleib einiger Goldmedaillons aus dem Besitz des venezianischen Gelehrten und Sammlers Apostolo Zeno zu rekonstruieren: Vier Exemplare, die Zeno an den Kardinal Alessandro Albani verkauft hatte, gelangten schließlich in die Vatikanischen Museen. Zwei dieser Medaillons wurden später von Louis, Duc de Blacas d’Aulps erworben und befinden sich heute im Münzkabinett des British Museum.</abstract>
+                    <abstract lang="eng">The paper aims to reconstruct the purchase, sale and current location of some gold medallions acquired by the Venetian erudite and collector Apostolo Zeno. In particular, there were four specimens that Zeno sold to cardinal Alessandro Albani, which later became part of the Vatican collection. Two of these medallions were later bought by the Duke of Blacas and then passed into the collection of the British Museum, where they are currently kept.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>29</start>
+                                <end>36</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2021-33731</identifier>
+                    <identifier type="doi">10.17879/ozean-2021-3418</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3418</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3418">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3418/3373" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3418">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3418/3374" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3418" DMDID="DMD_wwu-journals_3418">
+            <mets:fptr FILEID="FILE0_wwu-journals_3418"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3418" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3418"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Keine Angst vor großen Räumen. Der Blick nach Brasilien als Hoffnungsschimmer in der pastoralen Krise</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitt, Artur</displayForm>
+                        <namePart type="family">Schmitt</namePart>
+                        <namePart type="given">Artur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Begünstigt durch ein neues Kirchenbild des 2. Vatikanischen Konzils und von verschiedenen soziologischenFaktoren wie dem Priestermangel, der Komplexität der kirchlichen Präsenz in einer modernenGesellschaft und dem Entstehen der Basisgemeinden unterstützt, entstanden besonders von Beginnder 60er Jahre an neue Formen von Dienstämtern in der brasilianischen Kirche. Diese neuenministérios entstanden und entstehen nicht durch Zufall. Sie sind eine kirchliche Antwort auf die verschiedenstenpastoralen Herausforderungen der Zeit.In the 1960s when Vatican II introduced new models for being church, new forms of ministries arosein the Brazilian Church. This development strengthened by diverse sociological factors such as the lackof priests, the complexity of the presence of the church in modern society, and the emergence ofbasic ecclesial communities. The new ministérios did not come into existence by accident. They arethe church’s answer to the different contemporary pastoral challenges.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>132</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19488</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2030">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2030/1948" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2030" DMDID="DMD_wwu-journals_2030">
+            <mets:fptr FILEID="FILE0_wwu-journals_2030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

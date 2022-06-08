@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2941">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>pandemische Unverfügbarwerden von Welt</title>
+                        <subTitle>Zeitdiagnostische Überlegungen zum sozialtheoretischen Denken in ökologischen Zusammenhängen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Block, Katharina</displayForm>
+                        <namePart type="family">Block</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ernst-Heidenreich, Michael</displayForm>
+                        <namePart type="family">Ernst-Heidenreich</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die andauernde SARS-CoV-2-Pandemie konfrontiert uns in mehrfacher Hinsicht mit Erfahrungen des Unverfügbarwerdens von Welt. Die Rede vom Unverfügbarwerden im Kontext der Pandemie legt eine tiefgreifende Zäsur jenseits des Aspekts akuter Krisenhaftigkeit offen. Während das Projekt der Moderne uns einem Zustand vollständiger menschlicher Verfügbarkeit von Welt scheinbar näher bringt, öffnet sich zur gleichen Zeit eine Kluft zwischen unserem immer weiterwachsenden Bedürfnis nach Kontrolle und den offenkundigen Verlusten an Zugriffsgewalt. Im Angesicht des Coronavirus‘ zeigt sich schonungslos einerseits die Fragilität globaler Interdependenzen, andererseits die Einbettung menschlicher Entitäten in fragile ökologische Zusammenhänge. Wir konzeptualisieren das plötzliche Unverfügbarwerden von Welt als triadischen Doppelaspekt von Zusammenbruch alltäglicher Weltverhältnisse, Zwang ‚Anschließen-zu-müssen‘ und einer damit offenstehenden Neuordnung von Weltverhältnissen. Diese Figur erlaubt ein Denken in ökologischen Zusammenhängen ohne menschliche Entitäten in ihrer strukturellen Verantwortung aus dem Blick zu verlieren.
+While the SARS-CoV-2 pandemic is still unfolding, we are experiencing how the world is becoming unavailable in a variety of ways. The notion of becoming unavailable in the context of this pandemic exposes a watershed moment beneath the crisis’ surface. Though the ongoing project of modernity seems to bring us ever closer to a world completely available to humans, there is at the same time a gap opening between our still growing necessities of control and losses of command. In the face of the coronavirus, the fragility of global interdependencies on the one hand, and the embeddedness of human entities in fragile ecological relations on the other, is becoming relentlessly evident. We conceptualize the experience of a world becoming suddenly unavailable as a triadic double aspect of collapsing everyday world relations, the necessity to react to profound challenges, and the possibility of new world relations. This concept allows us to approach ecological interdependencies without losing sight of the structural responsibility of human entities.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>71</start>
+                                <end>83</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28976</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2941</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2941</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2941">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2941/2897" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2941" DMDID="DMD_wwu-journals_2941">
+            <mets:fptr FILEID="FILE0_wwu-journals_2941"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

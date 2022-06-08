@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1305">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>vielschichtige Rede von den Zeichen der Zeit. Anmerkungen zu einem Ortswechsel theologischer Erkenntnis und diakonisch-pastoraler Praxis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klein, Stephanie</displayForm>
+                        <namePart type="family">Klein</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Rede von den Zeichen der Zeit und ihrer Deutung ist so faszinierend wie rätselhaft zugleich.Der Artikel erschließt drei unterschiedliche Zugangsweisen. Ein narrativ-existenziellerZugang vermittelt, dass gerade die Exkludierten der Gesellschaft die „Zeichen der Zeit“ zuverstehen vermögen, weil sie nach Gott fragen. Ein biblischer Zugang zeigt auf, dass Jesusdie Forderung von Zeichen ablehnte und stattdessen auf die innere Umkehr verwies. Im Kontextdes Konzils schließlich wird die Rede im Blick auf die Spuren Gottes und die Hoffnungszeichenin einer krisenhaften Welt verwendet. Abschließend wird der Versuch unternommen,die drei Zugänge miteinander zu vermitteln. Durch die Umkehr und einen Standortwechsel andie Seite der Bedrängten lassen sich die Zeichen der Zeit aus deren Frage nach Gott als GottesHeilszeichen für ihr Leben wahrnehmen und deuten.The expression „signs of the time“ and its interpretation is fascinating and enigmatic at thesame time. This article discusses three different approaches. A narrative-existential approachindicates that especially the outsiders of society are able to understand the „signs of the time“because they ask about God. A biblical approach shows that Jesus rejected the claim for„signs“, and asked for an inner change instead. In the context of Vatican II, finally, the expressionis used to talk about the signs of God and the message of hope in a world characterizedby crises. Finally, the attempt is made to reconcile the three approaches with each other.Through repentance and a change of one’s point of view towards the side of the beleaguered,the „signs of the time“ can be perceived and interpreted as their question about and for Godand as God’s signs of salvation for their lives.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>25</start>
+                                <end>36</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12387</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1305</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1305">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1305/1238" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1305" DMDID="DMD_wwu-journals_1305">
+            <mets:fptr FILEID="FILE0_wwu-journals_1305"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

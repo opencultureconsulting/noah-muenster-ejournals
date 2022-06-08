@@ -1,0 +1,124 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3266">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Detailed neuropathologic report of COVID-19 complicated by large intracerebral hemorrhage and periventricular lesions with macrophagic infiltrates</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Levine, Adrian</displayForm>
+                        <namePart type="family">Levine</namePart>
+                        <namePart type="given">Adrian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lee, Carol</displayForm>
+                        <namePart type="family">Lee</namePart>
+                        <namePart type="given">Carol</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fava, Craig</displayForm>
+                        <namePart type="family">Fava</namePart>
+                        <namePart type="given">Craig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tsang, Frankie</displayForm>
+                        <namePart type="family">Tsang</namePart>
+                        <namePart type="given">Frankie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>McNeil, Kelly</displayForm>
+                        <namePart type="family">McNeil</namePart>
+                        <namePart type="given">Kelly</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Yip, Stephen T.</displayForm>
+                        <namePart type="family">Yip</namePart>
+                        <namePart type="given">Stephen T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hirsch-Reinshagen, Veronica</displayForm>
+                        <namePart type="family">Hirsch-Reinshagen</namePart>
+                        <namePart type="given">Veronica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Infection with the SARS-CoV-2 virus affects a wide range of systems. Significant involvement of the central nervous system has been described, including ischemic and hemorrhagic strokes. Thus far, neuropathologic reports of patients who passed away from COVID-19 have generally described non-specific findings, such as variable reactive gliosis and meningeal chronic inflammatory infiltrates, as well as the consequences of the infection’s systemic complications on the brain, including ischemic infarcts and hypoxic/ischemic encephalopathy. The neuropathological changes in patients with COVID-19 and large hemorrhagic strokes have not been described in detail. We report the case of an elderly male who had a long course of COVID-19 and ultimately passed away from a large intracerebral hemorrhage. In addition to acute hemorrhage, neuropathologic examination demonstrated non-specific reactive changes and chronic periventricular lesions with macrophagic and perivascular lymphocytic infiltrates without evidence of demyelination or presence of SARS-CoV-2 by PCR test. This manuscript expands the spectrum of reported neuropathological changes in patients with COVID-19.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-32887</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3266</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3266</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3266">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3266/3290" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3266">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3266/3288" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3266" DMDID="DMD_wwu-journals_3266">
+            <mets:fptr FILEID="FILE0_wwu-journals_3266"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3266" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3266"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

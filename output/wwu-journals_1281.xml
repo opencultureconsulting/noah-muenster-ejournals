@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1281">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Human Rights and the Ethics of Peace</title>
+                        <subTitle>The Contribution of Pacem in Terris</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hogan, Linda</displayForm>
+                        <namePart type="family">Hogan</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag setzt sich mit der Bedeutung der Menschenrechte in der Christlichen Sozialethik auseinander und benennt Herausforderungen, die mit der Rezeption der Enzyklika Pacem in terris verbunden sind. In einem ersten Schritt werden die politischen und theologischen Kontexte der Entstehung der Enzyklika beleuchtet. Anschließend wird diskutiert, auf welche Weise Pacem in terris die Sprachformen christlichen Sozialengagements transformierte und dabei – trotz des seit langer Zeit bestehenden Verdachtes des Lehramtes gegen die Kategorie der Menschenrechte – für die Menschenrechte plädierte. Dann wird die These entwickelt, dass das Hauptverdienst von Pacem in terris in der Verbindung von Menschenrechtspolitik und Friedenspolitik für die Christliche Sozialethik bestand. Schließlich werden herausfordernde Aspekte der Rezeption dieser innovativen und bedeutenden Enzyklika diskutiert.AbstractThis paper reflects on the significance of human rights in Christian social ethics and considers the challenges associated with the reception of the encyclical. In a first step, it provides an analysis of the political and theological contexts from which Pacem in terris emerged. It then discusses how Pacem in terris has transformed the language of Christian social commitment and promoted human rights notwithstanding the tradition’s longstanding suspicion of the category of human rights. It suggests that one of the most important contributions wrought by Pacem in terris was the manner in which it brought the politics of human rights and the politics of peace into a seamless Christian social ethic and it ends with a discussion of the challenges associated with the reception of this transformative and iconic encyclical.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12202</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1281</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1281">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1281/1220" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1281" DMDID="DMD_wwu-journals_1281">
+            <mets:fptr FILEID="FILE0_wwu-journals_1281"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

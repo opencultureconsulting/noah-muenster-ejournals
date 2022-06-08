@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2813">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Multiple system atrophy - a clinicopathological update</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jellinger, Kurt A.</displayForm>
+                        <namePart type="family">Jellinger</namePart>
+                        <namePart type="given">Kurt A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Multiple system atrophy (MSA) is a fatal, adult-onset neurodegenerative disorder of uncertain etiology, clinically characterized by various combinations of Levo-dopa-unresponsive parkinsonism, and cerebellar, motor, and autonomic dysfunctions. MSA is an α-synucleinopathy with specific glioneuronal degeneration involving striatonigral, olivopontocerebellar, autonomic and peripheral nervous systems. The pathologic hallmark of this unique proteinopathy is the deposition of aberrant α-synuclein (αSyn) in both glia (mainly oligodendroglia) and neurons forming pathological inclusions that cause cell dysfunction and demise. The major variants are striatonigral degeneration (MSA with predominant parkinsonism / MSA-P) and olivopontocerebellar atrophy (MSA with prominent cerebellar ataxia / MSA-C). However, the clinical and pathological features of MSA are broader than previously considered. Studies in various mouse models and human patients have helped to better understand the molecular mechanisms that underlie the progression of the disease. The pathogenesis of MSA is characterized by propagation of disease-specific strains of αSyn from neurons to oligodendroglia and cell-to-cell spreading in a &quot;prion-like&quot; manner, oxidative stress, proteasomal and mitochondrial dysfunctions, myelin dysregulation, neuroinflammation, decreased neurotrophic factors, and energy failure. The combination of these mechanisms results in neurodegeneration with widespread demyelination and a multisystem involvement that is specific for MSA. Clinical diagnostic accuracy and differential diagnosis of MSA have improved by using combined biomarkers. Cognitive impairment, which has been a non-supporting feature of MSA, is not uncommon, while severe dementia is rare. Despite several pharmacological approaches in MSA models, no effective disease-modifying therapeutic strategies are currently available, although many clinical trials targeting disease modification, including immunotherapy and combined approaches, are under way. Multidisciplinary research to elucidate the genetic and molecular background of the noxious processes as the basis for development of an effective treatment of the hitherto incurable disorder are urgently needed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-28201</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2813</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2813</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2813">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2813/2823" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2813">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2813/2820" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2813" DMDID="DMD_wwu-journals_2813">
+            <mets:fptr FILEID="FILE0_wwu-journals_2813"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2813" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2813"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

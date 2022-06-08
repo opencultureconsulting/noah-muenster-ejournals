@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2860">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Keine Mitspracherechte? Die Entstehung des Berufs des*der Pastoralreferent*in in partizipatorischer Perspektive – eine pastoralgeschichtliche Betrachtung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henkelmann, Andreas</displayForm>
+                        <namePart type="family">Henkelmann</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beruf des*der Pastoralreferent*in feiert je nach Lesart in diesem Jahr sein fünfzigjähriges Bestehen. Einerseits stellt der Beruf rein zahlenmäßig eine nicht wegzudenkende Größe in der Seelsorge vieler Diözesen dar. Andererseits wird die Frage nach seinem Selbstverständnis weiterhin kontrovers diskutiert, obwohl die Deutsche Bischofskonferenz dazu eine Fülle von Dokumenten verabschiedet hat. Der Aufsatz untersucht, warum das für die Gründungsphase des Berufs maßgebliche Dokument, die 1977 von der Deutschen Bischofskonferenz verabschiedete „Ordnung der pastoralen Dienste“, auf so viel Kritik stieß. Im Mittelpunkt steht die These, dass dies auch daher rührte, weil ihre Entstehung von vielen Theologiestudierenden als nicht partizipativ wahrgenommen wurde. Der von der Deutschen Bischofskonferenz initiierte Prozess führte so nicht zur Findung eines konsensfähigen Berufsprofils. Er steht vielmehr für eine weitere Etappe eines Entfremdungsprozess zwischen Laientheolog*innen und Amtskirche. Damit wurde die Grundlage für eine Identitätskrise geschaffen, die den Beruf bis heute prägt.
+Germany has two different professions of lay ecclesial ministers. The article deals with the 50-year-old tradition of the so-called “Pastoralreferenten (PR),“ namely, pastoral associates with a master’s degree in theology. Because of the sheer number of PR, the profession represents a fundamental pillar of modern pastoral care. Nevertheless, its theological meaning and implication are still being controversially discussed, even though the German Bishops’ Conference has published a broad array of documents concerning pastoral ministry from the 1970s to the present day. This article examines why the first – and for the later development groundbreaking – document of the German Bishops‘ Conference from 1977 met with so much critique. The thesis of the article is that it came to such dissent because many lay students of theology did not feel involved in the process. Instead of leading to a consensus on the profile of the new profession, the document served to accelerate the alienation of many lay theologians from the institutional church and its hierarchy. This created a crisis of identity that shapes the profession until today.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>87</start>
+                                <end>104</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27473</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2860</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2860">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2860/2747" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2860" DMDID="DMD_wwu-journals_2860">
+            <mets:fptr FILEID="FILE0_wwu-journals_2860"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

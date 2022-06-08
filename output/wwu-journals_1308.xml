@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1308">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Offenes Fenster – open space. Rückblick und Revue</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt-Rost, Reinhard</displayForm>
+                        <namePart type="family">Schmidt-Rost</namePart>
+                        <namePart type="given">Reinhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein Blick zurück aus evangelischer Perspektive auf 50 Jahre christlichen Lebens in Mitteleuropa(1963–2013) und dessen praktisch-theologische Reflexion erkennt Aufbrüche undUmbrüche, die in der katholischen Kirche mit dem Zweiten Vatikanischen Konzil in Verbindungstehen, und sieht vergleichbare Entwicklungen in den evangelischen Kirchen in Mitteleuropa.Über die Deutungsmacht in den Wandlungsprozessen des 20. Jahrhunderts verfügenspätestens seit dem Zweiten Weltkrieg nicht mehr religiöse Autoritäten, vielmehr haben Sozialbzw.Kulturwissenschaftler die Deutungshoheit erlangt, und ihre Deutungen haben die christlichePraxis durchsetzt, so dass sich selbst ein Papst ihrer bedienen muss.If one reflects on the past fifty years of Christian life in Central Europe from a Protestant perspective(1963–2013) as well is the interpretation of this time from the perspective of PracticalTheology, one will observe departures as well as changes. These developments are connectedto the Second Vatican Council (in the Catholic Church), but one can also detect similar developmentswithin the Protestant churches of this region. Yet, it is no longer the religious authoritieswho interpret these changes, but the task of interpretation is now in the hands of thosestudying cultural and social sciences. They are so overpowering and prevalent in Christianpraxis that even the pope uses them.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>69</start>
+                                <end>73</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12411</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1308</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1308">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1308/1241" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1308" DMDID="DMD_wwu-journals_1308">
+            <mets:fptr FILEID="FILE0_wwu-journals_1308"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

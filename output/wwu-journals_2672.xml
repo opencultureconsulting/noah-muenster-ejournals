@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2672">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neurodevelopmental disorders</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dierssen, Mara</displayForm>
+                        <namePart type="family">Dierssen</namePart>
+                        <namePart type="given">Mara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Developmental brain disorders, a highly heterogeneous group of disorders with a prevalence of around 3% of worldwide population, represent a growing medical challenge. They are characterized by impaired neurodevelopmental processes leading to deficits in cognition, social interaction, behavior and motor functioning as a result of abnormal development of brain. This can include developmental brain dysfunction, which can manifest as neuropsychiatric problems or impaired motor function, learning, language or non-verbal communication. Several of these phenotypes can often co-exist in the same patient and characterize the same disorder. Here I discuss some contributions in 2019 that are shaking our basic understanding of the pathogenesis of neurodevelopmental disorders. Recent developments in sophisticated in-utero imaging diagnostic tools have raised the possibility of imaging the fetal human brain growth, providing insights into the developing anatomy and improving diagnostics but also allowing a better understanding of antenatal pathology. On the other hand, advances in our understanding of the pathogenetic mechanisms reveal a remarkably complex molecular neuropathology involving a myriad of genetic architectures and regulatory elements that will help establish more rigorous genotype-phenotype correlations.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-26457</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2672</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2672</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2672">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2672/2645" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2672">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2672/2642" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2672" DMDID="DMD_wwu-journals_2672">
+            <mets:fptr FILEID="FILE0_wwu-journals_2672"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2672" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2672"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

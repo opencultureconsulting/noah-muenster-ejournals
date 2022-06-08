@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2231">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Marrying is not only sin&quot; - Ergebnisse einer Interviewstudie zum Ehe- und Familienleben in der Diözese Yendi</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bebber, Maria</displayForm>
+                        <namePart type="family">Bebber</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die vorgestellte Interviewstudie zum Familien- und Eheleben in der Diözese Yendi in Nordghana fragt im Anschluss an die Inhalte der Familiensynoden 2014/2015 nach Herausforderungen für christliche Familien und Eheleute sowie nach möglichen Umgangsweisen mit diesen Herausforderungen. Das Anliegen der Studie ist es, zur theologischen Reflexion des Familien- und Ehelebens aus einer weltkirchlichen Perspektive und aus Sicht der Beteiligten beizutragen. Der folgende Artikel stellt die zentralen Ergebnisse zusammenfassend vor.The study presented is about marriage and family life in the diocese of Yendi in Northern Ghana. Following the synod on the family, interviews were conducted to survey challenges for Christian families and Christian married couples as well as develop strategies on how to deal with these challenges. It is the purpose of this study to contribute to the theological dialogue about family life and married life seen from the perspective of the Church worldwide and the people involved. The main results are presented in the following article.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>243</start>
+                                <end>255</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21316</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2231</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2231">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2231/2131" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2231" DMDID="DMD_wwu-journals_2231">
+            <mets:fptr FILEID="FILE0_wwu-journals_2231"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

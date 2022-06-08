@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4017">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Krise des demokratischen Kapitalismus</title>
+                        <subTitle>Gibt es eine Logik stetigen Abstiegs und wenn ja, was hat das mit uns zu tun?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vormbusch, Uwe</displayForm>
+                        <namePart type="family">Vormbusch</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wolfgang Streeck hat eine wissenschaftliche Abrechnung geschrieben. Diese nimmt die Form einer Gesellschaftsdiagnose an, die einen kaum aufzuhaltenden Verfall kapitalistischer Demokratien westlicher Prägung behauptet. Dieser Verfall basiert primär auf der »Befreiung« der Märkte aus den spezifischen Institutionen, die nach dem Ende des Zweiten Weltkriegs zu einer sozialen Zähmung des Kapitalismus beitrugen. Streeck knüpft in dieser Hinsicht an die Arbeiten von Karl Polanyi zur Durchsetzung der Marktökonomie im England des 19. Jahrhunderts an. Im Gegensatz zu Polanyi beschränkt sich Streeck allerdings auf die politischen und ökonomischen Aspekte dieses Prozesses. Die simultan stattfindenden kulturellen und normativen Wandlungsprozesse werden von ihm allenfalls gestreift, z.B. mit dem Hinweis auf den Kampf der »indignados« gegen Austerität und Entwürdigung (218f.), oder mit dem Hinweis, dass das Projekt einer »hayekianischen « Diktatur des Marktes davon abhänge, dass die Subjekte die modelltheoretisch hergeleitete Denkweise übernähmen, Marktgerechtigkeit und soziale Gerechtigkeit seien deckungsgleich (235). Diese Nichtbeachtung kultureller und normativer Wandlungsprozesse ist meiner Ansicht nach die Grundlage der von Streeck vorgenommenen Trennung in »Markt«- und »Wahlvolk«, sie steht einer plausiblen Deutung des Verfalls des demokratischen Kapitalismus allerdings im Wege.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>133</start>
+                                <end>137</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4017</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4017</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4017">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4017/4063" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4017" DMDID="DMD_wwu-journals_4017">
+            <mets:fptr FILEID="FILE0_wwu-journals_4017"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

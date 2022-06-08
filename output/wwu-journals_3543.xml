@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3543">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Sorge um das Wohnen in der Zukunft </title>
+                        <subTitle>Plädoyer für eine Ethik des Wohnens</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hasse, Jürgen</displayForm>
+                        <namePart type="family">Hasse</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wohnen geht in seinem Wesen weit über den kurzzeitigen bis dauerhaften Aufenthalt in den Zimmern einer Behausung hinaus. Mit Martin Heidegger wird es als existenzielles Verhältnis des Subjekts zu Gegenden verstanden. Indem die Wohnenden zur Ermöglichung ihres Lebens an konkreten Orten anderer Menschen sowie natürlicher aber limitierter Ressourcen bedürfen, kommt die Sorge in das Wohnen und mit ihr die Last der Verantwortlichkeit. Der Beitrag plädiert deshalb für eine Ethik des Wohnens. Als deren Eckpunkte werden die Prinzipien der Schonung (Nachhaltigkeit) und Dankbarkeit diskutiert. Am Beispiel der existenziellen Bedeutung von Küche und Herd konkretisiert sich die Aufgabe einer Ethik des Wohnens, werden in der täglichen Ernährung doch die Weichen im Austauschverhältnis zur Natur gestellt. Ethik strebt dem Ziel der Gewinnung von Macht über das eigene Selbst zu. Sie tritt damit der Unterwerfung unter die Imperative der „Kulturindustrie“ (Adorno/Horkheimer) sowie die Gesten der Verführungen allein wachstumsorientierter Märkte entgegen.</abstract>
+                    <abstract lang="eng">In its essence, living goes far beyond the temporary to permanent stay in the rooms of a dwelling. With Martin Heidegger, it is understood as an existential relationship of the subject to areas. Dwellers need other people as well as natural resources to enable them to live in concrete places. But what can be taken from nature is limited. Thus, care comes into the home and with it the burden of responsibility. The article therefore argues for an ethics of housing. The principles of protection (sustainability) and gratitude are discussed as their cornerstones. The example of the existential impact of kitchen and hearth concretises the task of an ethics of living, because in daily nutrition, the course is set in the exchange relationship with nature. Ethics strives towards the goal of gaining power over one’s self. It thus opposes submission to the imperatives of the “culture industry” (Adorno/Horkheimer) and the gestures of seduction of merely growth-minded markets.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>135</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-36951</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3543</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3543</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3543">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3543/3695" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3543" DMDID="DMD_wwu-journals_3543">
+            <mets:fptr FILEID="FILE0_wwu-journals_3543"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

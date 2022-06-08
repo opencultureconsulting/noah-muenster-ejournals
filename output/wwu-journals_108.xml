@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_108">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Brüchige Gerechtigkeit. Einkommensgestaltung und Lohngerechtigkeit in sozialethischer Perspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meireis, Torsten</displayForm>
+                        <namePart type="family">Meireis</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Artikel erörtert die Frage der Lohngerechtigkeit unter gegenwärtigen Bedingungen und kommt zu dem Schluss, dass diese vor allem eine Symmetrisierung der Verhandlungsbedingungen am Markt impliziert, die angesichts der Aushöhlung der Flächentarifbindung auf die Ergänzung des Konzepts der gewerkschaftlichen Organisation durch staatliche Regelungen angewiesen ist. Als Hintergrund zeitgenössischer Intuitionen wird das mit der Arbeitsgesellschaft entstehende, wenn auch selten eingelöste Arbeitsversprechen identifiziert, das für die Beteiligung an der gesellschaftlichen Reproduktion angemessene materielle Teilhabe, soziale Wertschätzung, politische Teilnahme und ein gutes Leben in Aussicht stellt und im zwanzigsten Jahrhundert durch Massenproduktion und -konsum wie den wohlfahrtsstaatlichen Kompromiss anfänglich eingelöst, gegenwärtig aber wieder brüchig wird. Die Erörterung aktueller Lohnprobleme – unter anderem nicht bedarfsdeckende Niedriglöhne, Lohnspreizung und genderbasierte Lohnungleichheit – und gängige Kriterien des gerechten Lohnes – Leistungs-, Bedürfnis- und Tauschgerechtigkeit – zeigt die Notwendigkeit der Ermöglichung symmetrischerer Verhandlungsbedingungen zwischen Arbeitnehmern und Unternehmensorganisationen, die vor allem in der Gewährleistung einer grundlegenden sozialen Sicherung, dem Zugriff auf kulturelles Kapital und Expertise sowie einer realistischen Exit-Option bestehen.AbstractThis paper discusses the question of just wages in contemporary industrial societies. As backdrop of moral intuitions in that field, the labor promise must be considered. As labor society expands, it promises prosperity, recognition, participation and a good life in return for partaking in society’s labor. After the Second World War, thanks to mass production and the welfare state, this promise was partly honored, but presently, due to deregulation and the trade unions’ loss of power, its fulfilment seems seriously endangered. A short discussion of contemporary wage problems (working poor, gender inequality etc.) and classic criteria of just wages (desert, need, commutative justice) shows the need for bolstering the position of less potent labor market participants. In conclusion, just wages imply more symmetrical bargaining positions – to achieve this in times of deregulation, which entails the decline of the trade unions’ bargaining power, potential employees must be able to rely on basic social security, access to cultural capital and a realistic exit-option, all of which might be furthered by an unconditional basic income.urn:nbn:de:hbz:6:3-2012012783</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012012783</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_108</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_108">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/108/99" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_108" DMDID="DMD_wwu-journals_108">
+            <mets:fptr FILEID="FILE0_wwu-journals_108"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

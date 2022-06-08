@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4194">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Gewalttheorie von Jan Philipp Reemtsma</title>
+                        <subTitle>Programmatische Impulse für eine Allgemeine Soziologie der Gewalt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hartmann, Eddie</displayForm>
+                        <namePart type="family">Hartmann</namePart>
+                        <namePart type="given">Eddie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bislang liegen nur wenige soziologische Arbeiten vor, die es erlauben würden, das Forschungsprogramm einer Allgemeinen Soziologie der Gewalt ernsthaft in Gang zu setzen. Den elaboriertesten, in seinem analytischen Potenzial aber bislang eher unausgeschöpften Entwurf hat Jan Philipp Reemtsma 2008 mit seinem Buch Vertrauen und Gewalt vorgelegt. Der vorliegende Beitrag streicht daher die programmatischen Impulse heraus, die Reemtsmas Gewalttheorie für die Entwicklung einer Allgemeinen Soziologie der Gewalt liefert. Zu diesem Zweck wird zunächst Gesa Lindemanns Kritik an Reemtsma aufgegriffen, um diesen gegen den Einwand zu verteidigen, hier läge eine begriffliche Engführung auf physische Gewalt aus der Beobachterperspektive vor. Anschließend wird der historisierende und relationale Zuschnitt der Theorieanalage Reemtsmas herausgearbeitet, indem beide Ansätze konstruktiv miteinander verknüpft werden. Abschließend werden die analytischen Vorzüge von Reemtsmas Ansatz gegenüber Lindemanns normativistisch-funktionalistischem Konzept der Verfahrensordnungen der Gewalt hervorgehoben, die sich insbesondere aus dem machttheoretischen Zuschnitt von Reemtsmas Gewalttheorie ergeben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>74</start>
+                                <end>85</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4194</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4194</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4194">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4194/4276" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4194" DMDID="DMD_wwu-journals_4194">
+            <mets:fptr FILEID="FILE0_wwu-journals_4194"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

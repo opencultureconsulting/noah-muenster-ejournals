@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1397">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Flüchtlinge als Gnadengabe an eine verbürgerlichte Religion? Gefährliche Erinnerung an die Gerechtigkeit Gottes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Panhofer, Johannes</displayForm>
+                        <namePart type="family">Panhofer</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Während Papst Franziskus Migranten in der Mitte der Kirche sehen will, bewirken Flüchtlingeim kollektiven Glaubensbewusstsein mancher Pfarrgemeinden keine Resonanz. Der vorliegendeBeitrag fragt nach möglichen Ursachen für eine solche Abwehrhaltung und ob Flüchtlingenicht auch ein Geschenk für christliche Gemeinschaften und ein Impuls zur Evangelisierungsein können. Die biblische Erinnerung zeigt sich dabei als gefährlich und heilsamzugleich: Flüchtlinge – als die radikal Armen – rütteln an einer verbürgerlichten Form desGlaubens. Sie machen die anthropologische Grunderfahrung des Aufeinander-angewiesen-Seins neu bewusst und eröffnen in der Erinnerung an die verheißene Gerechtigkeit Gottes einneues solidarisches Handeln.While Pope Francis strives for an acceptance of migrants in the center of the Church, parishcommunities often find it difficult to realize this ambition. This contribution both asks for possiblereasons for such a defensive attitude and whether refugees could be experienced as a giftfor Christian communities and as an impulse for evangelization. In this context, the biblicalwitness is dangerous as well as healing: refugees – as the radically poor – upset the conventionalform of faith. They cause an awareness of the basic experience of interrelationship betweenpeople and open up a new way of solidarity once we remember the justice promised inthe Kingdom of God.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>221</start>
+                                <end>235</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13168</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1397</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1397">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1397/1316" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1397" DMDID="DMD_wwu-journals_1397">
+            <mets:fptr FILEID="FILE0_wwu-journals_1397"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3555">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christian Social Ethics in Romania</title>
+                        <subTitle>Assessing the Status Quaestionis</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Christian Social Ethics in Romania</title>
+                        <subTitle>Assessing the Status Quaestionis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marksteiner-Ungureanu, Cezar</displayForm>
+                        <namePart type="family">Marksteiner-Ungureanu</namePart>
+                        <namePart type="given">Cezar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Länderbericht untersucht die Christliche Sozialethik (CSE) und das sozialethische Denken in Rumänien. Hauptaugenmerk liegt dabei auf der gegenwärtigen Situation der Christlichen Sozialethik in akademischen und kirchlichen Kontexten sowie auf ihrem traditionellen Verständnis in der orthodoxen Welt. Darüber hinaus werden Herausforderungen hinsichtlich zentraler Fragen und Themen für die CSE in Rumänien sowie Potenziale und Desiderate für die weitere Vernetzung der CSE in (Ost-)Europa und darüber hinaus behandelt. Schließlich wird die Bedeutung und Notwendigkeit der Etablierung eines sozialethischen Diskurses in Rumänien betont, insbesondere von Seiten der rumänisch-orthodoxen Kirche als der dominierenden Konfession.</abstract>
+                    <abstract lang="eng">This brief country report explores Christian Social Ethics (CSE) and Social Ethical Thinking in Romania. The main focus is on the current status of Christian social ethics in academic and ecclesial contexts, as well as on its traditional understanding in the Orthodox world. Moreover, this paper treats challenges concerning central questions and topics for CSE in Romania, as well as potentials and desiderata for further networking of CSE in (Eastern) Europe and beyond. Furthermore, the importance and necessity to establish an articulated social ethical discourse in Romania, especially from the Romanian Orthodox Church as the dominant denomination is being stressed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>379</start>
+                                <end>391</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37076</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3555</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3555</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3555">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3555/3707" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3555" DMDID="DMD_wwu-journals_3555">
+            <mets:fptr FILEID="FILE0_wwu-journals_3555"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,162 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3128">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation als zentrales Thema interdisziplinärer Nachhaltigkeitsforschung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohn, Carolin</displayForm>
+                        <namePart type="family">Bohn</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fuchs, Doris</displayForm>
+                        <namePart type="family">Fuchs</namePart>
+                        <namePart type="given">Doris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gumbert, Tobias</displayForm>
+                        <namePart type="family">Gumbert</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hasenkamp, Victoria</displayForm>
+                        <namePart type="family">Hasenkamp</namePart>
+                        <namePart type="given">Victoria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heimbach-Steins, Marianne</displayForm>
+                        <namePart type="family">Heimbach-Steins</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuhn, Lilith</displayForm>
+                        <namePart type="family">Kuhn</namePart>
+                        <namePart type="given">Lilith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Salaske, Sebastian</displayForm>
+                        <namePart type="family">Salaske</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sarpong, Larissa</displayForm>
+                        <namePart type="family">Sarpong</namePart>
+                        <namePart type="given">Larissa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schrüfer, Gabriele</displayForm>
+                        <namePart type="family">Schrüfer</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwarze, Sonja</displayForm>
+                        <namePart type="family">Schwarze</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Siepker, Lena</displayForm>
+                        <namePart type="family">Siepker</namePart>
+                        <namePart type="given">Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steinhäuser, Cornelia</displayForm>
+                        <namePart type="family">Steinhäuser</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">84</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Partizipation ist eine zentrale Voraussetzung für eine erfolgreiche Nachhaltigkeitstransformation in demokratischen Kontexten. Das ist Konsens in Politik und Wissenschaft und spiegelt sich in vielen Positionspapieren und Leitbildern sowie unzähligen Forschungsprojekten zu dem Thema wider. Gleichzeitig zeigt die Vielzahl an diesbezüglichen Forschungsprojekten und Publikationen jedoch auch die Herausforderungen gelingender Partizipation auf. Da Nachhaltigkeit ein inhärent interdisziplinäres Thema ist, ist es wichtig, Perspektiven unterschiedlicher Disziplinen auf Aspekte der Partizipation im Nachhaltigkeitskontext zusammenzubringen und diese verschiedenen Facetten zu beleuchten. Das hier vorliegende Papier stellt sich diesem Ziel. Es vereint Geograph*innen, Landschaftsökolog*innen, Politikwissenschaftler*innen, Soziolog*innen und Theolog*innen in der Identifikation relevanter konzeptioneller Fragestellungen und empirischer Entwicklungen. Die einzelnen Kapitel nehmen entsprechend aus unterschiedlichen disziplinären und interdisziplinären Perspektiven die Auseinandersetzung mit Bedarfen, Bedingungen oder Barrieren für Partizipation im Nachhaltigkeitskontext auf.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>ZIN Diskussionspapiere</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zentrum für Interdisziplinäre Nachhaltigkeitsforschung (ZIN)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-9895</identifier>
+                        <part>
+                            <detail type="issue">
+                                <number>01</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>84</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zin-2020-01</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3128</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3128">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zin/article/download/3128/3116" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3128" DMDID="DMD_wwu-journals_3128">
+            <mets:fptr FILEID="FILE0_wwu-journals_3128"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

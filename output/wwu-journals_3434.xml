@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3434">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildung ohne Grenzen – Bildung für Ausgegrenzte</title>
+                        <subTitle>Ein neues Lehrformat an der KUEI: Jesuit worldwide learning –  Higher Education at the margins by digital learning</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meier, Uto</displayForm>
+                        <namePart type="family">Meier</namePart>
+                        <namePart type="given">Uto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tsoi, Marina</displayForm>
+                        <namePart type="family">Tsoi</namePart>
+                        <namePart type="given">Marina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit der Enzyklika „Veritatis Gaudium“ von 2017 von Papst Franziskus kommt ein reformierter Bildungsauftrag auf die katholischen Hochschulen und Universitäten zu, der ein gewisses neues Bildungsverständnis für die akademische Arbeit eröffnet und auch einfordert. Die Realisierung dieses erweiterten Auftrages katholischer Universitäten über die Prinzipien einer globalisierten Solidarität, einer neuen Dialogizität, einer entschiedeneren Inter- und Transdisziplinarität sowie einer neuen Netzwerkarbeit, soll „Lösungen auf höherer Ebene“ aufzeigen, die eine „Mystik des Wir“ in der gespaltenen globalen Welt auf den Weg bringt für eine Humanisierung der einen Welt. Die Katholische Universität Eichstätt-Ingolstadt wagt in einer neuen Kooperation mit dem „Jesuit Worldwide Learning“- Projekt diesen Auftrag in einer international aufgestellten Bildungsoffensive für Menschen in marginalisierten Kontexten in Flüchtlingscamps umzusetzen. Die Fakultät für Religionspädagogik und Kirchliche Bildungsarbeit übernimmt dabei federführend für mehrere Bildungsformate diese Pilotfunktion über digital gesteuerte Lernprogramme und in Zusammenarbeit mit „Vor-Ort-Lehrkräften“. Der Aufsatz skizziert die theologische Legitimierung, stellt das pädagogische Konzept vor und beschreibt die konkrete Umsetzung in dem exemplarisch vorgestellten Zertifikatskurs des „Learning Facilitators“.
+Pope Francis&apos; 2017 Apostolic Constitution &quot;Veritatis Gaudium&quot; was a reformed educational imperative directed toward Catholic colleges and universities. It opened up but also demanded a certain revised understanding of academic education and training. The realization of this expanded imperative of Catholic universities serves to launch a &quot;mysticism of we&quot; in the divided global world, promoting the humanization of the one world via the principles of globalized solidarity, a new dialogicity, a more decisive interdisciplinarity and transdisciplinarity, as well as a new way of networking leading to “solutions on a higher level.” In a new cooperation with the &quot;Jesuit-Worldwide Learning&quot; project, the Catholic University of Eichstaett-Ingolstadt has decided to implement this imperative in an internationally positioned educational offensive for people living in marginalized contexts such as refugee camps. The Faculty of Religious Education has assumed a leading role and a pilot function for several educational formats via digitally presented learning programs and in cooperation with “on-site teachers.” The paper outlines the theological legitimation, presents the pedagogical concept, and describes the concrete implementation of an exemplary presented certificate course for “Learning Facilitator.”</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>169</start>
+                                <end>188</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34350</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3434</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3434">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3434/3435" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3434" DMDID="DMD_wwu-journals_3434">
+            <mets:fptr FILEID="FILE0_wwu-journals_3434"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

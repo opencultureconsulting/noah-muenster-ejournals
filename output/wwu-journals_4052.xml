@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4052">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Institutionendynamik. Zweck-, System- und Wertrationalität sozialen Handelns</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stachura, Mateusz</displayForm>
+                        <namePart type="family">Stachura</namePart>
+                        <namePart type="given">Mateusz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Welche institutionelle Dynamik prägt die Entwicklung moderner Gesellschaften? Im ökonomischen Forschungsprogramm reagieren zweckrationale Akteure auf einen zunehmenden Umweltdruck mit dem Abbau institutioneller Normen. In der Systemtheorie reagieren soziale Systeme auf einen zunehmenden Umweltdruck mit dem Ausbau und der Verdichtung institutioneller Programme. Die Einseitigkeiten der jeweiligen Modellprognose (Institutionalisierung/Deinstitutionalisierung) legen es nahe, nach vermittelnden Alternativen Ausschau zu halten. Solch eine Alternative wird in einer Theorie sozialer »Spiele« identifiziert, die sich im Anschluss an Boltanski/Chiapello entwickeln lässt. Spiele sind Komplexe regelgeleiteten Handelns, das zugleich kompetitiv und normativ reguliert ist. Je nach der Spielkonstellation (Geschlossenheit oder Distinktionsschwäche) führt der zunehmende Konkurrenzdruck dabei entweder zu einer Verschärfung oder einer Entschärfung der institutionellen Spielregeln des Handelns.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>98</start>
+                                <end>115</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2013-4052</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4052</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4052">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4052/4098" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4052" DMDID="DMD_wwu-journals_4052">
+            <mets:fptr FILEID="FILE0_wwu-journals_4052"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

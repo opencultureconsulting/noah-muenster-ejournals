@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4024">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf Karl Polanyis Spuren</title>
+                        <subTitle>Anmerkungen zu Wolfgang Streecks Krisendiagnose</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Büttner , Sebastian</displayForm>
+                        <namePart type="family">Büttner</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Jahr 1944, mitten in den Wirren des Zweiten Weltkriegs, veröffentlichte Karl Polanyi sein großes, monumentales Werk »The Great Transformation«, in dem er den Zusammenbruch der Weltwirtschaft zu Beginn des 20. Jahrhunderts und die anschließenden sozialen Verwerfungen retrospektiv zu erklären versuchte (vgl. Polanyi 1995 [1944]). Polanyi greift in seinen Analysen weit zurück. Genauer gesagt, bis an die Anfänge der Industrialisierung in Großbritannien im 18. Jahrhundert. Und er rekonstruiert die geistigen Transformationen dieser Zeit von der praktischen Philosophie der schottischen Moralphilosophen hin zur Ideologie des Wirtschaftsliberalismus – einem Denken, das den Menschen und alles Gesellschaftliche den Mechanismen der Marktwirtschaft unterordnet und dessen gesellschaftliche Entwicklungsvisionen und Heilsversprechen einzig und allein auf die vollständige Durchsetzung von Marktkräften ausgerichtet sind. Polanyis Buch ist somit mehr als eine historische Rekonstruktion des Aufstiegs und des Scheiterns der ersten Phase der Industrialisierung. Es ist vielmehr eine radikale Abrechnung mit den Ideen und den verheerenden sozialen Auswirkungen des Wirtschaftsliberalismus. Es ist darüber hinaus der Versuch, dem Wirtschaftsliberalismus eine alternative und auch lebensnähere Sicht des Wirtschaftslebens gegenüber zu stellen und den Markt durch den Hinweis auf die sozialen Grundlagen des Wirtschaftens wieder zurück in die Gesellschaft zu holen. Und es ist auch der Vorschlag einer Gesellschaftstheorie, die im Ringen zwischen marktschaffenden Kräften und deren Gegenbewegung die grundlegende Entwicklungsdynamik moderner kapitalistisch geprägter Gesellschaften erkennt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>56</start>
+                                <end>66</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4024</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4024</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4024">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4024/4070" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4024" DMDID="DMD_wwu-journals_4024">
+            <mets:fptr FILEID="FILE0_wwu-journals_4024"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

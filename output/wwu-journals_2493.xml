@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2493">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Einer </nonSort>
+                        <title>strahlenden Zukunft entgegen</title>
+                        <subTitle>Zur utopischen und ideologischen Rhetorik der Nachhaltigkeit in der Endlagerung hoch radioaktiver Abfallstoffe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schürkmann, Christiane</displayForm>
+                        <namePart type="family">Schürkmann</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit Bezug auf den Brundtland-Bericht, den Weltgipfel in Rio de Janeiro 1992 und die Ethik von Hans Jonas beruft sich die von 2014 bis 2016 von Bund und Ländern eingesetzte Kommission Lagerung hoch radioaktiver Abfallstoffe auf Nachhaltigkeit als Leitbild zur Bestimmung eines Standortes für die bestmögliche Aufbewahrung von radioaktivem Abfall. Dabei sehen sich die Akteure mit den Herausforderungen der extrem langen Halbwertszeiten dieser radioaktiven Stoffe konfrontiert, was den Einbezug einer Zukunft jenseits heutiger Gesellschaftsformen erfordert. Auf Basis einer dokumentenanalytischen Forschung diskutiert der Beitrag, wie Nachhaltigkeit im Abschlussbericht der Kommission rhetorisch eingesetzt wird mit Blick auf drei Dimensionen: 1) Ethos – Nachhaltigkeit wird als Haltung gefordert, die den verantwortungsbewussten Menschen adressiert; 2) Pathos – der Bezug auf Nachhaltigkeit setzt identifizierendes Potenzial durch die Erzeugung von Betroffenheit frei; 3) Topos – Nachhaltigkeit fungiert mitunter als schematische Formel in der Bemühung um Konsensproduktion. An einer solchen Rhetorik der Nachhaltigkeit wird die soziopolitisch und sozioökologisch brisante Frage der Gestaltung postnuklearer Gesellschaft zwischen Ideologie und Utopie beobachtbar.
+Taking into account the Brundtland Report of 1987, the Rio de Janeiro Earth Summit of 1992 and Hans Jonas‘ ethics in the endeavor of estimating the best and most secure place for the disposal of radioactive waste the German Commission for the Disposal of High-active Waste, working from 2014 to 2016, takes sustainability as its guiding principle and key objective. Most challenging are the to some extent extremely long half-lives of radioactive substances, demanding to consider possible futures beyond contemporary forms of society. On the basis of empirical research and document analysis this paper analyses the argumentative use of sustainability in the final report of the commission. The rhetoric of sustainability encompasses three dimensions: 1) Ethos – Sustainability is demanded as an attitude addressing and appealing urgently to responsible-minded humans; 2) Pathos – Taking sustainability as a key concept elicits concern and thus initiates the potential to activate people and to make them relate to future generations; 3) Topos – Sustainability also serves as a schematic formula while negotiating a consensus, since the question of final storage will most likely provoke social conflicts. Tracing such a rhetoric of sustainability serves to illustrate the socio-politically and social-ecologically pressing issue of the formation of a post-nuclear society between ideology and utopia.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>111</start>
+                                <end>134</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-23715</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2493</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2493</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2493">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2493/2371" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2493" DMDID="DMD_wwu-journals_2493">
+            <mets:fptr FILEID="FILE0_wwu-journals_2493"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

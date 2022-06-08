@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1547">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;... sollte man sich nicht nötigen lassen, nach den Sternen zu greifen.&quot; Zur normativen Rationalität von Wallraffs katholischer Gesellschaftsethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Möhring-Hesse, Matthias</displayForm>
+                        <namePart type="family">Möhring-Hesse</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungWährend seine Kollegen für die Katholische Soziallehre noch vehement das Naturrecht in Anspruch nahmen, entsorgte der Jesuitenpater Hermann Josef Wallraff, Lehrstuhlnachfolger von Oswald von Nell-Breuning, diese Soziallehre als ein offenes „System genereller Sätze“ – mit allenfalls geringer Relevanz für gesellschaftliche Fragen. Für diese sah er die politisch engagierten ChristInnen mit ihren Wertentscheidungen verantwortlich, wobei niemand gegenüber anderen ein Mehr an Wahrheit beanspruchen oder für sich die Soziallehre der Kirche einnehmen dürfe. In diesem Beitrag wird Wallraffs zu seinen Lebzeiten kaum bemerktes non-kognitivistisches Ethikkonzept vorgestellt und in konzeptueller Nähe zum „Kritischen Rationalismus“ verortet; Impulse für die gegenwärtige Sozialethik werden ausgewiesen.AbstractWhile his colleagues still invoked natural law for Catholic social teaching, the Jesuit Hermann Josef Wallraff, successor of Oswald von Nell-Breuning, disposed of this social doctrine as an open “system of general propositions”, of little or no relevance for social questions and political praxis. With regard to these questions, Wallraff considered the politically engaged Christians and their value decisions responsible, while no one had a greater claim to truth than any other. In this contribution, Wallraff’s non-cognitivist concept of ethics is presented and considered in conceptual proximity to Critical Rationalism. Stimuli for contemporary social ethics will be expounded.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14495</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1547</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1547">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1547/1449" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1547" DMDID="DMD_wwu-journals_1547">
+            <mets:fptr FILEID="FILE0_wwu-journals_1547"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

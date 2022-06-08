@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2316">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Pazifismus und gerechtem Krieg? Der „gerechte Frieden“ als Leitbild der deutschsprachigen Friedensethik und Alternative zur Tradition des bellum iustum</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hidalgo, Oliver</displayForm>
+                        <namePart type="family">Hidalgo</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Formulierung der Idee eines „gerechten Friedens“, wie sie die christliche Friedensethik in Deutschland in den letzten Jahrzehnten geleistet hat, wurde als Gegenvorschlag zur (katholischen) Tradition des „gerechten Krieges“ entwickelt, ohne in seiner Konsequenz einem strikten Pazifismus zu unterliegen. Gleichwohl würde es zu erheblichen Missverständnissen führen, den „gerechten Frieden“ als Kompromiss oder Mittelweg zwischen bellum iustum und absoluter Gewaltfreiheit verstehen zu wollen. Stattdessen will der vorliegende Beitrag demonstrieren, dass der „gerechte Frieden“ seine normative Überzeugungskraft erst zu entfalten vermag, wenn sein unabdingbarer Gegensatz zum Prinzip des „gerechten Krieges“ hypostasiert wird. In seiner Argumentation nimmt der Aufsatz vor allem Anleihen bei Immanuel Kant, um jene spezifische theoretische Frontstellung zu verdeutlichen.</abstract>
+                    <abstract lang="eng">The theoretical framework of “just peace”, as developed by the Christian peace ethicsduring the last decades, obviously presents an alternative to the Catholic tradition of“just war” without demanding a strict pacifism in return. However, it would be completelymisleading if we understood “just peace” as a sort of compromise, balance or mediumbetween the classical concept of bellum iustum and the absolute claim for non-violence.In contrast, this contribution attempts to demonstrate that “just peace” is able to unfoldits normative persuasiveness only by hypostatizing its indispensable oppositionto the principle of “just war”. In order to provide a consistent line of argumentation,the article predominantly refers on Immanuel Kant to illustrate this specific theoreticaland conceptual implication.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>61</start>
+                                <end>84</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22063</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2316</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2316">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2316/Hidalgo" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2316" DMDID="DMD_wwu-journals_2316">
+            <mets:fptr FILEID="FILE0_wwu-journals_2316"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

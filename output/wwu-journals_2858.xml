@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2858">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation lernen – postmigrantisch Kirche werden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bünker, Arnd</displayForm>
+                        <namePart type="family">Bünker</namePart>
+                        <namePart type="given">Arnd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Ergebnisse pastoralsoziologischer Forschung zu christlicher Migration in der Schweiz zeigen die Notwendigkeit, für das Anliegen der Partizipation christlicher Migrationsgemeinden einen neuen Referenzrahmen zu suchen. Dieser muss sich der dualen Logik „einheimisch-migrantisch“ entziehen. Diese Logik, die von einer normativen Hegemonie der „einheimischen Kultur“ ausgeht, wird nämlich durch das Selbstverständnis und die Zielsetzungen christlicher Migrationsgemeinden konterkariert. In Anlehnung an das Konzept einer postmigrantischen Gesellschaft (Naika Foroutan) erscheint der Referenzrahmen des Postmigrantischen auch für die Kirchen als eine ebenso realistische und hinsichtlich der Spielräume der Partizipation weiterführende Perspektive.
+The results of pastoral-sociological research on Christian migration in Switzerland have revealed the need to seek a new frame of reference for the participation of Christian migrant communities. This framework must reject the dual logic “native/migrant,” which is based on the normative hegemony of indigenous culture and is in fact contradicted by the self-image and objectives of Christian migration communities. In accordance with the concept of a postmigrant society (Naika Foroutan), the frame of reference of the postmigrant time appears to be valid also for the churches as a both realistic and, within the scope of participation, expedient perspective.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>59</start>
+                                <end>74</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27459</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2858</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2858">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2858/2745" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2858" DMDID="DMD_wwu-journals_2858">
+            <mets:fptr FILEID="FILE0_wwu-journals_2858"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

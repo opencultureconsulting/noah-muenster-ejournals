@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3692">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 03.2021.035</title>
+                        <subTitle>Ilias Taxidis, The Ekphraseis in the Byzantine Literature of the 12th Century: (Hellenica 90). Alessandria: Edizioni dell’Orso 2021.</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>ByzRev 03.2021.035</title>
+                        <subTitle>lias Taxidis, The Ekphraseis in the Byzantine Literature of the 12th Century: (Hellenica 90). Alessandria: Edizioni dell’Orso 2021.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tomadaki, Maria</displayForm>
+                        <namePart type="family">Tomadaki</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger"> 
+Ilias Taxidis, The Ekphraseis in the Byzantine Literature of the 12th Century (Hellenica 90). Alessandria: Edizioni dell’Orso 2021. XXXVI, 276 pp. – ISBN: 978-88-3613-077-1. ISSN: 1825-3490 (€ 42.00)</abstract>
+                    <abstract lang="eng">&amp;nbsp;
+Ilias Taxidis, The Ekphraseis in the Byzantine Literature of the 12th Century (Hellenica 90). Alessandria: Edizioni dell’Orso 2021. XXXVI, 276 pp. – ISBN: 978-88-3613-077-1. ISSN: 1825-3490 (€ 42.00)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>288</start>
+                                <end>291</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/byzrev-2021-3692</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3692</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3692">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/3692/3730" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3692" DMDID="DMD_wwu-journals_3692">
+            <mets:fptr FILEID="FILE0_wwu-journals_3692"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

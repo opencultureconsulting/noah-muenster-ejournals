@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2857">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Haben zum Sein</title>
+                        <subTitle>Partizipation in einer synodalen Kirche</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Christian</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der anstehende pastorale Wechsel von einem klerikalen in einen synodalen Gesamtrahmen von Kirche erfordert einen dreifachen Übergang: vom Teilnehmen zum Teilhaben („Macht teilen“), vom Teilhaben zum Teilsein („Kirche überdenken“) und vom Teilsein zur Jüngersein („Nachfolge leben“). Von zentraler Bedeutung für diesen Framewechsel ist eine Erkenntnis Michel de Certeaus: Es geht nicht ohne die Anderen.
+The upcoming pastoral change leading from a clerical to a synodal framework of the Church is accompanied by three different transitions: from attendance to participation (“sharing power”), from participation to inclusion (“rethinking the Church”), and from inclusion to discipleship (“living succession”). Central to this change of framework is an insight of Michel de Certeau: Do nothing without the others.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>37</start>
+                                <end>57</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27441</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2857</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2857">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2857/2744" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2857" DMDID="DMD_wwu-journals_2857">
+            <mets:fptr FILEID="FILE0_wwu-journals_2857"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

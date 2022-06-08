@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2303">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sterben, Tod und Trauer in der Schweiz aus seelsorglicher Perspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fux, Manuela</displayForm>
+                        <namePart type="family">Fux</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Sterben, Tod und Trauer sind allgegenwärtige Themen in unserem Alltag und im Weltgeschehen. Dievielseitigen Entwicklungen in der europäischen Gesellschaft und der Fortschritt in der geisteswissenschaftlichenForschung bedingen, das Konzept von Seelsorge im Allgemeinen und das Konzept derKrankenhausseelsorge im Konkreten in diesem Themenbereich zu überarbeiten. Zur Kenntnis zunehmen sind dabei neue soziologische und psychologische Forschungsergebnisse, damit sich darausein Gesamtbild der notwendigen Grundkenntnisse für Seelsorgende ergibt. Darüber hinaus entwickleich auf Grundlage der pastorale d’engendrement und anderer theologischer Ansätze eine pastoraleHaltung, die den veränderten Ansprüchen angemessen und auf den schweizerischen Kontext angepasstist. In diesem Artikel stellt sich die Frage, auf welcher Grundlage meine theologischen Überlegungenfußen werden.Dying, death and grief are common themes in our everyday life and world affairs. The different developmentsin European society and the progress in humanities research demand a revision of the conceptof pastoral care in general and the concept of hospital pastoral care in this specific area. Newsociological and psychological research results are to be taken note of in order to obtain an overallpicture of the necessary basic knowledge of pastoral care. In addition, on the basis of the “pastoraled’engendrement” and other theological approaches, I develop a pastoral attitude appropriate to thechanging demands and adapted to the Swiss context. This article raises the question which foundationmy theological considerations will be based on.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>33</start>
+                                <end>44</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21954</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2303</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2303">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2303/2195" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2303" DMDID="DMD_wwu-journals_2303">
+            <mets:fptr FILEID="FILE0_wwu-journals_2303"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

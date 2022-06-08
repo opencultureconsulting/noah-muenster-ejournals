@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3805">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuromuscular disease</title>
+                        <subTitle>2022 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Margeta, Marta</displayForm>
+                        <namePart type="family">Margeta</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This review highlights ten important advances in the neuromuscular disease field that were reported in 2021. As with prior updates in this article series, the overarching topics include (i) advances in understanding of fundamental neuromuscular biology; (ii) new / emerging diseases; (iii) advances in understanding of disease etiology and pathogenesis; (iii) diagnostic advances; and (iv) therapeutic advances. Within this general framework, the individual disease entities that are discussed in more detail include neuromuscular complications of COVID-19 (another look at the topic first covered in the 2021 review), autosomal recessive myopathy caused by MLIP mutations, autosomal recessive neuromuscular disease caused by VWA1 mutations, Leber’s hereditary optic neuropathy, myopathies with autophagic defects, tRNA synthetase-associated Charcot-Marie-Tooth disease, systemic sclerosis-associated myopathy, humoral immune endoneurial microvasculopathy, and late-onset Pompe disease. In addition, the review highlights a few other advances (including new insights into mechanisms of muscle and nerve regeneration and the use of gene expression profiling to better characterize different subtypes of immune-mediated myopathies) that will be of significant interest for clinicians and researchers who specialize in neuromuscular disease.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-38557</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3805</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3805</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3805">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3805/3855" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3805">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3805/3856" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3805" DMDID="DMD_wwu-journals_3805">
+            <mets:fptr FILEID="FILE0_wwu-journals_3805"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3805" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3805"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

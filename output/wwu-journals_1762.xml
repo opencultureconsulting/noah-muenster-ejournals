@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1762">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pflege und Pflegepolitik unter dem Anspruch der Anerkennung. Eine sozialethische Skizze</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heimbach-Steins, Marianne</displayForm>
+                        <namePart type="family">Heimbach-Steins</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krause, Felix</displayForm>
+                        <namePart type="family">Krause</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungAusgehend von einer Beschreibung sozialethischer Herausforderungen im Bereich der Pflege(politik) wird die besondere Lage von Pflegebedürftigen wie Pflegenden erstens unter dem anthropologischen Leitmotiv der Vulnerabilität untersucht, wobei der Fokus der Untersuchung auf sozio-strukturell bedingter Vulnerabilität liegt. Damit wird zweitens eine Heuristik angeboten, um pflegepolitisch induzierte oder verschärfte Anerkennungsdefizite sowohl in der Gruppe der Pflegebedürftigen als auch bei den Pflegenden zu identifizieren. Die anerkennungstheoretische Analyse stützt sich dabei auf die Auseinandersetzung mit dem theoretischen Ansatz Axel Honneths. Auf dieser Grundlage werden drittens fundiert durch die Pflegebedürftigkeit als Schlüsselkategorie in allen Anerkennungssphären zentrale Gerechtigkeitskriterien für eine lebenslauforientierte Pflegepolitik formuliert.AbstractStarting from a description of major social-ethical challenges in the field of care policy, this essay analyses, first, the specific situation of care receivers and care givers with regard to the anthropological leitmotif of vulnerability, focusing in particular on vulnerability caused by social structures. Second, a heuristic means is presented to identify deficits of recognition for both care receivers and care givers induced or aggravated by care policy. This recognition-theory-based analysis relies in the main on Axel Honneth’s theoretical approach. Third, based on this analysis, and on care dependency as the key category for all spheres of recognition, central criteria for a just life-course- oriented care-politics will be established.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16964</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1762</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1762">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1762/1696" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1762" DMDID="DMD_wwu-journals_1762">
+            <mets:fptr FILEID="FILE0_wwu-journals_1762"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

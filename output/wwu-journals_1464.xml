@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1464">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie kann die Praktische Theologie pastorale Professionals ausbilden? Ansatz und Methode</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gärtner, Stefan</displayForm>
+                        <namePart type="family">Gärtner</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Artikel wird von einer Situationsskizze der Hochschuldidaktik zwischen universitären, gesellschaftlichenund kirchlichen Rahmenbedingungen ausgegangen. Danach wird ein ganzheitliches Konzeptpraktisch-theologischer Lehre zur Diskussion gestellt, das bei den bereits vorhandenen Kompetenzenund reflektierten Erfahrungen sowie der Persönlichkeit der Studierenden ansetzt. DiesesKonzept wird abschließend anhand der Methode des Case study exemplifiziert.This article describes the situation of university teaching as it located itself within the academic, social,and ecclesial fields. Thereafter, a holistic approach of practical-theological teaching is presented fordiscussion, an approach that is based on the already existing skills and reflected experiences as well asthe personality of the students. A concrete method, the Case Study, helps to exemplify this concept.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>83</start>
+                                <end>95</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13695</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1464</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1464">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1464/1369" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1464" DMDID="DMD_wwu-journals_1464">
+            <mets:fptr FILEID="FILE0_wwu-journals_1464"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

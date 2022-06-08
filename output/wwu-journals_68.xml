@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_68">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Humangerechte Solidarität. Ein Thesenanschlag zur Reformation sozialer Sicherung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nass, Elmar</displayForm>
+                        <namePart type="family">Nass</namePart>
+                        <namePart type="given">Elmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Unter den gegebenen Bedingungen stehen unsere sozialen Sicherungssysteme vor dem Konkurs, so jedenfalls die Annahme des vorliegenden Beitrags. Fünf Thesen zur Solidarität machen die unter anderem von Amartya Sen entwickelte und in der Tradition Sozialer Marktwirtschaft stehende Idee der Befähigungsgerechtigkeit für den sozialpolitischen Diskurs fruchtbar. Reformen reichen nicht aus, wir brauchen einen neuen Geist sozialer Identität. Eine humangerechte Solidarität versteht sich dazu als ökonomisch vernünftige Operationalisierung christlicher Grundwerte, die – flankiert durch eine entsprechende Bildungspolitik – auch in pluralistischem Kontext Wirtschaftlichkeit der sozialen Sicherungssysteme wie sozialen Frieden verspricht. Eine Anwendung dieser Solidaritätsidee auf aktuelle sozialpolitische Problemfelder zeigt deren praktische Relevanz auf und fordert einen neuen soziokulturellen Fokus ein.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>48</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>205</start>
+                                <end>224</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2007-625</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_68</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_68">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/68/62" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_68" DMDID="DMD_wwu-journals_68">
+            <mets:fptr FILEID="FILE0_wwu-journals_68"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

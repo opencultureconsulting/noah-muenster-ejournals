@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1288">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beteiligungsrechte der Laien und Frauen in der katholischen Kirche. Grundlagen und Grenzen im CIC/1983</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Demel, Sabine</displayForm>
+                        <namePart type="family">Demel</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungIm kirchlichen Gesetzbuch von 1983 gibt es erstmals in der Geschichte der katholischen Kirche eine systematische Zusammenstellung von Pflichten und Rechten der Gläubigen (cc. 208 – 223 CIC) sowie speziell der Laien (cc. 224 – 231 CIC). Nach einer ekklesiologischen Vergewisserung über die Begrifflichkeit „Beteiligungsrechte“ und über das Spezifikum der Rechtsordnung einer Gemeinschaft, die die irdische Wirklichkeit erfasst und zugleich transzendiert, werden die Grundlagen, der Inhalt und die positive Auswirkung dieser Pflichten und Rechte aufgezeigt. In einem weiteren Gedankengang werden die Probleme und Grenzen in deren Formulierung, Ausgestaltung, strukturellen Absicherung und rechtlichen Umsetzung herausgearbeitet sowie auf das fehlende Problembewusstsein für eine geschlechtergerechte Anwendung und das mangelnde Wissen und Bewusstsein über die existierenden Pflichten und Rechte (in) der kirchlichen Gemeinschaft hingewiesen.AbstractThe ecclesiastical code of canon law (CIC) from 1983 for the first time in the history of the Catholic Church provides a systematic compilation of duties and rights of the faithful (cc. 208 – 223 CIC) and especially of the laity (cc. 224 – 231 CIC). After the ecclesiological assertion of both the concept of “participation rights” and the specifity of the legal system of a community that appreciates and understands worldly reality while at the same time transcending it, the content and the positive impact of these obligations and rights are identified. In another line of thought, the problems and limitations in their formulation, design, structural protection and legal implementation are examined and attention is drawn to the lack of awareness of gender-equitable application and the lack of knowledge as well as awareness about the existing obligations and rights in the ecclesial community.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12275</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1288</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1288">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1288/1227" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1288" DMDID="DMD_wwu-journals_1288">
+            <mets:fptr FILEID="FILE0_wwu-journals_1288"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

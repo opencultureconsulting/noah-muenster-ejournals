@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3997">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Niedere oder Hohe Soziologie?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sigusch, Volkmar</displayForm>
+                        <namePart type="family">Sigusch</namePart>
+                        <namePart type="given">Volkmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ohne Vorurteile kann man bekanntlich nicht einmal über die Straße gehen. Doch wie mensch sich irren kann. Ich habe geglaubt, eine Professorin und Gender-Forscherin werde meine Arbeit noch unerträglicher finden als seit Jahr und Tag konkurrierendeMänner, weil ich nun einmal ein Mann bin und den Frauen- und Gender-Studien zu wenig Aufmerksamkeit geschenkt habe.Umso größer die Freude, dass die Soziologin Paula-Irene Villa mit meinen Fragmenten etwas anfangen kann. Sie findet mein Vorgehen »erfrischend undogmatisch« mit »einer großen Fülle« (136) theoretischer Zugänge. Obgleich immer wieder verwirrend, liege doch jetzt »eine begriffliche Differenzierung vor, mit der sich weiter arbeiten und nachdenken lässt« (138). Ja, ich traute meinen Augen nicht, die Gender-Forscherin Villa schreibt, bezogen auf internationale Gender und Queer Studies: »Sigusch vollzieht eine belesene und ernsthafte Rezeption, die in Teilen durchaus auf der Höhe der Differenziertheit erfolgt, die also keine Karikatur zeichnet, um sich selbstgerecht dagegen abzugrenzen « (138). Und dann ertappt mich Villa durch ihre ebenso gründliche wie offene Rezeption bei einer meinen »sexogenerischen Kern« betreffenden Zerrissenheit, die ich hiermit eingestehe. Ihre Einwände haben mich noch nachdenklicher gemacht. Villa hat verstanden, wem mein Buch »aus der soziologischen Seele« spricht (135): jenen, denen es um eine Wissenschaft geht, die an der Not der Menschen ansetzt. Sie stellt eine »immer nachvollziehbare« Empörung über das sexuelle Elend der Menschen, über den patriarchalen Sexismus, über das Ausmaß der Gewalt oder über kapitalistische Ausbeutung fest.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>142</start>
+                                <end>149</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-3997</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3997</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3997">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/3997/4043" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3997" DMDID="DMD_wwu-journals_3997">
+            <mets:fptr FILEID="FILE0_wwu-journals_3997"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

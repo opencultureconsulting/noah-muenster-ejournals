@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1398">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Migration als Zeichen der Zeit und als Sorge der Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marchetto, Agostino</displayForm>
+                        <namePart type="family">Marchetto</namePart>
+                        <namePart type="given">Agostino</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von einem empirischen Blick auf die Situation von Flüchtlingen entwickelt derAufsatz im Rückgriff auf verschiedene lehramtliche Dokumente eine normative Perspektiveauf den Umgang mit Flüchtlingen. Dabei wird die Situation der Flüchtlinge und Migranten/Migrantinnen im theologischen Sinn als Zeichen der Zeit interpretiert und es werden Perspektivenentwickelt, wie die Kirche und ihre Gemeinden Migranten/Migrantinnen und Flüchtlingenin ihrer Lage beistehen und wie sie sie unterstützen können. Dialog, Solidarität und eine „Kulturdes Willkommenheißens“ sind theologisch fundierte und begründete zentrale Axiome, die indiesem Zusammenhang eine entscheidende Rolle spielen.Starting from an empirical view towards the situation of refugees, the paper develops a normativeperspective on treating refugees by referring to various magisterial documents. Thesituation of refugees and migrants is interpreted in a theological sense as a sign of the times.The paper offers some options for the Church and its parishes concerning the support andassistance of migrants and refugees. The central theologically based and reasoned axioms inthis discourse are dialogue, solidarity and a „culture of welcome“.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>237</start>
+                                <end>256</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13173</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1398</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1398">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1398/1317" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1398" DMDID="DMD_wwu-journals_1398">
+            <mets:fptr FILEID="FILE0_wwu-journals_1398"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

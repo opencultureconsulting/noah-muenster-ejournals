@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2127">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Immer Ärger mit dem Personal?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schüßler, Michael</displayForm>
+                        <namePart type="family">Schüßler</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Deutsche Seelsorgestudie liefert solide Forschungsergebnisse zur Lage des seelsorglichen Personalsder Kirche. Dabei wird die zentrale Hypothese, kirchliche Spiritualität sei eine entscheidendeSteuerungsgröße von Lebenszufriedenheit und Berufsengagement, erkenntnisträchtig enttäuscht.Spiritualität kann nicht so einfach als Ressource spätmoderner Selbstoptimierungspraktiken verzwecktwerden. Was die Rezeption der Studie betrifft, lassen sich erste Effekte eines pastoralen Agenda-Settings ebenso erkennen wie die Gefahr normativer Kurzschlüsse. Pastoralpsychologische Diagnostiksollte nicht einfach in Vorgaben zur Optimierung kirchlicher Pastoralplanung hochgerechnet werden.Insgesamt hat Kirche gegenwärtig weniger ein personales Optimierungs-, sondern ein strukturellesDiversitätsproblem: Um mit unterschiedlichen Menschen über Gott und die Welt ins Gespräch zukommen, braucht man eben möglichst unterschiedliche Menschen.The German study of pastoral care provides solid research results on the situation of pastoral careworkers of the Church. In doing so, the central hypothesis that ecclesial spirituality is a decisive controlfactor for life satisfaction and occupational commitment is disappointingly shattered. Spirituality cannotsimply be used as a resource of late modern self-optimization practices. Concerning the receptionof the study, first effects of a pastoral agenda setting can be recognized as well as the danger of normative‚short circuits‘. Pastoral psychology diagnostics should not simply be included in the guidelinesfor the optimization of church pastoral planning. All in all, the Church is currently dealing with theissue of structural diversity, rather than personal optimization: in order to interact with various peopleabout God and the world you need people as different as possible.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>63</start>
+                                <end>80</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20401</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2127</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2127">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2127/2040" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2127" DMDID="DMD_wwu-journals_2127">
+            <mets:fptr FILEID="FILE0_wwu-journals_2127"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

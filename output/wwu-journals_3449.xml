@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3449">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sprache und Schrift zur Zeit Heinrichs IV.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grun, Esra</displayForm>
+                        <namePart type="family">Grun</namePart>
+                        <namePart type="given">Esra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Mittelalter ist in der populärkulturellen Inszenierung wieder sehr präsent und spricht alle Sinne an: Filme, Serien und Dokumentationen werden gesehen, Bücher gelesen, Musik gehört und auf Jahrmärkten, die in einem historisch-mittelalterlichen Setting spielen, können sogar mittelalterliche Speisen gekostet werden. In allen diesen Medien spielt die Sprache eine wichtige, aber ambivalente Rolle. Auf der einen Seite soll Sprache das mittelalterliche „Flair“ genauso inszenieren wie es Bilder oder Musik tun. Auf der anderen Seite sollen die Rezipienten die Filme und Bücher natürlich auch verstehen.
+Die praktische Umsetzung dieser „mittelalterlichen“ Sprache zeigt sich meist dadurch, dass sie mit unserer heutigen Sprache immer noch einwandfrei zu verstehen ist, dabei aber ge-zielt Begriffe wie „Hochmut“ und „Klugheit“ für den „authentischen Zuschnitt“ verwendet werden. In diesem Kontext stellt sich rasch die Frage, wie realistisch solche Darstellungen sein können. Wie „realitätsnah“ ist diese Sprache und woher wissen wir das?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mittelalter Digital</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Mittelalter Digital</publisher>
+                        </originInfo>
+                        <identifier type="issn">2747-9757</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>32</start>
+                                <end>45</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-mittelalterdigital-2021-34507</identifier>
+                    <identifier type="doi">10.17879/mittelalterdigital-2021-3449</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3449</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3449">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3449/3450" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3449">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3449/3451" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3449" DMDID="DMD_wwu-journals_3449">
+            <mets:fptr FILEID="FILE0_wwu-journals_3449"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3449" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3449"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>الوحي القرآني بوصفه كلام الله في خطاب إنسانيّ</title>
+                        <subTitle>مقاربة أنثروبولوجيّة</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Quranic revelation as the word of God in a human discourse</title>
+                        <subTitle>Anthropological approach</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Khorchide, Mouhanad</displayForm>
+                        <namePart type="family">Khorchide</namePart>
+                        <namePart type="given">Mouhanad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">تُعالج‭ ‬هذه‭ ‬الورقة‭ ‬موضوع‭ ‬الوحي‭ ‬في‭ ‬السياق‭ ‬الإسلامي‭ ‬بوصفه‭ ‬كلام‭ ‬الله‭ ‬في‭ ‬خطاب‭ ‬إنسانيّ،‭ ‬في‭ ‬محاولة‭ ‬لإعادة‭ ‬تعريف‭ ‬الوحي‭ ‬من‭ ‬خلال‭ ‬اعتماد‭ ‬مفهومي‭ ‬الحرية‭ ‬والرحمة‭. ‬وهي‭ ‬بذلك‭ ‬تسعى‭ ‬لتجاوز‭ ‬مأزقٍ‭ ‬إبستمولوجيّ‭ ‬مُزدوج‭ ‬أسفرتْ‭ ‬عنه‭ ‬المقاربة‭ ‬التراثية‭ ‬الإسلامية‭ ‬والمقاربة‭ ‬التاريخية‭ ‬الفيلولوجية‭. ‬ومن‭ ‬ثم،‭ ‬فإنَّ‭ ‬الورقة‭ ‬ستتطرق‭ ‬للقضايا‭ ‬الآتية‭: ‬ما‭ ‬هي‭ ‬معقوليّة‭ ‬الحديث‭ ‬عن‭ ‬التجلي‭ ‬الإلهي‭ ‬بغض‭ ‬النظر‭ ‬عن‭ ‬السياقات‭ ‬التي‭ ‬يحدث‭ ‬فيها؟‭ ‬كما‭ ‬يتبادر‭ ‬السؤال‭ ‬عن‭ ‬إمكانية‭ ‬اعتبار‭ ‬الوحي‭ ‬مصدرًا‭ ‬معرفيًّا،‭ ‬بحيث‭ ‬يكون‭ ‬مُحتواه‭ ‬موضوعًا‭ ‬للبحث‭ ‬العلميّ،‭ ‬فهل‭ ‬الوحي‭ ‬ضرورة‭ ‬معرفيّة‭ ‬أم‭ ‬مُجرّد‭ ‬تذكير‭ ‬بمعارف‭ ‬عقليّة؟‭ ‬وما‭ ‬هي‭ ‬الكيفية‭ ‬التي‭ ‬يتم‭ ‬بها‭ ‬هذا‭ ‬التواصل‭ ‬وِفقَ‭ ‬الرؤية‭ ‬الإسلاميّة؟‭ ‬إنَّ‭ ‬السؤال‭ ‬عن‭ ‬معقوليّة‭ ‬الحديث‭ ‬عن‭ ‬تواصل‭ ‬السماء‭ ‬مع‭ ‬الأرض‭ ‬يتعلّق‭ ‬أيضا‭ ‬بمبحث‭ ‬إبستمولوجيّ‭ ‬يتناول‭ ‬شروط‭ ‬إمكانيّة‭ ‬تحقق‭ ‬معارف‭ ‬دينيّة‭ ‬مبنيّة‭ ‬على‭ ‬الوحي؛‭ ‬أمّا‭ ‬السؤال‭ ‬الثاني‭ ‬فيمسّ‭ ‬بشكلٍ‭ ‬جوهريٍّ‭ ‬علاقة‭ ‬الدين‭ ‬بالعقل،‭ ‬التي‭ ‬يُـمكن‭ ‬أن‭ ‬تُؤسس‭ ‬عليها‭ ‬مقولتا‭ ‬الحُرية‭ ‬والرحمة‭ ‬باعتبارهما‭ ‬ركنين‭ ‬أساسيَّين‭ ‬في‭ ‬إعادة‭ ‬تعريف‭ ‬الوحي؛‭ ‬في‭ ‬حين‭ ‬أسعى‭ ‬في‭ ‬السؤال‭ ‬الأخير‭ ‬إلى‭ ‬تقديم‭ ‬قراءة‭ ‬جديدة‭ ‬تسمح‭ ‬بإعادة‭ ‬تعريف‭ ‬الوحي‭ ‬بوصفه‭ ‬تجليًّا‭ ‬إلهيًّا،‭ ‬وربط‭ ‬هذه‭ ‬المُحاولة‭ ‬بزمننا‭ ‬الراهن‭ ‬من‭ ‬خلال‭ ‬تقديم‭ ‬مقاربة‭ ‬هيرمينوطيقية‭ ‬تدمج‭ ‬بين‭ ‬الدراسات‭ ‬اللاهوتية‭ ‬والتاريخيّة‭ ‬للقرآن‭.‬</abstract>
+                    <abstract lang="eng">This paper deals with the concept of revelation in the Islamic context as the word of God in a human discourse‭, ‬in an attempt to‭ ‬redefine revelation by adopting the concept of freedom and mercy‭. ‬Thus‭, ‬it seeks to overcome a dual epistemological dilemma that resulted from the Islamic tradition approach and the philological historical approach‭. ‬Therefore‭, ‬the paper deal with the following issues‭: ‬What is the reasonability of talking about the divine manifestation regardless of the contexts in which it occurs‭?‬‭ ‬Is revelation a cognitive necessity or just a reminder of rational knowledge‭? ‬And how is the divine manifestation carried out according to the Islamic vision‭? ‬The first question relates to an epistemological issue that deals with the conditions for the possibility of realizing religious knowledge based on revelation‭; ‬as for the second question‭, ‬it fundamentally deals with the relationship between religion and reason‭, ‬relying on the concepts of freedom and mercy as essential pillars in the redefinition of revelation‭; ‬while I seek in the last question to present a new approach that enables the redefinition of revelation as a divine manifestation‭, ‬and to relate this attempt to our present time by using a hermeneutic approach to the Qur’an‭.‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3880</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3880</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3880">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3880/3944" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3880">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3880/4215" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3880" DMDID="DMD_wwu-journals_3880">
+            <mets:fptr FILEID="FILE0_wwu-journals_3880"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3880" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3880"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4025">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unity lost? Die gegenwärtige Krise der europäischen Institutionen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bach , Maurizio</displayForm>
+                        <namePart type="family">Bach</namePart>
+                        <namePart type="given">Maurizio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Man fühlt sich zurückversetzt in die frühen Siebzigerjahre: Wer weiland seinen Marx gekannt und die verschlungenen Deduktionen der Kritik der politischen Ökonomie absorbiert hatte, konnte sich in dem Glauben wiegen, über ein geschliffenes Erklärungsinstrument zu verfügen, mit dem sich so gut wie sämtliche Probleme dieser Welt schlüssig und ohne Rest sezieren und erklären ließen. Wolfgang Streeck leitet die Banken-, Fiskal- und Euro-Krise, aber auch die Krise des Wohlfahrtsstaates und der Demokratie – Stichwort »Post-Demokratie« – aus dem »Grundwiderspruch« des Kapitalismus, aus dem Interessengegensatz zwischen Kapital und Arbeit ab. Unterstellt wird dabei ein geheimer Masterplan des internationalen Groß- und Finanzkapitals, dessen Ausmaße sich freilich nur demjenigen voll erschließen, der das verschüttete Diagnosepotenzial der marxistischen Krisentheoretiker der Siebzigerjahre zu nutzen weiß. Dann zeige sich nämlich, so Streeck, dass der Kapitalismus vitaler, aggressiver und vor allem siegesgewisser sei denn je. Dies sei in erster Linie dem Umstand geschuldet, dass das Kapital sich – im Stil einer »kapitalistischen Landnahme« (238) – in den vergangenen Jahrzehnten jener zuvor verschont gebliebenen gesellschaftlichen Institution bemächtigt habe, die nicht nur über die weitaus meisten Reichtumsquellen, sondern auch über potenziell grenzenlose Ausplünderungssinstrumente verfügt: des Staates. </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>43</start>
+                                <end>55</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4025</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4025</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4025">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4025/4071" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4025" DMDID="DMD_wwu-journals_4025">
+            <mets:fptr FILEID="FILE0_wwu-journals_4025"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

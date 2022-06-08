@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2215">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kirche im Zeichen der Diversität - Systematisch-theologische Perspektiven</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eckholt, Margit</displayForm>
+                        <namePart type="family">Eckholt</namePart>
+                        <namePart type="given">Margit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">„Diversität“ ist zu einem neuen Kontext für pastorales und theologisches Arbeiten geworden. Zugleich sammeln sich in diesem Konzept die unterschiedlichsten gegenwärtigen Herausforderungen für die Kirche. Dieser Beitrag zeigt, wie Diversität schon im Gründungsakt der Kirche gegeben ist und wie sie die missionarische Verbreitung des Christentums begleitet. Daneben zeigt er, dass die Entwicklung einer exklusivistischen Ekklesiologie in der frühen Moderne, die über das I. Vatikanische Konzil hinaus das 20. Jahrhundert und die Debatten auf dem II. Vatikanischen Konzil prägte, das Konzept der Diversität zurückdrängte. In Zeiten von fundamentalistischen Gefahren und Verkapselung nach innen ist es wichtig, an die Ursprünge von Diversität zu erinnern und die neue soziale Form der Kirche in allen Reflexionen zu vermitteln. Dies ist auch der Weg einer „Kirche in Bewegung“ unter Papst Franziskus.“Diversity” has become a new context for pastoral and theological work. At the same time most diverse present challenges for the Church accumulate under this concept. This article shows how diversity was already present during the foundation of the Church and how it has accompanied the missionary expansion of Christianity. Besides, it shows how the development of an exclusivist ecclesiology in the early modern age, which shaped the 20th century beyond the First Vatican Council and the debates of the Second Vatican Council, repressed the concept of diversity. In times of fundamentalist dangers and of isolation it is important to remember the origin of diversity and to convey the new social form of the Church in all reflections. This is also the path of a “Church on the move” for which Pope Francis stands.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>09</start>
+                                <end>24</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21192</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2215</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2215">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2215/2119" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2215" DMDID="DMD_wwu-journals_2215">
+            <mets:fptr FILEID="FILE0_wwu-journals_2215"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

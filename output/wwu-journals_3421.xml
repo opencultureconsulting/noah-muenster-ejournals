@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3421">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evangelisierung im Spiegel interkulturell-theologischer Entwicklungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Luber, Markus</displayForm>
+                        <namePart type="family">Luber</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Evangelisierung als Schnittmengenvokabel in postkonziliaren theologischen und missionswissenschaftlichen Diskursen vereinigt begriffsgeschichtlich diverse konfessionelle Prägungen und verbindet sich mit divergierenden Pragmatiken interkultureller theologischer Entwicklungen in außereuropäischen Kontexten. Entsprechend der lokalen Situierung des Christentums wird Evangelisierung alternativ oder komplementär zum kolonialgeschichtlich belasteten Missionsbegriff verwendet und mit politischer Befreiung, Inkulturation oder interreligiösem Dialog konnotiert. Die Unschärfe des Begriffs markiert zugleich ungeklärte missionstheologische Fragen und unabgeschlossene weltkirchliche Transformationen.
+Um die sichtbar gewordene Vieldimensionalität des Evangelisierungsgeschehens konzeptionell einzuholen, wird seine Deutung als Prozess der Idealbildung basierend auf Sakralerfahrung vorgeschlagen und mit Verweisen auf Querida Amazonia illustriert. Evangelisation as a cross-section expression in post-conciliar theological and missiological discourses is associated genealogically with diverse denominational imprints and divergent pragmatics of intercultural theological developments in non-European contexts. According to local circumstances of Christianity, evangelisation is used as alternative or in complementarity to the colonial-historically burdened concept of mission and connoted with political liberation, inculturation or interreligious dialogue. At the same time, the vagueness of the term marks unresolved mission-theological questions and unfinished transformations of the world church. In order to conceptually integrate the obvious multidimensionality of evangelisation, its interpretation as a process of ideal formation based on sacred experience is proposed and underpinned with references from Querida Amazonia.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34211</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3421</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3421">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3421/3421" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3421" DMDID="DMD_wwu-journals_3421">
+            <mets:fptr FILEID="FILE0_wwu-journals_3421"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

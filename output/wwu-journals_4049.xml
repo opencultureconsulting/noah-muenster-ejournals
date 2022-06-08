@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4049">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Symbolische Erfahrung und symbolische Wirklichkeit</title>
+                        <subTitle>Eine soziologische Relektüre Ernst Cassirers</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller , Julian</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Während Ernst Cassirer innerhalb der Kulturwissenschaften derzeit eine regelrechte Renaissance erlebt, ist er in der Soziologie noch immer ein kaum diskutierter Autor. Mithilfe einer soziologischen Relektüre der cassirerschen Symbolphilosophie lässt sich eine entscheidende Transformation des Sinnbegriffs herausarbeiten. Wie kaum ein anderer Philosoph hat Cassirer auf den operativen und praktischen Aspekt von Sinnbildung abgestellt. Welche Konsequenzen sich hieraus für soziologische Fragestellungen ergeben und inwiefern Cassirers Philosophie der symbolischen Formen vor diesem Hintergrund zu einer Soziologie der symbolischen Formen ausgearbeitet werden müsste, versucht dieser Beitrag anzudeuten.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>154</start>
+                                <end>163</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2013-4049</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4049</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4049">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4049/4095" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4049" DMDID="DMD_wwu-journals_4049">
+            <mets:fptr FILEID="FILE0_wwu-journals_4049"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

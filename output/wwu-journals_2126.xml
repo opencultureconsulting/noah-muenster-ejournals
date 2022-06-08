@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2126">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>pastoralen Akteure im Blick</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Philipp</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag stellt die Seelsorgestudie in den Kontext pastoraltheologischen Selbstverständnissesund weiterer empirischer Studien. Eine pastoraltheologische Rezeption bedarffreilich einer reflektierten Vermittlung zwischen Empirie und Theologie. Der Titel der Studieist kritisch zu hinterfragen. Gleichwohl birgt sie einen Fundus an Erkenntnissen, dem sich sowohldie in der Kirche Verantwortlichen als auch die wissenschaftliche Pastoraltheologienicht verschließen sollten.This article relates the German pastoral study both with pastoral theological self-conceptionand with other empirical studies. A pastoral theological reception requires a reflected mediationbetween empiricism and theology. The German title of the study ought to be questionedcritically. Nevertheless, the study gains insights which should be noticed by the people responsiblein Church as well as by the scientific pastoral theology.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>51</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20391</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2126</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2126">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2126/2039" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2126" DMDID="DMD_wwu-journals_2126">
+            <mets:fptr FILEID="FILE0_wwu-journals_2126"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

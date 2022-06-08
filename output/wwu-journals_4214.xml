@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4214">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einleitung</title>
+                        <subTitle>Gedächtnisbegriff und Gesellschaftstheorie: Eine Debatte um den Zusammenhang von Gedächtnis, Gesellschaft und gesellschaftliche Konflikten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dimbath , Oliver</displayForm>
+                        <namePart type="family">Dimbath</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Leonhard , Nina</displayForm>
+                        <namePart type="family">Leonhard</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sebald , Gerd</displayForm>
+                        <namePart type="family">Sebald</namePart>
+                        <namePart type="given">Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">»Es scheint eine Binsenweisheit zu sein, wenn wir behaupten, daß nur ein sehr geringer Teil unseres tatsächlichen und potentiellen Wissens aus unserer eigenen Erfahrung entspringt. Der Großteil unseres Wissens besteht aus Erfahrungen, die nicht wir, sondern unsere Mitmenschen, sowohl Zeitgenossen als auch Vorfahren, gemacht haben, und die sie uns mitgeteilt oder überliefert haben« (Schütz 2011: 126). Mit diesen Formulierungen verweist Schütz nicht nur auf eine Grundausrichtung des sozialen Lebens. Mit dem Bezug auf die Erfahrungen anderer werden auch theoretische Probleme sozialer Kontinuität, von Tradierung, (inter-)generationeller Weitergabe kurz: von sozialen Gedächtnisprozessen adressiert. Diese sprechen die fundamentale Kränkung des sich für autonom haltenden Subjekts an. Dessen Handlungsmacht und Orientierungssinn entstammen nicht der spontanen Intuition, sondern sind das Ergebnis einer komplizierten Wechselwirkung aus sozialisierten Wahrnehmungs- und Verhaltensformen und individuellem beziehungweise sozial geteiltem Wissen. Alles, was wir im Hier und Jetzt erleben, empfinden und denken, ist geworden und erwächst unserem fortdauernden Austausch mit einer Umwelt, die uns Formen und Inhalte des Wahrnehmens, Denkens, Sprechens und Handelns vorgibt, nahelegt oder auferlegt. Etwas enger geführt adressiert diese Wissensrelation das Zusammenwirken zweier korrespondierender Vergangenheitsbezüge: der stets sozial geprägten individuellen und der in interpersonalen Beziehungen, Regeln, Normen und Institutionen sich konstituierenden sozialen Gedächtnisse.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>68</start>
+                                <end>69</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4214</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4214</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4214">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4214/4293" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4214" DMDID="DMD_wwu-journals_4214">
+            <mets:fptr FILEID="FILE0_wwu-journals_4214"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

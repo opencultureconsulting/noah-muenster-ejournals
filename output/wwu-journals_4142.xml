@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4142">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Silences in sociological theorising, or</title>
+                        <subTitle>how social order is not for us</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vollmer, Hendrik</displayForm>
+                        <namePart type="family">Vollmer</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Disruptions have always been of special interest to sociologists, and my colleagues who have so kindly followed up on The Sociology of Disruption (Vollmer 2013) in this journal have pointed to a number of nuances to this interest that are well worth attending to. Their commentaries are contributions to the sociology of disruption in their own right, and despite the important differences they are indicating these contributions are overall very much congenial to what I had been trying to accomplish in the book. Michael Dellwing (84-101) elaborates on the vulnerability of the interaction order and extends the sociology of disruption towards the sociology of deviance and to investigations of contemporary media economies. Tobias Röhl (102-108) picks up in particular on differences between disruptive situations and the later re-doing of disruptiveness and solicits additional attention to the role of material arrangements, infrastructures and non-human agents in such doings and re-doings of disruptiveness. The contribution by Thomas Scheffer (109-116) explores the broader theme how disruptions as continuously redone collective accomplishments are carried forward in time within a collective, which situates disruptive events in wider social and societal settings and thus emphatically re-iterates the central organising theme of the book.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>118</start>
+                                <end>121</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4142</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4142</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4142">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4142/4211" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4142" DMDID="DMD_wwu-journals_4142">
+            <mets:fptr FILEID="FILE0_wwu-journals_4142"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

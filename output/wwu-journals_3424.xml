@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3424">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mission als Paradigma einer sich transformierenden Pastoral</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schönemann, Hubertus</displayForm>
+                        <namePart type="family">Schönemann</namePart>
+                        <namePart type="given">Hubertus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kläden, Tobias</displayForm>
+                        <namePart type="family">Kläden</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das „Missionarische“ wird in diesem Beitrag als eine Umänderung der Denkart entfaltet. In einem säkularen Kontext kann es für Christ*innen und Kirche nicht darum gehen, sich selbst als Ziel und Zentrum ihrer Sendung zu sehen. Es geht vielmehr um einen Raum der Ermöglichung, um mit anderen Menschen zu lernen, wie Gottes Geist heute im Leben der Menschen wirkt. Dazu benötigt es eine radikale Transformation von kirchlichen Haltungen, Praktiken und Strukturen.
+In this article, “mission” is depicted as a change of mindset. In a secular context, both Christians and the Church do not see themselves/itself as the center and purpose of their assignment. Rather, it is all about creating a space for facilitation, for enabling learning together with other people about where and how God’s Spirit works in human lives. Hence, it requires a radical transformation of ecclesial attitudes, practice patterns, and structural configurations.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>66</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34318</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3424</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3424">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3424/3431" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3424" DMDID="DMD_wwu-journals_3424">
+            <mets:fptr FILEID="FILE0_wwu-journals_3424"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

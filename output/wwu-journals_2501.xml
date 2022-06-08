@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2501">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Öffentliche Medien als neue Intermediäre der Gesellschaft</title>
+                        <subTitle>Von der Notwendigkeit der Neuinstitutionalisierung öffentlicher Medien</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jarren, Otfried</displayForm>
+                        <namePart type="family">Jarren</namePart>
+                        <namePart type="given">Otfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der öffentlich-rechtliche Rundfunk als Teil der publizistischen Massenmedien ist durch den medientechnologischen (Streaming-Plattformen, Social Media, Internet) wie den sozialen Wandel (Individualisierung, Pluralisierung) institutionell, organisational wie programmlich herausgefordert. Vor allem Social Media-Plattformen beeinflussen die Bereitstellung wie Verbreitung von Informationen und das Mediennutzungsverhalten. Zudem ermöglichen Social Media neue Formen der Individual-, Gruppen- wie Organisationskommunikation. Sie erlauben vielfältige Formen des Austausches wie der Kollaboration, verleihen zudem Einzelnen wie Gruppen kommunikative Macht (Influencer). Der aktive, individuelle Mediengebrauch ist mit Social Media aber nur sehr begrenzt bei den Massenmedien möglich. Sie erleiden einen kulturellen Bedeutungsverlust. Social Media sind Ausdruck wie Treiber des sozialen Wandels, sie erreichen vor allem jüngere Menschen. Die Regulierung steht vor der Herausforderung, der neuen Medienrealität zu entsprechen: Leitbilder, der Rundfunkbegriff, die Ziele wie die Institutionen zur Rundfunkregulierung müssen neu und im europäischen Rahmen verhandelt werden. Die erhebliche Marktmacht der neuen Intermediäre verweist auf die anhaltende Relevanz wie Bedeutung des öffentlich-rechtlichen Rundfunks. Genereller: Der öffentlich finanzierte Mediensektor sollte weiter entwickelt werden, so bezogen auf die gesellschaftliche Herausforderungen. Es wird angeregt, die Grundlagen der Rundfunk- und Medienpolitik zu prüfen, mehr gesellschaftliche Beteiligung in diesem Politikfeld zu ermöglichen. Medienpolitik sollte als Kommunikationspolitik Teil der Gesellschaftspolitik werden.</abstract>
+                    <abstract lang="eng">Public service broadcasting as part of the journalistic mass media is challenged institutionally, organisationally and programmatically by media technology (streaming platforms, social media, Internet) and social change (individualization, pluralization). Above all, social media platforms influence the provision and dissemination of information such as media usage behavior. In addition, social media enable new forms of individual, group and organizational communication. They allow diverse forms of exchange and collaboration, as well as giving individuals and groups communicative power (influencers). The active, individual media use is possible with social media, but only very limited with the mass media. They suffer a cultural loss of meaning. Social media are expressions like drivers of social change, they reach younger people in particular. Regulation is faced with the challenge of meeting the new media reality: mission statements, the concept of broadcasting, the goals and institutions of broadcasting regulation need to be redrafted and negotiated at European level. The significant market power of the new intermediaries points to the continuing relevance and importance of public service broadcasting. More generally: The publicly funded media sector should be further developed, so in relation to the societal challenges. It is recommended to examine the basics of broadcasting and media policy, to enable more social participation in this policy field. Media policy should be part of societal policy as a communication policy.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23809</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2501</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2501</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2501">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2501/2380" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2501" DMDID="DMD_wwu-journals_2501">
+            <mets:fptr FILEID="FILE0_wwu-journals_2501"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

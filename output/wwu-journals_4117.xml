@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4117">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religion und globale Modernen</title>
+                        <subTitle>Jenseits funktionaler Differenzierung und eines methodologischen Säkularismus</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winkel, Heidemarie</displayForm>
+                        <namePart type="family">Winkel</namePart>
+                        <namePart type="given">Heidemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Verhältnis von Religion und Moderne ist eines derjenigen Felder soziologischer Theoriebildung, das die Entwicklung dieser Disziplin, ihrer grundlegenden Fragestellungen und Untersuchungsgebiete von Beginn an mitbestimmt und befördert hat. Nicht von ungefähr sind einige soziologische Klassiker im Kern auch Religionssoziologen, ob Emile Durkheim, Georg Simmel und Max Weber oder auch Thomas Luckmann, Peter Berger und Niklas Luhmann. Religiöser Wandel gilt seither als paradigmatischer Fall eines allgemeinen Musters strukturellen Wandels, der sich durch die Ausdifferenzierung säkularer gesellschaftlicher Teilbereiche wie Wissenschaft, Ökonomie und Politik auszeichnet. Hiernach befördert funktionale Differenzierung eine Emanzipation von religiösen Normen und Institutionen, und schließlich das Absinken der gesellschaftlichen Motiv- und Bindungskraft von Religion (Luhmann 2000). Auch wenn (west)europäische und nordamerikanische Gesellschaften jeweils auf eigene Weise hierdurch charakterisiert sind (Spohn 2009, 2010; Spohn/Koenig/Knöbl 2015), gilt Säkularisierung als ein grundlegendes Strukturmerkmal gesellschaftlicher Modernisierung. Nahtlos reiht sich es sich neben Rationalisierung und Bürokratisierung, Demokratisierung und die Ausbildung säkularer nationaler Identitäten in die Charakteristika des als universal verstandenen Typus der Moderne ein.Eine Publikation, in der die Analyse von Religion – wie im Fall der Studien von Detlef Pollack und Geregely Rosta (2015) – differenzierungstheoretisch gerahmt wird, stellt sich theoriegeschichtlich in diesen modernisierungstheoretischen Kontext. Damit verbindet sich für die Autoren primär das Anliegen einer empirischen Plausibilisierung der Säkularisierungsthese.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>282</start>
+                                <end>295</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4117</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4117</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4117">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4117/4189" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4117" DMDID="DMD_wwu-journals_4117">
+            <mets:fptr FILEID="FILE0_wwu-journals_4117"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

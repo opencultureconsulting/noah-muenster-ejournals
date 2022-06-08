@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2900">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklungszusammenarbeit in Zeiten von Covid-19</title>
+                        <subTitle>Postkoloniale Relektüre</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jahnel, Claudia</displayForm>
+                        <namePart type="family">Jahnel</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Corona-„Krise“ im Frühjahr 2020 mobilisiert Praktiken, die in der Entwicklungszusammenarbeit und Gesundheitsfürsorge im kolonialen und postkolonialen Kontext eine lange Tradition haben. Dazu zählen die Angst vor Ansteckung und vor dem Anderen generell, die eine Epistemologie der Grenzziehung beflügelt hat; die dichotome Gegenüberstellung westlicher fortschrittlicher Medizin und primitiver traditioneller Heilkunde; die Hypervisibilisierung des Körpers des Anderen, der auch heute noch in Gestalt des Flüchtlings in seiner schonungslosen Vulnerabilität gezeigt wird, während die Verletzlichkeit von Europäern versteckt wird; und schließlich der unbeirrbare Glaube, dass die Zukunft des globalen Südens davon abhängt, ob dieser – die Entwicklung „aufholend“ – in der Gegenwart des von technischem Fortschritt bestimmten Nordens ankommt. Der Beitrag unterzieht diese anhaltenden Dynamiken einer kritisch-postkolonialen Relektüre und erinnert mit dem Konzept von „Heil und Heilung“ an Ansätze der kirchlichen Entwicklungskooperation und Sozialethik, die das Potential haben, dem Egozentrismus und der neoliberalen Wirtschaftspolitik Alternativen entgegenzustellen, die die Vulnerabilität und Zukunft der einen Welt als gemeinsame Verantwortung von globalem Süden und Norden verstehen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>31</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30990</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2900</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2900</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2900">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2900/3099" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2900" DMDID="DMD_wwu-journals_2900">
+            <mets:fptr FILEID="FILE0_wwu-journals_2900"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

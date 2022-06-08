@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wer weiß schon, wie …? Pastoraltheologische Überlegungen zur (Un-)Abbildbarkeit des Menschlichen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Burke, Andree</displayForm>
+                        <namePart type="family">Burke</namePart>
+                        <namePart type="given">Andree</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Angeregt durch Werke der Gegenwartskunst entwickelt der aus einem Vortrag entstandene Beitrag eine kritische hermeneutische Annäherung an das Menschenbild als solches. Der Kirche geht es, folgt man „Gaudium et spes“, um den Menschen und insofern auch um das Menschliche als das, was den Menschen als Menschen ausmacht. Jedoch kann dieses Menschliche nicht definitiv bestimmt werden, sondern findet primär im Ereignis statt. So gesehen erscheint es lediglich im Fragment und meidet totale Blicke. Wo es jedoch jeweils einmalig stattfindet, kann es Erstaunen auslösen: Man „weiß nicht, wie“ (Mk 4,27), sieht aber, dass etwas gewachsen ist.
+This article originally stems from a speech describing how contemporary art can help to develop a critical hermeneutic approximation of conceptions of human life (“Menschenbild”). According to “Gaudium et spes,” the church centers its actions on human beings and therefore on humanness (“Menschliches”) as the constitution of human beings as such. However, humanness cannot be defined but rather should be viewed as something that occurs. From this perspective, it appears to be merely a fragment, unable to be seen in total. But where it does occur, it can cause astonishment unique to each case: You don’t know how (cf. Mk 4,27), but you see that something has grown.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31615</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3190">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3190/3161" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3190" DMDID="DMD_wwu-journals_3190">
+            <mets:fptr FILEID="FILE0_wwu-journals_3190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

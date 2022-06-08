@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_84">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Körperlichkeit – Gesundheit – gutes Leben. Zur Begründung einer allgemeinen Gesundheitsversorgung aus der Perspektive des Capabilities approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winkler, Katja</displayForm>
+                        <namePart type="family">Winkler</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Capabilities approach geht davon aus, dass es unmöglich ist, Sozialpolitik ohne eine Vorstellung von Humanität zu gestalten. Deshalb stehen die Bedingungen des Menschseins und dessen Zwecke im Mittelpunkt der Gerechtigkeitstheorie des Fähigkeitenansatzes, die systematisch drei Ebenen umfasst: Auf anthropologischer Grundlage (Ebene 1) wird eine allgemeine, aber deutungsoffene Konzeption des Guten (Ebene 2) als gerechtigkeitstheoretische Zielvorstellung ermittelt, aus der sich gewisse politische Aufgaben (Ebene 3) ergeben. Die Theorie des Guten ist aus freiheitsrelevanten Gründen in Form von Grundfähigkeiten formuliert, wobei eine davon die Fähigkeit ist, sich guter Gesundheit zu erfreuen. Aus dieser Grundfähigkeit ergibt sich die politische Forderung, ein öffentliches Gesundheitswesen zu etablieren und nach dem Kriterium der Befähigung zum guten, und das heißt selbstbestimmten, Leben zu gestalten. Der Capabilities approach bietet einerseits eine plausible ethische Begründungsmöglichkeit des Menschenrechts auf Gesundheit und andererseits an Grundfähigkeiten orientierte Kriterien für die gerechte Gestaltung der Rahmenordnung eines Gesundheitssystems. Die Ethik des Fähigkeitenansatzes setzt sich mit einem Rückgriff auf die klassisch-naturrechtliche Argumentationsform von liberalen und utilitaristischen Theorien ab und versucht eine sozialethische Position zu formulieren, in der es um die Befähigung zum konkreten eigenverantwortlichen Leben geht.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>129</start>
+                                <end>149</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-784</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_84</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_84">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/84/78" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_84" DMDID="DMD_wwu-journals_84">
+            <mets:fptr FILEID="FILE0_wwu-journals_84"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1295">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Menschenrechte in der Kirche. Eine pastoraltheologische Analyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bucher, Rainer</displayForm>
+                        <namePart type="family">Bucher</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDass die katholische Kirche ein Menschenrechtsproblem ad intra hat, ist unübersehbar. Drei Phänomene scheinen dabei pastoraltheologisch, also aus Basis-, Erfahrungs- und Gegenwartsperspektive, besonders relevant, weil sie unmittelbar wahrnehmbar sind, viele Menschen betreffen und zudem in Konflikt nicht nur mit menschenrechtlichen Normen, sondern auch mit der außerkirchlichen Erfahrungsrealität zumindest westlicher entwickelter Gesellschaften stehen: die essentialistische Auffassung der Geschlechterdifferenz(en), eine innerkirchliche Herrschaftsordnung, die immer noch weitgehend klerikal-ständisch strukturiert ist, und eine Verfassungsordnung ohne Gewaltenteilung und unabhängige Verwaltungsgerichtsbarkeit. Dieser Befund wird auf vier aktuelle Bedingungen kirchlichen Handelns in unseren Breiten hin kontextualisiert: das grundlegend gewandelte Nutzungsverhalten gegenüber Kirche, die Herausbildung einer relativ hierarchieunabhängigen „Kirche der Frauen“ und „Kirche der Laien“, die zivilgesellschaftlichen, kirchenrechtsexternen Interaktionschancen, die sich heute für Laien ergeben, sowie die normative Grundlage kirchlichen Handelns nach dem Zweiten Vatikanischen Konzil. Dies ergibt einen überaus ambivalenten Gesamtbefund.AbstractIt is obvious that the Catholic Church has difficulties with human rights ad intra. From a pastoral-theological perspective comprising a grassroots, experiential, and a contemporary perspective, three intra-Catholic phenomena seem to be particularly relevant. These phenomena are relevant not only in that they affect a great number of people, but also because they are in conflict with both human rights norms and the experienced reality outside of the Church in many developed Western nations: an essentialist understanding of gender difference(s), a challenge from inside the Church, whose structure is still based on a feudal system of clerical ranks, an ecclesiastical constitutional order without separation of powers and without an independent administrative jurisdiction.These findings are contextualized by referring to four conditions under which the Church acts in our [Western] cultural sphere: the fundamental changes in the way the Church is being used, the formation of a “church of women” and a “church of lay people”, both relatively independent of the hierarchy, the opportunities for lay people today to interact with civil society outside of the Church, the normative basis for the actions of the Church established after the Second Vatican Council. As a consequence, the resulting findings are ambivalent.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12338</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1295</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1295">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1295/1233" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1295" DMDID="DMD_wwu-journals_1295">
+            <mets:fptr FILEID="FILE0_wwu-journals_1295"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

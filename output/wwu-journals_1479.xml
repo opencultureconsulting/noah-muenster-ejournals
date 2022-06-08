@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1479">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Alter(n) – Bildung – Religion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wieser, Renate</displayForm>
+                        <namePart type="family">Wieser</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das in einer „Gesellschaft des langen Lebens“ zunehmend bedeutsame Feld der religiösen/kirchlichenBildung im Alter(n) wird im Horizont dreier unterschiedlicher Zugänge durchbuchstabiert: Ein ersterTeil fokussiert auf die kirchliche Altenbildung, insofern sie sich durch ihre kirchliche Trägerschaft undspeziell über die Kategorie „Alter“ definiert; danach richtet sich der Blick – unter besonderer Beachtungdes Bildungsbegriffs – auf die Bildungsarbeit mit alten und älteren Menschen als Bereich kirchlich-konfessioneller Erwachsenenbildung; ein letzter, religionsgeragogisch ausgerichteter Teil stellt aufreligiöse Bildungsprozesse im Alter ab, denkt also religiöse/kirchliche Bildung im Alter als Teilbereichreligiös-spiritueller Erwachsenenbildung. Diese drei Zugänge lassen das Bild einer pluralitätssensiblenreligiösen/kirchlichen Bildung im Alter(n) entstehen, welche alten Menschen – in Ernstnahme derpolitischen, diakonischen, relationalen, der biografischen wie leiblich-seelisch-geistigen Dimensionendes Bildungsbegriffes – Gestaltungs-, Partizipations- und Möglichkeitsräume unter der Perspektive desTranszendenten eröffnet.In a „society of longevity“, the field of geragogy (a scientific discipline concerned with educationaltheories, processes and methods for older adults) becomes increasingly significant in society as well asin the realms of religion and church. This article discusses geragogy in three different ways. The firstpart focuses on the education of older adults within the church, in so far as it is funded by church andespecially defined by the category „age“. The second part discusses the educational efforts for thebenefit of old and elderly people in the area of denominational andragogy paying special attention tothe theoretical concept of education. The last part deals with religious geragogy pointing to the importanceof the religious-spiritual developments in older people’s lives. It describes religious educationin older age as one sector of religious-spiritual adult education. These three accesses lead to theidea of a religious/ecclesiastical geragogy, which is sensitive to the plurality among the elderly. It willtake seriously the political, diaconal, relational, biographic as well as the physical-mental-spiritualdimensions of education and will open up spaces for participation and creative activities in the face ofthe divine.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>173</start>
+                                <end>193</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13839</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1479</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1479">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1479/1383" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1479" DMDID="DMD_wwu-journals_1479">
+            <mets:fptr FILEID="FILE0_wwu-journals_1479"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

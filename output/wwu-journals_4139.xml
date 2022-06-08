@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4139">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>»Un-Doing Things Together« and Creating Disruption</title>
+                        <subTitle>Commitments to Attention in a Narrowcast Media Economy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dellwing , Michael</displayForm>
+                        <namePart type="family">Dellwing</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In Disruption and Disaster, Hendrik Vollmer bemoans that »among social scientists, experts at discursively rearticulating disruptions appear to outnumber those researching them by a large margin« (2013: 7). Much work in the area, he notes, is merely a sociology of risk or of »crisis«, general social theory that uses disruptions as examples in works that ultimately do little with them (7), or a deterministic factor sociology (10) that likes to pretend we live in a clockwork universe. He pleads for a true sociology of disruption and disaster that includes »empirical intelligence about disruptiveness« (2013: 7). To achieve this focus on the empirical negotiation of disaster, one emphasis seems to me indispensable: sociologists should not define disruptions, the participants in our fields of study do. Therefore, to start an inquiry into disruptions with set definitions of disruptions seems to prematurely close off the very venue of research we would like to open. An empirical sociology of disruption protects the people under research from outside definitions of their life-worlds and from being utilized as »data cows« (Dellwing/ Prus 2012: 62) to be milked for filling, and being shaped by, theory-shaped containers we brought with us. Instead, it can analyze the complex web of definitional negotiation that can be found under the hood of putative »disruptions«: actors engage in making meaning for the world, an endeavor that includes »doing disruption« as a meaning.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>85</start>
+                                <end>102</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4139</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4139</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4139">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4139/4208" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4139" DMDID="DMD_wwu-journals_4139">
+            <mets:fptr FILEID="FILE0_wwu-journals_4139"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

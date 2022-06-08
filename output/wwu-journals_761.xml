@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_761">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Logik der Serie. Fu Manchu, Fantômas und die serielle Produktion ideologischen Wissens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mayer, Ruth</displayForm>
+                        <namePart type="family">Mayer</namePart>
+                        <namePart type="given">Ruth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">This paper explores the logic and aesthetics of seriality in its close conjunction with the structures of media modernity. It starts from the observation that to a substantial extent modern popular culture is serial culture. Its contention is that an investigation of the operative principles of popular seriality and their larger ideological parameters requires a set of instruments which are missing from the toolbox of popular culture studies. In consequence, it draws on theories of seriality which were formulated in the realm of political philosophy and social theory, by critics as diverse as Benedict Anderson or Jean-Paul Sartre, in order to discuss processes of ideological meaning-making and community formation in their serial dimension. The paper takes note of the fact that the expansive momentum of serial fiction is fueled by the resources of political, economic, and medial expansion, which were first developed in the nineteenth and then ramped up in the twentieth century. This interlinkage is not conceptualized in terms of a mere analogy, however, but rather understood as a relation of mutual mapping: a relation of reciprocity and cross-fertilization. Taking the eminently popular narratives around the serial figures Fu Manchu and Fantômas as case studies, the paper argues that the projects of popular serial narration do not only aim at a representation of the abstract processes of industrialization and global capitalism rooted in nineteenth century imperialism. They rather need to be seen as engines, as driving forces of the cycles of production and dissemination which inform the (late) capitalist ideologies of the modern industrial and media societies. ----------urn:nbn:de:hbz:6:3-20130513150526637-1779334-7</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>POP. Kultur &amp; Kritik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">POP. Kultur &amp; Kritik</publisher>
+                        </originInfo>
+                        <identifier type="issn">2194-6981</identifier>
+                        <part>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20130513150526637-1779334-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_761</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_761">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/pop/article/download/761/724" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_761" DMDID="DMD_wwu-journals_761">
+            <mets:fptr FILEID="FILE0_wwu-journals_761"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

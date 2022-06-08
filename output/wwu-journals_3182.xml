@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3182">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Warum „normal“ für Religion abwegig ist</title>
+                        <subTitle>Pastoral aus der Anormalität religiöser Existenzweisen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sander, Hans-Joachim</displayForm>
+                        <namePart type="family">Sander</namePart>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zu den menschlichen Existenzweisen gehört auch der Konjunktiv, mit dem die Normalität des Möglichen um den gravierend anderen Raum des Unmöglichen erweitert wird. Damit lässt sich sowohl die Anthropologisierung der Theologie beschreiben, die durch die Moderne möglich geworden ist, aber auch die vor allem päpstliche Revanche gegen die Unmöglichkeiten dieser Moderne erfassen, für die allerdings deren Möglichkeiten nötig sind. Sucht man nicht nach einer Großen Vereinigung auf höherer Ebene, sondern die Konfrontation der zwei Unmöglichkeiten der säkularen wie der religiösen Welten miteinander, dann relativieren diese sich am Umschlagpunkt des Anormalen. Angesichts der gravierenden Anormalitäten in der Kirche (Missbrauch, sexuelle Heuchelei etc.) wird verständlich, warum von Menschen nicht erwartet werden kann, sich kirchlich-christlich zu deklarieren, die sich als normal verstehen. Es entstehen stattdessen neue heterotope Praktiken daraus, dass konfrontierende Anormalitäten aus dem eigenen religiösen Raum immer eingerechnet werden müssen, welche die normalen pastoralen Aktivitäten gravierend durchkreuzen. Diese Praktiken müssen damit zurechtkommen, dass die Glaubwürdigkeit der Kirche im freien Fall ist, weil diese sich und anderen die eigenen Anormalitäten nicht eingestanden hat, um ihre Revanche gegen die Moderne hoch halten zu können. Für die Diskursivierung dieser Praktiken werden abschließend vier Kriterien entwickelt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31548</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3182</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3182">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3182/3154" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3182" DMDID="DMD_wwu-journals_3182">
+            <mets:fptr FILEID="FILE0_wwu-journals_3182"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2938">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Am Ende der Expansionsgesellschaft? Die Coronakrise als Menetekel für Grenzen der kolonialen Landnahme des Netzes des Lebens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jochum, Georg</displayForm>
+                        <namePart type="family">Jochum</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Beitrag wird argumentiert, dass die Coronapandemie und andere neuere Epidemien als nichtintendierte Nebenfolgen des expansiven Vordringens der technisch-kapitalistischen Zivilisation in Naturräume zu interpretieren sind. Durch die ‚kolonisierende‘ Rekonfiguration des ökologischen Netzes des Lebens und die Reduktion der Biodiversität wird das Risiko der Übertragung von Viren von Tieren auf Menschen erhöht. Ein historischer Rückblick zeigt, dass ähnliche Prozesse die menschliche Zivilisationsgeschichte stets begleiteten und mit Herausbildung der modernen Expansionsgesellschaft im 16. Jahrhundert die Kolonisierung der Natur forciert wurde. Die hiermit verbundene kapitalistisch-technische Landnahme des Netzes des Lebens gerät aktuell in eine umfassende sozial-ökologische Krise. Es wird eine Nicht-Nachhaltigkeit der modernen Expansionsgesellschaft und deren koloniales Naturverhältnis erkennbar, wie auch die Coronakrise exemplarisch deutlich macht. Um die Zunahme derartiger Krisen zu vermeiden ist eine sozial-ökologische Transformation notwendig, welche mit der Entwicklung eines postkolonialen Naturverhältnisses verbunden ist und den Übergang in eine nachhaltige Integrationsgesellschaft einleitet.
+The article argues that the coronavirus-pandemic and other recent epidemics can be interpreted as unintended side effects of the expansive penetration of technical-capitalist civilization into natural areas. The ‚colonizing‘ reconfiguration of the ecological web of life and the reduction in biodiversity increase the risk of viruses being transmitted from animals to humans. A historical review makes it clear that similar processes have accompanied human civilization history and that the colonization of nature has been accelerated since the modern expanding society developed in the 16th century. The associated capitalist-technical appropriation of the web of life is currently experiencing a comprehensive social-ecological crisis. The corona crisis also exemplifies the unsustainability of the modern expanding society and its colonial relationship with nature. In order to avoid the increase in such crises, a social-ecological transformation is necessary, which is connected with the development of a post-colonial relationship with nature and initiates the transition to a sustainable integration- society.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>34</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28944</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2938</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2938</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2938">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2938/2894" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2938" DMDID="DMD_wwu-journals_2938">
+            <mets:fptr FILEID="FILE0_wwu-journals_2938"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

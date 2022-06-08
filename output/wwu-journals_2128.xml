@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2128">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aussagen der Seelsorgestudie aus pastoralpsychologischer Sicht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heuft, Gereon</displayForm>
+                        <namePart type="family">Heuft</namePart>
+                        <namePart type="given">Gereon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Seelsorgestudie (2012–2014) wurde angelegt als Befragung der pastoralen MitarbeiterInnen innahezu allen Bistümern in Deutschland. Von den etwa 21.000 Angeschriebenen antworteten ungefähr8.500 Personen, davon 4.200 Priester. Zentrale Variablen waren die Lebenszufriedenheit, die psychischeGesundheit, das Engagement im Dienst und die Spiritualität. Ziele dieser Arbeit sind, 1. einenÜberblick über die bis heute aus der Studie publizierten Manuskripte zu geben, 2. kritisch die Repräsentativität,die Instrumente und die Methoden der Studie zu diskutieren im Hinblick auf 3. die gezogenenSchlussfolgerungen. Abschließend wird in Erinnerung gerufen, dass das II. Vaticanum die dyadischeDynamik zwischen der Institution Kirche und den pastoralen MitarbeiterInnen auf eine triadischePerspektive hin geöffnet hat, die alle Gläubigen der katholischen Kirche und letztlich alle Menschenumfasst.The German Pastoral Ministry Study (2012–2014) conducted a survey among about 8.500 persons –4.200 of them being priests – on life satisfaction, psychic health, work engagement, relationships andspirituality. Aim of this paper is 1. to give an overview of all published manuscripts till now, 2. to discussthe representativity, instruments and methods of the study critically with regard 3. to the conclusions.Finally, it is mentioned that the II. Vaticanum opened the dyadic dynamic between the “institutionChurch” and the “Pastoral Workers” to a triadic perspective including all believers of the CatholicChurch and all men.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>81</start>
+                                <end>95</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20418</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2128</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2128">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2128/2041" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2128" DMDID="DMD_wwu-journals_2128">
+            <mets:fptr FILEID="FILE0_wwu-journals_2128"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

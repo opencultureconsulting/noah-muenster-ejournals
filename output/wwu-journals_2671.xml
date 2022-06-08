@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2671">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neurooncology</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wesseling, Pieter</displayForm>
+                        <namePart type="family">Wesseling</namePart>
+                        <namePart type="given">Pieter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">This article briefly discusses 10 topics that were selected by the author as top 10 discoveries published in 2019 in the broader field of neuro-oncological pathology (so including neurosciences as well as clinical neuro-oncology but with implications for neuro-oncological pathology). Some topics concern new information on immunohistochemical and molecular markers that enable improved diagnosis of particular tumors of the central nervous system (CNS) and information on a refined classification of medulloblastomas. Subsequently, several papers are discussed that further elucidate some pathobiological aspects of especially medulloblastomas (histogenesis, molecular evolution) and diffuse gliomas (mechanisms involved in CNS infiltration, role of cancer stem(-like) cells, longitudinal molecular evolution). The remaining topics concern progress made in vaccination therapy for glioblastomas and in using cerebrospinal fluid for liquid biopsy diagnosis of gliomas. Clearly, substantial, and sometimes even amazing progress has been made in increasing our understanding in several areas of neuro-oncological pathology. At the same time, almost every finding raises new questions, and translation of new insights in improving the outcome for patients suffering from CNS tumors remains a huge challenge.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-25447</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2671</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2671</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2671">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2671/2544" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2671">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2671/2545" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2671" DMDID="DMD_wwu-journals_2671">
+            <mets:fptr FILEID="FILE0_wwu-journals_2671"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2671" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2671"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

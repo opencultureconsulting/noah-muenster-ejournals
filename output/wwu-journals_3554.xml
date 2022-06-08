@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3554">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christian Social Ethics in the Benelux Countries</title>
+                        <subTitle>The Dynamics of European Unity in Diversity</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Christian Social Ethics in the Benelux Countries</title>
+                        <subTitle>The Dynamics of European Unity in Diversity</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lesch, Walter</displayForm>
+                        <namePart type="family">Lesch</namePart>
+                        <namePart type="given">Walter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Benelux-Länder werden eher in Reisebüchern als in der Wissenschaft als eine Einheit wahrgenommen. Dennoch verbindet Belgien, die Niederlande und Luxemburg eine spezielle historisch gewachsene Position innerhalb der EU mit Auswirkungen auf die Bedingungen und Themen Christlicher Sozialethik. Obwohl das Fach als eigenständige Disziplin nur an wenigen Orten existiert, bietet die gesellschaftliche Spannung z wischenUniversitäten mit großer auch  religiös geprägter Tradition und sehr weit fortgeschrittener Säkularisierung einen idealen Ausgangspunkt für innovative Forschung und Lehre mitten in Europa: mit Öffnungen zur anglophonen Welt und einer Brückenfunktion zwischen deutschen und französischen Einflüssen. Sozialethik ist überall in den Benelux-Ländern mit internationalem Profil und zugleich regionaler Verwurzelung verbunden.</abstract>
+                    <abstract lang="eng">The Benelux countries are more frequently presented as a unity in tourist guides than in academic life. Belgium, the Netherlands and Luxembourg are nevertheless bound together by a specific historically founded position within the EU with consequences for the conditions and topics of Christian social ethics. Although it rarely exists as an autonomous discipline, the tension between old universities with religious traditions and a widely proceeded secularisation provides an ideal starting point for innovative research and teaching at the heart of Europe: with an access to the English speaking world and a bridge between German and French influences. All over the Benelux countries, social ethics combines an international profile with regional rooting.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>365</start>
+                                <end>377</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37066</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3554</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3554</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3554">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3554/3706" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3554" DMDID="DMD_wwu-journals_3554">
+            <mets:fptr FILEID="FILE0_wwu-journals_3554"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_106">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gratuitousness and Work. The Priority of Labour Over Capital in a Globalized Economy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beretta, Simona</displayForm>
+                        <namePart type="family">Beretta</namePart>
+                        <namePart type="given">Simona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">AbstractThe priority of labour over capital represents a powerful analytical tool for understanding wealth creation and development. Such a tool is particularly relevant in today’s world, characterized by rapid change and the increasing importance of immaterial, subjective dimensions of the economy.The paper provides an overview of the original analytical elements of the Catholic Social Doctrine (CSD), as compared to the basic analytical tools coeval economic profession has mostly been using. Being based on a solid relational anthropology, CSD provides a powerful framework where the priority of labour is pivotal for advancing economic theory and practice, in the perspective of a “good life in common”. In particular, the paper elaborates on the notion of gratuitousness, an innovative expression which is deeply rooted in CSD and particularly helpful in order to realistically understand development and social progress in our globalized world.ZusammenfassungDie These vom Vorrang der Arbeit vor dem Kapital verkörpert ein leistungsfähiges analytisches Instrument für das Verständnis von Wohlstandsbildung und Entwicklung. Ein solches Instrument ist besonders in der heutigen Welt wichtig, die durch einen rapiden Wandel sowie eine zunehmende Bedeutung von immateriellen, subjektiven Dimensionen in der Ökonomie charakterisiert ist.Der Aufsatz bietet einen Überblick über die spezifischen analytischen Elemente der Katholischen Soziallehre und vergleicht sie mit den grundlegenden analytischen Instrumenten, wie sie von den Vertretern der zeitgenössischen Ökonomie überwiegend verwendet werden. Basierend auf einer tragfähigen relationalen Anthropologie bietet die Katholische Soziallehre eine wirkmächtige Rahmenkonstruktion, in der der Vorrang der Arbeit aus der Perspektive eines »guten Lebens in Gemeinschaft« für eine Weiterentwicklung der ökonomischen Theorie und Praxis ausschlaggebend ist. Der Aufsatz arbeitet besonders den Gedanken der Unentgeltlichkeit aus, der als innovativer Begriff tief in der Katholischen Soziallehre verwurzelt und vor allem für ein realistisches Verständnis von Entwicklung und sozialem Fortschritt in unserer globalisierten Welt hilfreich ist.urn:nbn:de:hbz:6:3-2012012767</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012012767</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_106</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_106">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/106/97" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_106" DMDID="DMD_wwu-journals_106">
+            <mets:fptr FILEID="FILE0_wwu-journals_106"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

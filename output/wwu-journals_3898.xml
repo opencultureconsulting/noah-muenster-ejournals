@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3898">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>الفلسفة بصفتها ‘هويّة مُقاوِمَة’؟ حوارٌ في الاختلاف الفلسفيّ الحداثويّ مع طه عبد الرحمن</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Philosophy as a ‘resistance identity’? Dialogue on modernist philosophical difference with Taha Abdul Rahman</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>George Awad, Najib</displayForm>
+                        <namePart type="family">George Awad</namePart>
+                        <namePart type="given">Najib</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">تروم‭ ‬هذه‭ ‬الورقة‭ ‬النظر‭ ‬في‭ ‬أطروحة‭ ‬الفيلسوف‭ ‬طه‭ ‬عبد‭ ‬الرحمن‭ ‬حول‭ ‬تشكيل‭ ‬فلسفة‭ ‬حداثوية‭ ‬عربيّة‭ ‬معاصرة‭ ‬تعلن‭ ‬حق‭ ‬تلك‭ ‬الفلسفة‭ ‬المعرفي‭ ‬الصريح‭ ‬بنمذجَة‭ ‬هوية‭ ‬فلسفيّة‭ ‬عربيّة‭ ‬متخالفة‭ ‬مع‭ ‬الفلسفة‭ ‬الأوروبية‭ ‬ومغايرة‭ ‬لها‭. ‬سأقدم‭ ‬أولًا‭ ‬عرضًا‭ ‬منهجيًّا‭ ‬توصيفيًّا‭ ‬لأطروحة‭ ‬عبد‭ ‬الرحمن‭ ‬في‭ ‬كتابه‭ ‬الحق‭ ‬العربيّ‭ ‬في‭ ‬الاختلاف‭ ‬الفلسفيّ‭. ‬من‭ ‬ثم‭ ‬سأقدم‭ ‬تفكيكًا‭ ‬نقديًّا‭ ‬حواريًّا‭ ‬لأطروحته‭ ‬من‭ ‬خلال‭ ‬المحاورة‭ ‬بينها‭ ‬وبين‭ ‬طروحات‭ ‬معرفية‭ ‬مرتبطة‭ ‬بنفس‭ ‬التوجه‭ ‬والهموم‭ ‬المعرفية‭ ‬أجدها‭ ‬في‭ ‬مقاربات‭ ‬فتحي‭ ‬المسكيني‭ ‬الفلسفيّة‭ ‬حول‭ ‬الهوويّة‭ ‬والذات‭ ‬في‭ ‬نصه‭ ‬عن‭ ‬الهوية‭ ‬والحرية‭: ‬نحو‭ ‬أنوار‭ ‬جديدة،‭ ‬وكذلك‭ ‬مقاربات‭ ‬عزيز‭ ‬العظمة‭ ‬التاريخولوجية‭ ‬المتعلّقة‭ ‬بدراسة‭ ‬الفكر‭ ‬الإسلاميّ‭ ‬كظاهرة‭ ‬تاريخانيّة،‭ ‬خاصة‭ ‬في‭ ‬كتابه‭ ‬الأخير،‭ ‬بزوغ‭ ‬الإسلام‭ ‬في‭ ‬العصر‭ ‬العتيق‭ ‬المتأخر‭.‬</abstract>
+                    <abstract lang="eng">This study aims to examine the philosopher Taha Abdurrahman’s thesis on the formation of a contemporary Arab modernist philosophy that declares the explicit epistemological right to model‭ ‬an Arab-philosophical identity in contrast with and differentiation from European philosophy‭. ‬I will first present a systematic‭ ‬and descriptive presentation of Taha Abdurrahman&apos;s thesis in his book al-Haq al-arabi fi al-ikhtilaf al-falsafi‭ (‬The Arab Right‭ ‬to Philosophical Difference‭). ‬Then I will present a critical and dialogical deconstruction of his thesis through a dialogue between it and epistemological propositions related to the same orientation and epistemological concerns that I find in Fathi al-Miskini’s philosophical approaches to identity and the self in his book al-huwiyah wa-al-huriyah‭: ‬nahwa anwar jadida‭ (‬Identity and Freedom‭: ‬Towards a new enlightenment‭), ‬as well as Aziz al-Azmeh’s historical approaches related to the study of Islamic thought as a historical phenomenon‭, ‬especially in his last book The Emergence of Islam in Late Antiquity‭.‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3898</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3898</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3898">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3898/3949" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3898">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3898/4220" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3898" DMDID="DMD_wwu-journals_3898">
+            <mets:fptr FILEID="FILE0_wwu-journals_3898"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3898" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3898"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

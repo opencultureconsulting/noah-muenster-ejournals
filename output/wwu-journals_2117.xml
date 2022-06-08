@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2117">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Warum tut sich Kirche so schwer im Umgang mit Gewalt? Pastoralpsychologische Streiflichter zu einem komplexen Thema</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wahl, Heribert</displayForm>
+                        <namePart type="family">Wahl</namePart>
+                        <namePart type="given">Heribert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Infolge der Missbrauchsfälle, die seit 2010 aufgedeckt wurden, muss die katholische Kirche einen massiven Vertrauensverlust hinnehmen. In einem pastoralpsychologischen Streifzug durch aktuelle Erklärungsmuster zur Entstehung, zu Erscheinungs‐ und Wirkformen von Aggression bzw. Gewalt werden Anhaltspunkte dafür bereitgestellt, warum die Institution Kirche sich mit diesem Thema bis heute unübersehbar schwertut.Since 2010, the Catholic Church suffers from a massive loss of public trust because of the discovery of so many cases of sexual abuse. A pastoral psychological foray into contemporary theories and explanatory models of origins, forms, and impacts of aggression and violence will present some clues to help understand why the church as an institution is so hard pushed, to this day, to deal with the subject.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>101</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17240</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2117</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2117">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2117/2031" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2117" DMDID="DMD_wwu-journals_2117">
+            <mets:fptr FILEID="FILE0_wwu-journals_2117"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

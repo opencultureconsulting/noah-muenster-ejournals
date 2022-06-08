@@ -1,0 +1,106 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3637">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kosmologie des Toilettengangs</title>
+                        <subTitle>Zum Imaginären einer nachhaltigen Lebensform</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alkemeyer, Thomas</displayForm>
+                        <namePart type="family">Alkemeyer</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Buschmann, Nikolaus</displayForm>
+                        <namePart type="family">Buschmann</namePart>
+                        <namePart type="given">Nikolaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hamborg, Steffen</displayForm>
+                        <namePart type="family">Hamborg</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sulmowski, Jędrzej</displayForm>
+                        <namePart type="family">Sulmowski</namePart>
+                        <namePart type="given">Jędrzej</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschäftigt sich mit der Bedeutung des Imaginären einer nachhaltigen Zukunft für die Hervorbringung ‚transformativer Gemeinschaften‘ als Kollektivsubjekte und geht den Ambivalenzen dieser kollektiven Subjektivierung nach. Er zeigt auf der Basis einer ethnographischen Studie, wie sich ein Öko-Dorf als ein Kosmos der Entwicklung nachhaltiger Lebensweisen entwirft und das Imaginäre einer besseren Zukunft bereits im Hier und Jetzt als einen Nexus von Infrastrukturen, soziomateriellen Arrangements, Diskursen und Praktiken öffentlich aufführt. Dabei wird das Imaginäre anhand von drei miteinander verschränkten Dimensionen beschrieben: Erstens bedarf es eines gemeinsam anerkannten Bezugsproblems, das im alltäglichen (Zusammen-)Leben immer wieder aufs Neue als existentiell markiert, erlebbar gemacht und affektiv aufgeladen wird. Zweitens wird bereits in der gegenwärtigen Praxis eine Zukunft antizipiert, in der dieses Bezugsproblem gelöst ist. Drittens muss die Kontingenz dieses gesellschaftlichen Imaginären operativ verkannt werden, damit das Selbstverständnis, die Einheitsfiktion und die Handlungsfähigkeit als Kollektivsubjekt einer alternativen Lebensform dauerhaft erhalten bleiben. Dies wirft Fragen nach der gesellschaftlichen Anschlussfähigkeit und den ambivalenten Wirkungen solcher Initiativen auf.
+The following article elaborates how the imaginary of a sustainable future pervades the creation of ,transformative communities’ as collective subjects and asks for the ambivalences of this collective subjectivation. Drawing on an ethnographic study we show how an eco-village projects itself as a cosmos of the design and development of sustainable lifestyles and how it publicly performs the imaginary of a better future here and now as a nexus of infrastructures, socio-material arrangements, discourses and practices. We describe this imaginary by three mutually entwined dimensions: Firstly, the imaginary relies on a collectively acknowledged problem of reference that continuously needs to be affectively charged, made tangible and marked as existential. Secondly, a future in which this problem of reference is solved&amp;nbsp; is already anticipated in pre­s­ent practice. Thirdly, the historical contingency of the social imaginary has to be operatively misconceived in order that the self-conception, the fiction of unity, and the capacity to act as collective subject of an alternative form of life are permanently preserved. This raises questions about the social connectivity and the ambivalent effects of such initiatives.&amp;nbsp;
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>70</start>
+                                <end>89</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2021-36342</identifier>
+                    <identifier type="doi">10.17879/sun-2021-3637</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED.DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3637</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3637">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/3637/3634" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3637" DMDID="DMD_wwu-journals_3637">
+            <mets:fptr FILEID="FILE0_wwu-journals_3637"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

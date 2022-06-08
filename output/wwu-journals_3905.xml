@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3905">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>دراسة المُقدَّس بوصفها أفقًا إنسانويًّا جديدًا</title>
+                        <subTitle>عن مقاربة ميرتشيا إليادي في تاريخ الأديان</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <nonSort>The </nonSort>
+                        <title>study of the sacred as a humanistic horizon</title>
+                        <subTitle>On the Mircea Eliade’s approach in the History of Religions</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yahyaoui, Yassine</displayForm>
+                        <namePart type="family">Yahyaoui</namePart>
+                        <namePart type="given">Yassine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">كيف‭ ‬يُـمكن‭ ‬استعادة‭ ‬المعنى‭ ‬في‭ ‬حياتنا‭ ‬الراهنة؟‭ ‬إنَّه‭ ‬السؤال‭ ‬المحوري‭ ‬الذي‭ ‬تتعرض‭ ‬له‭ ‬هذه‭ ‬الدراسة،‭ ‬مُوضحةً‭ ‬أنَّ‭ ‬إحدى‭ ‬سبل‭ ‬الإجابة‭ ‬تكمن‭ ‬في‭ ‬الإمكانات‭ ‬العدة‭ ‬للدراسة‭ ‬المعرفية‭ ‬للمُقدَّس‭ ‬في‭ ‬تغيير‭ ‬ذواتنا‭ ‬وفتح‭ ‬أفق‭ ‬إنسانويّ‭ ‬جديد،‭ ‬قادر‭ ‬ليس‭ ‬فقط‭ ‬على‭ ‬استعادة‭ ‬المعنى،‭ ‬بل‭ ‬أيضا‭ ‬على‭ ‬تجاوز‭ ‬مأزق‭ ‬العنف‭ ‬الدينيّ‭ ‬المتأسس‭ ‬على‭ ‬دعوى‭ ‬احتكار‭ ‬الحقيقة‭. ‬أستند‭ ‬في‭ ‬هذه‭ ‬المُحاولة‭ ‬إلى‭ ‬ما‭ ‬قدَّمه‭ ‬مؤرخ‭ ‬الأديان‭ ‬ميرتشيا‭ ‬إليادي‭ ‬في‭ ‬دراسته‭ ‬للظاهر‭ ‬الدينيّة،‭ ‬سواء‭ ‬في‭ ‬علاقة‭ ‬المُقدَّس‭ ‬بالدُنيويّ،‭ ‬أو‭ ‬في‭ ‬مُحاولته‭ ‬الإجابة‭ ‬عن‭ ‬أزمة‭ ‬إنسان‭ ‬الحداثة؛‭ ‬لاسيما‭ ‬أنَّ‭ ‬السعي‭ ‬إلى‭ ‬نزعة‭ ‬إنسيّة‭/‬‭ ‬إنسانويّة‭ ‬جديدة،‭ ‬يُعد‭ ‬بمثابة‭ ‬العنصر‭ ‬الأساس‭ ‬الذي‭ ‬يُضفي‭ ‬الانسجام‭ ‬والتماسك‭ ‬على‭ ‬كل‭ ‬أعمال‭ ‬إليادي،‭ ‬بدءًا‭ ‬بمُحاولته‭ ‬النظريّة‭ ‬التي‭ ‬سعى‭ ‬من‭ ‬خلالها‭ ‬إلى‭ ‬دراسة‭ ‬الميثة‭ ‬والرمز‭ ‬وثنائية‭ ‬المُقدَّس‭/ ‬الدُنيويّ؛‭ ‬وانتهاء‭ ‬بأعماله‭ ‬الروائيّة‭ ‬والمسرحيّة‭ ‬التي‭ ‬عكستْ‭ ‬نظريّته‭ ‬في‭ ‬قالب‭ ‬قصصي‭. ‬يُمكن‭ ‬إذن‭ ‬تحديد‭ ‬السؤال‭ ‬الإشكالي‭ ‬للورقة‭ ‬على‭ ‬النحو‭ ‬الآتي،‭ ‬كيف‭ ‬يُمكن‭ ‬لدراسة‭ ‬المُقدَّس‭ ‬بالمنهج‭ ‬الإليادي‭ ‬أن‭ ‬تفتح‭ ‬الأفق‭ ‬لإنسانويّة‭ ‬جديدة؟‭ ‬وبُغية‭ ‬تقديم‭ ‬الإجابة،‭ ‬قُسِّمتْ‭ ‬الورقة‭ ‬إلى‭ ‬ثلاثة‭ ‬محاور،‭ ‬سيتطرَّق‭ ‬الأول‭ ‬إلى‭ ‬أزمة‭ ‬فقدان‭ ‬المعنى‭ ‬في‭ ‬الحداثة‭ ‬وهو‭ ‬الهاجس‭ ‬المركزي‭ ‬الذي‭ ‬تتمحور‭ ‬حوله‭ ‬العديد‭ ‬من‭ ‬أعمال‭ ‬إليادي؛‭ ‬وسيتم‭ ‬التطرق‭ ‬في‭ ‬المحور‭ ‬الثاني‭ ‬إلى‭ ‬جدليّة‭ ‬المُقدَّس‭/ ‬الدُنيويّ‭ ‬التي‭ ‬ميَّزت‭ ‬مُقاربته‭ ‬للظاهرة‭ ‬الدينيّة؛‭ ‬أما‭ ‬المحور‭ ‬الأخير‭ ‬فسيتم‭ ‬تخصيصه‭ ‬للأفق‭ ‬الإنسانوي‭ ‬في‭ ‬دراسة‭ ‬المُقدَّس‭.‬</abstract>
+                    <abstract lang="eng">The aim of this research is to‭ ‬highlight the importance of the academic study of the sacred in the field of the history of religions‭, ‬and its impact on opening a new humanistic horizon that allows to overcome the dilemma of religious violence‭. ‬In this paper‭, ‬I based on what the historian of religions Mircea Eliade presented in his study of the religious phenomenon‭, ‬whether in the dialectic of the sacred and the‭ ‬profane‭, ‬or in his attempt to answer the contemporary human crisis‭; ‬especially since the quest for a new humanism is considered‭ ‬as the cornerstone that brings coherence to all of Eliade’s work‭. ‬The problematic question of the paper can then be defined as follows‭: ‬How can Eliade’s approach to the study of religions open the horizon for a new humanism‭?‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3905</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3905</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3905">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3905/3952" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3905">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3905/4223" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3905" DMDID="DMD_wwu-journals_3905">
+            <mets:fptr FILEID="FILE0_wwu-journals_3905"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3905" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3905"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

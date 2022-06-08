@@ -1,0 +1,174 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuropathological findings in possible normal pressure hydrocephalus</title>
+                        <subTitle>A post-mortem study of 29 cases with lifelines</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hänninen, Joni J.</displayForm>
+                        <namePart type="family">Hänninen</namePart>
+                        <namePart type="given">Joni J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nakajima, Madoka</displayForm>
+                        <namePart type="family">Nakajima</namePart>
+                        <namePart type="given">Madoka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vanninen, Aleksi</displayForm>
+                        <namePart type="family">Vanninen</namePart>
+                        <namePart type="given">Aleksi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hytönen, Santtu</displayForm>
+                        <namePart type="family">Hytönen</namePart>
+                        <namePart type="given">Santtu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rummukainen, Jaana</displayForm>
+                        <namePart type="family">Rummukainen</namePart>
+                        <namePart type="given">Jaana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koivisto, Anne Maria</displayForm>
+                        <namePart type="family">Koivisto</namePart>
+                        <namePart type="given">Anne Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jääskeläinen, Juha E.</displayForm>
+                        <namePart type="family">Jääskeläinen</namePart>
+                        <namePart type="given">Juha E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Soininen, Hilkka</displayForm>
+                        <namePart type="family">Soininen</namePart>
+                        <namePart type="given">Hilkka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sutela, Anna</displayForm>
+                        <namePart type="family">Sutela</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vanninen, Ritva</displayForm>
+                        <namePart type="family">Vanninen</namePart>
+                        <namePart type="given">Ritva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hiltunen, Mikko</displayForm>
+                        <namePart type="family">Hiltunen</namePart>
+                        <namePart type="given">Mikko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Leinonen, Ville</displayForm>
+                        <namePart type="family">Leinonen</namePart>
+                        <namePart type="given">Ville</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rauramaa, Tuomas</displayForm>
+                        <namePart type="family">Rauramaa</namePart>
+                        <namePart type="given">Tuomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aims: There are very few detailed post-mortem studies on idiopathic normal-pressure hydrocephalus (iNPH) and there is a lack of proper neuropathological criteria for iNPH. This study aims to update the knowledge on the neuropathology of iNPH and to develop the neuropathological diagnostic criteria of iNPH.Methods: We evaluated the clinical lifelines and post-mortem findings of 29 patients with possible NPH. Pre-mortem cortical brain biopsies were taken from all patients during an intracranial pressure measurement or a cerebrospinal fluid (CSF) shunt surgery.Results: The mean age at the time of the biopsy was 70±8 SD years and 74±7 SD years at the time of death. At the time of death, 11/29 patients (38%) displayed normal cognition or mild cognitive impairment (MCI), 9/29 (31%) moderate dementia and 9/29 (31%) severe dementia. Two of the demented patients had only scarce neuropathological findings indicating a probable hydrocephalic origin for the dementia. Amyloid-β (Aβ) and hyperphosphorylated τ (HPτ) in the biopsies predicted the neurodegenerative diseases so that there were 4 Aβ positive/low Alzheimer’s disease neuropathological change (ADNC) cases, 4 Aβ positive/intermediate ADNC cases, 1 Aβ positive case with both low ADNC and progressive supranuclear palsy (PSP), 1 HPτ/PSP and primary age-related tauopathy (PART) case, 1 Aβ/HPτ and low ADNC/synucleinopathy case and 1 case with Aβ/HPτ and high ADNC. The most common cause of death was due to cardiovascular diseases (10/29, 34%), followed by cerebrovascular diseases or subdural hematoma (SDH) (8/29, 28%). Three patients died of a postoperative intracerebral hematoma (ICH). Vascular lesions were common (19/29, 65%).Conclusions: We update the suggested neuropathological diagnostic criteria of iNPH, which emphasize the rigorous exclusion of all other known possible neuropathological causes of dementia. Despite the first 2 probable cases reported here, the issue of “hydrocephalic dementia” as an independent entity still requires further confirmation. Extensive sampling (with fresh frozen tissue including meninges) with age-matched neurologically healthy controls is highly encouraged.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-38167</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3331</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3331</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3331">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3331/3816" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3331">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3331/3815" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3331" DMDID="DMD_wwu-journals_3331">
+            <mets:fptr FILEID="FILE0_wwu-journals_3331"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3331" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3331"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

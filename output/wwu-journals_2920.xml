@@ -1,0 +1,109 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2920">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Enteric synucleinopathy</title>
+                        <subTitle>real entity or only a trendy concept?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>de Guilhem de Lataillade, Adrien</displayForm>
+                        <namePart type="family">de Guilhem de Lataillade</namePart>
+                        <namePart type="given">Adrien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lebouvier, Thibaud</displayForm>
+                        <namePart type="family">Lebouvier</namePart>
+                        <namePart type="given">Thibaud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Noble, Wendy</displayForm>
+                        <namePart type="family">Noble</namePart>
+                        <namePart type="given">Wendy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Leclair-Visonneau, Laurene</displayForm>
+                        <namePart type="family">Leclair-Visonneau</namePart>
+                        <namePart type="given">Laurene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Derkinderen, Pascal</displayForm>
+                        <namePart type="family">Derkinderen</namePart>
+                        <namePart type="given">Pascal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">An accumulating body of literature has emerged in the past 25 years to show that Parkinson’s disease (PD) is not only a disorder of the brain but also of the gastrointestinal tract and more generally of the gut-brain axis. Gastrointestinal symptoms occur in almost every PD patient at some point and in nearly every case examined pathologically autopsy studies find alpha-synuclein deposits, the pathological hallmarks of PD, in the enteric nervous system. This concept of ‘enteric synucleinopathy’ led to the hypothesis that the enteric nervous system might play a pivotal role in the initiation and spreading of PD. Although this hypothesis opens up interesting perspectives on the pathogenesis of neurodegenerative disorders, some important questions are still pending. The present opinion paper describes and compares the physiological and pathophysiological properties of alpha-synuclein in the brain and the enteric nervous system. We conclude that the existing data supports the existence of pathological alpha-synuclein species in the gut in PD. We also discuss if gut-brain interactions are important in other neurodegenerative disorders.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-29383</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-2920</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2920</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2920">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2920/2939" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2920">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2920/2938" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2920" DMDID="DMD_wwu-journals_2920">
+            <mets:fptr FILEID="FILE0_wwu-journals_2920"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2920" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2920"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

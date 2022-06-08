@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2821">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ByzRev 02.2020.009</title>
+                        <subTitle>Max Ritter, Zwischen Glaube und Geld: Zur Ökonomie des byzantinischen Pilgerwesens (4.–12. Jh.): (Byzanz zwischen Orient und Okzident 14). Mainz: Verlag des Römisch-Germanischen Zentralmuseums 2019.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Poeschel, Hildegard</displayForm>
+                        <namePart type="family">Poeschel</namePart>
+                        <namePart type="given">Hildegard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Max Ritter, Zwischen Glaube und Geld: Zur Ökonomie des byzantinischen Pilgerwesens (4.–12. Jh.).&amp;nbsp;(Byzanz zwischen Orient und Okzident 14). Mainz: Verlag des Römisch-Germanischen Zentralmuseums 2019. 252 S., 1 Tab., 29 Abb. (inkl. 7 Kt.). –&amp;nbsp;ISBN: 978-3-88467-316-4 (€ 45)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>The Byzantine Review</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4267</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>35</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-byzrev-2020-27363</identifier>
+                    <identifier type="doi">10.17879/byzrev-2020-2821</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2821</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2821">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/2821/2736" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2821" DMDID="DMD_wwu-journals_2821">
+            <mets:fptr FILEID="FILE0_wwu-journals_2821"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1462">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von der Anstiftung zu Selbstsorge und Mitsorge. Versuch über die Rolle und den Beitrag der Bildung in der Seelsorge – und umgekehrt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wittrahm, Andreas</displayForm>
+                        <namePart type="family">Wittrahm</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Gemeinsamkeit von Bildung und Seelsorge besteht darin, dass sie sich beide um die Selbstgestaltungund Gestaltung der Welt in einer Beziehung bemühen. Dennoch können sie nicht füreinandervereinnahmt werden. Vielmehr ist nach konvergierenden Optionen zu suchen, zu denen beide Disziplinenkritisch-konstruktive Beiträge beisteuern können. „Sorge um die Subjektwerdung lebenslang“könnte eine solche gemeinsame Option darstellen. Dann geht es darum, die notwendigen humanwissenschaftlichenund praktisch-theologischen Konzepte zu identifizieren, um diese Sorge um die Subjektwerdungangemessen zu qualifizieren. Als Beispiel einer sinnvollen Kooperation bietet sich dieBegleitung von Menschen im hohen Alter an.Education and Pastoral Care have a great deal in common. They aim at supporting individuals in formingthemselves and creating their personal universe. While they are different in function, they caninfluence each other and inform one another especially when it comes to the lifelong care for theindividual and its growth. This article discusses the necessary scientific and practical theological conceptsthat may qualify the care of the individual using the example of the pastoral care efforts addressingolder people.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>49</start>
+                                <end>63</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13674</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1462</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1462">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1462/1367" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1462" DMDID="DMD_wwu-journals_1462">
+            <mets:fptr FILEID="FILE0_wwu-journals_1462"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2290">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen öffentlicher Meinung und dem letzten Geheimnis der Wirklichkeit - Eine Untersuchung zum Spezifikum katholischer Presse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frey, Regina</displayForm>
+                        <namePart type="family">Frey</namePart>
+                        <namePart type="given">Regina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der Wahrnehmung der Gesellschaft ist die katholische Stimme heute beinahe bis zur Marginalitätgeschrumpft. Doch die Möglichkeit, als christliches Medium mit klarem Profil als eine Stimme untervielen gehört zu werden, zwischen den Teilsystemen Kirche und Gesellschaft zu vermitteln und Kommunikationzu ermöglichen, könnte grade von der katholischen Presse und von katholischen JournalistInnenganz besonders genutzt werden. Eine Inhaltsanalyse des Rheinischen Merkurs soll Anregungengeben, welches Spezifikum katholische Presse ausbilden kann.Nowadays, the catholic voice is attracting less or practically no attention in the broader public. Still,particularly the catholic press and catholic journalists could make use of the possibility to raise theirvoice and by doing so, to become a communicational link between the subsystems church and society.A content analysis of the German catholic newspaper “Rheinischer Merkur” shall illustrate a wayby which catholic press can become a specific in its field.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>47</start>
+                                <end>57</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21832</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2290</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2290">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2290/2183" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2290" DMDID="DMD_wwu-journals_2290">
+            <mets:fptr FILEID="FILE0_wwu-journals_2290"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

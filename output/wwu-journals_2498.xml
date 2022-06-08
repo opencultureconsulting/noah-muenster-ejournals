@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2498">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Zukunft des öffentlich-rechtlichen Rundfunks in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kindermann, Klemens</displayForm>
+                        <namePart type="family">Kindermann</namePart>
+                        <namePart type="given">Klemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der öffentlich-rechtliche Rundfunk in Deutschland sieht sich angesichts der immer schneller fortschreitenden Digitalisierung der Medien vor völlig neue Herausforderungen gestellt. Von manchen als Relikt einer vermeintlich „alten“ Medienwelt abgeschrieben, hat er doch gerade in jüngster Zeit eine erstaunliche Stärkung etwa durch das Bundesverfassungsgericht und durch die Einigung auf einen veränderten Telemedienauftrag erfahren, die dieser Beitrag herausarbeitet. Die Herausforderung für die Öffentlich-Rechtlichen besteht nun darin, diesen Rückenwind zu nutzen: vor allem durch eine kluge Ansprache der Mediennutzenden, der von globalen, Daten sammelnden Medienkonzernen immer personalisierter beliefert wird. Gelingt es, Integrität und Unverwechselbarkeit in den digitalen Ausspielwegen zu transportieren, könnte sogar die goldene Stunde des öffentlich-rechtlichen Rundfunks schlagen.</abstract>
+                    <abstract lang="eng">Public service broadcasting (PSB) in Germany is facing entirely new challenges given the continuous progression of digitalization. A relic of a bygone media world to some, PSB has recently been strengthened by the Federal Constitutional Court on the one hand, by a new teleservices mandate given by the governors of the German Federal States on the other. Both will be the subjects of this article. To use this momentum is the vital challenge of the hour for public broadcasters: especially by addressing media users in an intelligent, smart manner, who are otherwise provided with ever more personalized content by global, data collecting media corporations. If we succeed in transporting integrity and uniqueness into our digital distribution channels, a favourable moment might arise for public service broadcasting.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23777</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2498</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2498</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2498">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2498/2377" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2498" DMDID="DMD_wwu-journals_2498">
+            <mets:fptr FILEID="FILE0_wwu-journals_2498"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

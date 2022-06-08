@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2314">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Syrien</title>
+                        <subTitle>Vom Krieg zum ewigen Frieden. Ist es eine Utopie?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engin, Kenan</displayForm>
+                        <namePart type="family">Engin</namePart>
+                        <namePart type="given">Kenan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die kriegerischen Auseinandersetzungen im Nahen Osten setzen sich unaufhörlich fort. Diese haben nicht nur Auswirkungen auf die Entstehungsorte des Konfliktes, sondern auch auf die Gesamtregion. Dadurch ändern sich dort die Strukturen und Machtverhältnisse permanent und nehmen manchmal unvorhersehbare Dimensionen an. Dies beobachten wir gegenwärtig am Beispiel von Syrien. Ist Frieden in der Region eine Utopie?</abstract>
+                    <abstract lang="eng">The warlike clashes in Middle East continue unceasingly. These have consequences not just for the places where they originate but for the total region, so that the power structures of the total region change permanently and sometimes take unpredictable forms. We observe this now in Syria, too. Is peace in the region a utopia?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>28</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22059</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2314</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2314">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2314/Engin" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2314" DMDID="DMD_wwu-journals_2314">
+            <mets:fptr FILEID="FILE0_wwu-journals_2314"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

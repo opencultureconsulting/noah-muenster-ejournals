@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3095">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Culture of Mental Illness</title>
+                        <subTitle>Better Call Saul and American Psychiatry</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Callahan, Kara</displayForm>
+                        <namePart type="family">Callahan</namePart>
+                        <namePart type="given">Kara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Psychiatry has not always been a science which relies on cultural heritage. In fact, in many practices across the world, psychiatry is seen as medicinal and broken down into symptoms, labels, and treatments. For instance, the Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5), is a tool used by medical professionals to define and classify mental disorders in order to improve diagnoses, treatment, and research. Although including contributions from an international community, this tool is framed by a USAmerican view on mental illness. It often neglects the patients’ emotions and experience with the disease and may lead to an incomplete picture of the patient’s illness with problematic consequences regarding both the diagnosis and treatment (Gray 1). There has been an increased effort on the part of many anthropologists and psychiatrists alike to work toward a more comprehensive understanding of the cultural influences on mental illness. These influences are depicted in the filmic work Better Call Saul (2015 &amp;amp; 2017) which takes place within the US and strongly represent how mental illness is popularly viewed there. This popular view of mental illness dictates how the character called Chuck develops throughout the program, thus giving a valuable perspective on the cultural influence on psychiatric treatment in the US.&amp;nbsp;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>79</start>
+                                <end>86</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2019-30370</identifier>
+                    <identifier type="doi">10.17879/satura-2019-3095</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3095</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3095">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3095/3037" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3095" DMDID="DMD_wwu-journals_3095">
+            <mets:fptr FILEID="FILE0_wwu-journals_3095"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

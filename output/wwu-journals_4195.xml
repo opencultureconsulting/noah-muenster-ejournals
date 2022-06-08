@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4195">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welches Ufer darf’s denn sein, Königskinder? </title>
+                        <subTitle>Ein Kommentar</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Strübing , Jörg</displayForm>
+                        <namePart type="family">Strübing</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In seinem aktuellen Beitrag in der Zeitschrift für Theoretische Soziologie (ZTS) setzt Hartmut Esser etwas fort, das er offenbar als einen Vermittlungsversuch versteht (Esser 2018b). Der Text ist als Antwort auf Hirschauers Replik (Hirschauer 2018) zum Ausgangsartikel von Esser (2018a) gedacht, in dem noch vorwiegend sozialtheoretisch argumentiert wird. Im zweiten Text nun geht es ihm – gute Gründe dafür gibt es genug – um Epistemologie, Wissenschaftstheorie und Methodologie, übrigens ohne sich, wie für eine Replik üblich, erkennbar auf den Text von Hirschauer zu beziehen. Bei aller Kritik, die noch folgen wird, ist Hartmut Esser aber zunächst einmal dafür zu danken, dass er fast als einziger der Akademie-SoziologInnen das Format hat, sich auf eine sachliche Diskussion mit KritikerInnen der Akademie-Gründung einzulassen. Ich möchte mich in diesem Kommentar darauf beschränken, nur einige Aspekte aus Essers Replik aufzugreifen, um an ihnen zu demonstrieren, warum sein Verständigungsversuch fehlgeht, ja fehlgehen muss. Ich will aber auch Hinweise liefern, wie er gelingen könnte. Dabei werde ich mich weitgehend auf die Thematisierungsebene beschränken, die Esser in seinem Papier explizit zu adressieren beabsichtigt: Methodologie und Wissenschaftstheorie.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>86</start>
+                                <end>97</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4195</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4195</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4195">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4195/4277" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4195" DMDID="DMD_wwu-journals_4195">
+            <mets:fptr FILEID="FILE0_wwu-journals_4195"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

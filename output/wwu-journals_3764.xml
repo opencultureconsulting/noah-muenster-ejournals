@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3764">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gottesdienst im Pandemie-Modus</title>
+                        <subTitle>Zu Ergebnissen einer Umfrage in der Diözese Rottenburg-Stuttgart</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Büssing, Arndt</displayForm>
+                        <namePart type="family">Büssing</namePart>
+                        <namePart type="given">Arndt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Winter, Stephan</displayForm>
+                        <namePart type="family">Winter</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die COVID-19-Pandemie hat weltweit auch die rituell-religiöse Praxis vielfältig beeinflusst. Das stellte auch Verantwortliche in Kirchen und Religionsgemeinschaften vor bislang nicht gekannte Herausforderungen. Im Juni/Juli 2020 wurden Menschen, die in der südwestdeutschen Diözese Rottenburg- Stuttgart beruflich und/oder ehrenamtlich für die Gestaltung der Liturgie zuständig sind, bezüglich ihrer Reaktionen, Wahrnehmungen, Entscheidungen und Handlungsweisen während der Pandemie online befragt. Der Beitrag stellt einige ausgewählte Ergebnisse vor und vergleicht diese mit Ergebnissen aus anderen Umfragen dazu, wie die Pandemie das eigene Wohlbefinden und religiös-spirituelle Einstellungen beeinflusst hat. U. a. zeigt sich, dass ein solches Ereignis bei grundsätzlich spirituell geprägtenbzw. offenen Menschen zunächst persönliche Kraftquellen stärken und Kreativität auch im rituell-gottesdienstlichen Handlungsfeld freisetzen kann.
+The Covid19 pandemic has had a multifaceted influence on ritual-religious practices worldwide. It has also presented those responsible within churches and religious communities with unprecedented challenges. In June/July 2020, those professionally and/or voluntarily responsible for the organization of liturgy in the southwest German diocese of Rottenburg-Stuttgart were surveyed online regarding their reactions, perceptions, decisions, and courses of action during the pandemic. The article presents selected results and compares them with results from other surveys on how the pandemic influenced well-being and religious-spiritual attitudes. Among other things, it reveals that such an event can initially strengthen personal sources of strength in people who are basically spiritually attuned or open-minded, and can also release creativity in the realm of ritual worship.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>239</start>
+                                <end>252</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38107</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3764</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3764">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3764/3810" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3764" DMDID="DMD_wwu-journals_3764">
+            <mets:fptr FILEID="FILE0_wwu-journals_3764"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

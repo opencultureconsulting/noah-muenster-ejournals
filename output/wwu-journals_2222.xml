@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2222">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Ordnungen und das Außer-Ordentliche - Die Diversität von Lebensformen und Identitäten als Frage nach Reinheit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ammicht Quinn, Regina</displayForm>
+                        <namePart type="family">Ammicht Quinn</namePart>
+                        <namePart type="given">Regina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Diversität stört. Diversität stört die gewohnten Ordnungen von Lebensformen und Identitäten. Bittere Konflikte drehen sich darum, ob die Ordnungen verteidigt und geschützt oder erweitert und verändert werden sollen. Es sind Ordnungen, die die Ehe als einzig gute und richtige Lebensform erachten, und Ordnungen, die an einem bestimmten Ort in der Welt sowohl die Einheitlichkeit von Identitäten (weiß, deutsch, christlich) als auch die Eindeutigkeit von Identitäten (entweder Mann oder Frau) fordern. Die Kulturanthropologie (hier v. a. Mary Douglas) hat in Theorie gefasst, was in der christlichen Frömmigkeitsgeschichte deutlich wird: dass Ordnungen über Reinheitsvorstellungen hergestellt und stabilisiert werden. Auch heute liegen oft wenig sichtbare Reinheitsvorstellungen den Konflikten um Ordnungen zugrunde. Wenn Reinheit dafür sorgt, dass „Schmutz“ auch in seiner symbolischen Qualität entfernt wird, dann ist Schmutz, so Mary Douglas, „matter out of place“, Materie am falschen Platz. Die Vervielfältigung von Lebensformen und Identitäten ist damit „schmutzig“. Die Narrative in Apg 10 und 21 zeigen, wie Petrus und Paulus Diversität als Unreinheit bekämpfen – und sich dann anders entscheiden und auf die Seite der nicht durch Reinheit strukturierten Ordnung treten. Dies könnte Mut machen, Diversität nicht zuerst als eine Frage nach den „Anderen“ zu verstehen, sondern eine Frage nach „uns“: Brauchen wir die je „Anderen“ als Unreine und Verworfene, alle, die „out of place“ sind, um unsere eigene Identität zu bestätigen? Oder ist es möglich, Ordnungen hinter uns zu lassen, die auf Reinheitsforderungen basieren und in der Konsequenz Ausgrenzungen und Rassismus produzieren? Ist es möglich, stattdessen Gerechtigkeit als Kriterium für „gute“ Ordnungen zu setzen – insbesondere in Kontexten von Migration und Geschlechtsidentitäten und Geschlechterverhältnissen?Diversity disrupts. Diversity disrupts traditional orderly ways of life and forms of identity. Bitter conflicts revolve around questions whether these orders should be defended and protected or broadened and changed. These traditional orders perceive marriage as the right and only way of life and want identities to be uniform (white, German, Christian) and unambiguous (either man or woman). Cultural anthropology (Mary Douglas) has developed theories on practices we also see in Christian history of piety: the quest for purity underlies conflicting orders. Purity means to remove dirt in all its symbolic dimensions, because dirt is, as Mary Douglas says, ”matter out of place”. Diverse ways of life and diverse identities thus are “dirty”. In Acts 10 and 21, narratives show how Peter and Paul fight diversity as it is seen as impure – and then decide otherwise, change sides towards the place where order is not based on purity. This could encourage us to see diversity not primarily as the question of the “other” but as a question concerning the “us”: Do we need the “others” to incorporate the impure, the discarded and dismissed, everything “out of place” in order to confirm our own identity? Or is it possible to leave the order behind that is based on purity and consequently produces racism and exclusion? Is it possible to establish not purity but justice as key criterion for “good” orders – especially where migration, gender identity and gender relations are concerned?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>115</start>
+                                <end>128</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21245</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2222</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2222">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2222/2124" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2222" DMDID="DMD_wwu-journals_2222">
+            <mets:fptr FILEID="FILE0_wwu-journals_2222"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

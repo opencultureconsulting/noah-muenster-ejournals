@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4099">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grundriss einer integrativen Theorie der modernen Gesellschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schimank, Uwe</displayForm>
+                        <namePart type="family">Schimank</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">33</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die soziologische Gesellschaftstheorie zerfällt bekanntlich in eine größere Anzahl teils konkurrierender, teils komplementär gemeinter Angebote. Eine erste Sortierung kann drei große Theorie-Familien unterscheiden: die differenzierungs-, die ungleichheits- und die kulturtheoretische Perspektive; hinzu kommt die kapitalismustheoretische als Sub-Perspektive der differenzierungstheoretischen Perspektive. Im nächsten Schritt kann es nun darum gehen, die drei Perspektiven systematisch zu einer integrativen Theorie der Moderne zusammenzufügen. Dazu wird hier ein Diskussionsangebot vorgelegt, das von zwei Leitüberlegungen getragen wird. Zum einen wird davon ausgegangen, dass ein triperspektivisch koordiniertes Angebot besser als ein Nebeneinander dreier monoperspektivischer Angebote ist. Zum anderen ist sowohl die Rekonstruktion der drei Perspektiven als auch deren Kombination von der Überzeugung geleitet, dass man minimalistisch mit so wenigen Bausteinen wie möglich beginnen sollte, damit nicht nur die Schnittstellen der Perspektiven besser erkennbar werden, sondern auch deren Zusammenbau zur triperspektivischen Kombination transparent bleibt. Auf dieser Linie wird der Grundriss einer integrativen Theorie der modernen Gesellschaft skizziert. Zunächst werden die Kernvorstellungen der drei Theorie-Familien herausgearbeitet, was bereits eine analytische Komplementarität erkennen lässt. Sodann wird im Hauptteil des Beitrags die Bauanleitung zu einer schrittweisen Zusammenfügung der drei Perspektiven zu einem nicht-eklektizistischen, sondern die Kernvorstellungen passgenau aufeinander beziehenden analytischen Gesellschaftsmodell vorgestellt. Abschließend werden – sollte das Modell Anklang finden – noch kurz die nächsten Schritte seiner weiteren Ausarbeitung angesprochen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>236</start>
+                                <end>268</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-4099</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4099</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4099">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4099/4168" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4099" DMDID="DMD_wwu-journals_4099">
+            <mets:fptr FILEID="FILE0_wwu-journals_4099"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

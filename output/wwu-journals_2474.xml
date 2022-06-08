@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2474">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Hieromykes on a new coin type of Dion in the Decapolis and the Stygian riverscape of Southern Syria</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lichtenberger, Achim</displayForm>
+                        <namePart type="family">Lichtenberger</namePart>
+                        <namePart type="given">Achim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Beitrag wird ein neuer Münztyp der Stadt Dion in der Dekapolis (heutiges Südsyrien) vorgestellt. Es handelt sich um das größte Nominal der unter Septimius Severus ausgegebenen städtischen Prägung und es zeigt einen gelagerten Flussgott. Das Münzbild wird zum Anlass genommen, einen Münztyp der Nachbarstadt Adraa zu diskutieren, der ebenfalls einen gelagerten Flussgott zeigt, der als Hieromykes identifiziert wird. Auf den Münzen von Adraa sitzt bei dem Flussgott eine weibliche Gestalt. Es handelt sich um die Personifikation der Styx. Der Unterweltsfluss wird von spätantiken Autoren in der Region lokalisiert und so wird eine stygische Flusslandschaft in Südsyrien entworfen, die auch auf den Münzen zu fassen ist.</abstract>
+                    <abstract lang="eng">The article presents a new coin type from the city of Dion in the Decapolis (present-day southern Syria). It is the largest denomination of the civic coinage issued under Septimius Severus and it shows a reclining river god. The new coin type is taken as the starting point to discuss a coin type from the neighboring city of Adraa, which also shows a reclining river god identified as Hieromykes. On the coins of Adraa,a female figure sits by the river god. It is the personification of Styx. The Underworld River is localized by late antique authors in this region and thus a Stygian riverscape in southern Syria is created, to which also the coinage attests.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>10</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2019-23388</identifier>
+                    <identifier type="doi">10.17879/ozean-2019-2474</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2474</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2474">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2474/2338" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_2474">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2474/2358" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2474" DMDID="DMD_wwu-journals_2474">
+            <mets:fptr FILEID="FILE0_wwu-journals_2474"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2474" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2474"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

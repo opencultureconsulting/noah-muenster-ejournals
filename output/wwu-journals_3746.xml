@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3746">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seelsorge als Beziehungsstiftung</title>
+                        <subTitle>Pastoralgeschichtliche Impulse für die Gegenwart</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laumer, August</displayForm>
+                        <namePart type="family">Laumer</namePart>
+                        <namePart type="given">August</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Seelsorge kann als „Beziehungsarbeit“ verstanden werden – als Bewusstmachung und Stiftung der Beziehung zu Gott, zum Mitmenschen, zu sich selbst. Dies wird schon bei Johann Michael Sailer (1751–1832) grundgelegt, wenn er Pastoral als Dienst der Kirche an der Einigung des Menschen mit Gott und der Menschen untereinander versteht. Auch die Impulse Karl Rahners (1904–1984) für eine mystagogische Seelsorge weisen in diese Richtung. Dass die Erschließung von Beziehung eine zentrale Erwartung an Religion und damit auch an die kirchliche Seelsorge darstellt, macht gegenwärtig die Resonanztheorie des Soziologen Hartmut Rosa deutlich.
+Pastoral care can be understood as “relationship work” – the raising of awareness and the establishment of a connection with God, with our fellow human beings, and with ourselves. This already served as the basis for Johann Michael Sailer (1751–1832), who saw pastoral care as a service of the Church for the unification of the human being with God and of humans with one another. Karl Rahner&apos;s (1904–1984) impulses for mystagogical pastoral care also point in this direction. The resonance theory of the sociologist Hartmut Rosa currently makes it clear that the development of relationships is acentral expectations towards religion and thus also towards pastoral care of the church.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>13</start>
+                                <end>24</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-37943</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3746</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3746">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3746/3794" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3746" DMDID="DMD_wwu-journals_3746">
+            <mets:fptr FILEID="FILE0_wwu-journals_3746"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

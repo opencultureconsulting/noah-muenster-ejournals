@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Massenmediale Inklusionsprozesse</title>
+                        <subTitle>Adressierung, Einbeziehung und Beteiligung des Publikums im Fernsehen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sutter, Tilmann</displayForm>
+                        <namePart type="family">Sutter</namePart>
+                        <namePart type="given">Tilmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">32</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Umstellung der Theorie gesellschaftlicher Differenzierung von Sozial- auf Systemintegration setzt das Verhältnis von Individuen und Gesellschaft für eine begriffliche Neubestimmung frei: Aus der Sicht der Gesellschaft wird hierfür die Theorie der Inklusion entwickelt, die untersucht, wie Kommunikationen auf Menschen zugreifen. Diese Theorie kann besonders anschaulich im Bereich der Massenmedien angewendet werden, die es mit einem unbekannten Publikum zu tun haben, das sie beobachten und auf das sie sich einstellen müssen. Aus der Sicht der Medien kommen dabei vielfältige Formen der Adressierung, Einbeziehung und Beteiligung des Publikums in den Blick. Sie werden als massenmediale Inklusionsprozesse analysiert, die nach unterschiedlichen Inklusionsmodi und Inklusionsintensitäten abgestuft werden können. Diese Zusammenhänge werden beispielhaft mit einigen Betrachtungen der bekannten Quizsendung »Wer wird Millionär?« veranschaulicht. Abschließend werden erweiterte Möglichkeiten der Einbeziehung und Beteiligung des Publikums betrachtet, die in der Verbindung von Fernsehen und Internet eröffnet werden, ohne dass dies zu einer generellen Änderung der Problemstellung massenmedialer Inklusionsprozesse führt. Die vorgeschlagene Theorie massenmedialer Inklusionsprozesse kommt mit erweiterten Inklusionsbegriffen zur Deckung, die in neueren Diskussionen favorisiert werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>182</start>
+                                <end>213</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4111</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4111</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4111">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4111/4183" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4111" DMDID="DMD_wwu-journals_4111">
+            <mets:fptr FILEID="FILE0_wwu-journals_4111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1465">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pastorale Professionalität in pluralen Verhältnissen. Praktisch-theologische Überlegungen zur akademischen Ausbildung für den Pfarrberuf</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlag, Thomas</displayForm>
+                        <namePart type="family">Schlag</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Angesichts der immer komplexer werdenden Anforderungen und Erwartungen an den Pfarrberuf, diedurch die gegenwärtige Kompetenzdiskussion eine zusätzliche Steigerung erfahren, ist es notwendig,das Kerngeschäft und damit auch die inhaltliche Grundlegung pastoraler Professionalität intensiver alsbisher theologisch zu bedenken. Plädiert wird dafür, sowohl die berufliche Praxis wie auch die Ausbildungzentral von einer theologisch-bildungstheoretischen Perspektive aus in den Blick zu nehmen.Denn erst vor diesem Horizont kann die öffentliche Bedeutung des Pfarramts im Kontext der gegenwärtigenpluralen Welt- und Gesellschaftsverhältnisse sowie ihre promissionale Deutungsaufgabeangemessen bestimmt und reflektiert werden.Everyone who aims at becoming a pastor today, is faced with complex outside demands and expectationsthat are attached to this office. In addition, the current discussion regarding competence andskills heightens the sense that this work demands from a person more than ever before. This articleargues that there needs to be an intense theological reflection about both the essence of the pastoraloffice and the work performed by a pastor and the actual content on which the pastoral profession isbased. The author suggests that both the work of the pastor itself as well as the education needs to bebased on a theological perspective that takes the theories of professional education seriously. Onlythen, the public importance of the pastoral profession in the context of plurality can be identified andreflected. Only then, the candidate for pastoral office can be made aware of the divine promise attachedto this office and to the deep knowledge that, at the end, he or she is led by a godly power andhigher meaning.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>97</start>
+                                <end>110</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13705</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1465</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1465">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1465/1370" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1465" DMDID="DMD_wwu-journals_1465">
+            <mets:fptr FILEID="FILE0_wwu-journals_1465"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

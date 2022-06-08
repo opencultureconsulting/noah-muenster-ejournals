@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3893">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>نحو إعادة بناء قيم التّنوير في عالم مُتغيِّر (الجزء الأول)</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Towards a Reconstruction of Enlightenment Values in a Changing World (Part one)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Abdellatif, Kamal</displayForm>
+                        <namePart type="family">Abdellatif</namePart>
+                        <namePart type="given">Kamal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">‭ ‬ننطلق‭ ‬في‭ ‬عملنا‭ ‬من‭ ‬اعتبار‭ ‬أن‭ ‬قيم‭ ‬عصر‭ ‬الأنوار‭ ‬تتعرَّض‭ ‬اليوم‭ ‬لامتحانات‭ ‬عميقة‭ ‬في‭ ‬سياق‭ ‬تاريخها‭ ‬المحلي‭ ‬والكوني،‭ ‬وذلك‭ ‬بحكم‭ ‬الطابع‭ ‬العام‭ ‬لمبادئها،‭ ‬وبحكم‭ ‬تشابه‭ ‬تجارب‭ ‬البشر‭ ‬في‭ ‬التاريخ،‭ ‬وتشابه‭ ‬عوالمهم‭ ‬الروحية‭ ‬والمادية‭ ‬في‭ ‬كثير‭ ‬من‭ ‬مظاهرها‭ ‬وتجلياتها‭. ‬ولهذا‭ ‬نُصادر‭ ‬في‭ ‬هذا‭ ‬العمل،‭ ‬على‭ ‬كونية‭ ‬مطلب‭ ‬الأنوار‭ ‬اليوم،‭ ‬ليس‭ ‬أنوار‭ ‬القرن‭ ‬الثامن‭ ‬عشر،‭ ‬بل‭ ‬الأنوار‭ ‬كما‭ ‬تطورت‭ ‬في‭ ‬التاريخ،‭ ‬مع‭ ‬ضرورة‭ ‬التمييز‭ ‬بين‭ ‬طابع‭ ‬المطلب‭ ‬في‭ ‬حاضرنا‭ ‬وثقافتنا‭ ‬العربيّة،‭ ‬وطبيعته‭ ‬في‭ ‬حاضر‭ ‬المجتمعات‭ ‬الغربية،‭ ‬التي‭ ‬رسَّخت‭ ‬جوانب‭ ‬عديدة‭ ‬من‭ ‬قيمه‭ ‬خلال‭ ‬القرنين‭ ‬الماضيين‭. ‬لا‭ ‬نستكين‭ ‬في‭ ‬نظرتنا‭ ‬لعصر‭ ‬الأنوار‭ ‬ومكاسبه،‭ ‬إلى‭ ‬تصورات‭ ‬ورؤى‭ ‬فكرية‭ ‬مُغلَقة،‭ ‬قدر‭ ‬ما‭ ‬نسلم‭ ‬بجملة‭ ‬من‭ ‬المبادئ‭ ‬النظرية‭ ‬التاريخيّة‭ ‬العامة،‭ ‬التي‭ ‬نعدها‭ ‬بمثابة‭ ‬الروح‭ ‬الناظمة‭ ‬لخياراته‭ ‬الفلسفيّة،‭ ‬الهادفة‭ ‬إلى‭ ‬تطوير‭ ‬النظر‭ ‬في‭ ‬قضايا‭ ‬الإنسان‭ ‬والمجتمع‭ ‬والطبيعة‭ ‬والتاريخ‭. ‬نقرأ‭ ‬الإسهام‭ ‬النظري‭ ‬لعصر‭ ‬الأنوار‭ ‬في‭ ‬سياق‭ ‬تطور‭ ‬الفلسفة‭ ‬الحديثة،‭ ‬وذلك‭ ‬من‭ ‬زاوية‭ ‬يتم‭ ‬فيها‭ ‬استيعاب‭ ‬ثورات‭ ‬المعرفة‭ ‬والسياسيّة،‭ ‬كما‭ ‬تحققت‭ ‬وتتحقق‭ ‬في‭ ‬التاريخ‭ ‬الحديث‭ ‬والمعاصر،‭ ‬وفي‭ ‬أوروبا‭ ‬بالذات‭ ‬موطن‭ ‬التشكل‭ ‬الأول‭ ‬للمشروع‭ ‬الأنواري،‭ ‬ثم‭ ‬في‭ ‬باقي‭ ‬مناطق‭ ‬وقارات‭ ‬العالم‭ ‬الأخرى‭ ‬بحكم‭ ‬شروط‭ ‬التحول‭ ‬العالمية،‭ ‬التي‭ ‬واكبت‭ ‬عمليّة‭ ‬نشر‭ ‬وتعميم‭ ‬قِيَّمِه‭ ‬في‭ ‬مختلف‭ ‬ثقافات‭ ‬العالم‭. ‬ولا‭ ‬بد‭ ‬من‭ ‬الإشارة‭ ‬هنا،‭ ‬إلى‭ ‬أننا‭ ‬نعتني‭ ‬في‭ ‬هذا‭ ‬العمل‭ ‬بموضوع‭ ‬التنوير‭ ‬ليس‭ ‬باعتباره‭ ‬لحظة‭ ‬في‭ ‬التاريخ‭ (‬عصر‭ ‬الأنوار‭)‬،‭ ‬رغم‭ ‬أنه‭ ‬نشأ‭ ‬كذلك‭. ‬إن‭ ‬مقاربتنا‭ ‬له‭ ‬تستند‭ ‬إلى‭ ‬روحه،‭ ‬أي‭ ‬إلى‭ ‬التنوير‭ ‬باعتباره‭ ‬فعالية‭ ‬نظرية‭ ‬نقدية‭ ‬ما‭ ‬تفتأ‭ ‬تتأسس‭.‬</abstract>
+                    <abstract lang="eng">‭ ‬In this study‭, ‬I consider that the Age of Enlightenment values are subjected to profound tests today in the context of its local and global history‭, ‬due to the general nature of its principles and to the similarity of human spiritual and civilized experiences‭, ‬in many of their manifestation‭. ‬That is why I emphasize in this study that the demand for enlightenment today is universal‭, ‬not the enlightenment of the eighteenth century‭, ‬but rather enlightenment as it developed in history‭, ‬with the need to distinguish between the nature of the demand in Arab societies and in Western societies‭. ‬In my view of the European Enlightenment Experience‭, ‬I do not stop at closed conceptions‭, ‬rather‭, ‬I accept a set of general historical theoretical principles‭, ‬which I consider as the organizing spirit of its philosophical choices‭. ‬I read the theoretical contribution of the Enlightenment in the context‭ ‬of modern philosophy and from an angle in which knowledge and political revolutions are assimilated‭, ‬as they have achieved and‭ ‬are being realized in modern and contemporary history‭, ‬whether in Europe or in other regions of the world‭. ‬It must be pointed out here‭, ‬that in this study I am concerned with the subject of the Enlightenment not as a moment in history‭; ‬my approach is to consider the Enlightenment as a critical theoretical activity that is still being established‭.‬</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3893</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3893</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3893">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3893/3947" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3893">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3893/4218" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3893" DMDID="DMD_wwu-journals_3893">
+            <mets:fptr FILEID="FILE0_wwu-journals_3893"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3893" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3893"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

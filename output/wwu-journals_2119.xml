@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2119">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was zählt, wenn nichts mehr geht? Väter behinderter Kinder zwischen Krise und Bewältigung – eine pastoral‐empirische Studie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heek, Andreas</displayForm>
+                        <namePart type="family">Heek</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Behinderung eines Kindes bedeutet für Väter immer eine Krise. Neben der Partnerschaft und Familie, dem sozialen Umfeld und der eigenen Grunddisposition ist das Bindungsgefüge zwischen Vater und Kind von entscheidender Bedeutung für die Bewältigung dieser Krise. Für die Pastoral besteht die Chance, in der Bewältigungsdynamik von Menschen einen elementaren „Glauben“ zu entdecken, nämlich dass auch traumatische Erfahrungen bewältigt werden können. Solchen „Lebensglauben“ im christlichen Glauben wiederzufinden und davon zu erzählen, ist die Kunst gegenwärtiger Pastoraltheologie: Wie erzählen uns „Väter behinderter Kinder“ mit ihrer Erfahrung die christliche Überlieferung auf eine andere Art? Was können sie uns davon erzählen, am Kreuz zu enden? Wie erzählen sie von der Auferstehung und von ihrem Glauben an ein „neues Leben“?The disability of a child is always a crisis for fathers. In addition to partnership and family, the social environment and the own basic disposition, the bonding structure between father and child is of crucial importance in facing this crisis. In the dynamics of coping, one may discover an elementary „faith“, namely, that traumatic experiences can be overcome. To find such a „living faith“ in the Christian faith and to tell others about it, is the „art“ of contemporary pastoral theology: How do „fathers of disabled children“ use their experience in order to tell us of their approach to the Christian tradition? What can they tell us about ending up on the cross? How do they speak about the faith of resurrection, and what can they tell us of their faith in a „new life“?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>127</start>
+                                <end>138</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17261</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2119</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2119">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2119/2033" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2119" DMDID="DMD_wwu-journals_2119">
+            <mets:fptr FILEID="FILE0_wwu-journals_2119"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3290">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lucky Leif und die bärtigen Männer</title>
+                        <subTitle>Wikinger in Rock und Metal</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Peters, Christian</displayForm>
+                        <namePart type="family">Peters</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">46</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Lange bevor er zur Zielscheibe postkolonialer Ikonoklasmen wurde, war Christoph Columbus bereits von anderer Seite in diskursive Bedrängnis gebracht worden: Im Vorfeld der Weltausstellung 1893 in Chicago, die mit dem vierhundertsten Jahrestag von Columbus‘ Landung auf Hispaniola mehr oder minder in eins fiel, regte sich Unmut bei den skandinavischen Einwanderern, von denen am Austragungsort und in den umgebenden Staaten des Mittleren Westens, insbesondere aus Norwegen, im Laufe des Jahrhunderts viele eine neue Heimat gefunden hatten. Überzogen sei die Anerkennung für den Genuesen Columbus, der den Kontinent nur durch Zufall und mehr schlecht als recht mit einer für wildere Gewässer völlig ungeeigneten südländischen Besatzung gefunden habe, und unbegründet daher auch der Stolz der italoamerikanischen Bevölkerung der noch nicht allzu alten Nation, deren Sozialstruktur sich durch rasante Industrialisierung ebenso wie durch den Zuzug von Millionen Migranten aus nicht-angelsächsischen Regionen Europas dramatisch veränderte und damit intensive Aushandlungsprozesse um ethnische vs. nationale Identität ebenso wie kulturelle Vormachtstellung zeitigte.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mittelalter Digital</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Mittelalter Digital</publisher>
+                        </originInfo>
+                        <identifier type="issn">2747-9757</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>118</start>
+                                <end>163</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-mittelalterdigital-2020-32384</identifier>
+                    <identifier type="doi">10.17879/mittelalterdigi-2020-3290</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3290</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3290">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3290/3238" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3290">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3290/3239" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3290" DMDID="DMD_wwu-journals_3290">
+            <mets:fptr FILEID="FILE0_wwu-journals_3290"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3290" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3290"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

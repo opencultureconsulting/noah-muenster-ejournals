@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4012">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Autopoiesis und Hybride – zur Formkatastrophe der Gegenwartsgesellschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kron, Thomas</displayForm>
+                        <namePart type="family">Kron</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">33</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag kontrastiert Luhmanns Beschreibung der Gesellschaft als funktional differenziert mit der latourschen Annahme des Vorhandenseins von Hybriden. Es wird gezeigt, dass Luhmanns unterscheidungstheoretische Interpretation autopoietischer Systeme den Gegenstand der Hybride nicht angemessen erfasst, sodass man eine Fehlpassung diagnostizieren kann. Eine Möglichkeit, Luhmanns unterscheidungstheoretische Erkenntnisse im Kontext der Diagnose der Vermehrung der Hybride von Latour zu bewahren und die Fehlpassung zu korrigieren – mit anderen Worten: die Entfaltung der Paradoxie der Form der Unterscheidung und sowie der Paradoxie der Hybridität im Unterscheiden –, ist die Modellierung mit Hilfe der fuzzy-systems theory von Lotfi Zadeh. Auf diese Weise wird die Dichotomisierung im Unterscheidungsdenken Luhmanns überwunden und Hybride im latourschen Sinne in der Systemtheorie modellierbar.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>220</start>
+                                <end>252</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4012</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4012</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4012">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4012/4058" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4012" DMDID="DMD_wwu-journals_4012">
+            <mets:fptr FILEID="FILE0_wwu-journals_4012"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

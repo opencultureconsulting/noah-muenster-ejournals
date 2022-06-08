@@ -1,0 +1,133 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3792">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Cerebrovascular disease lesions are additive and tied to vascular risk factors and cognitive impairment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Robinson, John L</displayForm>
+                        <namePart type="family">Robinson</namePart>
+                        <namePart type="given">John L</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Richardson, Hayley</displayForm>
+                        <namePart type="family">Richardson</namePart>
+                        <namePart type="given">Hayley</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Xie, Sharon  X</displayForm>
+                        <namePart type="family">Xie</namePart>
+                        <namePart type="given">Sharon  X</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Alfaro, Brian</displayForm>
+                        <namePart type="family">Alfaro</namePart>
+                        <namePart type="given">Brian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Loh, Nicholas</displayForm>
+                        <namePart type="family">Loh</namePart>
+                        <namePart type="given">Nicholas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lee, Virginia  M-Y</displayForm>
+                        <namePart type="family">Lee</namePart>
+                        <namePart type="given">Virginia  M-Y</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lee, Edward B</displayForm>
+                        <namePart type="family">Lee</namePart>
+                        <namePart type="given">Edward B</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Trojanowski, John Q</displayForm>
+                        <namePart type="family">Trojanowski</namePart>
+                        <namePart type="given">John Q</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Cerebrovascular lesions are prevalent in late life and frequently co-occur but the relationship to cognitive impairment is complicated by the lack of consensus around which lesions represent hallmark pathologies for vascular impairment, particularly in the presence of Alzheimer’s disease (AD). We developed an easily applicable model of cerebrovascular disease (CVD), defined as the presence of two or more lesions: moderate to severe cerebral amyloid angiopathy, moderate to severe arteriolosclerosis, infarcts (large, lacunar, or micro), and/or hemorrhages. AD was defined as intermediate or high AD neuropathologic change. The contribution of vascular risk factors such as atherosclerosis and/or a health history of heart disease, hyperlipidemia, stroke events, diabetes, or hypertension was also assessed. Logistic regression analysis reported the association of CVD with increasing age, vascular risk factors, AD, and cognitive impairment in this study of 1,485 autopsied individuals. Cerebrovascular lesions were present in 48% and 16% had CVD. Increasing age associated with all lesions (p&amp;lt;0.001), except hemorrhages (p=0.41). CVD was more likely in individuals with vascular risk factors or AD (p&amp;lt;0.01). CVD, but not individual cerebrovascular lesions, associated with impairment in cases without AD (p&amp;lt;0.01), but not in cases with AD (p&amp;gt;0.61). From this, we conclude that a simple, additive model of CVD is 1) age and AD-associated, 2) is associated with vascular risk factors, and 3) clinically correlates with cognitive decline independent of AD.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-38651</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3792</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3792</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3792">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3792/3865" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3792">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3792/3864" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3792" DMDID="DMD_wwu-journals_3792">
+            <mets:fptr FILEID="FILE0_wwu-journals_3792"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3792" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3792"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

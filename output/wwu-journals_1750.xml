@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sozial-ökologische Transformation braucht Kritik an den gesellschaftlichen Naturverhältnissen</title>
+                        <subTitle>Zur notwendigen Verankerung von Nachhaltigkeitsforschung in feministischer Theorie und Praxis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gottschlich, Daniela</displayForm>
+                        <namePart type="family">Gottschlich</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Katz, Christine</displayForm>
+                        <namePart type="family">Katz</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-05-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Blick auf Geschlechterverhältnisse und feministische Ansätze eröffnet neue Perspektiven für die Nachhaltigkeitsforschung. Diese Perspektiven beziehen sich auf den Erkenntnisprozess, auf Begriffe und Konzepte, auf die zu stellenden Fragen, den Zugang und die Sichtweisen des Problems, aber auch auf die Bewältigungsstrategien. Die Kritikperspektive feministischer Nachhaltigkeitsforschung ist im wahrsten Sinne des Wortes grundsätzlich, radikal. Sie wirft Licht auf das „Andere“, auf das, was ausgegrenzt oder in den Schatten gedrängt wird, dessen Einbeziehung aber grundlegend für die gesellschaftliche Entwicklung ist. Bislang kommen solche (herrschafts-)kritischen Ansätze in der Nachhaltigkeitsforschung zu kurz. Wenn diese jedoch ihr transformatives, kritisch-emanzipatorisches Potenzial erhalten, entfalten und ausbauen will, dann muss sie sich auf kritische Traditionslinien besinnen und diese miteinander verbinden. Zentrale Themen, Fragestellungen und sozial-ökologische gesellschaftliche Gegenentwürfe feministischer Nachhaltigkeitsforschung werden im Beitrag vorgestellt.Gender as a research category and feminist approaches open up new avenues and perspectives for sustainability research. These perspectives relate to the production of knowledge, terms, and concepts; they relate to the questions to be asked and the framing of the problem, but they also have impacts on coping strategies. Feminist critique in the field of sustainability is literally fundamental, it’s radical. It throws light on the „other“, on what is usually excluded or forced in the shade, whereas its inclusion is fundamental to the development of society. So far, power, questions of domination, and hierarchies are blind spots in mainstream sustainability research. Critical approaches are missing. However, if sustainability research wants to sustain, unfold, and expand its transformative, critical-emancipatory potentials, it has to rely on critical - old and new - theories and to combine them. Central issues, topics, and alternatives of feminist sustainability research are presented in the article.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2016-16851</identifier>
+                    <identifier type="doi">10.17879/sun-2016-1750</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1750">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/1750/1685" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1750" DMDID="DMD_wwu-journals_1750">
+            <mets:fptr FILEID="FILE0_wwu-journals_1750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

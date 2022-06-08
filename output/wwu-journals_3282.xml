@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3282">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Conjunctive Knowledge of environment-related Consumption</title>
+                        <subTitle>A Praxeological Perspective on the Sharing Economy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürss, Sebastian</displayForm>
+                        <namePart type="family">Jürss</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eichhorn, Thomas</displayForm>
+                        <namePart type="family">Eichhorn</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die umweltsoziologische Forschung nutzt das Konstrukt des Umweltbewusstseins, um individuelles Umwelthandeln zu erklären. Aus Sicht der Praxistheorie wird dabei jedoch lediglich das kommunizierbare Wissen der Akteure berücksichtigt. Darüber hinaus verfügen diese Akteure jedoch auch über nicht-kommunizierbares Wissen, welches für ihre Handlungspraxis von Bedeutung ist. In diesem Beitrag untersuchen wir, in welches nicht-kommunizierbare Wissen Umweltbewusstsein eingebettet ist und dadurch seine weitere Bedeutung bezieht. In einer Sekundäranalyse werten wir Gruppendiskussionen zwischen Nutzer*innen der sog. Sharing Economy aus, um dieser Frage nachzugehen. Die Sharing Economy stellt hierbei einen speziellen Fall umweltbezogenen Konsums dar, der von ihren Nutzer*innen oft als Möglichkeit zur Reduktion von Umweltbelastungen wahrgenommen wird. Wir verwenden die Dokumentarische Methode nach Ralf Bohnsack, um vier Orientierungsrahmen der Nutzer*innen auszuarbeiten, welche ihr nicht-kommunizierbares Wissen abbilden. Im Anschluss diskutieren wir Gemeinsamkeiten und Widersprüche zu ihrem kommunizierbaren Wissen sowie die Relevanz der Betrachtung beider Aspekte für die umweltsoziologische Forschung.
+Environmental sociological research uses the construct of environmental consciousness to explain individuals‘ decisions relating to the ecological environment of humans. From a practice theory perspective, environmental consciousness takes only such knowledge into account that can be communicated by actors. Additionally, actors also have non-communicative knowledge that is nonetheless relevant for their practice. In this article, we ask in what kind of non-communicative knowledge environmental consciousness is embedded and derives its meaning from. To address this question, we use group discussions between users of the sharing economy in a secondary analysis. The sharing economy is a specific case of environment-related consumption opportunity that users often perceive as a chance to reduce environmental stress. Applying the Documentary Method of Ralf Bohnsack, we work out four frameworks that reflect users‘ non-communicative knowledge of the sharing economy. We point out similarities and contradictions between communicative and non-communicative knowledge elements and discuss the relevance of considering both types of knowledge for environmental sociological research.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>43</start>
+                                <end>69</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2021-32290</identifier>
+                    <identifier type="doi">10.17879/sun-2021-3282</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3282</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3282">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/3282/3229" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3282" DMDID="DMD_wwu-journals_3282">
+            <mets:fptr FILEID="FILE0_wwu-journals_3282"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

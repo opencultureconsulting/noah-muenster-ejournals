@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4098">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Uwe Schimanks theoretisches Modell der modernen Gesellschaft</title>
+                        <subTitle>Realtypus oder Idealtypus?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mayntz, Renate</displayForm>
+                        <namePart type="family">Mayntz</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Uwe Schimank will drei theoretische Perspektiven, die er in Beiträgen zur soziologischen Gesellschaftstheorie findet, zu einer Theorie der modernen Gesellschaft zusammenfügen. Abschließend fordert er dazu auf, die Plausibilität und das Erklärungspotential seines theoretischen Modells zu prüfen. In diesem Sinn soll mein Diskussionsbeitrag zur Prüfung (und eventuell Weiterentwicklung) des Modells beitragen, was besser gelingt, wenn man sich kritisch damit auseinandersetzt, als wenn man Zustimmung kundtut. Was in diesem Fall über weite Strecken leicht fiele; was Uwe Schimank in den fünf Schritten des Zusammenbaus der drei von ihm herausgehobenen Perspektiven vorführt, ist soziologisch überzeugend. Man könnte sich zunächst fragen, warum überhaupt verschiedene gesellschaftstheoretische Perspektiven integriert werden sollen. Geht es, wie in den Naturwissenschaften, um kognitive Integration, die eine Theorie, oder geht es um größere Realitätsnähe, ein höheres Erklärungspotential für den angepeilten Ausschnitt der Wirklichkeit? Da gibt es einen Trade-off: Die Reduktion mehrerer spezieller zu einer allgemeinen und dementsprechend abstrakteren Theorie geht einher mit dem Verlust von Erklärungspotential für je konkrete empirische Phänomene. Die Wirklichkeit ist facettenreich und hat viele Ebenen, und wir Menschen können »die Wirklichkeit« niemals als Ganzes sehen. Die Unterschiedlichkeit von Perspektiven entspricht, so könnte man argumentieren, der biologisch festgelegten Begrenztheit unserer Aufmerksamkeitsspanne.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>269</start>
+                                <end>274</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-4098</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4098</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4098">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4098/4167" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4098" DMDID="DMD_wwu-journals_4098">
+            <mets:fptr FILEID="FILE0_wwu-journals_4098"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

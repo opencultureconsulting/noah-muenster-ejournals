@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2112">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ankommen. Festmachen. Angenommen werden. Gewaltunterbrechung durch religiöse Verbundenheit am Beispiel des internationalen Seemannsclubs „Duckdalben“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gründer, Christian</displayForm>
+                        <namePart type="family">Gründer</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gutmann, Hans-Martin</displayForm>
+                        <namePart type="family">Gutmann</namePart>
+                        <namePart type="given">Hans-Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Religiöse Verbundenheit kann gewaltunterbrechend wirken und darin bestärken, sich nicht von jeweils aktuellen Gewaltkrisen vereinnahmen zu lassen, sondern sich in andere einzufühlen, den Sehnsüchten anderer mit wohlwollender Aufmerksamkeit zu begegnen und auch Notlagen von Fremden nach Möglichkeit abzuwenden. Das wird verdeutlicht am Beispiel des Engagements der Deutschen Seemannsmission e. V., die ihr Handeln und Wirken nach dem Leitspruch ausrichtet: „Support of Seafarers’ Dignity!“Religious solidarity can lead to an interruption of violence. It can encourage people to not allow themselves being absorbed by the latest crises, but rather to be able to feel empathy, to respect the desires of others, and to help people in need, even if they are strangers. This is depicted by the example of the commitment of the Deutsche Seemannsmission e. V. (German Seaman’s Mission), which bases their activities on the principle: „Support of Seafarers’ Dignity“.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>35</start>
+                                <end>48</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17186</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2112</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2112">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2112/2026" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2112" DMDID="DMD_wwu-journals_2112">
+            <mets:fptr FILEID="FILE0_wwu-journals_2112"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

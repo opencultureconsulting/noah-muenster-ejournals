@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2586">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schuld und Sühne im Anthropozän</title>
+                        <subTitle>Aspekte eines Phänomens in Anrufung und Selbsttechnik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pape, Judith</displayForm>
+                        <namePart type="family">Pape</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">33</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In historischen und aktuellen wissenschaftlichen Klassikern der Umweltliteratur finden sich epistemische Linien, die das Aufkommen einer neuen Vorstellung von Schuld an oder vor der Umwelt vorbereiten und einbetten. Ältere Diskursbeiträge enthalten ein Schuldkonzept, das dem klassischen soziologischen Verständnis von Schuld entspricht. Sie begreifen sie prozessual – als normalisierendes Korrektiv, das vor allem staatliches Handeln reguliert. Hingegen zeichnen sich jüngere Beiträge durch die Konzeption einer tendenziell abschließenden Schuld aus, die primär die Identität handelnder Subjekte trifft. Aufgrund ihrer diskursiven Charakteristika kann diese grüne Schuld kaum mehr teleologisch und prozessual – etwa als Dimension neoliberaler Selbstregierung – gefasst werden. Mit einem subjektivierungstheoretisch informierten Zugang betrachte ich die Materialisierung dieser arationalen Schuld im Kontext ihrer identitätsstiftenden und totalisierenden Effekte als diskursive Beharrungstendenz. Dieser Beitrag dient der Reflexion soziologischer Kritik im Rahmen der Transformationsforschung; außerdem regt die dargelegte Konzeptualisierung einer arationalen Schuld die Theoriebildung der Subjektivierungstheorie an.
+By analysing historical and contemporary scholarly classics of environmentalism, I follow epistemic threads that link a notion of guilt to the transgression of perceived natural boundaries. Earlier works refer to this “green guilt” primarily with regard to state action. They correspond with the common sociological understanding of guilt as a normalizing processual corrective. However, younger works prepare for a different notion of green guilt that constitutes the identity of individuals. Moreover, the normalizing procedure that was earlier attached to the ascription of guilt disappears. Instead, deviant individuals are subject to a discourse that renders them inherently guilty and powerless. Informed by the poststructuralist theory of subjectivation, I discuss these characteristics as a materialization of arational guilt, since it cannot be grasped teleologically – e.g. as a dimension of neoliberal governmentality. This article offers a way of conceptualising green guilt as a discursive peculiarity that manifests itself solely in the subject’s identity. Within the framework of transformation research, my findings shed a light on a discursive pattern of persistence that is yet to be understood.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>177</start>
+                                <end>209</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-24771</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2586</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2586</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2586">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2586/2477" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2586" DMDID="DMD_wwu-journals_2586">
+            <mets:fptr FILEID="FILE0_wwu-journals_2586"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

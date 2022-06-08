@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Coverversionen. Zum populären Kern der Popmusik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Huck, Christian</displayForm>
+                        <namePart type="family">Huck</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Cover versions have been a central element of pop and rock music ever since Elvis and the Beatles re-recorded popular R&amp;amp;B hits of their time; today, up to a fifth of all successful songs are indeed new releases of old songs, and there is hardly an artist or a genre that has not produced its fair share of cover versions. Rock critics, however, seem to have a far less benevolent stance towards such productions. Alternatively condemning them as a form of cultural theft or an expression of creative bankruptcy, cover versions have been stigmatized as an economic concession to the art of pop music: indeed, cover versions seem to epitomize everything that is bad about pop. The essay proposes to understand cover versions not as an anomaly, but as the default case of pop musical practice. In order to do so, pop music has to be freed from the shackles of an essentially Romantic aesthetics on which most criticism is based. While this means to abandon demands for innovation, progress and individual artistry, a reevaluation of the cover version can open up pop music to analytic categories that escape the framework of a traditional Romantic aesthetics: affect, sound, adaptation. By doing so, pop music, finally, becomes less of a work-based form of art, but rather a specific, listener-oriented practice within the wider field of popular culture, for good or bad.
+&amp;nbsp;
+----------</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>POP. Kultur &amp; Kritik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">POP. Kultur &amp; Kritik</publisher>
+                        </originInfo>
+                        <identifier type="issn">2194-6981</identifier>
+                        <part>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pop-2014-12731</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1341</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1341">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/pop/article/download/1341/1273" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1341" DMDID="DMD_wwu-journals_1341">
+            <mets:fptr FILEID="FILE0_wwu-journals_1341"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

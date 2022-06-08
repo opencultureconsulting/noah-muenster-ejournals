@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4183">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Engführung? Ergänzungen zu einem unerledigten Fall</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Esser, Hartmut</displayForm>
+                        <namePart type="family">Esser</namePart>
+                        <namePart type="given">Hartmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die analytisch-empirische Soziologie stellt sich im Rahmen der verschiedenen anderen Disziplinen und Fächer der Sozialwissenschaften die Aufgabe, gesellschaftliche Prozesse und Gesellschaften in ihrer Gesamtheit in den Blick zu nehmen und nicht nur einzelne Aspekte davon. »Analytisch« bedeutet dabei, dass eine zunächst vielschichtig, ungeordnet, undurchsichtig, also: »komplex« erscheinende Konfiguration von sozialen Phänomenen und Zusammenhängen gedanklich in einzelne Aspekte aufgespalten, geordnet, ggf. nach abstrahierenden Gesichtspunkten neu und möglichst auch vereinfachend zusammengesetzt sowie mit sprachlichen Ausdrücken, Begriffen wie Aussagesätzen möglichst präzise bezeichnet wird (u.a. auch in mathematischen Modellen und Simulationen der Abläufe). »Empirisch« heißt, dass sich die analytisch unterschiedenen theoretischen Konstrukte und Aussagen in kontrollierten Beobachtungen intersubjektiv prüfen und bestätigen lassen. Die Orientierung an den Kriterien der analytischen Präzision sowie der empirischen Prüfbarkeit und Bewährung wird gerade auch vor dem Hintergrund der Annahme betont, dass es zu den Naturwissenschaften einen grundlegenden Unterschied gibt: Die gesellschaftlichen Strukturen und Prozesses sind das Ergebnis interaktiv er-zeugter Konstruktionen durch kulturell geprägte und sinnhaft handelnde Subjekte, die ggf. auch auf die Aussagen der Sozialwissenschaften selbst reagieren können.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>7</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>251</start>
+                                <end>273</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2018-4183</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4183</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4183">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4183/4266" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4183" DMDID="DMD_wwu-journals_4183">
+            <mets:fptr FILEID="FILE0_wwu-journals_4183"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

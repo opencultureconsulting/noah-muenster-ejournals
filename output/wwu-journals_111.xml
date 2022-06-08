@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Arbeit in der globalisierten Wirtschaftsgesellschaft. Ein Literaturbericht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nothelle-Wildfeuer, Ursula</displayForm>
+                        <namePart type="family">Nothelle-Wildfeuer</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungArbeit ist ein entscheidender Faktor in der globalisierten Gesellschaft. Mit diesem Bericht wird ein Überblick über die wichtigsten jüngeren deutschsprachigen sozialethischen Veröffentlichungen seit ca. dem Jahr 2000 zu diesem Thema gegeben. Dabei stellt sich die christliche Sozialethik als ein Feld heraus, das sich dem Thema Arbeit und ihrer Ausgestaltung in der heutigen Gesellschaft besonders intensiv, aber mit durchaus unterschiedlichen Zugriffen widmet. Der Bericht hält fest, dass interdisziplinäre Bezüge notwendig sind, die mehrdimensionale und vor allem vernetzende Lösungsstrategien für aktuelle und akute Probleme anbieten. Der Literaturbericht beleuchtet zuerst die Diskussion über die Arbeitsgesellschaft, berichtet dann über Texte zum Sinn und Wert menschlicher Arbeit, wendet sich anschließend den Einzelfragen zu Arbeit und ihren Koordinaten zu und beschäftigt sich zuletzt mit den generellen gesellschaftlichen Rahmenbedingungen.AbstractLabour is a decisive factor in the globalised community. This account gives an overview of the most important social-ethical publications on this topic in the German speaking area since ca. the year 2000. Christian social ethics emerge from this field as an approach that shows particular dedication to the questions of labour and its organisation in modern society, while displaying a considerable variety of angles. This review records the necessity of interdisciplinary relationships offering multi-dimensional and, more importantly, networked strategies for the solution of the current and pressing problems. The paper first addresses the discussions of the labour society, then the text is dealing with the significance and value of human labour, to go on to consider individual issues of labour and its coordinates, and finally focuses on questions regarding the general social framework.urn:nbn:de:hbz:6:3-20120127106</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20120127106</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_111</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_111">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/111/102" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_111" DMDID="DMD_wwu-journals_111">
+            <mets:fptr FILEID="FILE0_wwu-journals_111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

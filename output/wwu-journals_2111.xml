@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gewalt ist Gotteslästerung und religiöse Bildung ist Gewaltprävention. Plädoyer für eine dezidiert friedensorientierte Religionspädagogik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Naurath, Elisabeth</displayForm>
+                        <namePart type="family">Naurath</namePart>
+                        <namePart type="given">Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Kontext gegenwärtiger religiöser Pluralisierungsprozesse erschreckt die Zunahme an Fundamentalismus, Vorurteilen, Feindbildern und Gewaltbereitschaft. Verstehen wir Religionspädagogik auch als Friedenspädagogik, so ist im Gegensatz zu früheren Ansätzen politischer Couleur heute eine Didaktik der Gewaltprävention einzubeziehen, die auch im interreligiösen Kontext wirksam wird. Diese muss sich sowohl theologisch als auch bildungstheoretisch legitimieren. Die Bildung religiöser Sprachfähigkeit, Reflexionsfähigkeit sowie Dialog‐ und Pluralismusfähigkeit sind die Schlüssel zu einer friedensorientierten Religionspädagogik. Diese kann didaktisch nur erfolgreich sein, wenn auch die emotionale Lerndimension ethischer Bildung einbezogen wird.One can currently observe the rise of religious pluralism, which also comes with increasing fundamentalism, prejudices, the demonization of the enemies, and a readiness for violence. If we understand religious education as education towards peace, a didactics of the prevention of violence, which becomes also effective in the interreligious context, is to be included in any kind of religious education. The keys for peace‐oriented education are the support of linguistic religious competence and of the ability to reflect as well as the ability to appreciate pluralism and dialogue. Didactically, this can be only successful if the emotional learning dimension of ethical education is included.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>23</start>
+                                <end>34</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17172</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2111</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2111">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2111/2025" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2111" DMDID="DMD_wwu-journals_2111">
+            <mets:fptr FILEID="FILE0_wwu-journals_2111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

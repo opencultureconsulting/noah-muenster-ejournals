@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3883">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>من مبدأ الإيمان الفردي في كل وقت</title>
+                        <subTitle>حول سؤال النقد الدينيّ للذات في الإسلام</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>From the maxim of Know thyself at all times</title>
+                        <subTitle>On the question of religious self-criticism in Islam</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karimi, Ahmad Milad</displayForm>
+                        <namePart type="family">Karimi</namePart>
+                        <namePart type="given">Ahmad Milad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hamdan, Ali</displayForm>
+                        <namePart type="family">Hamdan</namePart>
+                        <namePart type="given">Ali</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+                    </language>
+                    <abstract lang="ara">بالرغم‭ ‬من‭ ‬أنّ‭ ‬المعنى‭ ‬الثقافي‭ ‬والرّوحي‭ ‬للإسلام‭ ‬يعيش‭ ‬أزمة‭ ‬عميقة،‭ ‬فلا‭ ‬يمكن‭ ‬الحديث،‭ ‬وفقاً‭ ‬للمؤلف،‭ ‬عن‭ ‬جمود‭ ‬الرّوح‭ ‬الإسلامية‭. ‬فالإمكانيات‭ ‬الداخلية‭ ‬للإسلام،‭ ‬المتمثّلة‭ ‬في‭ ‬الارتباط‭ ‬الوثيق‭ ‬بالعقل‭ ‬والتحفيز‭ ‬على‭ ‬النقد‭ ‬الدّيني‭ ‬العقلاني‭ ‬للذات،‭ ‬لا‭ ‬يمكن‭ ‬فهمها‭ ‬إلّا‭ ‬في‭ ‬سياق‭ ‬ثقافة‭ ‬التنوير،‭ ‬مع‭ ‬الأخذ‭ ‬بالحُسبان‭ ‬أنّ‭ ‬الحديث‭ ‬هنا‭ ‬ليس‭ ‬عن‭ ‬تنوير‭ ‬معين‭ ‬أو‭ ‬حقبة‭ ‬تنويرية‭ ‬بصبغة‭ ‬مسيحية،‭ ‬بل‭ ‬عن‭ ‬ثقافة‭ ‬التنوير‭. ‬إنّ‭ ‬الوحي،‭ ‬القائم‭ ‬عليه‭ ‬الإسلام‭ ‬بوصفه‭ ‬دين‭ ‬وحي‭ ‬Offenbarungsreligion،‭ ‬يتمّ‭ ‬تعريفه‭ ‬في‭ ‬القرآن‭ ‬الكريم‭ ‬على‭ ‬أنّه‭ ‬فرقان‭ ‬أو‭ ‬فراقين‭ ‬منطقية‭ ‬وأخلاقية،‭ ‬بل‭ ‬وحتى‭ ‬جمالية‭. ‬من‭ ‬هنا‭ ‬يُدرك‭ ‬الإسلام‭ ‬كطريق‭ ‬السعادة،‭ ‬الذي‭ ‬يؤدي‭ ‬بالإنسان‭ ‬إلى‭ ‬التنوير‭ ‬أو‭ ‬التنويرات‭ ‬المتعددة‭ ‬والمتعلقة‭ ‬بذاته‭ ‬وعالمه‭ ‬ومغزى‭ ‬وجوده‭ ‬ومصيره‭. ‬لكنّ‭ ‬مضامين‭ ‬الوحي‭ ‬ليست‭ ‬أشياءً‭ ‬معطاة‭ ‬وواضحة،‭ ‬بل‭ ‬إنّ‭ ‬الوحي‭ ‬بصفته‭ ‬الفرقانية‭ ‬يعدّ‭ ‬من‭ ‬هذه‭ ‬الناحية‭ ‬وظيفةً‭ ‬وتكليفًا‭ ‬للمؤمنين،‭ ‬الذين‭ ‬هم‭ ‬وحدهم‭ ‬من‭ ‬يرسمون‭ ‬ملامح‭ ‬الدّين‭ ‬من‭ ‬خلال‭ ‬تفسيراتهم‭ ‬له،‭ ‬والقائمة‭ ‬بشكل‭ ‬رئيسيّ‭ ‬على‭ ‬مبدأ‭ ‬التقييم‭ ‬العقلاني‭ ‬للتأكد‭ ‬من‭ ‬معقوليتها‭ ‬وديمومة‭ ‬قابليتها‭ ‬للنقد؛‭ ‬إذ‭ ‬لا‭ ‬وجود‭ ‬لمرجعية‭ ‬دينيّة‭ ‬عليا‭ ‬في‭ ‬الإسلام‭ (‬السنيّ‭). ‬تحصيل‭ ‬الإيمان‭ ‬في‭ ‬دين‭ ‬الإسلام‭ ‬لا‭ ‬يعني‭ ‬سوى‭ ‬المعالجة‭ ‬الداخلية‭ ‬للدّين‭ ‬نفسه،‭ ‬التي‭ ‬تتمّ‭ ‬في‭ ‬مكان‭ ‬ثالث،‭ ‬يتمّ‭ ‬فيه‭ ‬تحديد‭ ‬الفهم‭ ‬الدّيني‭ ‬على‭ ‬أنّه‭ ‬سعيٌ‭ ‬دائمٌ‭ ‬وراء‭ ‬المعرفة‭ ‬وعجز‭ ‬عن‭ ‬إدراك‭ ‬الحقيقة‭ ‬المطلقة،‭ ‬وأنّ‭ ‬الإيمان‭ ‬الحقيقي‭ ‬مُتمثّل‭ ‬في‭ ‬رجاء‭ ‬الإنسان‭ ‬اللّامنقطع‭ ‬في‭ ‬تحصيل‭ ‬الهداية،‭ ‬فيرتقي‭ ‬التّدين‭ ‬بذلك‭ ‬ليكون‭ ‬سبباً‭ ‬للتواضع‭ ‬المعرفي‭ ‬والانفتاح‭ ‬على‭ ‬الآخر‭ [‬المُترجم‭: ‬علي‭ ‬حمدان‭].‬</abstract>
+                    <abstract lang="eng">Although the cultural and spiritual meaning of the religion of Islam is in deep crisis, it is not possible to talk, according to the author, about the rigidity of the Islamic spirit. The internal capabilities of Islam, represented in the close connection with the reason and the motivation for rational religious criticism of the self, can only be understood in the context of the culture of enlightenment, bearing in mind that the discussion here is not about a specific enlightenment or an enlightenment era with a Christian character, but rather about the culture of enlightenment. Revelation is defined in the Qur’an as a logical, moral, and even aesthetic criterion al-furqān. Here, Islam is understood as the path of happiness, which leads human to enlightenment related to himself, the meaning of his existence and his destiny. However, the contents of revelation are not always clear; rather, revelation as the Criterion makes the believers the only ones who draw the features of religion through their interpretations, based mainly on the principle of rational evaluation to ensure its reasonableness and permanence of criticism. The meaning of faith in Islam is the internal treatment of religion itself, which happens in a third place, in which religious understanding is defined as a constant pursuit of knowledge and an inability to grasp the absolute truth [Ali Hamdan].</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Münstersche Fachzeitschrift für islamische und philosophische Studien</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/mjiphs-2022-3883</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3883</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3883">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3883/3945" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3883">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mfiphs/article/download/3883/4216" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3883" DMDID="DMD_wwu-journals_3883">
+            <mets:fptr FILEID="FILE0_wwu-journals_3883"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3883" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3883"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

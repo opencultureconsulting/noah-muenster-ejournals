@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3425">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>A </nonSort>
+                        <title>brief plea for pre-evangelization</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hajduk CSsR, Ryszard</displayForm>
+                        <namePart type="family">Hajduk CSsR</namePart>
+                        <namePart type="given">Ryszard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In theological publications, postulations supporting a return to pre-evangelization are increasingly appearing on the horizon. This term indicates the need to precede the proclamation of the Christian kerygma with the proper preparation of potential recipients of the Gospel, so that they can openly embrace the message of salvation with their faith. Pre-evangelization is thus already an evangelization, albeit an incomplete one, for it lacks the direct proclamation of the Word of God. Nowadays, pre-evangelization serves to inspire people to reflect on their existence and on the role of faith in their everyday life. In addition, it is about promoting evangelical values that are simultaneously completely human.
+In theologischen Publikationen werden die Postulate der Rückkehr zur Prä-Evangelisation immer häufiger. Dieser Begriff weist auf die Notwendigkeit hin, die Verkündigung des christlichen Kerygmas mit einer Vorbereitung der potenziellen Empfänger*innen des Evangeliums vorzubereiten, damit sie sich im Glauben für die Heilsbotschaft öffnen können. Die Prä-Evangelisation ist bereits Evangelisierung, wenn auch unvollständig, denn es gibt in ihr noch keinen Raum für die direkte Verkündigung des Wortes Gottes. Die Prä-Evangelisation soll heute Menschen dazu inspirieren, über ihre Existenz und die Bedeutung des Glaubens im Alltag nachzudenken. Darüber hinaus geht es um die Förderung von Werten des Evangeliums, die gleichzeitig völlig menschlich sind.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>67</start>
+                                <end>80</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-34324</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3425</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3425">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3425/3432" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3425" DMDID="DMD_wwu-journals_3425">
+            <mets:fptr FILEID="FILE0_wwu-journals_3425"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

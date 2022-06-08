@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Adoption in gleichgeschlechtlichen Lebenspartnerschaften. Sozialethische Überlegungen unter besonderer Berücksichtigung des Kindeswohls</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Streit, Rita</displayForm>
+                        <namePart type="family">Streit</namePart>
+                        <namePart type="given">Rita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungAntwort auf die Frage, ob Eingetragenen Lebenspartnerschaften die (gemeinsame) Adoption von Kindern ermöglicht werden soll, ist primär durch die Abwägung von Rechten aller Beteiligten zu suchen. Gleichwohl spielen auch weltanschauliche Vorstellungen über Familie eine Rolle. Dieser Beitrag analysiert aus rechtlicher, (sozial-)ethischer und pädagogisch-psychologischer Perspektive, ob ein Adoptionsrecht aufgrund von Freiheits- und Gleichheitsgrundsätzen geboten ist und in welcher Form der Anspruch des Kindeswohls zum Tragen kommt. Durch die Analyse theoretischer und empirischer Arbeiten wird versucht festzustellen, wie sich eine Elternschaft gleichgeschlechtlicher Lebenspartner auf die Entwicklung von Kindern auswirkt. Wenn eine Gefährdung des Kindeswohls nicht zu erwarten ist, ist eine Ungleichbehandlung gleichgeschlechtlicher Lebenspartnerschaften nicht gerechtfertigt. Eine Verpflichtung zur Akzeptanz ergibt sich sozialethisch aus den universalen Prinzipien der Gleichheit und Gerechtigkeit – und damit aus dem Glauben heraus.AbstractIn order to find an answer to the question, whether same-sex couples should be afforded the right to adopt children, one needs to weigh the rights of all parties. Arguing from legal, (socio-)ethical and pedagogical-psychological perspectives, this article analyses whether a right to adopt is required due to principles of liberty and equality, and in which way the child’s welfare must be considered. Taking into account theoretical and empirical literature, this paper seeks to determine how parenting of same-sex couples impacts on child development. If imperilment of the child’s welfare is not to be expected, the discriminatory treatment of same-sex couples is not justified. On the basis of the universal principles of equality and justice, and hence belief, a commitment to the acceptance of this fact is therefore socioethically imperative.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-17030</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1770</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1770">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1770/1703" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1770" DMDID="DMD_wwu-journals_1770">
+            <mets:fptr FILEID="FILE0_wwu-journals_1770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3137">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Toward interdisciplinary research-based teaching in linguistics</title>
+                        <subTitle>Integrating students into project-oriented teaching and research practices at the intersection of (applied) English linguistics and TEFL</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meer, Philipp</displayForm>
+                        <namePart type="family">Meer</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In recent years, the idea of undergraduate research and inquiry and research-active teaching and learning has become relatively popular across universities in the United States and many other countries worldwide (Healey &amp;amp; Jenkins 2009). In Germany, a parallel trend can be observed: the concept of learning through research (“Forschendes Lernen”) has not only become a popular buzzword in higher education (Reinmann 2016:226) but has substantially influenced educational practices and development strategies of many universities nationwide (e.g. HEP RUB, HEP WWU). Teacher education at university level, in particular, has been one of the domains where many new standards and goals, as well as related teaching and learning practices, have started to be implemented (KMK 2014; MSW NRW 2016).
+This paper discusses the relevance and potential benefits of learning through research for the teaching of English linguistics at German universities, with a particular focus on one subtype associated with this concept: research-based teaching (Healey &amp;amp; Jenkins 2009:7). Drawing on general theoretical considerations and using a research-based course taught by myself as an example, the paper argues that teaching and research in (applied) linguistics – and English language studies more generally – can profit quite immensely from the introduction and/or expansion of research-based teaching and learning practices in addition to other types of learning through research.
+I propose that, for lecturers and students alike, interdisciplinary and project-oriented approachesespecially may be a welcome contribution to the teaching and research at English departments in Germany and other countries where as different fields as Literary and Cultural Studies, English Linguistics, and Teaching English as a Foreign Language (TEFL) often belong to the same department. I suggest that such a research-based approach can help bridge the gap between teaching and research, two concepts which are traditionally regarded as separate and being very different from one another, and that future teachers of English, in particular, may profit from such an approach being put into practice.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>26</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2018-31079</identifier>
+                    <identifier type="doi">10.17879/satura-2018-3137</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3137</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3137">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3137/3107" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3137" DMDID="DMD_wwu-journals_3137">
+            <mets:fptr FILEID="FILE0_wwu-journals_3137"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

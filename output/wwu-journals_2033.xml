@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2033">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neues wagen, ohne das Potenzial parochialer Strukturen gering zu schätzen. Eine Positionierung in pastoraler Nüchternheit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Philipp</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In den kirchlichen Umbruchsituationen der nachkonziliaren Zeit ist immer wieder die Tendenz zu beobachten,in markanten Praxismodellen oder Konzepten den entscheidenden Schlüssel für die Zukunftder Pastoral zu sehen. Dieser Beitrag skizziert einige dieser Ansätze und würdigt ihr Potenzial; er warntaber davor, einen einzelnen Ansatz zu verabsolutieren oder ihn pauschal zu diskreditieren. Gleichzeitigwird dafür plädiert, bei den konzeptionellen Überlegungen zur Zukunft christlicher Sozialformen dieMöglichkeiten parochialer Strukturen angemessen zu berücksichtigen.In the situation of ecclesiastical changes after the Second Vatican Council, there has been the tendencyto consider prominent practice models as the main key for the future pastoral care. This articledelineates some of these approaches and values their potential, but it warns of absolutizing (or completelydiscrediting) one single approach. Conceptualizing the future of Christian social forms, theauthor advocates the consideration of the prospects of parochial structures.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>65</start>
+                                <end>75</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19517</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2033</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2033">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2033/1951" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2033" DMDID="DMD_wwu-journals_2033">
+            <mets:fptr FILEID="FILE0_wwu-journals_2033"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

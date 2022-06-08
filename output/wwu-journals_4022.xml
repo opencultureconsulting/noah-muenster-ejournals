@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4022">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gekaufte Zeit, geborgte Theorie</title>
+                        <subTitle>Anmerkungen zur »Landnahme durch den Markt«</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dörre, Klaus</displayForm>
+                        <namePart type="family">Dörre</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">»Europa befindet sich in seiner wohl schwersten Krise seit 1945«, schreibt Claus Offe (2013: 67) und sieht Ähnlichkeiten zur Lage vor 1933. Wie konnte es zu dieser Krise kommen? Mit seinem Antwortversuch ist Wolfgang Streeck ein großer Wurf gelungen. In »Gekaufte Zeit« beschreibt er eine »Landnahme durch den Markt« (16), die Wiederkehr eines Polanyi’schen Szenarios. Die Europäische Union ist in dieser marktöffnenden Bewegung das zentrale Kettenglied. Mit ihrer Hilfe gelingt es Regierungen, auf suprastaatlicher Ebene Handlungszwänge zu installieren, die dann in Gestalt kommodifizierender Arbeitsmarkt-, Sozial-, Wirtschafts- und Finanzpolitiken national als vermeintliche Sachzwänge exekutiert werden. Währungsunion und Euro sind die Vollendung dieses Projekts. Weil sie den schwächeren Ökonomien die Möglichkeit nehmen, Wettbewerbsdefizite mittels Abwertung ihrer nationalen Währung wenigstens auf Zeit auszugleichen, bleibt ihnen als letztes Instrument nur noch die innere Abwertung, der ständige Druck auf Löhne, kollektive Sicherungssysteme und soziale Standards – eine Entwicklung, in deren Folge der Zwangsehe von Kapitalismus und Demokratie die Scheidung droht.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>78</start>
+                                <end>87</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4022</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4022</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4022">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4022/4068" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4022" DMDID="DMD_wwu-journals_4022">
+            <mets:fptr FILEID="FILE0_wwu-journals_4022"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

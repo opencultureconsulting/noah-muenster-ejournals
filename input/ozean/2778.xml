@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>2778</id>
+	<dc:title xml:lang="de-DE">Eine Pipeline zur Digitalisierung tabellenbasierter Fundmünzdaten aus PDF-Dokumenten</dc:title>
+	<dc:title xml:lang="en-US">A pipeline for digitizing table-based coin find data from PDF documents</dc:title>
+	<dc:creator>Kissinger, Timo</dc:creator>
+	<dc:description xml:lang="de-DE">Dieser Aufsatz beschreibt ein Verfahren, das es ermöglicht, textbasierte Fundmünzdaten zu extrahieren und in RDF zu übertragen. Entwickelt wurde das Verfahren im Rahmen einer Masterarbeit. Als Grundlage dienen die Publikationen des Projektes »Die Fundmünzen der Römischen Zeit in Deutschland (FMRD)«. In dem Beitrag wird auf die Herausforderung einer solchen Digitalisierung eingegangen und anschließend anhand eines Beispielmünzkomplexes ein Lösungsweg angeboten. Dieser Lösungsweg stellt eine aus mehreren Skripten bestehende Pipeline dar, die es ermöglicht, aus einem PDF die Daten als Text auszugeben, über das Zwischenformat CSV zu modifizieren und anschließend als RDF auszugeben.</dc:description>
+	<dc:description xml:lang="en-US">This paper describes a method to extract text-based coin find data and transfer it to RDF. The method was developed as part of a master thesis. It is based on the publications of the project »Die Fundmünzen der Römischen Zeit in Deutschland (FMRD)«. The paper deals with the challenge of such digitisation and then offers a solution based on an example coin complex. This solution represents a pipeline consisting of several scripts, which makes it possible to output the data from a PDF as text, to modify it via the intermediate format CSV and then to output it as RDF.</dc:description>
+	<dc:publisher xml:lang="de-DE">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</dc:publisher>
+	<dc:date>2020-05-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2778</dc:identifier>
+	<dc:identifier>10.17879/ozean-2020-2778</dc:identifier>
+	<dc:source xml:lang="de-DE">Online Zeitschrift zur Antiken Numismatik; Bd. 2 (2020); 5-19</dc:source>
+	<dc:source xml:lang="en-US">Online Journal for Ancient Numismatics; Vol. 2 (2020); 5-19</dc:source>
+	<dc:source>2698-4490</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2778/2691</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/ozean/article/view/2778/2692</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-ozean-2020-26921</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2020 Timo Kissinger</dc:rights>
+</oai_dc:dc>

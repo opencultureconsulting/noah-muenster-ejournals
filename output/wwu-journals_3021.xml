@@ -1,0 +1,113 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3021">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hygienegesellschaften als Experimentiergesellschaften? Corona als Herausforderung für Strukturen resilienten Experimentierens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böschen, Stefan</displayForm>
+                        <namePart type="family">Böschen</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Viehöver, Willy</displayForm>
+                        <namePart type="family">Viehöver</namePart>
+                        <namePart type="given">Willy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baedeker, Carolin</displayForm>
+                        <namePart type="family">Baedeker</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Caplan, Anne</displayForm>
+                        <namePart type="family">Caplan</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schaurer, Ines</displayForm>
+                        <namePart type="family">Schaurer</namePart>
+                        <namePart type="given">Ines</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stadtmüller, Sven</displayForm>
+                        <namePart type="family">Stadtmüller</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die explosive Verbreitung des Corona-Virus über die Welt brachte ein Realexperiment globaler Dimension mit offenem Ausgang hervor. Gesellschaften formieren sich, kosmopolitisch verschränkt, als Hygienegesellschaften. Zwischen striktem Lockdown und minimaler Begrenzung gehen sie je eigene experimentelle Wege. Dabei wird der Raum des Experimentellen bisher eher defensiv gestaltet, was in der Konsequenz zur Begrenzung experimenteller Räume sowie zur schleichenden Delegitimierung von Kontrollpolitiken der Pandemie führt. Die These dieses Beitrags lautet, dass solche Legitimationsprobleme umso eher gelöst werden können, je eher Strukturen resilienten Experimentierens entworfen und institutionalisiert werden. Ein wichtiges Ergebnis der Überlegungen ist, dass die resiliente Gestaltung experimenteller Räume zur Bewältigung solchen Krisengeschehens nur gelingen kann, wenn neben top-down verordneten Kontrollen sich eine bottom- up-Kultur sozialen Experimentierens entfalten kann. Dies setzt auf Seiten der Zivilgesellschaft ebenso wie von staatlicher Seite die Fähigkeit und den Willen zu Partizipation und Kooperation voraus. Entsprechende Ansatzpunkte werden dafür identifiziert.
+The dynamic spread of the corona virus has triggered an open-ended real-world experiment of global dimensions. Being under siege by Corona Pandemic, societies are forming themselves as hygiene societies. While cosmopolitically intertwined, they create their own experimental paths, changing between strict lockdown and minimal intervention strategies. With regard to experimental spaces, disease policies still follow a defensive strategy. This leads not only to the limitation of experimental processes but rather to a creeping delegitimization of health control policies. This paper stresses that societies could better cope with urging legitimation problems if structures of resilient experimentation would be designed and appropriately institutionalized. Moreover, implementing resilient designs of experimental spaces, to successfully cope with pandemic crises, requires a vivid bottom-up culture of social experimentation to complement current top-down control measures. However, this presupposes the willingness as well as the capability to participate and cooperate on both sides, the civil society and the state. Correspondingly, appropriate starting points will be identified.&amp;nbsp;
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>143</start>
+                                <end>159</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-29669</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3021</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3021">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/3021/2966" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3021" DMDID="DMD_wwu-journals_3021">
+            <mets:fptr FILEID="FILE0_wwu-journals_3021"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

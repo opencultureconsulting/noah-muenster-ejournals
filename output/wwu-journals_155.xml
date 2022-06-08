@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_155">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Individualisierung von Lebensverläufen und Verantwortungskooperationen. Herausforderungen eines geschlechtergerechten Ehe-, Partnerschafts- und Familienrechts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meder, Stephan</displayForm>
+                        <namePart type="family">Meder</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungAngesichts der zunehmenden Individualisierung und Pluralisierung von Lebensverhältnissen sind im Ehe- und Familienrecht derzeit viele Grundsatzfragen offen. Um diese Fragen beantworten zu können, gilt es, das Recht an die abnehmende Zahl von Eheschließungen, die erhöhte Scheidungsquote sowie die Zunahme nichtehelicher Lebensgemeinschaften anzupassen, ohne dabei den zentralen Aspekt der Geschlechtergerechtigkeit zu vernachlässigen. In diesem Kontext identifiziert der Beitrag die Individualisierung als Element gesellschaftlicher Modernisierungsprozesse und die Auflösung geschlechtsspezifischer Rollenstereotypen als ihr Resultat. Der Text beleuchtet anhand verschiedener rechtlicher und gesellschaftlicher Entwicklungen, welchen komplexen Ansprüchen in der heutigen Zeit ein angemessenes (und geschlechtergerechtes) Ehe- und Familienrecht zu genügen hat. Dabei skizziert er verschiedene zentrale Aspekte des Eherechts, wie das Unterhaltsrecht, das Güterrecht oder die Ehevereinbarungen, und fragt, wie diese mit der zunehmenden Pluralisierung von Lebensverhältnissen zu vereinbaren sind.AbstractIn view of the increasing individualisation and pluralisation of life-styles, many key issues in marriage and family law remain unresolved. To be able to address these issues, the law must be adapted to the decrease in marriages, the increase in divorces, and the increase in non-marital long-term relationships, without neglecting the key aspect of gender justice. In this context, this paper identifies individualisation as a key element of social modernisation processes, and, as a result, the dissolution of sex-role stereotypes. On the basis of different legal and social developments, the paper discusses the complexity of requirements an appropriate (and more gender-equitable) marriage and family law today has to meet. Several central aspects of marriage law, like the right to maintenance, matrimonial property law, or marriage agreements, are sketched out, and the question is discussed how these can be reconciled with the increasing pluralisation of living arrangements in an updated jurisdiction.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082162</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_155</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_155">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/155/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_155">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/155/2269" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_155" DMDID="DMD_wwu-journals_155">
+            <mets:fptr FILEID="FILE0_wwu-journals_155"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_155" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_155"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

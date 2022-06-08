@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3800">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Suchmeldung</title>
+                        <subTitle>Ein Tremissis des Honorius aus der Sammlung Apostolo Zeno</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Suchmeldung</title>
+                        <subTitle>Ein Tremissis des Honorius aus der Sammlung Apostolo Zeno</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lichtenberger, Achim</displayForm>
+                        <namePart type="family">Lichtenberger</namePart>
+                        <namePart type="given">Achim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vorgestellt wird ein Tremissis des Kaisers Honorius, der im Jahr 2018 aus der Sammlung des Archäologischen Museums der Universität Münster gestohlen wurde. Das Exemplar stammt ursprünglich aus der historischen Sammlung Apostolo Zeno. Die Bekanntmachung des Verlustes verbindet sich mit der Hoffnung auf Rückführung.</abstract>
+                    <abstract lang="eng">Featured is a tremissis of Emperor Honorius, stolen in 2018 from the Archaeological Museum of the University of Münster. The exemplar originally stems from the historical collection of Apostolo Zeno. The publication of the loss is coupled with the hope of restitution.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>33</start>
+                                <end>35</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2022-38449</identifier>
+                    <identifier type="doi">10.17879/ozean-2022-3800</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3800</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3800">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3800/3844" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3800">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3800/3845" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3800" DMDID="DMD_wwu-journals_3800">
+            <mets:fptr FILEID="FILE0_wwu-journals_3800"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3800" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3800"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

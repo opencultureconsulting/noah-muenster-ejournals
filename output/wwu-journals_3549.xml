@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3549">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ethische Ansprüche an das eigene wirtschaftliche Handeln</title>
+                        <subTitle>Zur Notwendigkeit von Standards für die Vergabe von kirchlichen Erbbaugrundstücken und Wohnimmobilien</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schneider, Martin</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Kirchen besitzen nicht unerhebliche Liegenschaften und Immobilien. Wie sie damit umgehen, ist eine Anfrage an ihre Glaubwürdigkeit. In Form einer Diskursanalyse werden Argumente sortiert und bewertet, die bei der Vergabe von kirchlichen Erbbaugrundstücken und im Umgang mit Wohnimmobilien eine Rolle spielen. Zunächst wird der kirchenrechtliche Rahmen abgesteckt. Wirtschaftsethische und gerechtigkeitstheoretische Argumente integrierend wird für die Einführung eines Kriterienkatalogs bei der Vergabe von Erbpachtgrundstücken plädiert. In einem zweiten Schritt werden die Diskussionen zu ethisch nachhaltigen Geldanlagen einbezogen, um die Perspektive Was mache ich mit den erwirtschafteten Gewinnen? zu weiten und die Perspektive Wie erwirtschafte ich Gewinne? in den Fokus zu rücken. Ausgehend von der Diagnose, dass dieses Niveau an ethischer Reflexion beim Umgang mit kirchlichen Liegenschaften und Wohnimmobilien noch nicht erreicht ist, wird in einem dritten Schritt dargelegt, warum es gerade bei der Wohnungsfrage wichtig ist, Handlungsbegründungen und -orientierungen jenseits von Barmherzigkeit und Caritas in den Blick zu nehmen. Nur dann ist es möglich, so die abschließende These, im Umgang mit Grundstücken und Wohnimmobilien eine transformative Rolle einzunehmen und eine gesamtgesellschaftliche Gestaltungsverantwortung zu übernehmen.</abstract>
+                    <abstract lang="eng">The churches own considerable properties and real estate. How the churches handle these land holdings is a question of their credibility. In the form of a discourse analysis, arguments are sorted and evaluated that bear on the allocation of inherited church building plots and in the handling of residential real estate. First, the framework of church law is delineated. Integrating economic-ethical and justice-theoretical arguments, a case is made for the introduction of a catalogue of criteria for the allocation of leasehold properties. In a second step, discussions on ethical-sustainable investments are included in order to broaden the perspective from one that asks, What do I do with the generated profits? whilst bringing into focus the perspective that asks, How do I generate profits? Based on the diagnosis that this level of ethical reflection has not yet been reached in dealing with church properties and residential real estate, the third section explains why it is important, especially in the housing issue, to look at reasons for and orientations of action beyond mercy and charity. According to the concluding thesis, only in this way is it possible for the churches to take on a transformative role in dealing with land and residential real estate and to assume responsibility for shaping society as a whole.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>243</start>
+                                <end>267</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37016</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3549</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3549</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3549">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3549/3701" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3549" DMDID="DMD_wwu-journals_3549">
+            <mets:fptr FILEID="FILE0_wwu-journals_3549"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

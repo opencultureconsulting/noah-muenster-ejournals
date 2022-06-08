@@ -1,0 +1,132 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3324">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Taylor’s focal cortical dysplasia revisited</title>
+                        <subTitle>History, original specimens and impact</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kasper, Burkhard S.</displayForm>
+                        <namePart type="family">Kasper</namePart>
+                        <namePart type="given">Burkhard S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">50 years ago back in 1971, David C. Taylor and colleagues from England reported on a small series of surgical epilepsy cases proposing a new type of tissue lesion as a cause of difficult-to-treat focal epilepsy: a localized malformation of cerebral cortex. The lesion is now known as focal cortical dysplasia (FCD) Type II or Taylor’s cortical dysplasia. FCD II is not rare, and today is a frequent finding in neurosurgical epilepsy specimens. Medical progress has been achieved in that the majority of FCD II is diagnosed non-invasively by magnetic resonance imaging today. Detailed studies on FCD revealed that the lesion belongs to a spectrum of mTOR-o-pathies, thereby confirming the authors´ initial hypothesis of a relationship to tuberous sclerosis. Here, selected original materials from Taylor´s series are presented as virtual slides, supplemented by original clinical records, in order to give a first-hand impression of this milestone finding in neuropathology of epilepsy.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3324</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3324</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3331" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3323" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3324" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3325" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3326" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3327" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE6_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3328" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE7_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3329" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE8_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3330" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3324" DMDID="DMD_wwu-journals_3324">
+            <mets:fptr FILEID="FILE0_wwu-journals_3324"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE3_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE4_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE5_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE6_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE7_wwu-journals_3324"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART8_wwu-journals_3324" LABEL="">
+                <mets:fptr FILEID="FILE8_wwu-journals_3324"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

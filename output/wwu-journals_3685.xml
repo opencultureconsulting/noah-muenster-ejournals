@@ -1,0 +1,106 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3685">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>A </nonSort>
+                        <title>Find of a Bosporan Coin at Trębaczów, site 2, Kazimierza Wielka District (Poland)</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <nonSort>A </nonSort>
+                        <title>Find of a Bosporan Coin at Trębaczów, site 2, Kazimierza Wielka District (Poland)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bodzek, Jarosław</displayForm>
+                        <namePart type="family">Bodzek</namePart>
+                        <namePart type="given">Jarosław</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bulas, Jan</displayForm>
+                        <namePart type="family">Bulas</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Okońska-Bulas , Magdalena</displayForm>
+                        <namePart type="family">Okońska-Bulas</namePart>
+                        <namePart type="given">Magdalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel widmet sich einer Bronzemünze von Sauromates II., dem Herrscher des Bosporanischen Königreichs (174/175–210/211 n. Chr.). Das Stück wurde bei einer archäologischen Untersuchung der Siedlung Trębaczów (Fundstelle 2), Kazimierza Wielka Poviat, entdeckt, die in die Zeit der Przeworsk-Kultur datiert. Vom Nominal als »Dreifach Sestertius« oder »Drachme« angesprochen, gehört die Prägung zu den zwei Serien von Bronzemünzen, die in die Zeit um 186–196 n. Chr. (Zograf 1951; Frolova 1997a) oder in die Jahre um 180–192 n. Chr. (Anokhin 1986) datiert werden. Der neu entdeckte Fund erweitert eine kleine Gruppe bosporanischer Münzen, die zwischen der zweiten Hälfte des 1. Jahrhunderts v. Chr. und dem 4. Jahrhundert n. Chr. geprägt und auf dem Gebiet des heutigen Polen entdeckt wurden. Bisher waren sechs derartige Funde bekannt. Das neue Exemplar fand wahrscheinlich in der ersten Hälfte oder in den ersten Jahren der zweiten Hälfte des dritten Jahrhunderts n. Chr. durch Kontakte zwischen verschiedenen Bevölkerungsgruppen im ost- und mitteleuropäischen Barbaricum den Weg zur Siedlung der Przeworsk-Kultur.</abstract>
+                    <abstract lang="eng">The article is devoted to the find of a bronze coin of Sauromates II, the ruler of the Bosporan Kingdom in the years AD 174/175–210/211, during archaeological research on the Przeworsk Culture settlement (site 2) in Trębaczów, Kazimierza Wielka district. The piece, a so-called »triple sestertius« or drachm, belongs to the second series of bronze coins of the king, dated ca. AD 186–196 (Zograph 1951; Frolova 1997a) or ca. AD 180–192 (Anokhin 1986). It adds to a small group of finds of Bosporan coins minted from the second half of the 1st century BC until the 4th century AD made in the territory of today’s Poland. Previously, six such finds were known. The newly discovered specimen probably found its way to the settlement of the Przeworsk culture in the first half, or the early years of the second half, of the third century AD as a result of contacts among different groups of people living in the Eastern and Central European Barbaricum.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>83</start>
+                                <end>97</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2021-37143</identifier>
+                    <identifier type="doi">10.17879/ozean-2021-3685</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3685</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3685">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3685/3714" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3685">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3685/3715" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3685" DMDID="DMD_wwu-journals_3685">
+            <mets:fptr FILEID="FILE0_wwu-journals_3685"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3685" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3685"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

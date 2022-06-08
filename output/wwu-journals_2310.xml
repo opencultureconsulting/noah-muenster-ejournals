@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Katechismusunterricht zur kompetenzorientierten religiösen Grundbildung - Über die Entwicklung des Religionsunterrichts an der Volksschule des Kantons Luzern nach dem Zweiten Weltkrieg bis ins 21. Jahrhundert</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmid, Samuela</displayForm>
+                        <namePart type="family">Schmid</namePart>
+                        <namePart type="given">Samuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im föderalistischen System der Schweiz liegt die Schulhoheit bei den Kantonen. Sie entscheiden überAngebot und Form der religiösen Bildung an der Volksschule. Im Kanton Luzern wird die religiöse Bildungals staatlicher und konfessioneller Religionsunterricht realisiert. Trotz kontroverser Diskussionenum den Religionsunterricht an der Volksschule wird er nicht aus dem Fächerkanon gestrichen. Vielmehrerhält in den letzten 60 Jahren sowohl der staatliche als auch der konfessionelle Religionsunterrichtein eigenes Profil. Die Entwicklung lässt sich grob in drei Phasen einteilen und verläuft anhandreligionspolitischer Debatten sowie neuer pädagogischer Konzepte. Über den gesamten Prozess hinwegist eine enge Zusammenarbeit staatlicher und kirchlicher Akteure auszumachen.In the federalist system of Switzerland, the cantons (districts) are responsible for schools and education.They decide if and how religious education is offered in primary and lower secondary schools. Inthe canton of Lucerne, religious education is implemented as state-run religious education and confessionalreligious education. Despite controversial discussions about religious education in primaryand lower secondary schools, it has not yet been removed from the curriculum. Rather, during the last60 years, state religious education as well as confessional religious education have each received theirown profile. The development can be roughly divided into three phases and proceeds based on religiouspolicy debates and new pedagogical concepts. Throughout the entire process, there is a closecooperation between federal and church representatives.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>125</start>
+                                <end>135</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-22026</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2310">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2310/2202" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2310" DMDID="DMD_wwu-journals_2310">
+            <mets:fptr FILEID="FILE0_wwu-journals_2310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

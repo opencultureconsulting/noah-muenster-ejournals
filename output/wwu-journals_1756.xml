@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1756">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gemeinsam - nachhaltig</title>
+                        <subTitle>Argumente für eine sozialisationstheoretische Bestimmung sozialer Nachhaltigkeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grundmann, Matthias</displayForm>
+                        <namePart type="family">Grundmann</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Der Aufsatz skizziert, wie soziale Nachhaltigkeit in konkreten Handlungs- und Beziehungsstrukturen und in seinen differenten Ausprägungen auf unterschiedlichen gesellschaft­lichen Ebenen verankert ist. Zunächst wird soziale Nachhaltigkeit als ein fundamentales menschliches Bedürfnis nach reziproken, verlässlichen und soli­darischen Beziehungen bestimmt. Dabei wird der normative und zugleich emanzipatorische Charakter nachhaltigen Handelns in den Blick genommen. Dieser verweist auf die zentrale humangeneti­sche Aufgabe der Sozialisation, die eben diesem Zwecke dient. Entlang von empirischen Befunden der Sozialisationsforschung werden schließlich Aspekte nachhaltigen Handelns identifiziert, die sich mit Hilfe des sozialökologischen Modells der Sozialisationsforschung auf unterschiedlichen Handlungsebenen verorten lassen. Herausge­arbeitet wird dabei, wie sich soziale Umwelten in ihrer Differenziertheit erfassen lassen und welche Implikationen eine differenzierte Analyse sozialer Umweltakteure und Umweltbeziehungen für die Bestimmung sozialer Nachhaltigkeit hat.
+The paper illustrates how social sustainability is embedded in concrete structures of action and relation and linked to societal discourses. Social sustainability is defined as a fundamental human need of reciprocal, secure and solidary relationships. The paper takes into account the normative and emancipatory nature of sustainable actions. It points to a central human genetic task of socialization. Using the socioecological model and empirical results of socialization research the paper identifies different aspects of sustainable action, which can be contextualized on different social action levels. The multilevel differentiation of social environments and their implications helps to foster a differentiated analysis of sustainable agents and their relations and also a more detailed definition of social sustainability.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2016-16900</identifier>
+                    <identifier type="doi">10.17879/sun-2016-1756</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1756</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1756">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/1756/1690" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1756" DMDID="DMD_wwu-journals_1756">
+            <mets:fptr FILEID="FILE0_wwu-journals_1756"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

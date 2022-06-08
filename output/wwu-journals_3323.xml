@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3323">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charcot identifies and illustrates amyotrophic lateral sclerosis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Duyckaerts, Charles</displayForm>
+                        <namePart type="family">Duyckaerts</namePart>
+                        <namePart type="given">Charles</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maisonobe, Thierry</displayForm>
+                        <namePart type="family">Maisonobe</namePart>
+                        <namePart type="given">Thierry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hauw, Jean-Jacques</displayForm>
+                        <namePart type="family">Hauw</namePart>
+                        <namePart type="given">Jean-Jacques</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seilhean, Danielle</displayForm>
+                        <namePart type="family">Seilhean</namePart>
+                        <namePart type="given">Danielle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Jean-Martin Charcot described what he called amyotrophic lateral sclerosis in his 12th and 13th lessons published in 1873 by Bourneville. He distinguished the symptoms that were related to the lesion of the anterior horn of the spinal cord and those that were due to the degeneration (that he named “sclerosis”) of its lateral column. He thought that “inflammation” progressed from the lateral column to the anterior horn (but the term inflammation is not to be taken in the current meaning): the lesion of the anterior horn was thus “deuteropathic”. An album containing drawings made by Charcot is kept in La Salpêtrière Neuropathology Department. Four drawings are pasted on one of its pages, showing the degeneration of the pyramidal tract. They constitute the original of the engravings illustrating Charcot’s 12th lesson. The illustration of the fascicular atrophy of the adductor pollicis presented in the album does not appear in the lessons, even though this alteration is widely discussed and linked to the lesion of the anterior horn, which was supposed to ensure the “nutrition” of the muscle. The technique used by Charcot and his interpretation of the microscopic pictures, as exposed in his lessons, are discussed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-33390</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3323</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3323</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3323">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3323/3340" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3323">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3323/3339" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3323" DMDID="DMD_wwu-journals_3323">
+            <mets:fptr FILEID="FILE0_wwu-journals_3323"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3323" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3323"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

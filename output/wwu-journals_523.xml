@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_523">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Lage des wissenschaftlichen Nachwuchses in der Katholischen Theologie</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Zur Lage des wissenschaftlichen Nachwuchses in der Katholischen Theologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Emunds, Bernhard</displayForm>
+                        <namePart type="family">Emunds</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lechtenböhmer, Silke</displayForm>
+                        <namePart type="family">Lechtenböhmer</namePart>
+                        <namePart type="given">Silke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDas Nell-Breuning-Institut hat im Sommer 2011 die derzeit 20 Fakultäten und 35 nichtfakultären Einrichtungen für Katholische Theologie auf Haushaltsstellen, Qualifikationsarbeiten und voraussichtliche Emeritierungen hin befragt. Gegenüber der vor fünf Jahren durchgeführten Vorgängererhebung sind die Promotionen und Habilitationen um knapp 20% auf durchschnittlich 96 bzw. 18,4 Abschlüsse pro Jahr zurückgegangen. Besonders ausgeprägt ist der Einbruch bei den Nachwuchswissenschaftlerinnen, deren Anteil an diesen stark rückläufigen Abschlüssen zusätzlich sank. An den staatlichen Fakultäten wurden die Professuren (– 19%) und die haushaltsfinanzierten Mittelbaustellen (– 13%) erheblich reduziert, während sich die Zahl der Professuren an den nicht-fakultären Einrichtungen kaum änderte. Mit massiven Engpässen bei Berufungsverfahren ist in den nächsten Jahren vor allem im Fach Moraltheologie zu rechnen. In der Alten Kirchengeschichte / Patrologie wurden besonders wenige Qualifikationsarbeiten geschrieben.AbstractIn 2011 the German Bishops’ Conference entrusted the Nell-Breuning-Institute (Frankfurt / Main) with a survey of the staff and young academics of the 55 departments teaching Catholic Theology in Germany. In comparison with the results of the last enquiry five years ago there is a decrease in the number of doctoral (»Promotionen«) and postdoctoral lecture qualifications (»Habilitationen«) by almost 20%. Additionally, the faculty staff in public universities has been reduced significantly, whereas it remained almost stable in the other departments. Due to the sharp decline of the numbers of postgraduate students in Patrology and of young academics with postdoctoral qualifications (»Habilitation«) in Moral Theology, these subjects will face massive staff shortages. The decline of the number of young female academics in Theology is disproportionately high.</abstract>
+                    <abstract lang="eng">In 2011 the German Bishops’ Conference entrusted the Nell-Breuning-Institute (Frankfurt/Main) with a survey of the staff and young academics of the 55 departments teaching Catholic Theology in Germany. In comparison with the results of the last enquiry five years ago there is a reduction of the number of doctoral (“Promotionen”) and postdoctoral lecture qualifications (“Habilitationen”) of nearly 20%. The faculty staff in public universities was also reduced extensively, whereas it remained almost stable in the other departments. There will be massive problems in Patrology concerning the number of postgraduate students and in Moral Theology concerning the number of young academics with a postdoctoral lecture qualification (“Habilitation”) .The decline of the number of young female academics in Theology is disproportionately high.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20120821106</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_523</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_523">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/523/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_523" DMDID="DMD_wwu-journals_523">
+            <mets:fptr FILEID="FILE0_wwu-journals_523"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

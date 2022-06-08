@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Who cares? – Zur Reichweite gewerkschaftlicher Interessenvertretung für gute Pflege in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Welskop-Deffaa, Eva M.</displayForm>
+                        <namePart type="family">Welskop-Deffaa</namePart>
+                        <namePart type="given">Eva M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDas Megathema Gute Pflege beschäftigt auch die Gewerkschaften in Deutschland in hohem Maße. Am Beispiel der ver.di (Vereinigten Dienstleistungsgewerkschaft) erörtert der Beitrag zunächst die multiperspektivische Herangehensweise der gewerkschaftlichen Interessenvertretung, die unterschiedliche gesellschaftliche Gruppen, z. B. professionelle Pflegekräfte und pflegende Angehörige mit Erwerbstätigkeit, einbezieht. Unterscheiden sich Aktionsformen und Vorgehensweisen im Detail, so kann die gemeinsame Grundhaltung der gewerkschaftlichen Anstrengungen unter dem Leitwort „Gute Pflege für alle“ beschrieben werden. Die Gewerkschaften und namentlich ver.di sind herausgefordert, diese Haltung in gesellschaftliche Debatten zu tragen, um von den Adressaten ihrer Interessenvertretung als eben solche wahrgenommen zu werden.Abstract“Good Care” as a central challenge in the present and the future is also an issue that greatly preoccupies the German labor unions. The view of the German United Services Union “ver.di” (Vereinigte Dienstleistungsgewerkschaft) regarding this problem can be characterized as multi-perspectival, since it represents a variety of social groups, e. g., professional nurses and care workers or otherwise employed workers who nurse their relatives. Even if actions and strategies differ in detail, the basic attitude of all efforts can be summarized under the guiding principle of “good care for all”. All labor unions, and ver.di in particular, are therefore called upon to communicate this position in public debates to be appreciated as effective lobbyists of their members’ interests.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16941</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1760">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1760/1694" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1760" DMDID="DMD_wwu-journals_1760">
+            <mets:fptr FILEID="FILE0_wwu-journals_1760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

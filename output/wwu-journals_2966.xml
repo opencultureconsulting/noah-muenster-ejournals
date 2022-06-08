@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2966">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Heilungs- oder Geistergeschichten? Post/koloniale Erinnerungen im belgischen AfricaMuseum</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gruber, Judith</displayForm>
+                        <namePart type="family">Gruber</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In Belgien findet eine kritische Aufarbeitung der Kolonialgeschichte nur sehr zögerlich statt. Erst anlässlich der Renovierung des AfricaMuseums (Tervuren bei Brüssel) kam Bewegung in die Debatte: sie gab den Anstoß zu einer Neukonzeptualisierung der Daueraustellung, mit der das Museum versucht, den kolonialen Blick auf Afrika durch eine Darstellung der Vielfalt, Schönheit und Resilienz afrikanischer Kultur und Natur zu ersetzen. Eine zentrale Komponente dieser versuchten Selbst-Dekolonisierung des Museums ist die künstlerische Intervention des Bildhauers Aimè Mpane (‚Congo Nouveau Souffle‘). Diese Ouvertüre analysiert mit den Instrumenten postkolonialer Traumatheorie die Erinnerungspolitiken, die an ‚Congo Nouveau Souffle‘ Haftung finden, und zeigt auf, dass postkoloniale Geschichtsschreibung nicht nur dekolonisierende, sondern auch rekolonisierende Effekte haben kann. Zentral bleibt daher die Frage, welcher postkoloniale Erinnerungsdiskurs am effektivsten zu einer Dekolonisierung europäisch-afrikanischer Beziehungen führt.</abstract>
+                    <abstract lang="eng">Public and political discourses in Belgium are slow and hesitant to tackle the country’s colonial history. Only once the AfricaMuseum in Tervuren near Brussels started a multi-year renovation process, public debates around Belgium’s postcolonial memory started to increase. The museum itself aimed to decolonize its permanent exhibition, shifting from a colonial representation of Africa to a portrayal of the beauty and resilience of African culture and nature. Aimé Mpane’s statue ‘Congo Nouveau Souffle’, that replaced a bust of King Leopold II in the museum’s former entrance hall, plays a central role in the new (post)colonial narrative of the AfricaMuseum. This short article analyzes the post/colonial narratives that this statue gives rise to through the lens of postcolonial trauma theory and argues that postcolonial historiography can have both, decolonizing or recolonizing effect. The central question, therefore, is: Which postcolonial memory politics can best effect a decolonization of European-African relations?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>49</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30967</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2966</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2966</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2966">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2966/3096" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2966" DMDID="DMD_wwu-journals_2966">
+            <mets:fptr FILEID="FILE0_wwu-journals_2966"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

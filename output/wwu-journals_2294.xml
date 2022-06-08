@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2294">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wenn Gott nicht mehr notwendig ist ...  - Oder</title>
+                        <subTitle>Was macht eine Erlösungsreligion in einer Welt, die sie nicht mehr braucht?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Loffeld, Jan</displayForm>
+                        <namePart type="family">Loffeld</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der Pastoral Tätige erleben und erleiden immer häufiger eine Unvermittelbarkeit zwischen einerspezifisch christlichen und säkularen Perspektive und entsprechender Relevanzsysteme. Viele Pastoralkonzeptescheinen nicht die gewünschte Wirkung im Sinne einer gelingenden Glaubenskommunikationzu erzielen. Neben bereits reflektierten Gründen für solche Nicht-Korrespondenzen wird hierdie These profiliert, dass säkularisierende Phänomene auch eine „Relevanzkrise des Evangeliums“anzeigen, insofern das spezifisch christliche Differenz- bzw. Optimierungsangebot mithilfe einer Immanenz-Transzendenz-Unterscheidung (biblisch: „Leben in Fülle“) und damit das Erlösungsangebotdes Christentums gesamtkulturell wie individuell weitgehend nicht mehr benötigt wird. In dieser Situationkönnten jedoch an Orten, wo gerade dieses Anliegen wirksam gelebt und als solches erlebt wird,pastoral wertvolle Lernerfahrungen für die Zukunft des Christentums inmitten säkularer Kulturen gemachtwerden.Pastoral workers experience an increasing incompatibility between a specifically Christian and a secularperspective and the corresponding systems of relevance. Many pastoral concepts seem to be unableto achieve the desired effect of establishing successful faith communication. This article will discusscommon and already reflected theologically argued reasons for this matter of noncorrespondenceand will establish the thesis that secularising phenomena also indicate a profound&quot;relevance crisis of the gospel”. The specifically Christian offering of life-optimisation (biblically: &quot;fullnessof life&quot;) through immanence-transcendence encoding or more exactly the offering of salvationitself is basically no longer needed. In this situation, however, places and ways in which this very purposeof living up to the fullness of life, is effectively lived and experienced, could be providing pastorallyvaluable learning experiences for the future of Christianity in the midst of secular cultures.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>105</start>
+                                <end>121</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21862</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2294</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2294">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2294/2186" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2294" DMDID="DMD_wwu-journals_2294">
+            <mets:fptr FILEID="FILE0_wwu-journals_2294"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

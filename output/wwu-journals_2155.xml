@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2155">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religion als Faktor des Zusammenlebens in Einwanderungsgesellschaften</title>
+                        <subTitle>Analyse der Lage und der gesellschaftlichen sowie politischen Herausforderungen in Deutschland”</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nagel, Alexander-Kenneth</displayForm>
+                        <namePart type="family">Nagel</namePart>
+                        <namePart type="given">Alexander-Kenneth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungDas Ziel dieses Beitrags ist es, die Veränderung der religiösen Landschaft in Deutschland unter Bedingungen von Arbeits- und Fluchtmigration nachzuzeichnen, Implikationen religiöser Pluralisierung für das interreligiöse und interkulturelle Zusammenleben herauszuarbeiten und Aspekte des gesellschaftlichen und politischen Umgangs mit religiöser Diversität zu beleuchten. Diese Zielstellung schlägt sich auch in der Gliederung nieder: Der erste Abschnitt ist konzeptionellen Fragen vorbehalten. Ausgehend von der kritischen Beobachtung, dass akademische Debatten über Religion und Migration im Kielwasser gesellschaftspolitischer Diskurse oft mit starken Sprachbildern operieren, wird hier eine Unterscheidung zwischen abstrakter, konkreter und vernetzter Diversität vorgeschlagen. Im zweiten Abschnitt wird dann in groben Zügen die Veränderung der deutschen Religionslandschaft in den vergangenen Jahrzehnten porträtiert, um im dritten Abschnitt auf die Vielfalt gesellschaftlicher Ansätze zur Moderation und Kultivierung interreligiöser Begegnung einzugehen. Im vierten und letzten Abschnitt werden die Anfragen, die der Wandel des religiösen Feldes an den deutschen Religionskorporatismus stellt, und drei Entwicklungsoptionen aufgezeigt.AbstractThis contribution aims, first, to trace the changes in Germany’s religious landscape under conditions of labor and refugee migration, second, to flesh out the implications of religious diversification for inter-religious and inter-cultural cohabitation, and third, to pinpoint certain aspects of the political and social approaches to religious diversity. These aims are also apparent in the structure of this article: The first section deals with conceptual issues. Starting from the critical observation that academic debates around religion and migration, following the lead of public discourse, often operate with strong metaphoric language, a distinction between abstract, concrete, and networked diversity is proposed. The second section portrays some of the changes Germany’s religious landscape has undergone over the past decades, while the third section focuses on the multiplicity of social approaches to moderate and cultivate inter-religious encounters. The fourth and last section discusses some of the challenges which the transformation of the religious landscape poses to the corporatist relationship between state and religion and suggests three options for future development.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>67</start>
+                                <end>90</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20692</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2155</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2155">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2155/2069" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2155" DMDID="DMD_wwu-journals_2155">
+            <mets:fptr FILEID="FILE0_wwu-journals_2155"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

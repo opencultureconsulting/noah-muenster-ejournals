@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3050">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuropathology of the Alzheimer&apos;s continuum</title>
+                        <subTitle>an update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jellinger, Kurt A.</displayForm>
+                        <namePart type="family">Jellinger</namePart>
+                        <namePart type="given">Kurt A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Alzheimer’s disease (AD), the most common form of dementia worldwide, is a mixed proteinopathy (amyloid and tau). Originally defined as a clinicopathological entity, it is a heterogenous, multifactorial disorder, currently referred to as the Alzheimer’s continuum. Its cardinal pathological features are extracellular β-amyloid (amyloid plaques) and intraneuronal tau aggregates forming neurofibrillary tangles, which are accompanied by vascular amyloid deposits (cerebral amyloid angiopathy), synapse and neuronal loss, as well as neuroinflammation and reactive astrogliosis. In addition to “typical” AD, various subtypes with characteristic regional patterns of tau pathology have been described that show distinct clinical features, biomarker levels, and patterns of key network destructions responsible for cognitive decline. AD is frequently associated with other age-related changes including Lewy and TDP-43 pathologies, hippocampal sclerosis, argyrophilic grain disease, cerebrovascular lesions, and others. These additional pathologies influence the clinical picture of AD, may accelerate disease progression, and can cause a number of challenges in our understanding of the disease including the threshold of each individual pathology to cause dementia and the possibility of underlying common etiologies. This article provides an up-to-date overview of AD neuropathology, its heterogeneity, and additional pathologies in order to explain the difficulties in the diagnosis and the failure of clinical trials in AD patients.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-30418</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2020-3050</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3050</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3050">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3050/3043" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3050">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3050/3041" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3050" DMDID="DMD_wwu-journals_3050">
+            <mets:fptr FILEID="FILE0_wwu-journals_3050"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3050" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3050"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

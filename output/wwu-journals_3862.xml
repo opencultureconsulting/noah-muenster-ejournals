@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3862">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Extinction is Bad for Economy</title>
+                        <subTitle>(Nicht-)Nachhaltigkeit zwischen Katastrophenangst und kapitalistischem Realismus</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klur, Konstantin</displayForm>
+                        <namePart type="family">Klur</namePart>
+                        <namePart type="given">Konstantin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Durch die sich verschärfende Klimakrise kommt eine Katastrophenangst auf, die Menschen zunehmend auf die Straße und zur Politisierung drängt. Zugleich zeichnet sich die heutige Phase spätkapitalistischer Gesellschaften durch eine erzwungene Entpolitisierung aus, die Mark Fisher auf den Begriff des „kapitalistischen Realismus“ brachte. Dessen Kern ist die Legitimation der bestehenden Gesellschaftsordnung durch ökonomische Sachzwänge und deren angebliche Alternativlosigkeit. Wie ich in diesem Essay zeige, bewegen sich (nicht nur) die Klimabewegungen in diesem Spannungsfeld aus Politisierung und Entpolitisierung: In den Klimadebatten werden die Grenzen, die kapitalistischer Realismus der Politisierung auferlegt, zumeist nicht durchbrochen. Vielmehr bildete sich ein Bewegungsmodus innerhalb des Spannungsverhältnisses heraus: Eine simulative Krisenbewältigung, die alles ändern möchte, ohne etwas zu ändern. Diese Form der Krisenbewältigung gibt auch Aufschluss über Widersprüche in den heutigen Naturverhältnissen, die sich zwischen technischem Solutionismus und Naturromantizismus bewegen und jeweils Hürden für Erfolge sozialökologischer Bewegungen darstellen.
+In the context of the worsening climate crisis, a catastrophic consciousness emerged that increasingly pushes people into the streets and toward politicization. At the same time, the current phase of late capitalist societies continues to be characterized by an enforced depoliticization, which Mark Fisher brought to the concept of &quot;capitalist realism&quot;. At its core is the legitimation of the existing social order by economic constraints and their alleged lack of alternatives. As I show in this essay, (not only) the climate movements move in this field of tension between politicization and depoliticization: In the climate discourses, the limits imposed by capitalist realism on politicization are mostly not broken through. Rather, a mode of movement emerged within the tension: a simulative crisis management that wants to change everything without changing anything. This form of crisis management also sheds light on contradictions in today&apos;s natural relations, which move between technical solutionism and natural romanticism, and which each represent hurdles for successes of social-ecological movements.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>23</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/sun-2022-3862</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED.DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3862</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3862">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/3862/3928" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3862" DMDID="DMD_wwu-journals_3862">
+            <mets:fptr FILEID="FILE0_wwu-journals_3862"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

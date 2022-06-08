@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1767">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Menschenunwürdige Pflegearbeit in deutschen Privathaushalten. Sozialethische Bemerkungen zu den Arbeitsverhältnissen mittel- und osteuropäischer Live-Ins</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Emunds, Bernhard</displayForm>
+                        <namePart type="family">Emunds</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag setzt sich aus sozialethischer Perspektive mit dem Problem der Arbeitsverhältnisse mittel- und osteuropäischer Live-Ins in der Pflege auseinander und entwickelt ausgehend von einer Beschreibung der gegenwärtigen Lage und deren sozialethischer Problematisierung politische Reformperspektiven. Seit gut zwanzig Jahren werden in Deutschland immer mehr Hausangestellte aus Mittel- und Osteuropa beschäftigt, die Pflegebedürftige in ihren Wohnungen pflegen, versorgen und mit ihnen zusammen leben („Live-In-Pflegekräfte“). Neben den rechtlichen Problemen der Schwarzarbeit und der Scheinselbständigkeit ist aus sozialethischer Perspektive v. a. das Phänomen der 24-Stunden-Pflege zu kritisieren. Hierfür werden die Kriterien der Menschenwürde und der Gerechtigkeit herangezogen. Aus dieser sozialethischen Analyse wird eine politische Strategie der Regulierung, Förderung und Kontrolle formuliert, um die Lebens- und Arbeitsverhältnisse der Live-Ins zu verbessern.AbstractThis paper deals with the problem of working conditions in geriatric nursing care of Central and Eastern European live-ins. It describes the current situation and analyses it from a social ethical perspective. Subsequently, it develops political perspectives for a reform of care policy. For roughly 20 years, many care workers from Central and Eastern Europe have been coming to Germany to nurse care-dependent individuals in their homes and live with them (live-in care workers). Besides the legal issues of illegal work and ostensible self-employment, the practice of 24-hour-care needs to be criticised from a social ethical perspective, in particular with regard to human dignity and justice. This analysis serves as a starting point for the framing of a political strategy of regulation, support and control to improve the living and working conditions of the live-ins.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-17002</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1767</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1767">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1767/1700" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1767" DMDID="DMD_wwu-journals_1767">
+            <mets:fptr FILEID="FILE0_wwu-journals_1767"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

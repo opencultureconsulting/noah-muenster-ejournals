@@ -1,0 +1,140 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3334">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molecular clarification of brainstem astroblastoma with EWSR1-BEND2 fusion in a 38-year-old man</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Smith-Cohn, Matthew A.</displayForm>
+                        <namePart type="family">Smith-Cohn</namePart>
+                        <namePart type="given">Matthew A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abdullaev, Zied</displayForm>
+                        <namePart type="family">Abdullaev</namePart>
+                        <namePart type="given">Zied</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aldape, Kenneth D.</displayForm>
+                        <namePart type="family">Aldape</namePart>
+                        <namePart type="given">Kenneth D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Quezado, Martha</displayForm>
+                        <namePart type="family">Quezado</namePart>
+                        <namePart type="given">Martha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rosenblum, Marc K.</displayForm>
+                        <namePart type="family">Rosenblum</namePart>
+                        <namePart type="given">Marc K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vanderbilt, Chad M.</displayForm>
+                        <namePart type="family">Vanderbilt</namePart>
+                        <namePart type="given">Chad M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rodriguez, Fausto J.</displayForm>
+                        <namePart type="family">Rodriguez</namePart>
+                        <namePart type="given">Fausto J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laterra, John</displayForm>
+                        <namePart type="family">Laterra</namePart>
+                        <namePart type="given">John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eberhart, Charles G.</displayForm>
+                        <namePart type="family">Eberhart</namePart>
+                        <namePart type="given">Charles G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The majority of astroblastoma occur in a cerebral location in children and young adults. Here we describe the unusual case of a 38-year-old man found to have a rapidly growing cystic enhancing circumscribed brainstem tumor with high grade histopathology classified as astroblastoma, MN1-altered by methylome profiling. He was treated with chemoradiation and temozolomide followed by adjuvant temozolomide without progression to date over one year from treatment initiation. Astroblastoma most frequently contain a MN1-BEND2 fusion, while in this case a rare EWSR1-BEND2 fusion was identified. Only a few such fusions have been reported, mostly in the brainstem and spinal cord, and they suggest that BEND2, rather than MN1, may have a more critical functional role, at least in these regions. This unusual clinical scenario exemplifies the utility of methylome profiling and assessment of gene fusions in tumors of the central nervous system.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-34181</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3334</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3334</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3334">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3334/3419" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3334">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3334/3418" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3334" DMDID="DMD_wwu-journals_3334">
+            <mets:fptr FILEID="FILE0_wwu-journals_3334"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3334" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3334"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

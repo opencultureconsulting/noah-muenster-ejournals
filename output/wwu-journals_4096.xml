@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4096">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Leistungsprozess und soziale Kämpfe, Kapitalismus und funktionale Differenzierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nullmeier, Frank</displayForm>
+                        <namePart type="family">Nullmeier</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gesellschaftstheorie gilt heute vielfach als ein überholtes Bemühen, das sich ebenso wie vormals die Geschichtsphilosophie wegen ihres holistischen Ansatzes, ihrer teils esoterischen Begrifflichkeit und ihrer impliziten oder expliziten normativen Aufladung inzwischen erledigt habe. Umso verdienstvoller ist der Versuch, den Entwurf einer stärker analytischen und doch zugleich ›Gesellschaft‹ als Ganzes in den Blick nehmenden Theorie vorzulegen. Uwe Schimanks Ansatz etikettiert sich selbst als »integrative Theorie der Gesellschaft « (248), was auf die Existenz bisher nur perspektivischer Theorien schließen lässt. Drei Theoriefamilien haben nach Schimank bisher das Feld der Gesellschaftstheorie geprägt: die Differenzierungstheorie, die Ungleichheitstheorie und die Kulturtheorie. Die folgenden Ausführungen bezweifeln zunächst die Existenz dieser Ausgangslage und versuchen zu zeigen, dass bereits die Sortierung der bisherigen Theorieangebote Ausdruck eines die Gesellschaft als Leistungsprozess verstehenden eigenen Ansatzes ist (1.). Die erste Besonderheit des Entwurfs liegt darin, dass eine leistungsökonomische Gesellschaftsperspektive (2.) in eine allgemeine Theorie sozialer Kämpfe umschlägt, die die soziale Entwicklung als bloß kontingent erscheint lässt (3.). Die zweite Besonderheit des vorliegenden Versuchs wird in der Integration von Kapitalismus- und Differenzierungstheorie gesehen. Die Vorherrschaft der kapitalistischen Ökonomie als dominantem Element in allen Bereichen der modernen Gesellschaft wird von Uwe Schimank herausgestellt, was ihn aber zwingt, Umbauten in der Differenzierungstheorie vorzunehmen (4. und 5.) und Sozialstaatlichkeit als funktionale Notwendigkeit für eine Gesellschaft als Leistungsprozess darzustellen (6.).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>284</start>
+                                <end>294</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-4096</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4096</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4096">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4096/4165" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4096" DMDID="DMD_wwu-journals_4096">
+            <mets:fptr FILEID="FILE0_wwu-journals_4096"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

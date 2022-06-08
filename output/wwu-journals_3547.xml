@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3547">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltiges Bauen und Wohnen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogt, Markus</displayForm>
+                        <namePart type="family">Vogt</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Herausforderungen des nachhaltigen Bauens und Wohnens sind sozialpolitisch und ökologisch höchst brisant. Sie erfordern komplexe Abwägungen im Spannungsfeld der Ziele von bezahlbarem Wohnraum, Klimaschutz, Ressourcenschonung und Flächensparen. In sektorübergreifenden Modellrechnungen wird dem Gebäudebereich 39 % der Treibhausgasemissionen in Deutschland zugerechnet. Durch eine gezielte Wiederverwertung von Baumaterialien kann der Baubereich wesentlich zur Umsetzung einer Kreislaufwirtschaft beitragen (urban mining). Der Materialbedarf einer Sanierung ist um rund zwei Drittel geringer als der eines Neubaus. Zudem ist der Neubau im Schatten der Spekulation und der Optimierung von Kapitalrenditen gegenwärtig nicht so ausgerichtet, dass er den Wohnraummangel beseitigt. Um diese Dynamik zu begrenzen, wird eine neue Bodenordnung vorgeschlagen. Auch Wohnflächensuffizienz ist ein unverzichtbarer Hebel auf dem Weg zu einem gerechteren und klimaneutralen Wohnen. Die Stärkung innerstädtischer Grünflächen sowie eine auf funktionale Mischung ausgerichtete Stadt- und Raumplanung bieten weitreichende Chancen für mehr Wohnqualität. Entscheidend ist ein ganzheitliches Verständnis von Baukultur, um die Ziele Lebensqualität und Gesundheit, Klimaschutz und Ressourcenschonung sowie Entlastung kommunaler Haushalte in Einklang zu bringen. Nicht zuletzt ist die „Stadt als Form und Praxis“ (Löw) ein wesentlicher Schlüssel zum Gelingen von Integration und sozialem Zusammenhalt.</abstract>
+                    <abstract lang="eng">The challenges of sustainable construction and housing are highly explosive in sociopolitical and ecological terms. They require complex trade-offs between the goals of affordable housing, climate protection, resource conservation and saving of land. In cross-sectoral model calculations, 39 % of greenhouse gas emissions in Germany are attributed to the construction sector. Through the targeted recycling of building materials, the construction sector can make a significant contribution to the implementation of a circular economy (urban mining). The material requirements of a refurbishment are approximately two-thirds lower than those of a new building. However, in the shadow of speculation and the optimization of returns on capital, new construction is not currently geared toward eliminating the housing shortage. A new tax structure regarding land is proposed to limit this dynamic. Housing sufficiency is also an indispensable step on the path to more equitable and carbon-neutral housing. Strengthening inner-city green spaces and urban and spatial planning geared to a functional mix also offers far-reaching opportunities for better residential quality. A holistic understanding of building culture is crucial in order to reconcile quality of life and health, climate protection and resource conservation, and relieving the burden on municipal budgets. Last but not least, the “city as form and practice” (Löw) is an essential key to the success of integration and social cohesion.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>221</start>
+                                <end>242</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-37007</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3547</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3547</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3547">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3547/3700" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3547" DMDID="DMD_wwu-journals_3547">
+            <mets:fptr FILEID="FILE0_wwu-journals_3547"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

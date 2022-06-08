@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4115">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Lage der Religion in der modernen Gesellschaft unter der Bedingung der Zurechnung auf Personen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krech, Volkhard</displayForm>
+                        <namePart type="family">Krech</namePart>
+                        <namePart type="given">Volkhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Franz-Xaver Kaufmann zufolge kann man das zur Diskussion stehende Buch »[n]icht nur wegen seines Umfangs […] als opus magnum bezeichnen« (Kaufmann 2015: 1). Die Arbeit setzt einen Forschungsstrang fort, den insbesondere Detlef Pollack seit Jahrzehnten verfolgt, und kann mit Recht als das bislang bedeutendste Werk der beiden Autoren gelten. Zentraler Bezugspunkt sind Fragen der Säkularisierung. Dieser Fokus ist kaum zu überschätzen, denn er ist innerhalb der Religionssoziologie mittlerweile alles andere als selbstverständlich. Die Religionssoziologie hat sich zusammen mit anderen an der Religionsforschung beteiligten Fächern nicht selten in eine Art von ›Vulkanologie des Religiösen‹ verwandelt, die überall Religiöses ›explodieren‹ sieht (vgl. stellvertretend für viele Heelas/Woodhead 2005; Knoblauch 2009). Bedingungen, Modi und Folgen der Säkularisierung müssen ein wichtiger religionssoziologischer Forschungsgegenstand bleiben, um Wandlungsprozesse unter den Bedingungen funktionaler Differenzierung als eines der wichtigsten Kennzeichen moderner Gesellschaft in den Blick zu bekommen. Ebenso redlich und löblich ist, dass sich die Autoren auch mit anderen Erklärungsansätzen von Religion und ihrer Lage in der Moderne auseinandersetzen und statt eines »Masternarrativs […] die Entwicklung einer Vielzahl von unterscheidbaren und flexibel miteinander kombinierbaren Theorieelementen« beabsichtigen (461). Im Folgenden beleuchte ich einige der Themen und Ansätze, die das reichhaltige Buch behandelt, eigenständig entwirft oder zumindest impliziert, aus systemtheoretischer Sicht. Dabei beschränke ich mich – dem Wunsch der Redaktion folgend – auf methodologische und theoretische Aspekte.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>252</start>
+                                <end>268</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4115</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4115</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4115">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4115/4187" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4115" DMDID="DMD_wwu-journals_4115">
+            <mets:fptr FILEID="FILE0_wwu-journals_4115"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

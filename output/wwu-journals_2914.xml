@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Copies of Ancient Coins and Inventions all’antica in the Work of Jacopo Strada</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Copies of Ancient Coins and Inventions all’antica in the Work of Jacopo Strada</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heenes, Volker</displayForm>
+                        <namePart type="family">Heenes</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">31</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Jacopo Strada betont in seinem Werk Epitome Thesauri antiquitatum (Lyon 1553), daß man „die Münzen gut kennen müsse, um echte von zeitgenössischen Nachahmungen zu unterscheiden“ (i.e. die Paduaner). Dies gelingt ihm selbst aber auch nicht immer. So finden sich in seinem Münzcorpus mit über 8000 Münzen, dem Magnum ac Novum Opus (MaNO), zahlreiche Nachahmungen antiker Münzen aus dem 16. Jahrhundert.
+&amp;nbsp;Diese finden sich aber nicht nur im Werk Stradas, sondern ebenfalls in den Werken anderer zeitgenössischer Antiquare, wie Enea Vico, Pirro Ligorio und Hubertus Goltzius. Darüber hinaus schafft Strada auch „neue“ Münzen, die er in seinem Münzcorpus abbildet und denen er durch seine Münzbeschreibungen in der Diaskeué eine vermeintlich gesicherte Authentizität verschafft.
+&amp;nbsp;In dem Beitrag werden einige dieser „neuen“ Münzen und Paduaner vorgestellt, zugrundeliegende Quellen aufgezeigt und ihre Rezeption durch Zeitgenossen dokumentiert. Dadurch ergeben sich neue Einblicke in die Arbeits- und Vorgehensweise renaissancezeitlicher Antiquare.</abstract>
+                    <abstract lang="eng">In his work Epitome Thesauri antiquitatum (Lyon 1553), Strada emphasised the importance of thorough numismatic knowledge to distinguish original coins from modern imitations (i.e. “Paduans”). Nonetheless, he was often mistaken and his corpus of over 8000 coins, the Magnum ac Novum Opus (MaNO), includes numerous sixteenth-century imitations of ancient coins.
+&amp;nbsp;These imitations were also depicted in the works of his contemporaries, e.g. the antiquarians Enea Vico, Pirro Ligorio and Hubertus Goltzius. Strada also created “new” coins illustrated in the MaNO and seemingly authenticated by descriptions in the Diaskeué.
+&amp;nbsp;My contribution presents a number of “new” coins and Paduans together with essential source material and their reception by Strada’s contemporaries. Thereby, in-depth insight into methodology and approach of Renaissance antiquarians is provided.
+&amp;nbsp;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>83</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2020-28470</identifier>
+                    <identifier type="doi">10.17879/ozean-2020-2914</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2914</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2914">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2914/2846" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2914">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2914/2847" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2914" DMDID="DMD_wwu-journals_2914">
+            <mets:fptr FILEID="FILE0_wwu-journals_2914"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2914" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2914"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

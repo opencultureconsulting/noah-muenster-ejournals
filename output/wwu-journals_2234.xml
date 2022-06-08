@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2234">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unterschiedlichkeit - weitaus mehr als eine Zumutung - Praktisch-theologische Überlegungen zum Umgang mit Diversität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wustmanns, Hildegard</displayForm>
+                        <namePart type="family">Wustmanns</namePart>
+                        <namePart type="given">Hildegard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die aktuelle Lage in der Welt ist deutlich davon geprägt, das Mauern gebaut, Grenzen gezogen und Abschottungen vorgenommen werden. Diese Prozesse lassen auch Christ_innen nicht unberührt und es ist die Frage zu stellen, was sie zur Lösung solcher Entwicklungen beitragen könnten. Der Auferstandene lässt die Vielen zu einer Einheit werden, ohne von ihnen zu verlangen, eine „Einsheit“ (Hans-Joachim Sander) zu werden. Hier zeichnet sich ab, dass Lösungen gefunden werden können, indem unterschiedliche Positionen miteinander ins Gespräch gebracht und wechselseitige Entdeckungen möglich werden. Christ_innen haben Tools, mit den Herausforderungen der Gegenwart kreativ umzugehen, und diese wären ein Angebot in Zeiten der Abschottungen, der Grenzen und Mauern.The world of today is shaped by processes that involve the building of walls, the drawing of borders and increasing political and social compartmentalization. Christians do not remain unaffected by these developments. The question arises: how should religious people react to these problems? Jesus Christ rejoins the masses to form unity without demanding “one-ness” (Hans-Joachim Sander). This illustrates that solutions should be found by starting a discourse and by allowing reciprocal discoveries. Christians possess the tools to cope with the challenges of the present, which would provide an offer in times of compartmentalization, borders and walls.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>25</start>
+                                <end>37</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21331</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2234</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2234">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2234/2133" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2234" DMDID="DMD_wwu-journals_2234">
+            <mets:fptr FILEID="FILE0_wwu-journals_2234"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

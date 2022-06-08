@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_525">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bundesagentur für Arbeit</title>
+                        <subTitle>Personalpolitik ist lebensphasenorientiert</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kühn, Michael</displayForm>
+                        <namePart type="family">Kühn</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag schildert die Personalpolitik der Bundesagentur für Arbeit als exemplarisches und praktiziertes Beispiel für ein lebensphasenorientiertes Personalmanagement. Im Kern geht es diesem Ansatz darum, die individuelle Lebenssituation in unterschiedlichen Lebensphasen zu berücksichtigen, um die Arbeitsbeziehung attraktiv zu gestalten, individuelle Motivierungs- und Beschäftigungspotenziale zu erschließen und dadurch Beschäftigungsfähigkeit zu sichern. Nach der Schilderung der Ausgangslage werden Kernpunkte und –ideen der lebenslauforientierten Personalpolitik der Bundesagentur vorgestellt und detailliert beschrieben. Die letzten Abschnitte gehen auf die letzten drei Phasen des Lebenslaufes ein und beschreiben jeweils die Herausforderungen für die Personalentwicklung in der „Rush-Hour des Lebens“ (Vereinbarkeit von Familie und Beruf), in der „dritten Lebensphase“ (Karriere nach dem Wiedereinstieg) und dem (aktiven) Ruhestand (Vorbereitung auf den Ruhestand und Kompetenznutzung der Älteren). Die Beschreibung zeigt, wie sehr gerade Dienstleistungsunternehmen inklusive der Beschäftigten von einer lebenslauforientierten Personalpolitik profitieren können.AbstractThis paper describes the staff policy of the federal German employment agency (Bundesagentur für Arbeit) as a practised example for a life-phase oriented personnel management. At the core of this approach lies the desire to take individual living situations in different life phases into account to create a good working relationship and to tap into motivational and employment-related potentials in order to secure employability. After the description of the starting position follows a presentation and detailed description of the key points and ideas of the agency’s life-phase oriented staff policy. The last sections focus on the challenges faced by personnel development for last three life-course phases: the »rush hour of life« (reconciliation of family and employment), the »third phase of life« (re-entering the labour market), and (active) retirement (preparation for retirement and utilisation of the competences of elderly employees). This account shows to what extent particularly service providers and their employees may benefit from a life-course oriented staff policy.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>53</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2012082130</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_525</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_525">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/525/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_525" DMDID="DMD_wwu-journals_525">
+            <mets:fptr FILEID="FILE0_wwu-journals_525"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

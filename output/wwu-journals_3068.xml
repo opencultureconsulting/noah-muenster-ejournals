@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3068">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modern Family and Modern Approaches to ICC</title>
+                        <subTitle>Developing Cultural Knowledge with TV Series at Berufskolleg</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiechmann, Rosalie</displayForm>
+                        <namePart type="family">Wiechmann</namePart>
+                        <namePart type="given">Rosalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This essay is the result of realizing that the curricula of Gymnasium and Berufskolleg differ tremendously. Whereas the Gymnasium focuses on topics like postcolonialism and Shakespeare, the Berufskolleg’s curriculum demands knowledge about “the experience of work” and “personal identities and social relationships” (MSB 9). Simultaneously, it lacks cultural topics like India and Nigeria. Considering the topic of social relationships, the television series Modern Family would be well suited as an introduction and at the same time support the obligatory examination of “family in literature and film” (13). As intercultural communicative competence (ICC) is one of today’s main aims in the English language classroom, it would be interesting to see how teachers at Berufskolleg can comply with the guidelines of the Bildungsplan 1 and still achieve ICC. This, and the medium of TV series, leads to the question of whether Modern Family offers modern ways of developing ICC. This paper will focus on how ICC can be developed through less cultural topics but through a mandatory topic like ‘family’. Firstly, the paper will outline what ICC in general denotes and discuss the use of TV series in the English classroom. Secondly, the pilot episode of Modern Family will be analyzed in three steps according to knowledge, skills and attitude. Thirdly, the usefulness and suitability of Modern Family for developing ICC will be discussed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>50</start>
+                                <end>58</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2019-30040</identifier>
+                    <identifier type="doi">10.17879/satura-2019-3068</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3068</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3068">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3068/3004" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3068" DMDID="DMD_wwu-journals_3068">
+            <mets:fptr FILEID="FILE0_wwu-journals_3068"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

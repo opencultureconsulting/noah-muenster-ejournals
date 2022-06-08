@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3866">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurodegeneration</title>
+                        <subTitle>2022 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Crary, John Fonda</displayForm>
+                        <namePart type="family">Crary</namePart>
+                        <namePart type="given">John Fonda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Here, we review a collection of recent manuscripts and research trends on the neuropathology of neurodegeneration that are considered by the author to be among the potentially most impactful. To the greatest extent possible, we chose to focus on histopathological studies that are most relevant to experimental and diagnostic neuropathology. While there has been an abundance of important recent discoveries and developments in neurodegenerative disease research, there was a deliberate effort here to provide balance to prevent disease categories and experimental approaches from overshadowing the others. The result is a diverse series of outstanding studies, together showing the landscape of progress across neurodegenerative disorders. One is a stereological study examining dystrophic microglia in aging. We highlight the first large genetic study of primary age-related tauopathy, showing convergence and divergence from classical Alzheimer’s disease. There were further advances in the neuropathological criteria and staging of chronic traumatic encephalopathy. Links suggesting a causal role for TMEM106B in TDP-43 proteinopathy emerged. Attempts to subtype Alzheimer’s disease on the molecular level were made. Evidence for a role for the VEGF family in cognitive impairment was advanced. Comparison of gene expression profiles from myeloid cells in peripheral blood and brain tissues from Parkinson’s disease patients revealed pathways that may lead to new mechanistic insights and biomarkers. A large autopsy series identified an increased frequency of central nervous system developmental malformations in Huntington’s disease. A robust and reliable system for assessing Lewy body pathology was proposed. Finally, we continue to be plagued by the COVID-19 pandemic, with lingering concerns of a long-term link with neurodegeneration.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3866</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3866</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3866">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3866/4173" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3866">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3866/4172" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3866" DMDID="DMD_wwu-journals_3866">
+            <mets:fptr FILEID="FILE0_wwu-journals_3866"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3866" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3866"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

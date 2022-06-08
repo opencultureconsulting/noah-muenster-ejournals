@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2132">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Seelsorgestudie 2012–2014</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stelzer, Marius</displayForm>
+                        <namePart type="family">Stelzer</namePart>
+                        <namePart type="given">Marius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die deutsche Seelsorgestudie untersucht die Frage, wie es Seelsorgenden angesichts des gegenwärtigenStrukturwandels von Kirche und Gesellschaft geht. Im Zentrum der Untersuchung stehen Befundezu empirischen Zusammenhängen und Wechselwirkungen zwischen beruflichem Engagement, Zufriedenheit,individueller Gesundheit und spiritueller Kraft. Die Studie verfolgt dabei einen salutogenetischenAnsatz. Dieser Aufsatz geht der These nach, dass die Auskünfte der im Dienst befindlichen Seelsorgendenrelevant sind für die Ausbildung pastoralen Personals. Dazu werden die zentralen Befundeder einzelnen Forschungsberichte der Seelsorgestudie dargestellt und auf ihre Bedeutung für Personalausbildungund -gewinnung hin diskutiert. Auf diesem Weg wird auch die Leistungsfähigkeit derStudie für pastorale Entwicklung in den Diözesen exemplarisch in den Blick genommen.The German Pastoral Ministries Study inquires the state and affectivity of pastoral workers in the evidenceof structural transformation of the society and the Church. It focuses on empirical relations andinterdependencies between professional engagement, satisfaction, individual health and spiritualvitality following the approach of salutogenesis. This article assumes that the information given bypastoral workers are significant for the current formation of pastoral workers. We depict the findingsof the different research articles of the Pastoral Ministry Study and discuss the relevance for acquisitionand formation of pastoral workers. In this way we consider the impact of the whole survey on pastoraldevelopment in the dioceses.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>147</start>
+                                <end>168</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20453</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2132</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2132">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2132/2045" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2132" DMDID="DMD_wwu-journals_2132">
+            <mets:fptr FILEID="FILE0_wwu-journals_2132"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

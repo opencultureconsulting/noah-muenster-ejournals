@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1284">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kirche und Menschenrechte - eine politikwissenschaftliche Analyse und kirchenpolitische Stellungnahme aus aktuellem Anlass</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stein, Tine</displayForm>
+                        <namePart type="family">Stein</namePart>
+                        <namePart type="given">Tine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungHandelt es sich bei der aktuellen Kirchenkrise um das Versagen einzelner Kleriker oder zeigt sich hier ein Strukturproblem? Gerade die Politikwissenschaft bringt zur Untersuchung dieser Frage eine besondere Kompetenz mit, da eine ihrer wesentlichen Erkenntnisse lautet, dass das Versagen von Individuen immer auch auf eine Fehlkonstruktion des institutionellen Arrangements deutet, innerhalb derer Individuen handeln. Ausgehend von der Diagnose, dass die Kirche sich in einem performativen Selbstwiderspruch befindet, da sie aus der Universalität der Menschenrechte keine Konsequenzen für ihre eigene Sozialgestalt zieht, wird in dem Aufsatz die Verfassungsstruktur der Kirche kritisch untersucht und besonderes Augenmerk auf das Spannungsverhältnis zwischen Gewissensfreiheit und Glaubensgehorsam gegenüber dem Lehramt gerichtet. In einem nächsten Schritt werden die programmatischen Äußerungen Franziskus’ auf ihren institutionellen Reformgehalt geprüft. Die Verfasserin schließt mit einem Plädoyer für eine dialogische Binnenarchitektur der Kirche.AbstractIs the current crisis of the Catholic Church a result of the failure of individual clerics or is a structural problem at hand? Due to its special competences, political science lends itself particularly well to an examination of this question, since one of its main insights purports that the failures of individuals always point to a faulty design of institutional arrangements within which individuals must perform. Starting from the diagnosis that the Church finds itself caught in a state of performative self-contradiction, since it has failed to integrate the universality of human rights into appropriate social action within its own structure, the following essay will critically analyse the constitutional structure of the Church and, in particular, examine the tension between freedom of conscience and obedience of faith with respect to the Church magisterium. In a next step Francis’ programmatic statements will be tested for their substance as regards institutional reform. The author concludes with a plea for a dialogue-oriented internal Church structure.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12235</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1284</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1284">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1284/1223" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1284" DMDID="DMD_wwu-journals_1284">
+            <mets:fptr FILEID="FILE0_wwu-journals_1284"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

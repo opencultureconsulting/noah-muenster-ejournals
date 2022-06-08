@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3291">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ragnar Loðbrók Isn’t Real</title>
+                        <subTitle>The Limits of Treating Sagas Like History</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bierstedt, Adam</displayForm>
+                        <namePart type="family">Bierstedt</namePart>
+                        <namePart type="given">Adam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ragnarr Loðbrók is perhaps the most famous Viking in modern consciousness. Between History Channel’s ›Vikings‹ and ›Assassin’s Creed: Valhalla‹, this 9th century Scandinavian king dominates the image of an egalitarian society, where a farmer can, through his own brilliance, perform famous deeds and becomes a renowned, conquering king, whose death causes his sons and loyal drengir to invade and conquer most of England in the Great Viking Army.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Mittelalter Digital</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Mittelalter Digital</publisher>
+                        </originInfo>
+                        <identifier type="issn">2747-9757</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>164</start>
+                                <end>173</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-mittelalterdigital-2020-32361</identifier>
+                    <identifier type="doi">10.17879/mittelalterdigi-2020-3291</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3291</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3291">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3291/3236" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3291">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3291/3237" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3291" DMDID="DMD_wwu-journals_3291">
+            <mets:fptr FILEID="FILE0_wwu-journals_3291"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3291" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3291"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

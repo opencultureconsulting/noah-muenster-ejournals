@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3395</id>
+	<dc:title xml:lang="en-US">SARS-CoV-2 vaccination induced cerebral venous sinus thrombosis: Do megakaryocytes, platelets and lipid mediators make up the orchestra?</dc:title>
+	<dc:creator>Chiang, Kate Chander</dc:creator>
+	<dc:creator>Raghavan, Ravi</dc:creator>
+	<dc:creator>Gupta, Ajay</dc:creator>
+	<dc:subject xml:lang="en-US">SARS-CoV-2</dc:subject>
+	<dc:subject xml:lang="en-US">COVID-19</dc:subject>
+	<dc:subject xml:lang="en-US">Vaccine</dc:subject>
+	<dc:subject xml:lang="en-US">Thrombosis</dc:subject>
+	<dc:subject xml:lang="en-US">Cerebral venous sinus thrombosis</dc:subject>
+	<dc:subject xml:lang="en-US">Aspirin</dc:subject>
+	<dc:subject xml:lang="en-US">Thromboxane</dc:subject>
+	<dc:subject xml:lang="en-US">COX-2</dc:subject>
+	<dc:subject xml:lang="en-US">Adenoviral vector</dc:subject>
+	<dc:subject xml:lang="en-US">Megakaryocyte</dc:subject>
+	<dc:description xml:lang="en-US">The COVID-19 vaccines comprised of adenoviral vectors encoding the Spike (S) glycoprotein of SARS-CoV-2 are highly effective but associated with rare thrombotic complications. The adenovirus vector infects epithelial cells expressing the coxsackievirus and adenovirus receptor (CAR). The S glycoprotein expressed locally stimulates neutralizing antibody and cellular immune responses. These vaccines have been associated with thromboembolic events including cerebral venous sinus thrombosis (CVST). S glycoprotein stimulates the expression of cyclooxygenase-2 (COX-2) and leads to massive generation of thromboxane A2 in COVID-19. Megakaryocytes express CAR and we postulate that S glycoprotein stimulated generation of thromboxane A2 leads to megakaryocyte activation, biogenesis of activated platelets and thereby increased thrombogenicity. Cerebral vein sinuses express podoplanin, a natural ligand for CLEC2 receptors on platelets. Platelets traversing through the cerebral vein sinuses could be further activated by thromboxane A2-dependent podoplanin-CLEC2 signaling, leading to CVST. A prothrombotic hormonal milieu, and increased generation of thromboxane A2 and platelet activation in healthy females compared to males is consistent with increased risk for CVST observed in women. We propose that antiplatelet agents targeting thromboxane A2 receptor signaling such as low-dose aspirin merit consideration for chemoprophylaxis when administering the adenovirus based COVID-19 vaccines to young adults at risk of thrombosis provided there are no contraindications.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-07-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Opinion Piece</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3395</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3395</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 18</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 18</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3395/3445</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3395/3446</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-34464</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Kate Chander Chiang, Ravi Raghavan, Ajay Gupta</dc:rights>
+</oai_dc:dc>

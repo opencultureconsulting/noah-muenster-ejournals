@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3063">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Breaking Away from the Binary</title>
+                        <subTitle>Do Drag Queens Adopt a Female Style or a Distinct Drag Queen Speech?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Essing, Hannah</displayForm>
+                        <namePart type="family">Essing</namePart>
+                        <namePart type="given">Hannah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">RuPaul&apos;s Drag Race [RPDR] is an American reality TV show that aired for the first time in 2009. In typical America&apos;s Next Top Model demeanour contestants are competing for the title of America&apos;s next drag superstar, participating in various challenges from singing to acting to walking the runway. The contestants are performing Drag Queens. Although Rusty Barrett describes Drag Queens as &quot;almost always gay men&quot; (313), this erases the identity of many of the contestants. Many of them identify as gay men, however a number of contestants also find themselves on the trans-spectrum, identify as non-binary, genderqueer, or as transsexual, sometimes already in transition. Here lies one of the biggest issues with the analysis of Drag: it might be very easy to see the contestants as men dressing up as women, but that would adhere to a binary that doesn’t always apply to Drag Queens.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Satura</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Satura</publisher>
+                        </originInfo>
+                        <identifier type="issn">2701-0201</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>13</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-satura-2019-29980</identifier>
+                    <identifier type="doi">10.17879/satura-2019-3063</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3063</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3063">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/satura/article/download/3063/2998" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3063" DMDID="DMD_wwu-journals_3063">
+            <mets:fptr FILEID="FILE0_wwu-journals_3063"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

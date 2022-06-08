@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1546">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Umwelt und Energiepolitik in der sozialethischen Forschung - ein Literaturüberblick</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiemeyer, Joachim</displayForm>
+                        <namePart type="family">Wiemeyer</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDie sozialethische Beschäftigung mit Fragen der Ökologie und der Energiepolitik ebenso wie erste kirchliche Stellungnahmen der evangelischen und katholischen Kirche setzten in den 1970er Jahren ein. Dabei wurde ein breites Spektrum an grundlegenden ethisch-theologischen Fragestellungen (biblische Tradition, Begründung der Umweltverantwortung, Nachhaltigkeitsprinzipien) ebenso behandelt, wie die Frage der Verantwortbarkeit der Kernenergie. Während im evangelischen Bereich die Kernenergie schon früh abgelehnt wurde, wurde sie im katholischen Raum zunächst bejaht, bevor ein Wandel einsetzte. Es werden anschließend Desiderate der umweltethischen und der energiepolitischen Debatte benannt. Die Energiepolitik weist – vor allem wenn man die ethischen Herausforderungen der Energiegewinnung und der Verwendung der Energieerlöse in Entwicklungsländern einbezieht – eine Vielzahl von Dimensionen auf, die in ihrer sozialethischen Relevanz noch nicht umfassend bearbeitet wurden. Außerdem gibt es international erhebliche Unterschiede in der Akzeptanz von Risiken und der Bewertung der mit der Energieversorgung verbundenen Umwelteingriffe.AbstractThe socio-ethical preoccupation with questions of ecology and energy policy as well as first ecclesiastical statements of the Protestant and Catholic Churches started out in the 1970s. A great range of fundamental theological-ethical issues (the Biblical tradition, a rationale for environmental responsibility, principles of sustainable development) were discussed as well as the question of the acceptability of nuclear energy. While nuclear power was rejected early within the Protestant Church, it was initially affirmed within the Catholic Church, before a change began. Next, desiderata concerning the debates around environmental ethics and energy policy are specified. Energy policy includes a variety of dimensions that have not yet been processed fully in their socio-ethical relevance – especially if one includes the ethical challenges of energy production and the use of energy revenues in developing countries. There are also significant international differences in the acceptance of risks and in the evaluation of environmental interventions concerning energy supply.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14482</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1546</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1546">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1546/1448" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1546" DMDID="DMD_wwu-journals_1546">
+            <mets:fptr FILEID="FILE0_wwu-journals_1546"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

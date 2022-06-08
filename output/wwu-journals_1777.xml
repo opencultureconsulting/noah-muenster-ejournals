@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1777">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pflege in Zeiten sozialstaatlicher Transformation. Notwendigkeit und Gewährleistungsprofil eines zukunftsgemäßen Pflegesystems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pitschas, Rainer</displayForm>
+                        <namePart type="family">Pitschas</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thiele, Günter</displayForm>
+                        <namePart type="family">Thiele</namePart>
+                        <namePart type="given">Günter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDie vom Gesetzgeber vermeintlich eingeleitete Wende in der Pflegeversicherung begegnet immer stärkeren Zweifeln. Die Kaskade der bisherigen Reformgesetze mit dem 1. und 2. Pflegestärkungsgesetz, dem Entwurf eines 3. Pflegestärkungsgesetzes sowie dem Pflegeberufe-Gesetz täuscht darüber hinweg, dass weitreichende Regulierungsdefizite verbleiben. Dem Fachkräftemangel, der daraus resultierenden De-Qualifizierung und De-Professionalisierung sowie der Unterentwicklung der sozialen Infrastruktur der Pflege gilt es in interdisziplinärer Perspektive nachzuspüren, wofür der Beitrag auf einen staatswissenschaftlichen Ansatz zurückgreift. Aus den Überlegungen hierzu werden i. S. einer Abhilfe „vor Ort“ stringente Anforderungen an eine Kommunalisierung der Pflege abgeleitet, die sich in einem grundlegenden Wandel im Ansatz des Pflegerechts sowie der Aufgabenwahrnehmung erweisen muss, damit die gegenwärtige föderale Differenzierung der Aufgabenwahrnehmung zugunsten der Gleichwertigkeit aller Lebensverhältnisse in der Pflege aufrechterhalten werden kann.AbstractThe substantial turn the German long-term care insurance announced by German legislature is meeting with growing scepticism: the current reform efforts (the first and second Pflegestärkungsgesetz, the draft of a third Pflegestärkungsgesetz, and the Pflegeberufe-Gesetz) cannot paper over the remaining structural deficits of regulation. Skills shortage, and the resulting de-qualification and de-professionalization of care, as well as the underdevelopment of the underlying social infrastructure are problems that are analyzed in this paper in terms of political science from an interdisciplinary perspective (Staatswissenschaften). In conclusion, the article pleads for a communalization of care, which needs effect a fundamental change in the legislative layout of care laws as well as in the execution of tasks to maintain the egality of all living conditions in care giving.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-17107</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1777</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1777">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1777/1710" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1777" DMDID="DMD_wwu-journals_1777">
+            <mets:fptr FILEID="FILE0_wwu-journals_1777"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

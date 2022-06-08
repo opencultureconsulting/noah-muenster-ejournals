@@ -1,0 +1,46 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3458</id>
+	<dc:title xml:lang="en-US">Differentiation of primary CNS lymphoma and glioblastoma using Raman spectroscopy and machine learning algorithms</dc:title>
+	<dc:creator>Klamminger, Gilbert Georg</dc:creator>
+	<dc:creator>Klein, Karoline</dc:creator>
+	<dc:creator>Mombaerts, Laurent</dc:creator>
+	<dc:creator>Jelke, Finn</dc:creator>
+	<dc:creator>Mirizzi, Giulia</dc:creator>
+	<dc:creator>Slimani, Rédouane</dc:creator>
+	<dc:creator>Husch, Andreas</dc:creator>
+	<dc:creator>Mittelbronn, Michel</dc:creator>
+	<dc:creator>Hertel, Frank</dc:creator>
+	<dc:creator>Kleine Borgmann, Felix Bruno</dc:creator>
+	<dc:subject xml:lang="en-US">Raman spectroscopy</dc:subject>
+	<dc:subject xml:lang="en-US">PCNSL</dc:subject>
+	<dc:subject xml:lang="en-US">Glioblastoma</dc:subject>
+	<dc:subject xml:lang="en-US">Machine learning</dc:subject>
+	<dc:description xml:lang="en-US">Objective and Methods:
+Timely discrimination between primary CNS lymphoma (PCNSL) and glioblastoma is crucial for diagnostics and therapy, but most importantly also determines the intraoperative surgical course. Advanced radiological methods allow this to a certain extent but ultimately, biopsy is still necessary for final diagnosis. As an upcoming method that enables tissue analysis by tracking changes in the vibrational state of molecules via inelastic scattered photons, we used Raman Spectroscopy (RS) as a label free method to examine specimens of both tumor entities intraoperatively, as well as postoperatively in formalin fixed paraffin embedded (FFPE) samples.
+Results:
+We applied and compared statistical performance of linear and nonlinear machine learning algorithms (Logistic Regression, Random Forest and XGBoost), and found that Random Forest classification distinguished the two tumor entities with a balanced accuracy of 82,4% in intraoperative tissue condition and with 94% using measurements of distinct tumor areas on FFPE tissue. Taking a deeper insight into the spectral properties of the tumor entities, we describe different tumor-specific Raman shifts of interest for classification.
+Conclusions:
+Due to our findings, we propose RS as an additional tool for fast and non-destructive, perioperative tumor tissue discrimination, which may augment treatment options at an early stage. RS may further serve as a useful additional tool for neuropathological diagnostics with little requirements for tissue integrity.</dc:description>
+	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:date>2021-10-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Original Paper</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3458</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2021-3458</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 2 (2021); 26</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 2 (2021); 26</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3458/3627</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3458/3628</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3458/3606</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-36270</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-36288</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2021-36060</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Gilbert Georg Klamminger, Karoline Klein, Laurent Mombaerts, Finn Jelke, Giulia Mirizzi, Rédouane Slimani, Andreas Husch, Michel Mittelbronn, Frank Hertel, Felix Bruno Kleine Borgmann</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

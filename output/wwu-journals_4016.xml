@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4016">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>›Gekaufte Zeit‹ in soziologischer und sozioökonomischer Perspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weischer, Christoph</displayForm>
+                        <namePart type="family">Weischer</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Besprechung einer wissenschaftlichen Veröffentlichung sollte versuchen, dem Charakter der Veröffentlichung gerecht zu werden. Das von Wolfgang Streeck vorgelegte Buch geht auf drei Vorlesungen zurück, die dann zu einer Publikation komponiert wurden. Eine sozialwissenschaftliche Vorlesung unterscheidet sich systematisch von einer wissenschaftlichen Monographie oder einem Fachaufsatz; sie versucht, zeitlich und räumlich eingebettet, bei den Zuhörenden (und Lesenden) Wirkungen zu hinterlassen, z.B. indem man Segmente wissenschaftlichen Wissens in (kleine oder große) Erzählungen einbettet, indem man Phänomene in Ordnungen bringt oder andere Ordnungen in Frage stellt. Mit dem Titel wie mit seinen einleitenden Ausführungen beansprucht Wolfgang Streeck eine große Erzählung vorzulegen. Die Kunst einer sozialwissenschaftlichen Erzählung liegt in der Balance. Man muss das Beobachtungsinstrument in der Weise scharf stellen, so dass zum einen wichtige Strukturen erkennbar werden, so dass zum anderen aber auch die feineren Strukturen, die dann zum Ausgangspunkt von vertiefenden wissenschaftlichen Analysen und zum Ankerpunkt orientierender politischer Debatten werden können, nicht vollständig verschwinden.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>138</start>
+                                <end>146</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4016</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4016</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4016">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4016/4062" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4016" DMDID="DMD_wwu-journals_4016">
+            <mets:fptr FILEID="FILE0_wwu-journals_4016"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

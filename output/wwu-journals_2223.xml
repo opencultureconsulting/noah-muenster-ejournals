@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2223">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Wer zu allen Seiten offen ist ...&quot; - Diversity Management beim kirchlichen Arbeitgeber</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laudage Kleeberg, Regina</displayForm>
+                        <namePart type="family">Laudage Kleeberg</namePart>
+                        <namePart type="given">Regina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Diversity Management und Kirche sind auf den ersten Blick nur eingeschränkt vereinbar. Um zu verstehen, was Diversity Management ist, werden die Paradigmen und Konzepte des Diversity Managements in Organisationen und Unternehmen betrachtet. Im Anschluss werden diese mit Besonderheiten kirchlicher Arbeitgeber verknüpft. Der Artikel formuliert erste Thesen und Empfehlungen für Diversity Management beim kirchlichen Arbeitgeber.First of all, Diversity Management and the Church hardly seem to be compatible. To understand Diversity Management, it is necessary to consider the paradigms and concepts of Diversity Management in organizations and companies. Subsequently, these will be connected to characteristics of the Church as an employer. Finally, the article suggests first propositions and recommendations for Diversity Management with Church employers.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>129</start>
+                                <end>141</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21257</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2223</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2223">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2223/2125" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2223" DMDID="DMD_wwu-journals_2223">
+            <mets:fptr FILEID="FILE0_wwu-journals_2223"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

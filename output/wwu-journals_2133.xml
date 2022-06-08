@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2133">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Seelsorgestudie in der Praxis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>von Wulfen, Yvonne</displayForm>
+                        <namePart type="family">von Wulfen</namePart>
+                        <namePart type="given">Yvonne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag betrachtet die Auswirkungen der Seelsorgestudie auf den Personaleinsatz und die Personalentwicklungim pastoralen Dienst. Aus methodischen Gründen kann diese Studie keine direktenHandlungsempfehlungen im Sinne einer Ursache-Wirkungs-Beziehung liefern. Sie hat aber insbesonderedurch die Diskussionen der Ergebnisse zu einer höheren Sensibilität und Offenheit in Bezug aufdie aktuelle Situation im pastoralen Dienst geführt, die von Nachwuchsmangel, einem Rückgang derPriesterberufungen und daraus resultierend einem Bedarf an Führungskräften geprägt ist. Der Beitragschließt mit einem Appell, neue Leitungsmodelle zu entwickeln, die Laien in weitergehender WeiseVerantwortung übertragen.This paper explores to what extent the German „Seelsorgestudie“ (‚German Pastoral Ministry Study‘)had an impact on the way that human resource allocation and development are dealt with in the pastoralservices of the Church. For methodological reasons, this study cannot directly provide anyrecommendations as to what is to be done in clear terms of cause and effect. But particularly by its indepthdiscussion of the results, the study has led to an increased awareness of and openness towardsthe current situation regarding pastoral services, which is marked by a shortage of new staff, a declinein men entering priesthood, and the resulting lack of executive staff. The paper ends with an appeal toadjust to the situation by allowing more laypeople to assume functions that have previously beenreserved to ordained priests.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>169</start>
+                                <end>179</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20468</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2133</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2133">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2133/2046" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2133" DMDID="DMD_wwu-journals_2133">
+            <mets:fptr FILEID="FILE0_wwu-journals_2133"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

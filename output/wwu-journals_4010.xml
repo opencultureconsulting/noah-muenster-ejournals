@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>doppelt fabrizierte Öffentlichkeit</title>
+                        <subTitle>Reflexion und Versozialwissenschaftlichung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Korte , Jasper W.</displayForm>
+                        <namePart type="family">Korte</namePart>
+                        <namePart type="given">Jasper W.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dass Sozialwissenschaftler_innen Teil dessen sind, was sie beforschen, ist in der gegenwärtigen Theoretischen Soziologie allgemein anerkannt, auch wenn es zu unterschiedlichen Reaktionsweisen geführt hat: So bemüht sich etwa Bourdieu (1993) um eine Objektivierung der eigenen Begriffsbildung und Reflexivität, Luhmann (1997) integriert das Problem offensiv in seiner autologischen Version der Theoriebildung und Anthony Giddens (1996) baut diesen Umstand in seiner Deutung einer ›zutiefst soziologischen Moderne‹ ein. Eine strukturähnliche Herausforderung stellt sich für die Öffentlichkeit, insbesondere auch in normativen Deutungen der Öffentlichkeit wie etwa bei Habermas (1981). Bei Kurt Imhof spielen die Sozialwissenschaften als Urheber, Teilnehmer, Beforschende und Reflektierende der Öffentlichkeit ebenfalls eine Rolle – allerdings werden die Potentiale nicht immer voll ausgeschöpft.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>266</start>
+                                <end>275</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4010</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4010">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4010/4056" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4010" DMDID="DMD_wwu-journals_4010">
+            <mets:fptr FILEID="FILE0_wwu-journals_4010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

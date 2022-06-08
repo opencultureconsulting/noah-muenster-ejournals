@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2500">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Public service broadcasting and media polarization in Poland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuś, Michał</displayForm>
+                        <namePart type="family">Kuś</namePart>
+                        <namePart type="given">Michał</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Bildung der ersten Mehrheitsregierung (nach 1989) durch die konservative Partei „Recht und Gerechtigkeit“ im Jahr 2015 wird weitläufig als Wendepunkt in der Geschichte des öffentlich-rechtlichen Rundfunks in Polen angesehen. Zum ersten Mal seit 1989 hat eine politische Gruppe die volle Kontrolle über die öffentlich-rechtlichen Medien. Seit dieser Zeit wird die regierende Partei der völligen Besitznahme der öffentlichen Medien beschuldigt. Repräsentanten von „Recht und Gerechtigkeit“ bezeichnen dagegen ihre eigenen Handlungen eher als „Teil des Geschäfts“. In diesem Essay werden die wichtigsten Ereignisse im Zeitraum zwischen 2015 und 2019 im Kontext der Geschichte des öffentlich-rechtlichen Rundfunks analysiert. Zusätzlich wird hier ein breiterer politischer und sozialer Kontext berücksichtigt. Mit besonderem Augenmerk auf gesellschaftliche Prozesse soll die politische und (nicht zuletzt) mediale Polarisierung betrachtet werden. Dies wird anhand von Beispielen von Ereignissen deutlich, die den aktuellen Stand der Polarisierung des polnischen Mediensystems und die hohe Politisierung des öffentlich-rechtlichen Rundfunks veranschaulichen.</abstract>
+                    <abstract lang="eng">The establishment by the conservative Law and Justice party of the first post-1989 majority government in 2015 is usually seen as the turning-point in the history of public service broadcasting in Poland. For the first time after 1989, one political group took full control of the public service media. Since then, critics of the current Polish government have accused the ruling party of a full and unprecedented capture of the public media. However, representatives of the Law and Justice party see their own actions simply as “part of the game”. I analyze in this essay all the most important events from the 2015 – 2019 period in the context of the history of public service broadcasting in Poland. I also take into account the wider political and social context, and focus in particular on the processes of societal, political and (not least) media polarization. To do so, I deal with examples of events that illustrate the current state of polarization of the Polish media system and the high level of politicization of public s ervice broadcasting.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23792</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2500</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2500</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2500">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2500/2379" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2500" DMDID="DMD_wwu-journals_2500">
+            <mets:fptr FILEID="FILE0_wwu-journals_2500"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

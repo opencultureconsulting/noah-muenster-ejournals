@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_24">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Migration und Zugehörigkeit. Sozialethische Perspektiven</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heimbach-Steins, Marianne</displayForm>
+                        <namePart type="family">Heimbach-Steins</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Internationale Migration wird zum Prüfstein einer Ethik globaler Gerechtigkeit. Deren Brisanz wird besonders deutlich im Blick auf die Zugehörigkeits- und Beteiligungsrechte irregulärer Migranten. Souveränität über die eigenen Grenzen, das Recht auszuschließen, ist ein Konstitutionsprinzip des Nationalstaats. Die Mitgliedschaft in einer Rechtsgemeinschaft ist aber das primäre Gut, das ein Gemeinwesen verteilt; mit ihm werden alle weiteren Distributionsentscheidungen vorstrukturiert. Ausgehend von den Leitideen „Einheit der Menschheitsfamilie“ und „Gemeinwidmung der Güter“ ordnet eine sozialethische Theorie globaler Gerechtigkeit alle besonderen Rechts- und Eigentumstitel dem Weltbürgerrecht und der universellen Bestimmung der Güter prinzipiell nach. Dem politisch unabweisbaren Handlungsdruck ist gerechterweise nur mit Konzepten globaler politischer Steuerung zu begegnen, welche der Leitidee der Einheit der Menschheitsfamilie Rechnung tragen. Die Präsenz der weltweit wirksamen Exklusionsdynamiken in Gestalt der Migranten erfordert Einwanderungs- und Integrationspolitiken, die dem Anspruch menschenrechtlicher Anerkennung, dem Recht auf Zugehörigkeit und den Anforderungen von Beteiligungs- und Verteilungsgerechtigkeit für alle Gesellschaftsmitglieder genügen. Ein entsprechendes Ethos globaler Solidarität geht von der grundlegenden Symmetrie zwischen Migranten und Eingesessenen aus. Darin konvergiert ein biblisch-christlicher Ansatz mit philosophischen Traditionen des Kosmopolitismus.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>15</start>
+                                <end>40</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-206</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_24</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_24">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/24/20" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_24" DMDID="DMD_wwu-journals_24">
+            <mets:fptr FILEID="FILE0_wwu-journals_24"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3762">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Der  Junge geht nicht mehr zur Schule …“</title>
+                        <subTitle>Diakoniewissenschaft und Kirchentheorie vor dem Horizont theologischer Kybernetik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weyen, Frank</displayForm>
+                        <namePart type="family">Weyen</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kirchentheorie und Diakoniewissenschaft als jüngste Disziplinen der Praktischen sowie der Systematischen Theologie verbindet die Einbeziehung interdiszplinärer Forschungsergebnisse, um zu ihren jeweiligen Ergebnissen einer ‚Theorie über die Praxis‘ zu gelangen. Am Beispiel eines erweiterten Inklusionsbegriffs stellt der Beitrag Teilhabegerechtigkeit unter den interferenten Schwerpunktthemen Armut und Bildung dar. Dieses Grundlagenwissen eröffnet sodann diakoniewissenschaftlich für die Soziale Arbeit und praktisch-theologisch für das Pfarramt unter kybernetischem Gesichtspunkt Verstehenszugänge und Orientierungswissen im Sinne eines ‚know how, know what’ und eines ‚know why’.
+Church theory and diaconal science as the youngest disciplines of practical and systematical theology combine the indispensable consideration of interdisciplinary research results to from a &apos;theory about practice&apos;. Using the example of an extended concept of inclusion, the article presents participation as the interfering topics of poverty and education. This basic knowledge then opens up diaconal science for social work and practical-theological for the parish from a cybernetic point of view and gives orientation knowledge as a &apos;know how, know what&apos; and a &apos;know why&apos;.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>201</start>
+                                <end>214</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38087</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3762</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3762">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3762/3808" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3762" DMDID="DMD_wwu-journals_3762">
+            <mets:fptr FILEID="FILE0_wwu-journals_3762"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

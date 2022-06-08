@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2302">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tanz als performativer Möglichkeitsraum für das, was im Innersten bewegt - Religionspädagogische Überlegungen zu einer Didaktik des Performativen - expliziert am Beispiel des Tanzes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frenk, Anne K.</displayForm>
+                        <namePart type="family">Frenk</namePart>
+                        <namePart type="given">Anne K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wie kann die Frage nach Gott in Kontexten religiöser Bildung so eingebracht werden, dass sie Menschenwirklich bewegt? Wie kann eine solche existenzielle Auseinandersetzung in religiösen Lern- undBildungsprozessen initiiert werden, ohne die Rahmenbedingungen religiöser Bildung – vor allem amLernort Schule – zu übergehen? Dieser Fragestellung nachgehend und vor dem Hintergrund der kontroversenDiskussionen einer performativen Religionspädagogik steigt das Dissertationsprojekt tiefer indie sozial- und geisteswissenschaftlichen Debatten des Performativitätsdiskurses ein, um die diskursprägendenBegriffe differenziert zu klären und den Ertrag des Performativitätskonzepts für pädagogischeProzesse herauszuarbeiten. Ausgehend von diesen Erkenntnissen wird der Tanz als Explikationeiner Didaktik des Performativen eingeführt und sein Potenzial für religiöse Lern- und Bildungsprozesseaufgezeigt.How can we address the quest of God in the various contexts of religious education in a way so that itactually affects people emotionally? How can one deal with this existential question and at the sametime respect the framework conditions of religious education, especially in schools? In the pursuit ofthis question and against the backdrop of controversial discussions around performative religiouseducation, this dissertation project delves more deeply into the performativity discourse in social scienceand the humanities. It will help to clarify the relevant and discourse moulding terms in a nuancedway and point out the performativity of the pedagogical processes. Based on these findings, a performativedidactic is developed and illustrated by the example of dance.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>38</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>32</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2018-21948</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2302</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2302">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2302/2194" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2302" DMDID="DMD_wwu-journals_2302">
+            <mets:fptr FILEID="FILE0_wwu-journals_2302"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

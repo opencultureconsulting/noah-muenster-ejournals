@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1759">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pflege aus Perspektive der pflegenden Angehörigen und ihrer Interessenvertretung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riethmüller, Barbara</displayForm>
+                        <namePart type="family">Riethmüller</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag formuliert die Perspektive pflegender Angehöriger und ihrer Interessenvertretung auf die gegenwärtige Situation von Pflege und Pflegepolitik in der Bundesrepublik Deutschland. Einleitend werden strukturelle Ursachen für die Probleme pflegender Angehöriger benannt. Daraus folgen zentrale Forderungen, die in Form von Leitlinien des Interessenverbandes „wir pflegen e. V.“ vorgestellt werden. Für die Unterstützung der Arbeit pflegender Angehöriger wesentlich sind dabei besonders Anerkennung, Mitbestimmung, Beratung und Information sowie die Vereinbarkeit von Pflege und Beruf. Abschließend wird für mehr Mitgefühl und Sinn für die Verletzlichkeit aller Menschen plädiert.AbstractThis article describes the perspective of nursing relatives and of their interest group with regard to the current situation of care and care policy in Germany. First, the structural causes of the problems that nursing relatives are facing will be investigated. On the basis of this assessment, central claims are put forward, which are presented in form of the central guidelines proposed by the interest group “wir pflegen e. V.” (“we are caring”). The crucial aspects here are appreciation, participation, counselling, and information as well as the compatibility of nursing and work. In conclusion, the article pleads for more compassion and a sense of the vulnerability of all human beings.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16932</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1759</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1759">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1759/1693" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1759" DMDID="DMD_wwu-journals_1759">
+            <mets:fptr FILEID="FILE0_wwu-journals_1759"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

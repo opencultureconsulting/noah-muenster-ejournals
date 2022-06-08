@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2448">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dialektik sozialer Nachhaltigkeit als Frage der Gerechtigkeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ketschau, Thilo J.</displayForm>
+                        <namePart type="family">Ketschau</namePart>
+                        <namePart type="given">Thilo J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Entwicklung der sozialen Dimension von Nachhaltigkeit wird anhand eines Dualismus konstruiert, dessen Aspekte sich im Begriff selbst finden: erstens nachhaltige soziale Entwicklung, welche direkt auf die Idee einer sozial nachhaltigen Gesellschaft Bezug nimmt und zweitens soziale nachhaltige Entwicklung, mit dem Blick auf den Vollzug nachhaltiger Entwicklung in den gesellschaftlichen Strukturen und Ordnungen. Die dialektische Analyse offenbart eine prekäre gegenseitige Abhängigkeit beider Aspekte und folgert auf die Notwendigkeit eines multidimensionalen Modells sozialer Gerechtigkeit als normative Grundlage nachhaltiger Entwicklung. Die Dialektik verdeutlicht aber auch, dass eine Gleichsetzung beider Ideen, also die Annahme der Identität von sozialer Gerechtigkeit und sozialer Nachhaltigkeit, beiden Prinzipien nicht gerecht wird und der Verwirklichung sozialer Nachhaltigkeit hinderlich wäre.
+The development of the social dimension of sustainability is discussed in the dualism, which is essential to the term itself: sustainable social development, addressing the idea of the social sustainable society, and social sustainable development, addressing the implementation of sustainability in the structure of society. Thereby, the precarious interdependency of both concepts becomes obvious, revealing the necessity of a multidimensional model of social justice as normative foundation. But the dialectic also shows that an equation of both ideas, meaning the assumption of the identity of social justice and social sustainability, is not adequate regarding the complexity of both principles and may be self-defeating for the realization of social sustainability.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>27</start>
+                                <end>43</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2019-23113</identifier>
+                    <identifier type="doi">10.17879/sun-2019-2448</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2448</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2448">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2448/2311" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2448" DMDID="DMD_wwu-journals_2448">
+            <mets:fptr FILEID="FILE0_wwu-journals_2448"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2859">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation und Intersektionalität</title>
+                        <subTitle>Erfahrungen aus der theologischen Hochschullehre</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Suchhart-Kroll, Verena</displayForm>
+                        <namePart type="family">Suchhart-Kroll</namePart>
+                        <namePart type="given">Verena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag stellt einen Versuch dar, das Anliegen der Intersektionalität mit geschlechtssensibler theologischer Hochschullehre zusammenzubringen. Zunächst setzt er sich mit dem Begriff der Partizipation auseinander, welcher als Instrument genutzt wird, um sich dem Konzept der Intersektionalität anzunähern. In einem zweiten Schritt wird anhand von zwei Case-Studies der Frage nachgegangen, wie dieses Konzept in der theologischen Hochschullehre Beachtung finden kann und wie umgekehrt ausgewählte Szenen aus der Praxis von Seminarkontexten die theoretischen Betrachtungen konkretisieren können. Schließlich wird reflektiert, wie Intersektionalität in der theologischen Lehre verwirklicht werden könnte und welche Herausforderungen dabei bestehen.
+This article brings together the issue of intersectionality with gender-sensitive academic theological teaching. After analyzing the concept of participation, which is used as an instrument for discussing the question of intersectionality, this paper uses two case studies to reflect on the questions: How can intersectionality be considered in academic theological teaching? And, in turn, how can selected scenes from seminar practice substantiate the theoretical examination? The article closes by considering how intersectionality could be realized in theological teaching and by looking at the obstacles to this goal.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>75</start>
+                                <end>86</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27467</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2859</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2859">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2859/2746" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2859" DMDID="DMD_wwu-journals_2859">
+            <mets:fptr FILEID="FILE0_wwu-journals_2859"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

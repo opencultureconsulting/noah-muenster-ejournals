@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4206">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wissenschaftslogik und Widerspruch</title>
+                        <subTitle>Die Esser-Hirschauer-Kontroverse. Soziologiehistorische und systematische Überlegungen zu einem »Methodenstreit«</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Römer , Oliver</displayForm>
+                        <namePart type="family">Römer</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es wird wieder gestritten und debattiert in der deutschen Soziologie. Diese Neuigkeit ist erst einmal keine schlechte, sind Streit und Konflikt doch nicht selten Voraussetzungen für die institutionelle Festigung wissenschaftlicher Disziplinen (vgl. Kneer/Moebius 2010). Dass allerdings die Kontroverse um die Gründung einer Mannheimer Akademie der Soziologie, die teils heftigen Diskussionen des Göttinger Soziologiekongresses und zuletzt auch der in dieser Zeitschrift ausgetragene Disput zwischen Stefan Hirschauer und Hartmut Esser bereits in ersten Reaktionen als ein neuer »Methodenstreit« (Blättel- Mink 2018: 38) rezipiert werden, erscheint erklärungs- und erläuterungsbedürftig. Zwar kann unstrittig festgehalten werden, dass aktuell wenigstens in der deutschen Soziologie »klassische soziologische Grundfragen über ›Objektivität‹ und ›Wertneutralität‹ wieder virulent werden« (ebd.: 38). Jedoch ähneln die bisher ausgetauschten Argumente bereits bekannten fachlichen Kontroversen so frappierend, dass sich die Frage stellt, ob von diesen Auseinandersetzungen tatsächlich mehr als eine Verfestigung innerakademischer Stellungskämpfe zu erwarten ist, die eine in dieser Zeitschrift angeregte fachliche Grundlagendiskussion kaum befördern würde (vgl. Strübing 2019; Wagner 2019). Die aus dieser Befürchtung erwachsene Forderung, dass sich die Soziologie angesichts von »vielfältigen aktuellen Problemen, ja: Krisen« nicht in »internen Debatten, ja Spaltungsdiskursen« aufreiben dürfe (Blättel-Mink 2018: 45), weist bereits auf ein Grundproblem der bisherigen Diskussion hin: Analog zum noch größtenteils im 19. Jahrhundert verorteten klassischen Werturteilsstreit und zum während der 1960er Jahre ausgetragenen Positivismusstreit kennzeichnet sich die aktuelle Debatte durch eine vordergründige Situierung in den Bahnen methodologischer und wissenschaftstheoretischer Auseinandersetzung.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>220</start>
+                                <end>244</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4206</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4206</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4206">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4206/4287" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4206" DMDID="DMD_wwu-journals_4206">
+            <mets:fptr FILEID="FILE0_wwu-journals_4206"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

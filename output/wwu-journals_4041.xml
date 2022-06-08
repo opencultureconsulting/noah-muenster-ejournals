@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4041">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erklärungen in rekursiven Verhältnissen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karafillidis, Athanasios</displayForm>
+                        <namePart type="family">Karafillidis</namePart>
+                        <namePart type="given">Athanasios</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wenn es um Erklärungen geht, dann herrscht in der Soziologie durchaus Einigkeit darüber, dass ›richtige‹ Erklärungen Kausalannahmen implizieren. Doch eine methodologische Verankerung von Kausalität unterschätzt das Problem der Rekursivität – und damit auch das Rätsel der Sozialität selbst. Das unterläuft die Stärke der Disziplin, gerade Erklärungen für Phänomene liefern zu können, die nicht kausal operieren. Eine knappe Inspektion von Durkheim, Weber und Simmel verdeutlicht, dass das soziologische Interesse von Beginn an weniger der Kausalität, sondern der Rekursivität und selbsterzeugten Unbestimmtheit des Sozialen gilt. Doch die Durchsetzung von Kausalität zum Zwecke einer Fusion der Soziologie mit einer von der Entwicklung entsprechender Techniken der Datenmanipulation getriebenen Sozialforschung zwischen 1940 und 1960 hat das wissenschaftliche Selbstverständnis der Soziologie einschneidend verändert. Seitdem fehlen der Soziologie plötzlich die Methoden und der empirische Zugang, die beide offenbar nur noch von einem bestimmten, kausalistischen Typ von Sozialforschung geliefert werden können. Die Soziologie pflegt aber, genauso wie die Sozialforschung, ihre eigenen Methoden und ihre eigene Empirie. Sie weiß um ihre Einbindung in rekursive Verhältnisse und formuliert daher nicht-kausale, kybernetische Erklärungen, durch die soziale Phänomene für interessierte Beobachter nacherlebbar und behandelbar werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>218</start>
+                                <end>238</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2013-4041</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4041</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4041">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4041/4087" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4041" DMDID="DMD_wwu-journals_4041">
+            <mets:fptr FILEID="FILE0_wwu-journals_4041"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

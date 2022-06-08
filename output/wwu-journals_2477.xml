@@ -1,0 +1,112 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2477">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Identifizierung von Münzen anhand eines digitalen Fingerabdrucks</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Identification of coins using a digital fingerprint</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trostmann, Erik</displayForm>
+                        <namePart type="family">Trostmann</namePart>
+                        <namePart type="given">Erik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dresely, Veit</displayForm>
+                        <namePart type="family">Dresely</namePart>
+                        <namePart type="given">Veit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tauschensky, Anika</displayForm>
+                        <namePart type="family">Tauschensky</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Landesamt für Denkmalpflege und Archäologie – Landesmuseum für Vorgeschichte - Sachsen-Anhalt hat in Kooperation mit dem Fraunhofer-Institut für Fabrikbetrieb und -automatisierung (IFF) in Magdeburg ein innovatives Verfahren entwickelt, mit dem einzelne Münzen anhand eines individuellen „digitalen Fingerabdrucks“ eindeutig und unverwechselbar beschrieben und identifiziert werden können. Dieses „Optical System for Coin Analysis and Recognition”, kurz O.S.C.A.R., ist ein optisches Datenerfassungssystem mit Softwareanalyseverfahren und basiert auf der photometrischen Stereoanalyse. Messdaten zur Objektgeometrie, Farbigkeit und Oberflächenstruktur einer Münze werden dabei genutzt, um einen individuellen Erkennungsschlüssel zu generieren, der bei einer Suchabfrage mit der Datenbank abgeglichen wird.</abstract>
+                    <abstract lang="eng">The Landesamt für Denkmalpflege und Archäologie – Landesmuseum für Vorgeschichte - Sachsen-Anhalt has developed an innovative process in cooperation with the Fraunhofer-Institut für Fabrikbetrieb und -automatisierung (IFF) in Magdeburg, with which coins can be described and identified unmistakably by an individual &quot;digital fingerprint&quot;. This “Optical System for Coin Analysis and Recognition”, O.S.C.A.R., is an optical data acquisition system with software analysis techniques based on photometric stereo analysis. Measurement data on the object geometry, color and surface structure of a coin are used to generate an individual recognition key, which is matched to the database during a search query.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Online Zeitschrift zur Antiken Numismatik</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2698-4490</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>26</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-ozean-2019-23425</identifier>
+                    <identifier type="doi">10.17879/ozean-2019-2477</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2477</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2477">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2342" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/x-msvideo" ID="FILE1_wwu-journals_2477">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2343" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE2_wwu-journals_2477">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2356" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2477" DMDID="DMD_wwu-journals_2477">
+            <mets:fptr FILEID="FILE0_wwu-journals_2477"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2477" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2477"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_2477" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_2477"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

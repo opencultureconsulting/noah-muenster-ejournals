@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3755">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie Multiperspektivität in der Seelsorge Vertrauen bilden kann</title>
+                        <subTitle>Ein Gedankenspiel zu Ferdinand von Schirachs Theaterstück „GOTT“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wild, Thomas</displayForm>
+                        <namePart type="family">Wild</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag stellt anhand von Richard Gärtner, der Hauptfigur in Ferdinand von Schirachs Theaterstück „GOTT“, einen seelsorglichen Umgang mit Alterssuizidalität dar. Seelsorgliche Haltung, Stil und Methoden umschreiben das Wie professioneller Seelsorge in sensiblen Kontexten.
+The contribution uses the figure of Richard Gärtner, the main character in Ferdinand von Schirach&apos;s play GOTT, which deals with how a pastor handles suicidality among older people. Its pastoral attitude, style, and methods describe the &quot;how&quot; of professional pastoral care in sensitive contexts.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>121</start>
+                                <end>133</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-38021</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3755</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3755">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3755/3802" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3755" DMDID="DMD_wwu-journals_3755">
+            <mets:fptr FILEID="FILE0_wwu-journals_3755"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

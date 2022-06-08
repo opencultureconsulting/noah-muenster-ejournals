@@ -1,0 +1,149 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3453">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Differential gene expression in the cortical sulcus compared to the gyral crest within the early stages of chronic traumatic encephalopathy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cherry, Jonathan D.</displayForm>
+                        <namePart type="family">Cherry</namePart>
+                        <namePart type="given">Jonathan D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Agus, Filisia</displayForm>
+                        <namePart type="family">Agus</namePart>
+                        <namePart type="given">Filisia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dixon, Erin</displayForm>
+                        <namePart type="family">Dixon</namePart>
+                        <namePart type="given">Erin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Huber, Bertrand</displayForm>
+                        <namePart type="family">Huber</namePart>
+                        <namePart type="given">Bertrand</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Alvarez, Victor E.</displayForm>
+                        <namePart type="family">Alvarez</namePart>
+                        <namePart type="given">Victor E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mez, Jesse</displayForm>
+                        <namePart type="family">Mez</namePart>
+                        <namePart type="given">Jesse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>McKee, Ann C.</displayForm>
+                        <namePart type="family">McKee</namePart>
+                        <namePart type="given">Ann C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Labadorf, Adam</displayForm>
+                        <namePart type="family">Labadorf</namePart>
+                        <namePart type="given">Adam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stein, Thor D.</displayForm>
+                        <namePart type="family">Stein</namePart>
+                        <namePart type="given">Thor D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Chronic traumatic encephalopathy (CTE) is a progressive neurodegenerative tauopathy found in individuals with a history of repetitive head impacts (RHI). Previous work has demonstrated that neuroinflammation is involved in CTE pathogenesis, however, the specific inflammatory mechanisms are still unclear. Here, using RNA-sequencing and gene set enrichment analysis (GSEA), we investigated the genetic changes found in tissue taken from the region CTE pathology is first found, the cortical sulcus, and compared it to neighboring gryal crest tissue to identify what pathways were directly related to initial hyperphosphorylated tau (p-tau) deposition. 21 cases were chosen for analysis: 6 cases had no exposure to RHI or presence of neurodegenerative disease (Control), 5 cases had exposure to RHI but no presence of neurodegenerative disease (RHI), and 10 cases had exposure to RHI and low stage CTE (CTE). Two sets of genes were identified: genes that changed in both the sulcus and crest and genes that changed specifically in the sulcus relative to the crest. When examining genes that changed in both the sulcus and crest, GSEA demonstrated an increase in immune related processes and a decrease in neuronal processes in RHI and CTE groups. Sulcal specific alterations were observed to be driven by three mechanisms: anatomy, RHI, or p-tau. First, we observed consistent sulcal specific alterations in immune, extracellular matrix, vascular, neuronal, and endocytosis/exocytosis categories across all groups, suggesting the sulcus has a unique molecular signature compared to the neighboring crest independent of pathology. Second, individuals with a history of RHI demonstrated impairment in metabolic and mitochondrial related processes. Finally, in individuals with CTE, we observed impairment of immune and phagocytic related processes. Overall, this work provides the first observation of biological processes specifically altered in the sulcus that could be directly implicated in CTE pathogenesis and provide novel targets for biomarkers and therapies.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-34991</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3453</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3453</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3453">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3453/3499" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3453">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3453/3498" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE2_wwu-journals_3453">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3453/3496" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3453" DMDID="DMD_wwu-journals_3453">
+            <mets:fptr FILEID="FILE0_wwu-journals_3453"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3453" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3453"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3453" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3453"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

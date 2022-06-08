@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2125">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Seelsorgenden unter der Lupe empirischer Pastoralpsychologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kläden, Tobias</displayForm>
+                        <namePart type="family">Kläden</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser einführende Beitrag blickt aus empirisch-pastoralpsychologischer Perspektive auf die deutscheSeelsorgestudie (2012–2014). Es wird auf den Forschungskontext, den theoretischen Hintergrund,methodische Gesichtspunkte und einige Aspekte zu Konsequenzen eingegangen; Ergebnisse der Studiewerden hier nicht dargestellt. Der Schwerpunkt liegt auf der Frage, was an der Studie für die pastoraltheologischeRezeption, aber auch für die kirchliche Personalarbeit interessant ist. Pastoraltheologieals pastorale Professionstheorie sollte die pastoralpsychologischen Ansätze der Studie und diedurch sie bereitgestellte empirische Wissensbasis aufmerksam rezipieren und sich als Anwalt der pastoralenArbeitnehmerseite verstehen. Gleichwohl gilt es, die Interpretationsbedürftigkeit empirischerErgebnisse zu beachten, besonders im Hinblick auf praktische Konsequenzen aus der Studie.This introductory article examines the German Pastoral Ministry Study (2012–2014) from an empiricaland pastoral psychological perspective. The research context, the theoretical background, methodologicalaspects and some aspects of consequences are discussed. The results of the study are notpresented here. The focus is on the question of what is interesting for pastoral theological reception,but also for personnel work in the Church. Pastoral theology as a pastoral profession theory shouldcarefully consider the pastoral psychological approaches of the study and the empirical knowledgebase provided, and should regard itself as an advocate of the pastoral worker&apos;s side. Nonetheless, theneed to interpret empirical results must be taken into account, especially with regard to practicalconsequences from the study.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>39</start>
+                                <end>49</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2017-20388</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2125</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2125">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2125/2038" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2125" DMDID="DMD_wwu-journals_2125">
+            <mets:fptr FILEID="FILE0_wwu-journals_2125"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

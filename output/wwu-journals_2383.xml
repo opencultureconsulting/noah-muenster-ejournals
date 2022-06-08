@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2383">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziale Kälte bei der Wärmewende? Eine Untersuchung sozialer Nebenwirkungen politischer Steuerung im Wohnsektor</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Castello, Melanie</displayForm>
+                        <namePart type="family">Castello</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böcher, Michael</displayForm>
+                        <namePart type="family">Böcher</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">29</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Um die Ziele der Energie- und Wärmewende zu erreichen, stehen politischen Entscheider*innen verschiedene politische Instrumente zur Verfügung. Auf Basis eines Literaturreviews prüfen wir in einer Fallanalyse für den Bereich Wohnen, inwieweit diese auf ökologische Nachhaltigkeit konzentrierten Instrumente im Spannungsverhältnis zur sozialen Nachhaltigkeit stehen. Dafür werden die Energieeinsparverordnung, Förderprogramme der Kreditanstalt für Wiederaufbau sowie die Modernisierungsumlage auf ihre sozialen Verteilungswirkungen hin überprüft. Als konzeptioneller Rahmen dient die von Kraemer (2007, 2008) ausgearbeitete Typologie zu sozialen Verteilungsdimensionen von Umwelt. Um zu untersuchen, inwieweit mögliche Verteilungswirkungen an anderer Stelle durch sozialstaatliche Transfers abgefedert werden, wird der Blick abschließend auf die sogenannten flankierenden Maßnahmen in der Mindestsicherung und im Wohngeld gelenkt. Im Ergebnis zeigt sich, dass zur Erreichung der Wärmewende ein breites Spektrum an politischen Instrumenten abgedeckt wird, wobei der Schwerpunkt auf ökonomischen Instrumenten liegt. Insbesondere bei Umweltbelastungen und -entlastungen sind, auch unter Berücksichtigung der sozialstaatlichen Transfersysteme, negative soziale Verteilungswirkungen nachzuweisen.
+In order to achieve the goals of the energy transition (“Energie- und Wärmewende”), political-decision makers have various political instruments at their disposal. In the area of housing policies, we examine within a case study on the basis of a literature review the extent to which these ecologically-focused instruments are in conflict with social criteria of the concept of sustainability. For this purpose, the regulation for energy savings, funding programs of the government-owned development bank as well as the sharing of costs for modernization between landlords and tenants will be examined. Therefore, Kraemers (2007, 2008) typology of social distributional dimensions of the environment serves as a conceptual framework. In order to investigate to what extent possible negative effects are eliminated by welfare state transfers, we will finally focus on the so-called accompanying measures. As a conclusion, a wide range of policy instruments is used in the field, concurrently identifying a focus on economic instruments. Negative social effects have been detected especially in the field of environmental burden and environmental relief, even taking into account the transfer systems of the welfare state.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>51</start>
+                                <end>79</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-0-22689</identifier>
+                    <identifier type="doi">10.17879/sun-2018-2383</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2383</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2383">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2383/2268" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2383" DMDID="DMD_wwu-journals_2383">
+            <mets:fptr FILEID="FILE0_wwu-journals_2383"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

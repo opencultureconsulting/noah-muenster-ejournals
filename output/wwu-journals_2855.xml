@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2855">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Decision making – decision taking</title>
+                        <subTitle>Partizipation und Synodalität in katholischer Ekklesiologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Knop, Julia</displayForm>
+                        <namePart type="family">Knop</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Partizipation der „Laien“ und Synodalität der Kirche sind in der römisch-katholischen Kirche erst in neuerer Zeit wiederentdeckt worden. Das II. Vatikanische Konzil legte dafür die Grundlagen, indem es die participatio actuosa der Gläubigen zum Maßstab der Liturgiereform erklärte. In der Rezeption dieses Leitmotivs liturgischer und kirchlicher Erneuerung nach dem Konzil wurden allerdings v.a. Grenzen der Beteiligung der „Laien“ an der Gestaltung der Kirche markiert. Das gilt ganz ähnlich für das Prinzip der Synodalität, das in römisch-katholischer Lesart zwar die Konsultation der „Laien“ fordert und Beratungsformate implementiert, alle Entscheidungen aber an das Weiheamt bindet. Der 2019 in Deutschland begonnene Synodale Weg wagt sich darin auf neues Terrain. Nicht von ungefähr ist er deshalb hoch umstritten. Konservative Kritiker stellen die Legitimität dieses Prozesses grundsätzlich infrage, weil hier „Laien“ anders als bisher auch an Entscheidungen beteiligt werden. Welche Entwicklung kirchliche Strukturen durch die Erfahrungen dieses Weges nehmen werden, bleibt abzuwarten.
+&amp;nbsp;
+The participation of “laypersons” and the synodality of the Church were only recently rediscovered in the Roman Catholic Church. The Second Vatican Council laid the foundations for this development by declaring the participatio actuosa of the faithful as the standard of liturgical reform. However, the reception of this leitmotif of liturgical and ecclesiastical renewal following the Council emphasized above all the limits to the participation of “laypersons” in shaping the Church. That applies similarly to the principle of synodality, which in the Roman Catholic perspective demands the consultation of the “laypersons” and implements consultation formats, but on the other hand ties all decisions to the ordained ministry. In 2019, the Synodal Way began in Germany to venture into new territory. It is not surprising that it is highly controversial. Conservative critics fundamentally question the legitimacy of this process, because this involves “laypersons” in decisions differently than before. What development church structures will take because of these experiences remains to be seen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>18</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-27422</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2855</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2855">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2855/2742" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2855" DMDID="DMD_wwu-journals_2855">
+            <mets:fptr FILEID="FILE0_wwu-journals_2855"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4087">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kommentar zu Uwe Schimank</title>
+                        <subTitle>Grundriss einer integrativen Theorie der modernen Gesellschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Deutschmann, Christoph</displayForm>
+                        <namePart type="family">Deutschmann</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Titel von Schimanks Beitrag klingt nicht gerade bescheiden: Will der Autor in die Fußstapfen von Parsons und Luhmann treten und eine neue Supertheorie der Gesellschaft entwerfen, die – jene noch überbietend – auch die der Systemtheorie fernstehenden Theorietraditionen eingemeinden will? Das wäre jedoch ein Missverständnis; zweifellos ist es nicht Schimanks Ehrgeiz, zu einem neuen Säulenheiligen im Pantheon des soziologischen Theoriehimmels aufzusteigen. Er möchte vielmehr dem »Zerfall« der soziologischen Gesellschaftstheorie in konkurrierende, teilweise auch gegeneinander indifferente Angebote entgegenwirken und einen Vorschlag zur Integration der verschiedenen Perspektiven unterbreiten. Damit nimmt er ein nicht nur Eingeweihten wohlbekanntes Problem auf. Anders als die ökonomische Theorie kennt die Soziologie bis heute keinen »mainstream«. Sie pflegt zwar ihre Klassiker, reiht sie jedoch weitgehend beziehungslos, meist nur unter biographischen Gesichtspunkten, aneinander. Versuche eines systematischen »Theorievergleichs«, oder wenigstens der Identifikation gemeinsamer Problemdefinitionen, hat es zwar immer wieder gegeben, aber sie sind bislang weitgehend im Sande verlaufen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>32</start>
+                                <end>40</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4087</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4087</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4087">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4087/4156" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4087" DMDID="DMD_wwu-journals_4087">
+            <mets:fptr FILEID="FILE0_wwu-journals_4087"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

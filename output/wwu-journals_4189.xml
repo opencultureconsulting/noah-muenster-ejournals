@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4189">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welterzeugung</title>
+                        <subTitle>Gewaltsoziologie als kritische Gesellschaftstheorie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beck , Teresa Koloma</displayForm>
+                        <namePart type="family">Beck</namePart>
+                        <namePart type="given">Teresa Koloma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag blickt auf die Anfänge der Neueren Gewaltsoziologie zurück und plädiert für eine Wiederentdeckung des ursprünglichen gesellschaftskritischen Impulses. Jüngere Überlegungen aus den soziologischen Science and Technology Studies (STS) aufgreifend, zeigt er, dass sich in der Modernekritik der Protagonistinnen der Neueren Gewaltsoziologie eine Einsicht in die welterzeugenden Effekte der Gewaltforschung artikuliert. Sie hatten verstanden, dass Gewaltforschung stets eingebunden ist in Netzwerke von Praktiken, Objekten und Beobachtern und deshalb an Prozessen der Welterzeugung beteiligt. Durch einen innovativen methodischen Zugriff, der die Rekonstruktion des Gewaltverhältnisses moderner Gesellschaften in einem empirischen Forschungsprogramm entfaltet, das die Moderne dezentriert und analytisch an deren angeblichen Peripherien ansetzt, suchten sie, etablierte Narrative – und damit etablierte Praktiken der Welterzeugung – zu unterlaufen. Der Beitrag stellt Grundüberlegungen der STS zum Thema Welterzeugung in Wissenschaft und Forschung vor und diskutiert, wie diese für die Weiterentwicklung einer kritischen Gewaltsoziologie fruchtbar gemacht werden können.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>12</start>
+                                <end>23</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4189</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4189</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4189">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4189/4271" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4189" DMDID="DMD_wwu-journals_4189">
+            <mets:fptr FILEID="FILE0_wwu-journals_4189"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

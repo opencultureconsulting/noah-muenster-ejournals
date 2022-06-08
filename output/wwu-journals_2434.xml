@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2434">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>What’s in a Name? Megarian apoikiai in the Black Sea</title>
+                        <subTitle>Common nomima and Local Traditions</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Robu, Adrian</displayForm>
+                        <namePart type="family">Robu</namePart>
+                        <namePart type="given">Adrian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The Megarians were one of the most active colonizers between the eighth and sixth centuries BCE, founding apoikiai (&quot;colonies&quot;) in Sicily (Megara Hyblaia, Selinous), on the coasts of the Sea of Marmara (Astakos, Chalkedon, Selymbria, Byzantion), and along the Black Sea (Herakleia Pontike, Mesambria). At the same time, Megara was often not the only city who participated in the establishment of these settlements overseas: the literary and epigraphic sources attest the collaboration of Megarians with other groups of settlers from Greece (especially from Boiotia, Argos, and Corinth) and from their own colonies (Megara Hyblaia and Chalkedon), in the foundation and the development of their apoikiai. We may consider these foundations as the result of a synoikismos, or combination of several groups of settlers, often ethnically heterogeneous.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Supplements Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                        </originInfo>
+                        <identifier type="issn">2700-3590</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>273</start>
+                                <end>289</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-tso-2018-23020</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2434</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2434">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tso/article/download/2434/2302" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2434" DMDID="DMD_wwu-journals_2434">
+            <mets:fptr FILEID="FILE0_wwu-journals_2434"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

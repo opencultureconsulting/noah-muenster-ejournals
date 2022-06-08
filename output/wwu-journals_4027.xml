@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4027">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Differenzierung und Entdifferenzierung</title>
+                        <subTitle>Zur Gesellschaft des frühen 21. Jahrhunderts</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stichweh, Rudolf</displayForm>
+                        <namePart type="family">Stichweh</namePart>
+                        <namePart type="given">Rudolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Text plädiert für ein Verständnis von Differenzierung, welches diese als einen Vorgang der unablässigen Neubildung sozialer Systeme versteht. Er unterscheidet die Mikroebene soziokultureller Evolution von der Meso- und Makroebene, die durch Systemdifferenzierung beschrieben werden können. Ein Verständnis, das auf die unablässige Umbildung und Neubildung sozialer Systeme blickt, wird Entdifferenzierung eher als einen seltenen Spezialfall von Differenzierung auffassen. Das Argument arbeitet funktionale Differenzierung als den in der Moderne dominanten Typus von Differenzierung heraus und skizziert die Geschichte der modernen Gesellschaft unter dem Gesichtspunkt, dass diese in der Entwicklung der letzten zweihundert Jahre das Funktionssystem mit den anderen emergenten Eigenstrukturen der Weltgesellschaft verknüpft und zudem jedes Funktionssystem mit komplexen strukturellen Kopplungen mit anderen Funktionssystemen ausstattet.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>8</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2014-4027</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4027</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4027">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4027/4073" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4027" DMDID="DMD_wwu-journals_4027">
+            <mets:fptr FILEID="FILE0_wwu-journals_4027"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

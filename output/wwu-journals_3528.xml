@@ -1,0 +1,141 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3528">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strategies to gain novel Alzheimer’s disease diagnostics and therapeutics using modulators of ABCA transporters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pahnke, Jens</displayForm>
+                        <namePart type="family">Pahnke</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bascuñana, Pablo</displayForm>
+                        <namePart type="family">Bascuñana</namePart>
+                        <namePart type="given">Pablo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brackhan, Mirjam</displayForm>
+                        <namePart type="family">Brackhan</namePart>
+                        <namePart type="given">Mirjam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stefan, Katja</displayForm>
+                        <namePart type="family">Stefan</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Namasivayam, Vigneshwaran</displayForm>
+                        <namePart type="family">Namasivayam</namePart>
+                        <namePart type="given">Vigneshwaran</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koldamova, Radosveta</displayForm>
+                        <namePart type="family">Koldamova</namePart>
+                        <namePart type="given">Radosveta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wu, Jingyun</displayForm>
+                        <namePart type="family">Wu</namePart>
+                        <namePart type="given">Jingyun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Möhle, Luisa</displayForm>
+                        <namePart type="family">Möhle</namePart>
+                        <namePart type="given">Luisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stefan, Sven Marcel</displayForm>
+                        <namePart type="family">Stefan</namePart>
+                        <namePart type="given">Sven Marcel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Adenosine-triphosphate-(ATP)-binding cassette (ABC) transport proteins are ubiquitously present membrane-bound efflux pumps that distribute endo- and xenobiotics across intra- and intercellular barriers. Discovered over 40 years ago, ABC transporters have been identified as key players in various human diseases, such as multidrug-resistant cancer and atherosclerosis, but also neurodegenerative diseases, such as Alzheimer’s disease (AD). Most prominent and well-studied are ABCB1, ABCC1, and ABCG2, not only due to their contribution to the multidrug resistance (MDR) phenotype in cancer, but also due to their contribution to AD. However, our understanding of other ABC transporters is limited, and most of the 49 human ABC transporters have been largely neglected as potential targets for novel small-molecule drugs. This is especially true for the ABCA subfamily, which contains several members known to play a role in AD initiation and progression. This review provides up-to-date information on the proposed functional background and pathological role of ABCA transporters in AD. We also provide an overview of small-molecules shown to interact with ABCA transporters as well as potential in silico, in vitro, and in vivo methodologies to gain novel templates for the development of innovative ABC transporter-targeting diagnostics and therapeutics.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-37208</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3528</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3528</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3528">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3528/3720" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3528">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3528/3719" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3528" DMDID="DMD_wwu-journals_3528">
+            <mets:fptr FILEID="FILE0_wwu-journals_3528"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3528" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3528"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Liturgie 2.0? Zur Digitalisierung der analogen Liturgie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brückner, Jens</displayForm>
+                        <namePart type="family">Brückner</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Das Zeitalter der Digitalisierung verändert das Leben des Menschen grundlegend. Nicht nur das Denken und die Sprache sind davon betroffen, sondern auch die Art, Liturgie zu feiern. Auf der einen Seite werden Fragen zu digitaler Liturgie im Internet in der Forschung ausgiebig diskutiert, andererseits werden auch in der analogen Liturgie bereits seit Jahren Veränderungen durch Technik vorgenommen. Im folgenden Artikel wird Liturgie auf der Grundlage von einschlägigen Liturgiken als mehrschichtiges Sprachsystem verstanden. In den unterschiedlichen Sprachsystemen der Liturgie wird auf bisherige Entwicklungen hingewiesen und gefragt, welche Neuerungen die Digitalisierung in diesen Sprachsystemen eröffnen kann.
+The age of digitalization is changing the life of human beings in a fundamental way. Not only is our way of thinking and speaking affected, but also how we celebrate the liturgy. On the one hand, questions concerning digital liturgy are discussed extensively on the internet; on the other hand, changes to the analogue liturgy because of technology have been occurring for years now. Based on relevant liturgics, the following article understands liturgy as a multilayered language system. It points out previous developments in the various language systems of the liturgy and poses the question which innovations digitalization can offer in these language systems.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31628</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3191</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3191">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3191/3162" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3191" DMDID="DMD_wwu-journals_3191">
+            <mets:fptr FILEID="FILE0_wwu-journals_3191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

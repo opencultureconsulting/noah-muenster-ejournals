@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4227">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Symbiotisch oder sozial</title>
+                        <subTitle>Zur Aktualität einer in Vergessenheit geratenen Unterscheidung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller , Julian</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag untersucht die Geschichte des Begriffs ›Symbiose‹ in der Soziologie. Zwar handelt es sich hierbei weder um einen klassischen Grundbegriff noch um einen vielbeachteten Begriff innerhalb des Faches, und doch sind die wenigen Stellen, an denen er etwa bei Robert E. Park, Edward Gross oder Niklas Luhmann Verwendung gefunden hat, aufschlussreich und in hohem Maße anschlussfähig für gegenwärtige soziologische Debatten. Denn mit ›Symbiose‹ hätte die Soziologie einen Begriff an der Hand, der es nicht nur erlaubt, das Verhältnis der Sphären des Sozialen und des Organischen neu zu justieren und Verschränkungen dieser Sphären in den Blick zu nehmen, sondern auch dabei behilflich sein könnte, das Adjektiv ›sozial‹ auf eine möglichst niedrigschwellige und unemphatische Art neu zu bestimmen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>9</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>260</start>
+                                <end>273</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2020-4227</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4227</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4227">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4227/4305" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4227" DMDID="DMD_wwu-journals_4227">
+            <mets:fptr FILEID="FILE0_wwu-journals_4227"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

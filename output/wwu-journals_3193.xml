@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3193">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Ich bin durch den Dienst Teil meiner Gemeinde“</title>
+                        <subTitle>Ergebnisse einer explorativen Studie zu Selbstverständnis, Motivation, und Religiosität von Ministrant*innen heute</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sajak, Clauß Peter</displayForm>
+                        <namePart type="family">Sajak</namePart>
+                        <namePart type="given">Clauß Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulze Pröbsting, Katharina</displayForm>
+                        <namePart type="family">Schulze Pröbsting</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Über 350.000 Kinder und Jugendliche sind in den deutschen Diözesen als Ministrant*innen tätig. Sie „dienen“ regelmäßig in der Messfeier und sind auch sonst eine wichtige Gruppe kirchlicher Jugendpastoral. Die Zahl der wissenschaftlichen Studien über diese mit der Gemeinde verbundenen Kinder und Jugendlichen ist überschaubar. Eine studentische Forschungsinitiative aus Münster hat sich zum Ziel gesetzt, mehr Erkenntnisse über diese wichtige Gruppe junger Menschen zu gewinnen, um einen Beitrag zu einer religionspädagogisch reflektierten Bildungsarbeit für Ministrant*innen zu leisten. Die Ergebnisse einer ersten explorativen Studie sind ermutigend.
+Over 350,000 children and youngsters are involved in German dioceses as ministrants. They regularly “serve” in Mass and are an important group of church youth pastoral care. There are very few scientific studies on this large number of children and adolescents. A student research initiative from Münster focused on this important group of young people in order to gain knowledge and to reflect on educational work of ministrants. The results of an initial exploratory study are encouraging.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31649</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3193</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3193">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3193/3164" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3193" DMDID="DMD_wwu-journals_3193">
+            <mets:fptr FILEID="FILE0_wwu-journals_3193"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

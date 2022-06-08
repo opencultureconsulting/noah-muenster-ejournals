@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3752">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seelsorge im Kaleidoskop  der Pastoralpsychologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aigner, Maria Elisabeth</displayForm>
+                        <namePart type="family">Aigner</namePart>
+                        <namePart type="given">Maria Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Jenes Fach, das sich in einer sehr spezifischen Art und Weise mit dem „Wie“ der Seelsorge beschäftigt, ist die Pastoralpsychologie. Seit Jahrzehnten prägt sie die pastorale Aus- und Weiterbildungslandschaft und hat sich mittlerweile auch an den Universitäten etabliert. Sie versteht sich als theologische Disziplin, die sich in ihrem hermeneutischen und methodischen Vorgehen interdisziplinär verortet. Pastoralpsychologische Kenntnisse sind für eine professionelle Form von Seelsorge unabdingbar. Angesichts der gegenwärtigen gesamtgesellschaftlichen und kirchlichen Herausforderungen ist es notwendig, dass Seelsorge ihren Blick vor allem auf leidvolle Erfahrungen lenkt. Die Pastoralpsychologie ist dabei gefordert, experimentell zu unterstützen und Problemlösungsstrategien zu entwickeln. Das erfordert Sensibilität und Ambiguitätstoleranz – Grundpfeiler für jegliche Form seelsorglichen Handelns.
+Pastoral psychology deals with the &quot;how&quot; of pastoral care in a very specific way. For decades, it has shaped the pastoral education and training landscape and in the meantime has also established itself at the university level. It now sees itself as a theological discipline that is interdisciplinary both in its hermeneutic and methodological approach. Knowledge of pastoral psychology is indispensable for a professional form of pastoral care. Given the current challenges facing society as a whole and the church specifically, pastoral care must direct its gaze above all toward experiences of suffering. Pastoral psychology is called upon to provide experimental support and to develop problem-solving strategies. This demands sensitivity and a tolerance of ambiguity – cornerstones for any form of pastoral care.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>41</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>81</start>
+                                <end>92</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2021-37999</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3752</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3752">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3752/3799" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3752" DMDID="DMD_wwu-journals_3752">
+            <mets:fptr FILEID="FILE0_wwu-journals_3752"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3998">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kritische (Sexualitäts-)Theorie als post-essentialistische Theorie? Nicht ganz. Leider.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Villa , Paula-Irene</displayForm>
+                        <namePart type="family">Villa</namePart>
+                        <namePart type="given">Paula-Irene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Buch von Volkmar Sigusch spricht all jenen aus der soziologischen Seele, die sich als kritische Aufklärer_innen und Forschung als gesellschaftliche Praxis verstehen. Das heißt einerseits, einer soziologischen Haltung entsprechen, die mit der Doxa (Bourdieu) des Alltags bricht, die also kontraintuitiv beobachtet, fragt und – möglicherweise – erklärt. Andererseits meint kritisch auch, und dies bei Sigusch besonders, eine Wissenschaft zu betreiben, die an der Not und dem ›Elend‹ (eine im Buch immer wieder kehrende Formulierung) der Menschen ansetzt. Eine also auch empirische Wissenschaft, die dem Bedürfnis folgt, »das Unglück zum Sprechen zu bringen« (19). Sigusch nimmt eine solche Haltung ein, explizit und dezidiert. Um dieses jenseits bloßer Betroffenheit, jenseits simpler Tatsachenauflistung und jenseits selbstgerechter Spekulation umsetzen zu können, beharrt Sigusch auf eine an soliden Begriffen ausgerichtete Theorie der Sexualitäten. Dieser Anspruch auf theoretische Substanz ist zugleich Stärke und Schwäche des gesamten Versuchs, der alles andere als zufällig in Fragmenten, d.h., in zum Teil sehr kurzen (Bruch-)Stücken gehalten ist: Sigusch schreibt im Lichte einer inhaltlich sehr ausgeprägten und darum wohl auch in der Form verwirklichten Abneigung gegenüber jeglichen (vermeintlich stimmige und fertige) Ganzheiten.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>135</start>
+                                <end>141</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-3998</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3998</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3998">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/3998/4044" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3998" DMDID="DMD_wwu-journals_3998">
+            <mets:fptr FILEID="FILE0_wwu-journals_3998"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

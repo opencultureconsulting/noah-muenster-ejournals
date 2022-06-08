@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2037">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gottes Gaben für den Aufbau der Kirche. Ungehobene Schätze neutestamentlicher Ekklesiologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Söding, Thomas</displayForm>
+                        <namePart type="family">Söding</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">„Ohne eine historische Situierung, die immer eine Relativierung bedeutet, ist keine theologische Orientierungzu gewinnen.“ Daher wird im folgenden Artikel der Frage nach dem Wert einer Rückbesinnungauf das Neue Testament für eine gegenwärtige Ekklesiologie und Pastoraltheologie nachgegangen.Der Blick auf die konfessionell wie theologisch differierenden Wertungen der Paulustradition solleine problembewusste Lektüre fördern. Dem Modell der Charismenorientierung des Ersten Korintherunddes Römerbriefes wird das Modell der bischöflichen Leitung der Pastoralbriefe gegenübergestellt.Wenn Stärken und Schwächen der Modelle in ihren Kontexten beleuchtet werden, wird klar, dass dasekklesiologische Potenzial des Neuen Testaments in der katholischen Kirche bislang nicht ausgeschöpftworden ist. Die paulinische Charismenlehre hält neue Chancen für die gegenwärtige Ekklesiologiebereit und dient so dem Dialog mit einer sich verändernden Gesellschaft.„Without historical embedding, which always means putting something into perspective, it’s not possibleto gain theological orientation.“ The article investigates the value of returning to the New Testamentfor the current debates in ecclesiology and pastoral theology. The perspective on the differentdenominational and theological reception of the tradition of St. Paul can contribute to a better readingof the texts. The contribution will compare the model of the charismatic orientation of First Corinthiansand of the Letter to the Romans with the model of the episcopal order of the Pastoral Letters. Ifthe strong and weak points of each model are marked it can be seen that the ecclesiological potentialof the New Testament is not yet exhausted in the Catholic Church. The Pauline teachings on thecharisms offers new chances for the current debates in ecclesiology and continues the dialogue with adiversifying society.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19553</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2037</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2037">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2037/1955" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2037" DMDID="DMD_wwu-journals_2037">
+            <mets:fptr FILEID="FILE0_wwu-journals_2037"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

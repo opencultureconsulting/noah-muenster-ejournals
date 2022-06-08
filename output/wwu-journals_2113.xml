@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2113">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gewalt in der Schule – ein „Schrei der Stummen“?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmälzle, Udo Friedrich</displayForm>
+                        <namePart type="family">Schmälzle</namePart>
+                        <namePart type="given">Udo Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag erinnert an Lehrer und Lehrerinnen, Schülerinnen und Schüler, die bei den Amokläufen an Schulen in den vergangenen 15 Jahren ihr Leben verloren haben, und sucht eine Antwort auf die Frage, die Bertrand Russell am zehnten Jahrestag zum Aufstand im Warschauer Ghetto allen Wissenschaftlerinnen und Wissenschaftlern ins Stammbuch geschrieben hat: „Was macht die Menschen zu dem, was sie sind?“. Dabei rückt der Autor bei der Suche nach einer Antwort Familie und Schule als die zentralen Sozialisationsagenturen in den Mittelpunkt. Auf der Grundlage vorliegender Forschungsberichte sucht er Alternativen zur gegebenen „Kultur der Gewinner“.The essay commemorates the teachers and students who lost their lives in the school shootings of the past 15 years. It also tries to find an answer to the question that Bertrand Russell posed to all of academia on the occasion of the 10th commemoration day of the Warsaw Ghetto revolt: „What turns the human being into what he/she is?“ Searching for an answer, the author declares the school and the family to be the centers of socialization and puts them into the focus of his investigation. On the basis of available research reports, he looks for alternatives to the contemporary „culture of winners“.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>49</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-17196</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2113</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2113">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2113/2027" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2113" DMDID="DMD_wwu-journals_2113">
+            <mets:fptr FILEID="FILE0_wwu-journals_2113"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

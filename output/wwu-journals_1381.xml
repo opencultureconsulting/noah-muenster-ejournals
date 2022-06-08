@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1381">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Liquid church als Ereignis-Ekklesiologie. Über Verflüssigungsprozesse in Leben, Lehre und Kirche</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schüßler, Michael</displayForm>
+                        <namePart type="family">Schüßler</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Liquid church – diese Metapher ist der Versuch, Kirche in einer verflüssigten Gegenwart neuzu beschreiben. Zunächst wird die Herkunft dieser Begrifflichkeit von Zygmunt Baumans‚Liquid Modernity‘ über Pete Wards britischer und Kees de Groots niederländischer Adaptionin die Praktische Theologie bis zu Rainer Buchers Arbeiten rekonstruiert. Diese Diskurspositionenfluider Kirchenbildung zeigen, was man mit der Verflüssigungsdiagnose auf welcheWeise in den Blick bekommt und wo die Probleme liegen. Entscheidend scheint, dass unterden sozio-kulturellen Verflüssigungsphänomenen eine Veränderung unserer Zeithorizontevon linearer Stabilität zu ereignisbasierter Drift liegt. Das verändert auch das, was sich anpastoralen Orten wirklich ereignet, wie die Lebenswendefeier in Ostdeutschland und sozialräumlichePastoralprojekte sichtbar machen. Am Mündungsdelta der Liquid church warteteine Ereignis-Ekklesiologie, die den befreienden Ereignissen des Evangeliums zu trauenbeginnt, egal wo sie sich ereignen.„Liquid church“: This metaphor is one attempt to describe the church in the new circumstancesof what some describe as fluid reality. This article reconstructs the origin of the term „liquidchurch“ beginning with Zygmunt Baumann’s term „liquid modernity“ moving to the contributionsof Pete Ward, Kees de Groot and Rainer Bucher. These positions show in what waysthe church today can be benefitted by the concept of „liquid church“, and which questionscannot be answered by it. „Liquid“ first and foremost describes a basic shift in the temporalstructure from linear stability to a drift from event to event. This also changes what occurs atthe locations where church takes place such as during the „Lebenswendefeier“ in the Easternpart of Germany or in the projects of „Sozialraumorientierung“. When the river of „LiquidChurch“ goes to sea, an „Ecclesiology of Event“ is waiting that trusts the Gospel no matterwhere it shows itself.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>25</start>
+                                <end>43</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13000</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1381</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1381">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1381/1300" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1381" DMDID="DMD_wwu-journals_1381">
+            <mets:fptr FILEID="FILE0_wwu-journals_1381"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

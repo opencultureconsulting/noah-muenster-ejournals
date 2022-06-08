@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_30">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom unbändigen Kapitalismus zur zivilisierten Marktwirtschaft – ein wirtschaftsethischer Orientierungsversuch</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ulrich, Peter</displayForm>
+                        <namePart type="family">Ulrich</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die aktuelle Finanz- und Wirtschaftskrise lässt sich als symptomatisches Extremereignis verstehen, mit dem eine tief verwurzelte normative Orientierungskrise aufbricht. Sie beruht im Kern auf der ideologisch und institutionell allzu weit getriebenen Verselbständigung und Verabsolutierung des „Denkens in Geld- und Einkommensströmen“ gegenüber lebenspraktischen Orientierungsgesichtspunkten. In Frage gestellt ist nicht das marktwirtschaftliche Grundsystem, sondern ein entfesselter und rücksichtsloser Finanzkapitalismus. Falls diese Deutung zutrifft, ist eine nachhaltige Lösung der Krise nicht allein mit herkömmlichen wirtschaftspolitischen Rezepten möglich, sondern nur im Verbund mit neuen gesellschaftspolitischen Ansätzen unter einem zukunftsfähigen zivilisatorischen Fortschrittshorizont, der noch der nachholenden Aufklärung bedarf. Was epochal ansteht und derzeit fehlt, ist aus dieser Perspektive weniger mangelndes finanztechnisches Knowhow zur Steuerung des marktwirtschaftlichen Systems als vielmehr eine umfassende und klare politisch-ökonomische Neuorientierung. Als mögliche Orientierungsidee könnte das Leitbild einer voll entfalteten Bürgergesellschaft und einer in sie eingebetteten, im buchstäblichen Sinn zivilisierten Marktwirtschaft dienen. Skizzenhaft erprobt wird dieser Leitgedanke am aktuellen ordnungspolitischen Brennpunkt einer neuen Finanzmarktverfassung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>119</start>
+                                <end>137</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2010-262</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_30</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_30">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/30/26" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_30" DMDID="DMD_wwu-journals_30">
+            <mets:fptr FILEID="FILE0_wwu-journals_30"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

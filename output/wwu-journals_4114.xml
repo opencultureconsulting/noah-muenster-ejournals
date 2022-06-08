@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4114">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Entgiftung der Religionssoziologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kauppert, Michael</displayForm>
+                        <namePart type="family">Kauppert</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tyrell, Hartmann</displayForm>
+                        <namePart type="family">Tyrell</namePart>
+                        <namePart type="given">Hartmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Ausgangsgedanke des vorliegenden Buches ist rasch wiedergegeben: Das Schicksal der Religion in der Moderne ist weder festgelegt auf deren öffentliches Verschwinden (Säkularisierung), noch auf dessen Gegenteil, die private Kontinuierung (Individualisierung). Und es ist auch nicht gewiss, wohin die Pluralisierung religiöser Heilsangebote in der Gesellschaft führt. Anders als einschlägige religionssoziologische Beschreibungen kennen die Autoren des vorliegenden Buches die Antwort auf die Frage, wohin es die Religion in der Moderne treibt, grundsätzlich nicht. So einfach dieser Gedanke auch ist, so führt er bei Detlef Pollack und Gergely Rosta zu einer Reihe von Konsequenzen, deren Umsetzung im Buch zu beobachten die große Faszination von dessen Lektüre ausmacht. Er verlangt zunächst die Rückführung religionssoziologischer Theorien auf den Status von Hypothesen. Nicht weil sich ›Säkularisierung‹, ›Individualisierung‹ und ›Pluralisierung‹ bereits als religionssoziologische Theorien einander widersprechen, sehen Pollack und Rosta darin keine gültigen Beschreibungen von Religion in der Moderne. ›Säkularisierung‹, ›Individualisierung‹ und ›Pluralisierung‹ fassen die Autoren vielmehr als Abbreviaturen theoretischer Wetten auf die empirische Wirklichkeit von Religion in der Gesellschaft auf. Sie übersetzen damit die Frage nach dem (zeitlichen) Schicksal der Religion in der Moderne in das Problem des adäquaten Verhältnisses von religionssoziologischer Theorie und Empirie. Beides ist offen, wenn auch in unterschiedlichen Dimensionen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>238</start>
+                                <end>251</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4114</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4114</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4114">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4114/4186" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4114" DMDID="DMD_wwu-journals_4114">
+            <mets:fptr FILEID="FILE0_wwu-journals_4114"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

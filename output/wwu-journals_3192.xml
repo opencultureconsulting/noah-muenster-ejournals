@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3192">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Die Wirklichkeit ist wichtiger als die Idee“ (EG 231)</title>
+                        <subTitle>Beispiele einer partizipativen Kirche und ihre ekklesiologische Relevanz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fornet-Ponse, Thomas</displayForm>
+                        <namePart type="family">Fornet-Ponse</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In diesem Beitrag werden hinsichtlich der Frage nach der Macht der Amtsträger und der Partizipation von Laien und Laiinnen an Entscheidungen in der Kirche mögliche Beeinflussungen der Lehre durch die pastorale Praxis in den Blick genommen. Hierzu wird auf die Verhältnisbestimmung von Pastoral und Lehre durch das II. Vatikanum sowie die dort grundgelegte ekklesiologische Grundperspektive einer partizipativen Kirche und ihre offenbarungstheologische Grundlage eingegangen. Anschließend werden mit Basisgemeinden und Kleinen Christlichen Gemeinschaften weltkirchliche Beispiele vorgestellt, in denen eine solche Beteiligung praktiziert wird. Schließlich werden deren Implikationen für ein vertieftes Amtsverständnis und die Praxis von Leitung und Ämtern erörtert.
+This article deals with the possible influence of pastoral practice on doctrine by focusing on the question of the power of ministers and the participation of laypeople in church decisions. To this end, it begins by discussing the relationship between pastoral and doctrine as defined by Vatican II and the basic ecclesiological perspective of a participatory church and its theological foundation in the theology of revelation. Basic communities and so-called Small Christian Communities function as worldchurch examples where such participation is practiced. Finally, I discuss the implications for a deeper understanding of ministry and the practice of leadership and ministries.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>40</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2020-31630</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3192</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3192">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/3192/3163" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3192" DMDID="DMD_wwu-journals_3192">
+            <mets:fptr FILEID="FILE0_wwu-journals_3192"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

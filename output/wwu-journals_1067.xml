@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1067">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Demokratie und Christliche Sozialethik. Demokratie als Thema  der deutschsprachigen katholischen Sozialethik  nach 1945 – ein Literaturüberblick</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riedl, Anna Maria</displayForm>
+                        <namePart type="family">Riedl</namePart>
+                        <namePart type="given">Anna Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Filipovic, Alexander</displayForm>
+                        <namePart type="family">Filipovic</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Literaturbericht verfolgt das Ziel, einen kritischen Überblick über Texte aus dem Bereich der katholischen Christlichen Sozialethik zum Thema Demokratie zu geben. Eingegrenzt wird das Material durch die Entscheidung, nur die Texte von Fachvertretern zur Sprache kommen zu lassen, die sich in engem Sinne explizit mit der Demokratie befassen. Startpunkt ist im zweiten Kapitel die Suche der katholischen Kirche nach einem neuen Verhältnis zur Demokratie in der Nachkriegszeit. Im dritten Kapitel werden die christlich-sozialethischen Beiträge bis Mitte der 1960er Jahre behandelt, also bis zu den sozialen Umbrüchen der späten 60er Jahre und bis zu den unmittelbaren Impulsen des II. Vatikanums. Eine weitere Zäsur kann dann mit dem Zerfall des Ostblocks und dem Fall der Berliner Mauer ab Mitte bzw. Ende der 1980er Jahre gesetzt werden (viertes Kapitel). Im abschließenden Ausblick kommt der Text zu dem Ergebnis, dass es an einer expliziten ethisch-theoretischen Auseinandersetzung mit der Demokratie in der Christlichen Sozialethik mangelt.AbstractThis literature review aims at giving a critical overview of writings on democracy from the field of Catholic Social Ethics. Our choice has been narrowed down to include only exponents who address the question of democracy explicitly and in the narrower sense of the term. The starting point, in chapter two, is the Catholic Church’s quest for a new relationship with democracy after the Second World War. The third chapter discusses Christian social-ethical contributions up to the mid-1960s, i. e., up to the social upheavals of the late 1960s and the consequences of Vaticanum II. The collapse of the Eastern Bloc and the fall of the Berlin Wall mark another turning point around the middle or the end of the 1980s (chapter four). The outlook at the end concludes that Christian Social Ethics has so far failed to engage in an explicit ethical-theoretical debate on democracy.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20131202103</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1067</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1067">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1067/1023" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1067" DMDID="DMD_wwu-journals_1067">
+            <mets:fptr FILEID="FILE0_wwu-journals_1067"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

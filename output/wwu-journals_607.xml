@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_607">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Effizient und gerecht? Alan Gewirths Community of Rights und das Konzept der Politischen Wirtschaftsethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reichert, Wolf-Gero</displayForm>
+                        <namePart type="family">Reichert</namePart>
+                        <namePart type="given">Wolf-Gero</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag diskutiert drei wirtschaftsethische Ansätze, die im deutschsprachigen Diskurs von hoher Relevanz sind: Peter Koslowskis Ethische Ökonomie, Peter Ulrichs und Ulrich Thielemanns Integrative Wirtschaftsethik sowie die Politische Wirtschaftsethik. Wirtschaftsethik wird dabei der anwendungsbezogenen Ethik zugerechnet, was gewichtige Weichen für die Verhältnisbestimmung von ökonomischer Theorie und ethischer Reflexion stellt. Auf die Problemlagen, die in Auseinandersetzung mit den Bedingungen anwendungsbezogener Ethik sowie mit den diskutierten wirtschaftsethischen Ansätzen herausgearbeitet werden, wird schließlich mit der Ethiktheorie von Alan Gewirth eine überzeugende Antwort vorgestellt.AbstractThe paper discusses three approaches of business ethics which are highly relevant in the German discourse: Peter Koslowski’s Ethical Economy, Peter Ulrich’s and Ulrich Thielemann’s Integrative Business Ethics and the approach of Political Business Ethics. Business ethics is here assigned to the field of applied ethics, which provides important preliminary findings for the attempt to define the relationship between economic theory and ethical reflection. Against this backdrop it is argued that business ethics has to be spelled out in terms of Political Business Ethics. Finally, Alan Gewirth’s ethical theory gives a convincing answer to the discussed challenges.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-20131202121</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_607</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_607">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/607/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_607" DMDID="DMD_wwu-journals_607">
+            <mets:fptr FILEID="FILE0_wwu-journals_607"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

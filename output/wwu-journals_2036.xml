@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2036">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kirche anders</title>
+                        <subTitle>Gnadentheologische Relativierung der Kirche</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fuchs, Ottmar</displayForm>
+                        <namePart type="family">Fuchs</namePart>
+                        <namePart type="given">Ottmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Was die Kirche mit Gnade zu tun hat bzw. die Gnade mit der Kirche, erschließt sich einsichtigerweiseinsbesondere in ihrer Sakramentalität. Denn die Sakramente gelten als die vorzüglichen Orte der Erfahrungvon Gnade und auch die Kirche versteht sich als Grundsakrament in Analogie zum Ursakramentder Inkarnation, zu Jesus Christus. Sie ist Zeichen und Werkzeug und damit Sakrament der inChristus erschienen Liebe Gottes (LG 1). Je mehr sich die Kirchen in ihren Gestalten und Menschen fürdiese Gegebenheit der Gnade öffnen, desto mehr kann sie anders, ja ganz anders werden, nicht nur ineinem bestimmten Kontrast zu gesellschaftlichen und persönlichen Verhältnissen, sondern auch zuihren eigenen bisherigen Vollzugsformen und pastoralen Praktiken.The question what the church has to do with grace or grace with the church can be reasonably answeredwhen one looks at the sacramental nature of the church because the sacraments are consideredto be the most exquisite places of experiencing grace and because the church sees itself as thebasic sacrament in analogy to the sacrament of the incarnation in Jesus Christ. The church is the signand instrument and thus the sacrament of God&apos;s love manifested in Christ (LG 1). The more thechurches open themselves in their social shapes and through the believers to this reality of grace, themore they may become different, entirely different, not only in a certain contrast to societal and personalcircumstances but also to their previous forms of pastoral practices.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>36</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>37</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2016-19543</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2036</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2036">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2036/1954" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2036" DMDID="DMD_wwu-journals_2036">
+            <mets:fptr FILEID="FILE0_wwu-journals_2036"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

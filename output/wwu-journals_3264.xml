@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3264">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurotrauma</title>
+                        <subTitle>2021 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perl, Daniel P.</displayForm>
+                        <namePart type="family">Perl</namePart>
+                        <namePart type="given">Daniel P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Despite the interruptions and restrictions to the progress of science that the COVID-19 pandemic has introduced, 2020 was marked by a number of important advances in the field of neurotrauma. Here, I will highlight what I believe are among the most important contributions. This year there were notable advances towards providing clinically useful information on neurotrauma outcome through the use of fluid biomarkers. I also introduce fascinating approaches to studying the role of microglia in nervous system repair and neuroinflammatory mechanisms leading to dysfunction through the use of colony-stimulating factor 1 receptor inhibitors, especially Plexxikon 5622 (PLX5622). Oral administration of this compound is able to deplete microglial elements and then, following withdrawal from the drug, a new population of microglia then repopulates the brain. Use of this approach in traumatic brain injury experimental models has produced important insights into the pathogenetic role of microglia in responding to this process. Important new data on the nature and distribution of tau involvement of neurons and astrocytes in cases of chronic traumatic encephalopathy (CTE) also appeared suggesting differences and similarities to Alzheimer’s disease. Additionally, the use of tau-specific PET scan ligands in at-risk populations has suggested that this approach may be able to identify cases with CTE. Lastly, we note the death in the past year of a major contributor to the field of neurotrauma neuropathology, Professor J. Hume Adams.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2021-32301</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2021-3264</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3264</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3264">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3264/3231" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3264">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3264/3230" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3264" DMDID="DMD_wwu-journals_3264">
+            <mets:fptr FILEID="FILE0_wwu-journals_3264"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3264" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3264"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2977">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Postcolonial Studies, Religion und Postsäkularität. (Miss-)Verständnisse von Identitätspolitik und ihre Folgen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Auga, Ulrike E.</displayForm>
+                        <namePart type="family">Auga</namePart>
+                        <namePart type="given">Ulrike E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">29</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Zunächst werden die Entstehung postkolonialer Kritik und ihre Basis früher antikolonialer Widerstände (Fanon) zeitlich, geografisch und disziplinär verortet. Saids Orientalismus- Kritik der westlichen Wissenschaft wird als Wende in der Kolonialismusanalyse aufgefasst. Hybridität, Mimikry, Differenz und Ambivalenz bei Bhaba sind Konzepte gegen Neonationalismen. Spivak fragt nach der Repräsentation der Subalternen, elaboriert epistemische Gewalt, Essentialisierung, ‚Othering‘ und verbleibt in Säkularismus. Mbembe prägt wesentlich den Begriff Postkolonialismus und erarbeitet aus der Biopolitik die Nekropolitik. Dekoloniale Theorien beziehen sich geografisch auf ‚Lateinamerika‘ und zeigen die Folgen der Kolonisierung seit dem 15. Jahrhundert bis in die Gegenwart (Quijano, Dussel, Mignolo). Die Ablehnung dekonstruktivistischer Zugänge in dekolonialen Ansätzen wird im Vergleich zu postkolonialen kritisiert. Insbesondere wird der Frage der Religion innerhalb postkolonialer Debatten nachgegangen. Damit verbunden ist das Ende der traditionellen Säkularisierungsthese (Casanova). Postkolonial erarbeitet Asad die Existenz verschiedener Säkularismen und kritisiert Neo-Orientalismus. Mahmood zeigte Subjektformation, Handlungsmacht und menschliches Blühen im Kontext von Religion. In meiner Arbeit, die epistemologisch vorgeht, verstehe ich Religion und Säkularität sowie Geschlecht als intersektionale, diskursive und performative Kategorien der Wissensproduktion. Subjektive deessentialisierte religiöse Erfahrungen und Perspektiven können als Beitrag zum radikalen sozialen Imaginären und zur Instituierung einer solidarischen Gesellschaft konzeptualisiert werden. Ein Sonderproblem der gegenwärtigen Forschung bleibt das Identitätskonzept.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>85</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30840</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2977</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2977</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2977">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2977/3084" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2977" DMDID="DMD_wwu-journals_2977">
+            <mets:fptr FILEID="FILE0_wwu-journals_2977"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2612">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Top ten discoveries of the year</title>
+                        <subTitle>Neuroinflammation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lassmann, Hans</displayForm>
+                        <namePart type="family">Lassmann</namePart>
+                        <namePart type="given">Hans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Ten neuropathological studies, published in 2019, are discussed, which address important aspects of neuroimmunology and inflammatory brain disease. They include topics related to new mechanisms of inflammation and immune mediated neurodegeneration, which are relevant for multiple sclerosis (publications 1 to 4) and discuss the role of specific autoantibodies against myelin oligodendrocyte glycoprotein or aquaporin 4 in neuromyelitis optica spectrum disorders (publications 5 and 6). Other studies highlight the discovery of new virus induced diseases of the nervous system and their relevance for clinical neurology and diagnostic neuropathology (publications 7 and 8). Finally, very interesting studies are discussed dealing with microglia and immune mechanisms in neurodegeneration (publication 9) and the neuropathological long-term outcome of Aß vaccination in Alzheimer’s disease (publication 10). All these studies highlight the central role of neuropathology in neurological disease research.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2020-24927</identifier>
+                    <identifier type="doi">10.17879/fnp-2020-2612</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2612</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2612">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2612/2492" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2612">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2612/2483" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2612" DMDID="DMD_wwu-journals_2612">
+            <mets:fptr FILEID="FILE0_wwu-journals_2612"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_2612" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_2612"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

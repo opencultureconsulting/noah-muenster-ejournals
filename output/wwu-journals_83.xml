@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_83">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gesundheit – Gerechtigkeit – christliche Identität. Begründung und Gestalt der gesundheitlichen Versorgung aus der Perspektive einer theologischen Ethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zimmermann-Acklin, Markus</displayForm>
+                        <namePart type="family">Zimmermann-Acklin</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Was hat eine theologische Ethik zu Begründung und Ausgestaltung einer solidarisch finanzierten Gesundheitsversorgung beizutragen? Philosophische Begründungskonzepte stützen sich in der Regel auf die neuzeitliche Menschenrechts- bzw. Grundrechtstradition und auf ein daraus abgeleitetes Recht auf Gesundheit. Auch in theologisch-ethischen Begründungen wird auf Menschen- und Grundrechtsüberlegungen Bezug genommen, dagegen kaum theologisch argumentiert (Teil 1). Im Sinne einer Genealogie der Moral werden mit der Heiligkeit der menschlichen Person, der Relationalität des Menschen und der christlichen Heilszusage theologische Elemente der christlichen Tradition aufgegriffen. Diese lassen sich auf die drei Grundprinzipien Personalität, Solidarität und Subsidiarität beziehen und begründen die Sorge um Kranke und Pflegebedürftige, die sich nicht zufällig wie ein roter Faden durch die Kirchengeschichte hindurch zieht (Teil 2). Überlegungen zur Ausgestaltung orientieren sich an bestehenden Handlungsmöglichkeiten innerhalb eines solidarisch strukturierten Systems und formulieren anhand des Rationierungsbegriffs zukünftige Herausforderungen (Teil 3). Mit der solidarischen Gesundheitsversorgung geht es aus christlicher Sicht nicht nur um Verteilungsgerechtigkeit, sondern gleichzeitig um die christliche Identität.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>47</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>128</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2006-778</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_83</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_83">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/83/77" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_83" DMDID="DMD_wwu-journals_83">
+            <mets:fptr FILEID="FILE0_wwu-journals_83"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

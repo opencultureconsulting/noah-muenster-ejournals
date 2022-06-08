@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1766">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bedingungen einer guten Pflege. Aktuelle Entwicklungen in der Akademisierung der Pflege und in der Pflegepraxis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dallmann, Hans-Ulrich</displayForm>
+                        <namePart type="family">Dallmann</namePart>
+                        <namePart type="given">Hans-Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schiff, Andrea</displayForm>
+                        <namePart type="family">Schiff</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag diskutiert aktuelle Entwicklungen in der deutschen Pflegewissenschaft und -praxis, insbesondere die Professionalisierung und Akademisierung der Pflege. Während früher zur Abgrenzung von der Medizin der Begriff Ganzheitlichkeit verwendet wurde, schärft aktuell die Pflege ihr eigenständiges wissenschaftliches Profil. In der Praxis hat das Auswirkungen durch die Einführung z. B. pflegerischer Diagnostik und Standards. Davon ausgehend erörtert der Text anhand der Unterscheidung von zweckrationalem und kommunikativem Handeln (J. Habermas) sowie zwischen den Prinzipien der Fürsorge und der Autonomie Auswirkungen auf das pflegerische Handeln. In diesem Zusammenhang werden Kriterien für die Legitimation paternalistischen Handelns vorgestellt.AbstractThis contribution discusses recent developments in German nursing science and practice, especially with regard to the processes of professionalization and academization of nursing care. While formerly nursing set itself off from medicine by the idea of a holistic approach, it is now engaged in a process of developing its scientific profile. The effects for nursing practice are for example the implementation of nursing diagnostics and nursing standards. In this context, this article discusses further consequences for nursing practice on the grounds of the distinction between functional and communicative action introduced by J. Habermas, and the ethical distinction between autonomy and caring. On the basis of this discussion, the text introduces criteria for the legitimacy of paternalistic action.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16999</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1766</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1766">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1766/1699" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1766" DMDID="DMD_wwu-journals_1766">
+            <mets:fptr FILEID="FILE0_wwu-journals_1766"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

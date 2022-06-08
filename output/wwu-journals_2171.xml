@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2171">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Slowenien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stuhec, Ivan</displayForm>
+                        <namePart type="family">Stuhec</namePart>
+                        <namePart type="given">Ivan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungIn Slowenien ist der christlich-soziale Gedanke seit dem Ende des neunzehnten Jahrhunderts bis heute mit sehr unterschiedlicher Intensität präsent. Hinsichtlich der 45-jährigen Herrschaft des kommunistischen totalitären Systems, das den christlich sozialen Gedanken aus der Öffentlichkeit verdrängte, kam es nach den Gesellschaftsveränderungen im Jahr 1990 zu einer Wiederbelebung in Theorie und Praxis. In den letzten fünfundzwanzig Jahren schwankt seine Präsenz im öffentlichen und akademischen Leben. Sowohl materielle Voraussetzungen als auch personelle Bedingungen für sozialethische Forschung und die Verbreitung der Sozialethik in der gesellschaftlichen Praxis sind nicht günstig. Die slowenische Gesellschaft braucht jedoch sozialethische Reflexion sowohl in Hinsicht auf ihre Vergangenheit als auch hinsichtlich der gegenwärtigen gesellschaftlichen Herausforderungen im eigenen Land, in Europa und in der globalen Welt.IntroductionChristian Social Thought has been present in Slovenia from the end of the 19th century until today with differing intensity. While Christian Social Thought was excluded from the public sphere during the 45 year dominion of the totalitarian communist system, it was revitalised after the system change in 1990 in theory and practice. Its public and academic presence swayed during the last 25 years. Material as well as personal resources are not convenient to intensify social ethical research and spread Christian social ethics in social practice. Nonetheless, there is a need for social ethical reflection in Slovenian society concerning past and present social challenges in Slovenia, Europe and around the globe.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>289</start>
+                                <end>302</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20831</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2171</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2171">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2171/2083" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2171" DMDID="DMD_wwu-journals_2171">
+            <mets:fptr FILEID="FILE0_wwu-journals_2171"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

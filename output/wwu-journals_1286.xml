@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1286">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Freiheitsrechte in der katholischen Kirche. Aporien und Desiderate</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Loretan, Adrian</displayForm>
+                        <namePart type="family">Loretan</namePart>
+                        <namePart type="given">Adrian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDer Beitrag setzt sich mit der Entstehung, Wirkungsgeschichte und Verwirklichung der Freiheitsrechte innerhalb und außerhalb der Kirche auseinander. Ausgehend von der Entwicklung der Menschenrechte als Freiheitsrechte und ihrer Bedeutung für die Entstehung säkularer Rechtsstaaten sowie der Allgemeinen Erklärung der Menschenrechte 1948 wird die Situation der Menschenrechte in der Kirche in den Blick genommen. Dabei spielen das Zweite Vatikanische Konzil, die Enzyklika Pacem in terris und die Reform des CIC eine wichtige Rolle. Letztgenannte wird in der Gegenüberstellung von Rechtstheologie und Rechtsphilosophie kritisch diskutiert und unter den Gesichtspunkten der Opferperspektive und von Forschungsdesideraten beleuchtet.AbstractThis contribution discusses the genesis, the reception history, and the actualisation of freedom rights within and outside the Church. Starting from the evolution of human rights as freedom rights and their significance for the emergence of states under secular law leading to the Universal Declaration of Human Rights in 1948, the situation of human rights in the Church is examined. The most important documents in this context are Vaticanum II, the encyclical Pacem in terris, and the reform of the CIC. The latter is critically discussed by comparing theological and philosophical views on law and looked into from the perspectives of victims and research desiderata.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>55</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2014-12255</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1286</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1286">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1286/1225" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1286" DMDID="DMD_wwu-journals_1286">
+            <mets:fptr FILEID="FILE0_wwu-journals_1286"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

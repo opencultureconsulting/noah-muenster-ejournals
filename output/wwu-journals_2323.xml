@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2323">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Friedensethik im 21. Jahrhundert – ein Bericht zur deutschsprachigen Literatur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frühbauer, Johannes</displayForm>
+                        <namePart type="family">Frühbauer</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Friedensethik, die auf dem Weg von einer wissenschaftlich-akademischen Randstellung ins Zentrum der Sozialethik und politischen Ethik befinden dürfte, bedarf stets der Verständigung über ihre Zielsetzung und ihre Aufgaben. Dies umfasst auch eine Klärung des Friedensbegriffs. Dominiert wird die gegenwärtige Friedensethik vom Diskurs um den gerechten Frieden, an dessen Begrifflichkeit und Aspekte sich weitere Diskurse wie die friedensethischen Bedeutungen und Implikationen von Herrschaft und Macht, von Gewalt oder von Recht anknüpfen lassen. Zu fragen ist auch nach dem Stellenwert und Output der Theologie für friedensethische Reflexionen, Orientierungen und Erörterungen.</abstract>
+                    <abstract lang="eng">Peace Ethics is on the way from its former marginal position in social and political ethics to a center position. A permanent process of clarifying its self-conception and task is indispensable. Currently very dominant within peace ethics is the discourse on the Just Peace paradigm. Further discourses, like the request for the peace-ethical importance and implications of regime and power as well as of violence and law, have attached themselves to this task. Furthermore, we need to inquire as to the standing and output of theology for peace-ethical reflections, orientations and debates.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>59</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>225</start>
+                                <end>252</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2018-22158</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2323</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2323">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2323/Fr%C3%BChbauer" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2323" DMDID="DMD_wwu-journals_2323">
+            <mets:fptr FILEID="FILE0_wwu-journals_2323"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

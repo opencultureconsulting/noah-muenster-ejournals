@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurodevelopmental disorders</title>
+                        <subTitle>2022 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sabariego-Navarro, Miguel</displayForm>
+                        <namePart type="family">Sabariego-Navarro</namePart>
+                        <namePart type="given">Miguel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fernández-Blanco, Alvaro</displayForm>
+                        <namePart type="family">Fernández-Blanco</namePart>
+                        <namePart type="given">Alvaro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sierra, César</displayForm>
+                        <namePart type="family">Sierra</namePart>
+                        <namePart type="given">César</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dierssen, Mara</displayForm>
+                        <namePart type="family">Dierssen</namePart>
+                        <namePart type="given">Mara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">With a prevalence of 2-4% of the worldwide population, neurodevelopmental disorders (NDDs) comprise a heterogeneous group of disorders associated with neurodevelopmental dysfunction, including intellectual disability (ID), autism spectrum disorder (ASD), Down syndrome (DS) and attention-deficit/hyperactivity disorder (ADHD) among others. Last year, important steps in the mechanistic understanding of several NDDs have been achieved. New preclinical models demonstrated causality between PAK3 mutations and disorders associated with social deficiencies. ARID1B mutations have been linked to neuroectoderm specification in Coffin-Siris syndrome and DNA damage was established as an important pathologic mechanism in Aicardi- Goutières syndrome. Moreover, alterations in basic molecular processes including translation and histone acetylation have been established as major traits in the pathology of X-linked ID and Rett syndrome, revealing new pathogenetic mechanisms. Advances in bioinformatics have begun to shed light on the human repeatome, a largely unexplored part of our genome, and how alterations in these sequences have a central role in ASD. The role of mitochondria in neuropathology also advanced last year with the discovery of previously unknown vesicles derived from mitochondria, mitovesicles, with a putative role in ASD, DS and Alzheimer disease. An interesting discovery in the field is that during postnatal brain development, changes in genome architecture and transcriptional dynamics progress independently of sensory experience, a finding that will definitely impact the research in NDDs in the near future. Finally, our neurocentric views of NDDs is changing as new players such as astrocytes are revealed to be crucial in neuropathology. The role of astrocytes has started to be clarified for some pathologies such as ASD and DS, linking well-known genetic mutations to impaired astrocyte function.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-39123</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3801</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3801</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3801">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3801/3912" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3801">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3801/3913" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3801" DMDID="DMD_wwu-journals_3801">
+            <mets:fptr FILEID="FILE0_wwu-journals_3801"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3801" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3801"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

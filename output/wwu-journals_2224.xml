@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2224">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Christliche Migrationsgemeinden - aus der Marginalität zur postmigrantischen Normalität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bünker, Arnd</displayForm>
+                        <namePart type="family">Bünker</namePart>
+                        <namePart type="given">Arnd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag verknüpft die Diversitätsfrage der Kirchen mit ihren Herausforderungen durch Migration, die aktuell zu einer kulturellen, sprachlichen und spirituellen Diversifizierung der christlichen und kirchlichen Landschaft in Mitteleuropa beiträgt. Ausgehend von den Untersuchungsergebnissen einer Studie des Schweizerischen Pastoralsoziologischen Instituts (SPI) über 370 christliche Migrationsgemeinden in der Schweiz werden die sehr unterschiedlichen Selbstverständnisse und Positionierungen dieser christlichen Migrationsgemeinden typisiert. Dabei werden grundsätzliche Handlungslogiken dieser Gemeinden innerhalb der Schweiz sichtbar gemacht, was eine Typisierung jenseits essenzialistischer Zuschreibungen nach Konfession, Sprache oder Herkunftskontext umgeht und eine Einordnung der Beschreibungen heutiger Migrationsgemeinden in den Verständnisrahmen einer postmigrantischen Kirche und Gesellschaft erlaubt.The article links the question of diversity of the Church with the challenge of migration, which currently contributes to a cultural, linguistic and spiritual diversification of the Christian and ecclesial landscape in Central Europe. Based on results of a study on 370 Christian migrant communities in Switzerland, the different types of self-understanding and positioning of these Christian migrant communities in Swiss society are standardised. The study identifies different logics of behaviour, which bypass a characterisation beyond essentialist descriptions of denomination, language or context of origin of Christian migrant communities. This non-essentialist description of different types of migrant communities allows the interpretation of the research results within the theoretical framework of a “postmigrant” Church and society.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>37</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>143</start>
+                                <end>157</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2017-21268</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2224</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2224">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/2224/2126" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2224" DMDID="DMD_wwu-journals_2224">
+            <mets:fptr FILEID="FILE0_wwu-journals_2224"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

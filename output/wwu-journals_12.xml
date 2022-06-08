@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_12">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religionsfreiheit und Toleranz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spiess, Christian</displayForm>
+                        <namePart type="family">Spiess</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Fragen gelingenden gesellschaftlichen Zusammenlebens von Individuen und Kollektiven mit unterschiedlichen religiösen Überzeugungen und Lebensgewohnheiten werden heute in der Regel sowohl mit Bezügen zum allgemeinen Grundrecht auf Religionsfreiheit als auch mit Bezügen zum Begriff der Toleranz diskutiert. Während in der Vergangenheit Religionsfreiheit und Toleranz häufig als Gegensatzpaar verstanden wurden, wird heute meist ein positiver Zusammenhang zwischen den beiden Begriffen hergestellt. Auch im vorliegenden Beitrag werden Religionsfreiheit und Toleranz zunächst vor dem Hintergrund der aktuellen politisch-philosophischen Debatte definiert und differenziert, um sie dann positiv aufeinander beziehen zu können. Religionsfreiheit bildet dabei den unbedingten normativen Rahmen, während Toleranz als das innerhalb dieses Rahmens der Religionsfreiheit orientierende Sozialprinzip gefasst wird (und damit in einer gewissen Analogie zum sozialethischen Prinzip der Solidarität gesehen wird). Die Einbeziehung des Toleranzbegriffs erscheint notwendig, um der zunehmenden Bedeutung von Fragen des Zusammenlebens von Menschen und Gruppen mit unterschiedlichen religiösen und kulturellen Überzeugungen und Praktiken gerecht werden zu können und um den Gesichtspunkt religiöser und kultureller Differenz im Rahmen der sozialethischen Systematik angemessen berücksichtigen zu können. Es ist nämlich die Toleranz, so die abschließende These im Anschluss an Jürgen Habermas, die eine pluralistische Gesellschaft davor bewahrt, als politisches Gemeinwesen durch weltanschauliche Konflikte zerrissen zu werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>50</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>226</start>
+                                <end>248</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2009-112</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_12</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_12">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/12/11" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_12" DMDID="DMD_wwu-journals_12">
+            <mets:fptr FILEID="FILE0_wwu-journals_12"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

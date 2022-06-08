@@ -1,0 +1,208 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3766">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soluble brain homogenates from diverse human and mouse sources preferentially seed diffuse Aβ plaque pathology when injected into newborn mouse hosts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Moore, Brenda D.</displayForm>
+                        <namePart type="family">Moore</namePart>
+                        <namePart type="given">Brenda D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Levites, Yona</displayForm>
+                        <namePart type="family">Levites</namePart>
+                        <namePart type="given">Yona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Xu, Guilian</displayForm>
+                        <namePart type="family">Xu</namePart>
+                        <namePart type="given">Guilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hampton, Hailey</displayForm>
+                        <namePart type="family">Hampton</namePart>
+                        <namePart type="given">Hailey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adamo, Munir F.</displayForm>
+                        <namePart type="family">Adamo</namePart>
+                        <namePart type="given">Munir F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Croft, Cara L.</displayForm>
+                        <namePart type="family">Croft</namePart>
+                        <namePart type="given">Cara L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Futch, Hunter S.</displayForm>
+                        <namePart type="family">Futch</namePart>
+                        <namePart type="given">Hunter S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Moran, Corey</displayForm>
+                        <namePart type="family">Moran</namePart>
+                        <namePart type="given">Corey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fromholt, Susan</displayForm>
+                        <namePart type="family">Fromholt</namePart>
+                        <namePart type="given">Susan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Janus, Christopher</displayForm>
+                        <namePart type="family">Janus</namePart>
+                        <namePart type="given">Christopher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Prokop, Stefan</displayForm>
+                        <namePart type="family">Prokop</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dickson, Dennis</displayForm>
+                        <namePart type="family">Dickson</namePart>
+                        <namePart type="given">Dennis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lewis, Jada</displayForm>
+                        <namePart type="family">Lewis</namePart>
+                        <namePart type="given">Jada</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Giasson, Benoit I.</displayForm>
+                        <namePart type="family">Giasson</namePart>
+                        <namePart type="given">Benoit I.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Golde, Todd E.</displayForm>
+                        <namePart type="family">Golde</namePart>
+                        <namePart type="given">Todd E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Borchelt, David R.</displayForm>
+                        <namePart type="family">Borchelt</namePart>
+                        <namePart type="given">David R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Seeding of pathology related to Alzheimer’s disease (AD) and Lewy body disease (LBD) by tissue homogenates or purified protein aggregates in various model systems has revealed prion-like properties of these disorders. Typically, these homogenates are injected into adult mice stereotaxically. Injection of brain lysates into newborn mice represents an alternative approach of delivering seeds that could direct the evolution of amyloid-β (Aβ) pathology co-mixed with either tau or α-synuclein (αSyn) pathology in susceptible mouse models.
+Methods: Homogenates of human pre-frontal cortex were injected into the lateral ventricles of newborn (P0) mice expressing a mutant humanized amyloid precursor protein (APP), human P301L tau, human wild type αSyn, or combinations thereof. The homogenates were prepared from AD and AD/LBD cases displaying variable degrees of Aβ pathology and co-existing tau and αSyn deposits. Behavioral assessments of APP transgenic mice injected with AD brain lysates were conducted. For comparison, homogenates of aged APP transgenic mice that preferentially exhibit diffuse or cored deposits were similarly injected into the brains of newborn APP mice.
+Results: We observed that lysates from the brains with AD (Aβ+, tau+), AD/LBD (Aβ+, tau+, αSyn+), or Pathological Aging (Aβ+, tau-, αSyn-) efficiently seeded diffuse Aβ deposits. Moderate seeding of cerebral amyloid angiopathy (CAA) was also observed. No animal of any genotype developed discernable tau or αSyn pathology. Performance in fear-conditioning cognitive tasks was not significantly altered in APP transgenic animals injected with AD brain lysates compared to nontransgenic controls. Homogenates prepared from aged APP transgenic mice with diffuse Aβ deposits induced similar deposits in APP host mice; whereas homogenates from APP mice with cored deposits induced similar cored deposits, albeit at a lower level.
+Conclusions: These findings are consistent with the idea that diffuse Aβ pathology, which is a common feature of human AD, AD/LBD, and PA brains, may arise from a distinct strain of misfolded Aβ that is highly transmissible to newborn transgenic APP mice. Seeding of tau or αSyn comorbidities was inefficient in the models we used, indicating that additional methodological refinement will be needed to efficiently seed AD or AD/LBD mixed pathologies by injecting newborn mice.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-39205</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3766</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3766</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3766">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3766/3920" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3766">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3766/3919" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3766">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3766/3923" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3766" DMDID="DMD_wwu-journals_3766">
+            <mets:fptr FILEID="FILE0_wwu-journals_3766"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3766" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3766"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_wwu-journals_3766" LABEL="">
+                <mets:fptr FILEID="FILE2_wwu-journals_3766"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

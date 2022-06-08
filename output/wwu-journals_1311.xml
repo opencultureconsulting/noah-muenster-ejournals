@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie viel Einheit braucht Vielfalt? Protestantische Betrachtungen zum Dokument der römisch-katholischen Internationalen Theologenkommission „Theologie heute</title>
+                        <subTitle>Perspektiven, Prinzipien und Kriterien“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlag, Thomas</displayForm>
+                        <namePart type="family">Schlag</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Verfasser fragt danach, wie die offizielle katholische Theologie in diesem Dokument dieRolle und die Herausforderungen der Theologie und der römisch-katholischen Kirche innerhalbdes weltweiten Kontextes religiöser, kultureller und gesellschaftlicher Pluralität bestimmt.Er zeigt, in welchem Sinn „Theologie heute“ einen klaren Wahrheitsanspruch entfaltet und dieIdeen biblischer, theologischer und kirchlicher Autorität eng miteinander verknüpft. Von dortaus ist der Verfasser von seiner protestantischen Perspektive aus eher skeptisch hinsichtlicheines bestimmten dogmatischen und ekklesiologischen Einheitsverständnisses und auch desLehramtes als ultimativer Interpretationsinstanz. Deshalb schlägt er für einen fruchtbaren ökumenischenDiskurs über die Fragen der verantwortlichen Pluralitätsfähigkeit der Kirchen vor,gemeinsamen Grund in einer Form praktisch-theologischer Reflexion zu suchen, die nachdem tieferen Sinn des Evangeliums aus einer wahrhaft menschlichen Perspektive Ausschauhält. In this article, the author discusses how the document „Theology Today“ defines the role andchallenges of theology and of the Roman Catholic Church within the current global context ofreligious, cultural, and societal plurality. He shows in which sense „Theology Today“ unfolds aclear claim of truth, and how it interconnects the ideas of biblical, theological and ecclesiologicalauthority. Based on his Protestant point of view, the author of this contribution is ratherskeptical in regard to both a certain dogmatic and ecclesiological understanding of unity andthe magisterium as the ultimate source of interpretation. He therefore suggests that for a fruitfulecumenical discourse about the churches’ responsibility for dealing with plurality, commonground should be sought in the form of practical-theological reflection, which searches for thedeeper meaning of the gospel from a truly human perspective.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>101</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-12448</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1311</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1311">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1311/1244" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1311" DMDID="DMD_wwu-journals_1311">
+            <mets:fptr FILEID="FILE0_wwu-journals_1311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1401">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Liquid Church? Organisationssoziologische Anmerkungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gabriel, Karl</displayForm>
+                        <namePart type="family">Gabriel</namePart>
+                        <namePart type="given">Karl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Großkirchen in Deutschland suchen auf unterschiedlichen Wegen den historischen Pfadstaatsanaloger bürokratisch-hierarchischer Organisationen zu verlassen und weisen mehroder weniger ausgeprägt Elemente wandlungsfähiger „liquider Organisationen“ auf. Insofernkommt die Annahme vom hybriden Charakter ihrer Organisationsformen der Realität amnächsten. Nicht im Widerspruch dazu lassen sich Kirchen aber auch als „intermediäre Organisationen“begreifen und analysieren. Damit werden die Spannungen und Vermittlungsleistungenkirchlicher Organisationen zwischen Mitgliedschafts- und Einflusslogik ins Zentrumdes Interesses gerückt. Mit der Bezugnahme auf eine für Kirchen spezifische Bindung an einedritte Logik, nämlich die der Erinnerung, lassen sich Spezifika der Kirchen als Organisationender Analyse zugänglich machen.The mainline churches in Germany aim to leave the historic path of bureaucratic-hierarchicalorganisations, which resemble the State. Instead, they show more or less pronounced elementsof versatile „liquid organisations“. In this respect, the idea of hybridity comes closest totheir reality. Not contrary to this perspective, churches can also be understood and analysedas „intermediary organisations“. Thus the tensions and the efforts of intermediation of churchorganizations, which range between a logic of their membership and a logic of influence, becomethe center of attention. With reference to a third form of logic, the logic of remembrance,specifics of the churches as organisations become accessible for analysis.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>34</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>45</start>
+                                <end>56</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2014-13200</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1401</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1401">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1401/1320" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1401" DMDID="DMD_wwu-journals_1401">
+            <mets:fptr FILEID="FILE0_wwu-journals_1401"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

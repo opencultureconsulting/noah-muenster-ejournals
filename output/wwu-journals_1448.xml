@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1448">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildung und Pastoral - Grenzgänge, Passagen, Brückenschläge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Könemann, Judith</displayForm>
+                        <namePart type="family">Könemann</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Aufsatz nimmt eine grundlegende Bestimmung des Verhältnisses von Pastoral und Bildung vor.Ausgehend von einer Bestimmung von Bildung auf der einen und Pastoral auf der anderen Seite werdendie beiden Größen Pastoral und Bildung als zwei eigenständige und getrennte Größen aufgewiesen,die jedoch in gemeinsamen Optionen, so zum einen in der Option für Subjektivität und zum anderender für Solidarität, aufeinander bezogen sind. Wie sowohl Bildung als auch Pastoral die genanntenOptionen fördern, wird an einem Beispiel pastoraler Arbeit, der Initiierung von Friedensbildungsprozessenzwischen verfeindeten ethnischen Gruppierungen in einer Gemeinde in Kenia, verdeutlicht.The article provides a fundamental definition of the relationship between pastoral care and education.First defining the term education on the one hand and the term pastoral care on the other hand,the article suggests an understanding of both concepts as two different and autonomous entities,which are related to one another by their common option for subjectivity as well as by their option forsolidarity. Using the example of initiating peace-building processes between hostile ethnic groups in aparish in Kenya, the article illustrates how both pastoral care and education can support the options.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>35</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>9</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-pthi-2015-13554</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1448</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1448">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/1448/1355" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1448" DMDID="DMD_wwu-journals_1448">
+            <mets:fptr FILEID="FILE0_wwu-journals_1448"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

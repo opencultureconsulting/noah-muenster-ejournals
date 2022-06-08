@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2937">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltigkeitsperspektiven in der (Post-)Corona Welt</title>
+                        <subTitle>Globale Umbrüche und die Herausbildung neuer Resilienzregime</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brand, Karl-Werner</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Karl-Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag geht der Frage nach, wie die Corona-Krise den Nachhaltigkeitsprozess transformiert. Die Effekte der Corona-Krise werden dabei im Kontext der verschiedenen, sich derzeit überlagernden globalen Krisen und Umbruchsprozesse diskutiert. Wie verknüpfen sich die Corona-Effekte mit diesen Umbruchsdynamiken, welche Entwicklungen werden beschleunigt, welche gebremst, welche neu gerahmt? Die zentrale These ist, dass Corona eine Verschiebung gesellschaftlicher Wahrnehmungsmuster bewirkt, die zur Herausbildung neuer „Resilienzregime“ führt. Damit ist auch eine Neurahmung des Nachhaltigkeitsverständnisses verbunden. Die zentralen gesellschaftlichen Konflikte werden in den kommenden Jahren auf diesem neuen Diskursterrain ausgetragen, sie werden zu „Resilienzkonflikten“.
+The article explores the question of how the corona crisis is transforming sustainability processes. The effects of the corona crisis are discussed in the context of the multiple crisis and structural transformations which the world system is running through at the moment. How are the corona effects linked to these dynamics, which developments are accelerated, which are slowed down, which are framed anew? The central thesis is that the experience of the Corona crisis shifts the societal perception of reality, creates a higher awareness for the overall threats and vulnerability of present life which enforces the formation of „ resilience regimes“. This is also associated with a new framing of the understanding of sustainability. In the coming years central political disputes will be carried on in the field of „resilience conflicts“.
+(editorial reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>8</start>
+                                <end>20</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-2020-28937</identifier>
+                    <identifier type="doi">10.17879/sun-2020-2937</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2937</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2937">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2937/2893" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2937" DMDID="DMD_wwu-journals_2937">
+            <mets:fptr FILEID="FILE0_wwu-journals_2937"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

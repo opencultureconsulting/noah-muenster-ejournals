@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4197">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>digitale Gehäuse der Hörigkeit – kontextualisiert</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Waibel, Désirée</displayForm>
+                        <namePart type="family">Waibel</namePart>
+                        <namePart type="given">Désirée</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Steffen Maus Buch Das metrische Wir. Über die Quantifizierung des Sozialen beschäftigt sich mit den Wirkungsweisen und Folgen numerischer Vergleichs- und Bewertungsformen in der Gegenwartsgesellschaft. Diesem Thema wird jüngst in diversen soziologischen Forschungszusammenhängen verstärkt Aufmerksamkeit geschenkt. Maus Buch hebt sich von anderen Beiträgen insofern ab, als es einen radikalen, gesamtgesellschaftlichen Wandel durch Verdatung und Quantifizierung identifiziert, wie er bislang nur in Film und Literatur beschrieben wurde. Quantifizierung bringt, so seine Argumentation in Kurzform, neue soziale Wertigkeiten hervor, die den Aufstieg von Vergleichsdispositiven und damit den Wettbewerb aller gegen alle um digitale Statuspunkte ermöglicht und universalisiert. Seine Beobachtungen – plakativ in die Kurzformel »Zahlen machen Leute« (257f.)&amp;nbsp; gefasst – führen den Autor schließlich hin zur These eines neuen Ungleichheitsregimes. Dieser zufolge wird im metrischen Wir der Konflikt zwischen »solidarische[n] Kollektive[n]« (Mau 2018: 286) durch den Wettbewerb zwischen »sozialstatistische[n] Solitäre[n]« ersetzt, die sich nurmehr im Differenten erkennen (271).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>108</start>
+                                <end>118</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2019-4197</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4197</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4197">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4197/4280" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4197" DMDID="DMD_wwu-journals_4197">
+            <mets:fptr FILEID="FILE0_wwu-journals_4197"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

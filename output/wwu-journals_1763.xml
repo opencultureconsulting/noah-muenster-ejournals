@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1763">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pflegepolitik ohne Arbeitspolitik? – Entwicklungen im Feld der Altenpflege</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Becke, Guido</displayForm>
+                        <namePart type="family">Becke</namePart>
+                        <namePart type="given">Guido</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bleses, Peter</displayForm>
+                        <namePart type="family">Bleses</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungPflegepolitische Weichenstellungen und die Auswirkungen der Pflegeversicherung haben die Altenpflege in den vergangenen Jahrzehnten unter einen beständigen wachsenden Ökonomisierungsdruck gesetzt. In Anbetracht des demografischen Wandels erhöhen sich zudem die Anforderungen an die Altenpflege: einerseits aufgrund zunehmender Hochaltrigkeit und Multimorbidität der Pflegebedürftigen, andererseits angesichts alternder Belegschaften bei gleichzeitigem Fachkräftemangel. Das Zusammenwirken von demografischem Wandel und Ökonomisierung hat zu einer Verschlechterung der Arbeits- und Beschäftigungsqualität geführt. Eine nachhaltige Arbeitsqualität in der Altenpflege lässt sich vor diesem Hintergrund nur realisieren, wenn Pflege- und Arbeitspolitik stärker miteinander verknüpft werden. Von zentraler Bedeutung ist hierfür die gesellschaftliche, pflegepolitische und betriebliche Anerkennung unsichtbarer Tätigkeitselemente der Altenpflege und des damit verbundenen Ethos fürsorglicher Praxis.AbstractThe Long-Term Care Insurance was introduced in 1995 as a new pillar of the social insurance scheme in Germany establishing a public system for financing long-term care. Since then, residential and non-residential providers of long-term care for older people have been under increased economic pressure and marketization. Moreover, the demographic change has been challenging long-term care due to increased life expectancy and morbidity of dependent older people. Against the backdrop of the scarcity of skilled care labour, these challenges have to be met by an ageing workforce in formal care. The coincidence of demographic change and increased economic pressure on formal care providers has had detrimental effects on the quality of the work provided and the quality of employment. Hence, sustainable standards of care and employment require a closer connection of labour and care policies. In this respect, one core prerequisite is the social recognition of invisible care activities rooted in the employees professional care ethos.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-16979</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1763</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1763">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1763/1697" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1763" DMDID="DMD_wwu-journals_1763">
+            <mets:fptr FILEID="FILE0_wwu-journals_1763"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

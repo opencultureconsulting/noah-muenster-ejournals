@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3544">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Recht auf urbanes Wohnen – wohnungspolitische und wirtschaftsethische Herausforderungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henger, Ralph</displayForm>
+                        <namePart type="family">Henger</namePart>
+                        <namePart type="given">Ralph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Enste, Dominik</displayForm>
+                        <namePart type="family">Enste</namePart>
+                        <namePart type="given">Dominik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">33</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Recht auf Wohnen ist in den meisten Verfassungen der Welt explizit oder implizit fest verankert, so auch in Deutschland. Die Realisierung des Rechts auf Wohnen setzt deren Bezahlbarkeit für alle Einkommensschichten sowie den Zugang zum Wohnungsmarkt  voraus. Zur sozialen Absicherung des Wohnens nutzt Deutschland verschiedene Wege, tritt unterschiedlich stark im Wohnungsmarkt als eigenständiger Akteur auf, wählt divergierende Formen objekt- und subjektbezogener Instrumente und kombiniert diese mit regulatorischen Eingriffen. Der Beitrag diskutiert, mit welchen wohnungspolitischen Maßnahmen sich die Umsetzung des Rechts auf Wohnen sowohl effektiv als auch effizient und unter Beachtung ethischer Grundsätze realisieren lässt. Es zeigt sich, dass die aus dem Recht auf Wohnen ableitbaren Teilrechte auf ein „bezahlbares“ und „urbanes“ Wohnen nicht uneingeschränkt gelten (können). Ökonomische und wirtschaftsethische Grenzen werden diskutiert, wie Subsidiarität, Selbstverantwortung, Kosten- Nutzenabwägungen, Markt- und Staatsversagen. Eine vollständige Abfederung sozialer Risiken und regionaler Entwicklungen ist aufgrund hoher volkswirtschaftlicher und gesellschaftlicher Kosten sowie Ungerechtigkeiten andernorts nicht zielführend. Die bei der politischen Festlegung dieser Grenzen auftretenden sozial- und wirtschaftsethischen Dilemmata werden entlang drei zentraler Fragestellungen diskutiert.</abstract>
+                    <abstract lang="eng">The right to housing is explicitly or implicitly enshrined in most of the world’s constitutions, including that of Germany. The realization of the right to housing presupposes affordable housing and access to the housing market for all income groups. In order to ensure the social security of housing, the German state uses a variety of methods, acting as an independent actor in the housing market to varying degrees, choosing divergent forms of object-and subject-related instruments, and combining these instruments with regulatory interventions. The article discusses which housing policy measures can be used to implement the right to housing effectively, efficiently, and in compliance with ethical principles. It is shown that the partial rights to “affordable” and “urban” housing that can be derived from the right to housing do not (or cannot) apply without restrictions. Economic and ethical limits are discussed, such as subsidiarity, self-responsibility, cost-benefit trade-offs, market and state failure. Because of high economic and social costs and pervasive injustice, a complete cushioning of social risks and regional developments is not expedient. The social and economic ethical dilemmas that arise in the political definition of these limits are discussed along three central questions.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>62</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>137</start>
+                                <end>169</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2021-36978</identifier>
+                    <identifier type="doi">10.17879/jcsw-2021-3544</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3544</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3544">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/3544/3697" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3544" DMDID="DMD_wwu-journals_3544">
+            <mets:fptr FILEID="FILE0_wwu-journals_3544"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

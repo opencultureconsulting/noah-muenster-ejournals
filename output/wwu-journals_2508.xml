@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2508">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Multiple Moderne“ als Ort und Auftrag zur Neuentdeckung des Evangeliums</title>
+                        <subTitle>Karl Gabriels Inspirationen für eine „Theologie in den Zeichen der Zeit“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siebenrock, Roman A.</displayForm>
+                        <namePart type="family">Siebenrock</namePart>
+                        <namePart type="given">Roman A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">In Auseinandersetzung mit Karl Gabriels soziologischem Werk geht der Beitrag der Frage nach, wie sich der christliche Glaube unter den Bedingungen der „multiplen Moderne“ artikulieren kann. Nach einer Reflexion über die systematisch-theologische Rezeption religionssoziologischer Theoriebildung werden zentrale Impulse Gabriels, v. a. das theologische Movens seiner Arbeit, die Dekonstruktion der traditionellen Meistererzählung der Religionssoziologie sowie der Begriff der „multiplen Moderne“ aufgegriffen und systematisch-theologisch im Interesse einer an die Arbeit des Zweiten Vatikanischen Konzils anknüpfenden „Theologie in den Zeichen der Zeit“ interpretiert, in der die Bedeutung der Religionsfreiheit im Zeugnis des Evangeliums vom Reiche Gottes eine zentrale Stellung einnimmt.</abstract>
+                    <abstract lang="eng">This article reflects how Christian faith can articulate itself under conditions of “multiple modernity”. Therefore it refers to the works of Karl Gabriel concerning the sociology of religion, especially Catholicism. First, it gives some thoughts on systematic-theological reception of theories of sociology of religion. Then, the article presents central impulses of Gabriel, e. g. how his works are driven theologically, how he deconstructs sociology of religion’s master narrative, or the term “multiple modernity”, and interprets themsystematic-theologically in order to write forth Vaticanum’s “theology within the signs of the times”. Especially the religious freedom is relevant in the context of the biblical testimony of God’s kingdom.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>60</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2019-23874</identifier>
+                    <identifier type="doi">10.17879/jcsw-2019-2508</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2508</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2508">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2508/2387" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2508" DMDID="DMD_wwu-journals_2508">
+            <mets:fptr FILEID="FILE0_wwu-journals_2508"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3607">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wagerer, Wolfgang</title>
+                        <subTitle>Zum Hören ermutigen. Identitätskonstruktionen in Begegnung mit biblischen Texten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blum, Matthias</displayForm>
+                        <namePart type="family">Blum</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Theologische Revue</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Katholisch-Theologische Fakultät der Universität Münster</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-5433</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>117</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-thrv-2021-36052</identifier>
+                    <identifier type="doi">10.17879/thrv-2021-3607</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3607</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3607">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/thrv/article/download/3607/3605" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3607" DMDID="DMD_wwu-journals_3607">
+            <mets:fptr FILEID="FILE0_wwu-journals_3607"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

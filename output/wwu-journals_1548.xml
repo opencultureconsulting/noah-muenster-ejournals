@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1548">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Menschenrechte als kontinuierliche Quelle von Wertegeneralisierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kirchschläger, Peter G.</displayForm>
+                        <namePart type="family">Kirchschläger</namePart>
+                        <namePart type="given">Peter G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungHans Joas versteht die Allgemeine Erklärung der Menschenrechte von 1948 als Ergebnis eines Wertegeneralisierungsprozesses. Im folgenden Artikel soll nach einer Reflexion der zentralen Punkte der Gedanken- und Argumentationslinie von Hans Joas die Vorstellung von Menschenrechten als Ergebnis von Wertegeneralisierung zur Diskussion gestellt werden. Im Zuge dessen gilt es insbesondere, die normative Dimension und die Konsequenzen der Gedanken von Hans Joas genauer zu betrachten. Dabei werden die Menschenrechte selbst als kontinuierliche Quelle von Wertegeneralisierung über die Grenzen von Religionen, Kulturen und Weltanschauungen hinweg freigelegt. Dieses Verständnis der Menschenrechte provoziert die Auseinandersetzung mit dem Verhältnis zwischen Menschenrechten und religiösen, kulturellen und weltanschaulichen Gemeinschaften. Gleichzeitig löst es die Frage nach der moralischen Legitimität der Menschenrechte als kontinuierlicher Quelle von Wertegeneralisierung aus.AbstractHans Joas understands the Universal Declaration of Human Rights of 1948 as a result of a process of value generalization. In the following article, the main points of Joas’ line of argument will be discussed, and the normative dimension of his ideas, and the consequences of embracing human rights as a result of a process of value generalization will be analyzed. Based on this, human rights themselves will be uncovered as continuing source of value generalization across the boundaries of religions, cultures, and worldviews. This understanding of human rights provokes an examination of the relation between human rights and religious, cultural, and worldview-based communities. At the same time, it leads to the question of the moral legitimacy of human rights as a continuing source of value generalization.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>56</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2015-14505</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1548</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1548">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1548/1450" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1548" DMDID="DMD_wwu-journals_1548">
+            <mets:fptr FILEID="FILE0_wwu-journals_1548"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

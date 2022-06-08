@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2246">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachhaltige Entwicklung bedeutet (mehr) Demokratie und Dialog</title>
+                        <subTitle>Erkenntnisse aus einem empirischen Forschungsprojekt zu urbanen Familiengartengemeinschaften in der Schweiz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oehler, Patrick</displayForm>
+                        <namePart type="family">Oehler</namePart>
+                        <namePart type="given">Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thomas, Nicola</displayForm>
+                        <namePart type="family">Thomas</namePart>
+                        <namePart type="given">Nicola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Huber, Timo</displayForm>
+                        <namePart type="family">Huber</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel thematisiert am Beispiel von Familiengartengemeinschaften die Notwendigkeit, in der soziologischen Nachhaltigkeitsforschung und ebenso in der lokalen Politik für eine Nachhaltige Entwicklung, den Fokus nicht nur auf progressive Vorreitergruppen, also die Pioniere der Nachhaltigkeit (wie zum Beispiel die vielzitierten Gemeinschaftsgärten-Gruppen) zu legen, die selber auch auf das Nachhaltigkeits-Vokabular Bezug nehmen, sondern ebenso traditionelle Gruppen (wie die traditionellen Familiengärten-Gruppen), die mit diesen Diskursen weniger vertraut sind, als Akteure und Akteurinnen einer nachhaltigen Praxis zu verstehen und diese stärker mit ihren Ressourcen in die Transformationsbewegung miteinzubeziehen. Dies setzt eine offene, verständigungsorientierte und explorative Herangehensweise voraus, kurz: die Bereitschaft zum Dialog. Denn, so die zentrale These dieses Artikels, Nachhaltige Entwicklung lässt sich nur demokratisch gestalten, d.h. in einem Dialog zwischen verschiedenen Akteurinnen und Akteuren, als eine große Experimentiergesellschaft,die Altes und Neues kreativ miteinander verbindet.
+This article draws upon the example of allotment garden communities to discuss the need for sociological research on sustainability as well as local sustainable policies to focus their efforts not only on progressive pioneer groups (such as the much-praised new community gardens) who connect themselves to the sustainability discourse, but also to traditional groups such as allotment garden communities. Traditional allotment garden groups are less familiar with sustainability discourses, yet nonetheless they can be understood as being actors of sustainable practices and resources, that need to be included into the sustainability movement. This requires an open, explorative and communicative approach, put shortly: the willingness to engage in a dialogue. For, the central argument of this article is that sustainable development can only be achieved within a democratic process, which requires a dialogue between different actors and a more experimental society that aims to combine the old and new in a creative way.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>25</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-sun-0-21425</identifier>
+                    <identifier type="doi">10.17879/sun-2018-2246</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2246</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2246">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/2246/2142" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2246" DMDID="DMD_wwu-journals_2246">
+            <mets:fptr FILEID="FILE0_wwu-journals_2246"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

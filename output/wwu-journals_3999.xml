@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3999">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kritische Sexualwissenschaft – remixed and recycled</title>
+                        <subTitle>Über Volkmar Siguschs Sexualitäten. Eine Kritische Theorie in 99 Fragmenten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lewandowski , Sven</displayForm>
+                        <namePart type="family">Lewandowski</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Fünfzehn Jahre nach seinem bahnbrechenden Aufsatz Die neosexuelle Revolution. Über gesellschaftliche Transformationen der Sexualität in den letzten Jahrzehnten (Sigusch 1998) legt Volkmar Sigusch (2013) nun mit Sexualitäten. Eine kritische Theorie in 99 Fragmenten ein Opus magnum vor. Was jedoch in Die neosexuelle Revolution systematisch argumentativ entfaltet wurde, zerfällt nun in eine Ansammlung von Fragmenten, der es einerseits an argumentativer Stringenz gebricht und die andererseits im Wesentlichen aus einem remix aus Siguschs bekannten Thesen und Texten besteht. Insofern ist Sexualitäten ein Sammelsurium zeitgenössischer Beobachtungen, altbekannter Theoreme und feuilletonistischer Glossierungen. Um Sigusch dennoch nicht unter Wert schlagen zu müssen, konzentrieren sich die folgenden Ausführungen auf die soziologisch respektive gesellschaftstheoretisch relevanten Aspekte, während Sexualwissenschaftliches, Psychologisches, Psychiatrisches, aber auch Feuilletonistisches wie Polemisches beiseite gelassen wird.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>123</start>
+                                <end>134</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2015-3999</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3999</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3999">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/3999/4045" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3999" DMDID="DMD_wwu-journals_3999">
+            <mets:fptr FILEID="FILE0_wwu-journals_3999"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

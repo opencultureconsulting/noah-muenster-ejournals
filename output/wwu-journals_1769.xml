@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_1769">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Befähigungssemantiken in der theologischen Ethik. Kritische Analyse der Rezeption des Capabilities Approach in der deutschsprachigen christlichen Sozialethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winkler, Katja</displayForm>
+                        <namePart type="family">Winkler</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Zusammenfassung„Befähigung“ ist in den letzten Jahrzehnten zu einem zentralen Begriff sowohl in der politischen Philosophie als auch in der Sozialpolitik geworden. Was damit gemeint ist, ist freilich umstritten. Der Aufsatz versucht, die Bedeutungsgehalte des Befähigungsbegriffs und darüber seine Leistungsfähigkeit für die sozialphilosophische und die politische Diskussion zu klären. Dabei bleibt die Autorin nicht bei der Beschäftigung mit dem Capabilities Approach nach Martha Nussbaum und Amartya Sen stehen, sondern analysiert vor allem die Rezeptionen des Befähigungsansatzes und zwar speziell im Bereich der theologischen Sozialethik. Als zentrales Problem sowohl des Capabilities Approach als auch der theologischen Ethik wird deren Liberalismusfähigkeit herausgearbeitet. Im Beitrag wird untersucht, wie und ob mit dem Befähigungskonzept sozialethisch ein „liberales Minimum“, durch das die Freiheit jedes und jeder einzelnen garantiert werden kann, gewährleistet wird.Abstract“Capability“ has become a central term in political philosophy and welfare policy. But it is also an ambiguous term. This paper attempts both to clear up its different meanings and to discuss the heuristic potential of the capability approach for political philosophy. For this purpose, the author analyses not only the well-known capabilities approach of Martha Nussbaum and Amartya Sen, but more particularly its reception in Christian social ethics. Finally it investigates the relationship of both the capability approach and Christian social ethics with the idea of liberalism and whether and how these concepts ensure a “liberal minimum” that guarantees the freedom of each individual.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>57</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2016-17021</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_1769</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_1769">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/1769/1702" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_1769" DMDID="DMD_wwu-journals_1769">
+            <mets:fptr FILEID="FILE0_wwu-journals_1769"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

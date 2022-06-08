@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4081">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welcher Individualismus? Welche Reduktion? Eine Auseinandersetzung mit dem Programm des Reduktiven Individualismus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schützeichel, Rainer</displayForm>
+                        <namePart type="family">Schützeichel</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-05-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Jens Greve hat wie nur wenige in der deutschen Soziologie in den letzten Jahren das internationale Terrain der sozialtheoretischen Forschungen auf einem hohen Niveau durchmessen. Insbesondere seinen Arbeiten ist es zu verdanken, dass grundsätzliche Problemstellungen soziologischer Theoriebildung im Alltagsgeschäft nicht vergessen, sondern in der Auseinandersetzung mit aktuellen sozialtheoretischen Entwicklungen präsent gehalten werden. In seinem Buch, welches aus einer Kompilation überarbeiteter Einzelveröffentlichungen besteht, legt er nun erstmals eine »Summa« seiner Arbeiten vor, in denen er in Auseinandersetzung mit den Klassikern wie mit rezenten Positionen das Programm eines Reduktiven Individualismus zu bestimmen wie zu verteidigen sucht. Der Reduktive Individualismus bezieht sich auf das Weber-Programm, das sich prägnant in einer berühmten Textstelle im Kategorien-Aufsatz (Weber 1988: 439) formuliert findet, in welcher besonders die methodologischen Prämissen des Neukantianismus wie individualistischen Prämissen der Menger-Schule zum Tragen kommen: Es sei Aufgabe der Soziologie, »Arten des menschlichen Zusammenhandelns, […] auf »verständliches« Handeln, und das heißt ausnahmslos: auf Handeln der beteiligten Einzelmenschen, zu reduzieren.« Damit sind zwei miteinander verbundene Aspekte angesprochen: Erstens die »Reduktion« sozialer Phänomene auf Handlungen, zweitens die »Reduktion« des »Zusammenhandelns« auf Einzelhandlungen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>101</start>
+                                <end>114</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2016-4081</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4081</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4081">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4081/4150" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4081" DMDID="DMD_wwu-journals_4081">
+            <mets:fptr FILEID="FILE0_wwu-journals_4081"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

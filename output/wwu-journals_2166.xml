@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2166">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welche Verantwortung, welche Gesinnung? Eine Replik auf Konrad Otts Essay &quot;Zuwanderung und Moral&quot;</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Farrenberg, Dominik</displayForm>
+                        <namePart type="family">Farrenberg</namePart>
+                        <namePart type="given">Dominik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kutscher, Nadia</displayForm>
+                        <namePart type="family">Kutscher</namePart>
+                        <namePart type="given">Nadia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZusammenfassungDer Umwelt- und Diskursethiker Konrad Ott bietet in seinem Essay „Zuwanderung und Moral“ (2016) zwei Horizonte an, die in unterschiedlicher Weise aktuelle Fragen von Flucht und Migration als ethische Frage diskutieren. Ausgehend von der auf Max Weber zurückgehenden Unterscheidung zwischen Gesinnungs- und Verantwortungsethik (vgl. Weber 1968, 57) stellt Konrad Ott diese beiden Ethiken diametral einander gegenüber und konstruiert auf diese Weise zwei sehr verschiedene Angebote für eine ethische Orientierung in der aktuellen Debatte und Situation. Dabei skizziert er die Gesinnungsethik als den Wertmaßstab derjenigen, die sich solidarisch mit den geflüchteten Menschen zeigen und teilweise offene Grenzen befürworten. Im Gegensatz hierzu positioniert er die Verantwortungsethik in toto als moralische Richtschnur für diejenigen, die dafür plädieren, die Grenzen in den überwiegenden Fällen geschlossen zu halten und der Aufnahme von geflüchteten Menschen nur in gut geprüften Ausnahmefällen zuzustimmen. Diese schematische und hierdurch nicht nur verkürzende, sondern auch problematische Gegenüberstellung von Gesinnungs- und Verantwortungsethik wird im vorliegenden Beitrag, im Sinne einer Antwort auf den Essay Konrad Otts, kritisch diskutiert. Hierbei wird der Standpunkt vertreten, dass beide Ethiken zunächst einmal inhaltlich als neutral anzusehen sind, bevor sie für eine bestimmte, immer schon notwendigerweise auch politische Position in Dienst genommen werden. Demnach ist dann bei einer sozialethischen Betrachtungsweise eher zu fragen, welche Gesinnung bzw. welche Verantwortung wem gegenüber im Kontext welcher gesellschaftlichen Diskurse anvisiert ist.AbstractIn his essay “Migration and Morality”, the environmental ethicist and discourse theorist Konrad Ott offers two frameworks for an ethical understanding of the situation of refugees and migrants. Based on Weber’s distinction of an ethic of conviction and an ethic of responsibility, Ott contrasts these two approaches and thus construes two very different theoretical frameworks for the ethical dimension of the current debate and situation. He sketches an ethic of conviction as the framework for those who show solidarity with refugees and demand (partially) open borders. The opposing framework is an ethic of responsibility for those who demand mostly closed borders and want to restrict the admission of refugees to a few well-vetted, exceptional cases. This heavily schematic, simplistic, and thus problematic contrasting of an ethic of conviction and an ethic of responsibility will be critically discussed in this contribution, in the spirit of a reply to Ott’s essay. Starting point for this discussion is the asumption that both ethics are, in terms of their content, neutral, before they are appropriated by a particular (necessarily) political position. From the perspective of social ethics, we should rather ask which conviction or which responsibility toward whom in which particular social contexts is at stake.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>58</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>251</start>
+                                <end>271</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2017-20783</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2166</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2166">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2166/2078" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2166" DMDID="DMD_wwu-journals_2166">
+            <mets:fptr FILEID="FILE0_wwu-journals_2166"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

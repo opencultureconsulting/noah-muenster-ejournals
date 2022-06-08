@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4140">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Infrastrukturen der Störung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Röhl, Tobias</displayForm>
+                        <namePart type="family">Röhl</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Störungen jeglicher Art sind ein alltägliches Phänomen. Hendrik Vollmer nimmt diesen Umstand zum Anlass, eine umfassende Soziologie der Störung zu entwickeln. Er geht dabei über eine einfache Theorie mittlerer Reichweite eines eingegrenzten Phänomens weit hinaus. Zum einen liegt dies in der Allgegenwärtigkeit der Störung begründet. Zum anderen aber darin, dass Vollmer in Störungen einen zentralen Motor sozialen Wandels sieht. Seine Monographie The Sociology of Disruption, Disaster and Social Change (Vollmer 2013) stellt deshalb auch einen sozialtheoretischen Beitrag dar. Ausgangspunkt seiner Überlegungen sind nun nicht bloß diejenigen Ereignisse, die von einem Kollektiv klar als Unfall oder Katastrophe markiert sind, sondern Störungen im Allgemeinen. Vollmer entwickelt dabei bewusst ein Konzept von Störung, das den Anspruch hat, sowohl Makro- als auch Mikrophänomene kleiner und großer Störungen zu fassen. Die herangezogenen Beispiele reichen dementsprechend von Garfinkels Krisenexperimenten über Wechsel im Management von Unternehmen bis hin zu Naturkatastrophen und Reaktorunfällen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Theoretische Soziologie</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Theoretische Soziologie</publisher>
+                        </originInfo>
+                        <identifier type="issn">2751-4552</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>6</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>109</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/zts-2017-4140</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4140</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4140">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zts/article/download/4140/4209" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4140" DMDID="DMD_wwu-journals_4140">
+            <mets:fptr FILEID="FILE0_wwu-journals_4140"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_2979">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welcher (V)Erkenntnisgewinn? Postkolonialismus und Christliche Sozialethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Becka, Michelle</displayForm>
+                        <namePart type="family">Becka</namePart>
+                        <namePart type="given">Michelle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag geht davon aus, dass durch die Erkenntnisse postkolonialer Studien ethische Reflexion inhaltlich und methodisch in Bewegung gerät – oder geraten könnte, wenn man die Anfragen zuließe. Der Beitrag versucht daher, diese Erkenntnisse wahr und ernst zu nehmen und eigene Positionen, Begriffe und Konzepte von ihnen her zu überdenken. Das ist nötig, um verschiedene Weisen der Verkennung in der ethischen Reflexion zu überwinden. Die Kolonialität des Wissens führt dazu, andere Wissensformen zu verkennen und die eigene zur Norm zu erheben. Damit geht auch eine Verkennung von Subjekten einher: Viele, die von ethischen Entscheidungen betroffen sind, sind an ihnen nicht beteiligt und es fehlt an Formaten, wie sie sich beteiligen könnten. Diese und andere blinde Flecken deckt der Beitrag auf, kritisiert sie und gibt Anstöße zu einer (selbst-)kritischen kontextsensiblen Sozialethik, die ihrer aus historischer und geographischer Verstrickung resultierenden Verantwortung gerecht wird.</abstract>
+                    <abstract lang="eng">The contribution assumes that the findings of postcolonial studies will set ethical reflection in motion in terms of content and methodology – or could do so if the inquiries were allowed to take place. The contribution therefore attempts to take these findings seriously and to rethink its own positions and concepts from the other point of view. This is necessary in order to overcome various ways of misjudgment in ethical reflection. The coloniality of knowledge leads to misjudging other forms of knowledge and to elevating one&apos;s own to the norm. This is also accompanied by a misjudgment of subjects: many who are affected by the consequences of ethical decisions are not involved in this decisions and there are no formats in which they could participate. The article uncovers these and other blind spots, criticizes them and gives impulses for a (self-)critical context-sensitive social ethics that does justice to its responsibility resulting from historical and geographical entanglement.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>61</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>137</start>
+                                <end>160</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-jcsw-2020-30867</identifier>
+                    <identifier type="doi">10.17879/jcsw-2020-2979</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_2979</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2979">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/2979/3086" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_2979" DMDID="DMD_wwu-journals_2979">
+            <mets:fptr FILEID="FILE0_wwu-journals_2979"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

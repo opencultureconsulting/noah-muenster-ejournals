@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_844">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Staatsvolk, Marktvolk, Gottesvolk. Überlegungen zur Postdemokratie als politikwissenschaftliche Anfrage an die christliche Sozialethik</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Staatsvolk, Marktvolk, Gottesvolk. Überlegungen zur Postdemokratie als politikwissenschaftliche Anfrage an die christliche Sozialethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Barbato, Mariano</displayForm>
+                        <namePart type="family">Barbato</namePart>
+                        <namePart type="given">Mariano</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">ZusammenfassungDie nationale Demokratie und ihr Anspruch auf egalitäre Selbstbestimmung scheinen unter dem Eindruck der kapitalistischen Globalisierung so unter Druck zu geraten, dass zumindest eine partizipatorisch starke Konzeption der Demokratie diese in Gefahr sieht. Colin Crouch hat dafür den Begriff der Postdemokratie populär gemacht. Der Beitrag greift einige politikwissenschaftliche Debattenstränge dazu auf und fokussiert dann auf das Problem der Interdependenz, nicht nur von Staatsvolk und Marktvolk (Streeck), sondern der Staatsvölker untereinander. Hat die kapitalistische Aushöhlung der Demokratie nicht deswegen die Zustimmung der Mehrheiten gefunden, weil ihr Kredit die treibende Kraft für den Wohlstand war und ist? An die christliche Sozialethik und Sozialwissenschaft wird dann die Anfrage gestellt, ob nicht eine Verschärfung der Gottesvolkvorstellung einen Ausweg aus dem Kredit der Postdemokratie weisen könnte.AbstractCapitalist globalization has put national democracy and its claim to egalitarian selfdetermination under significant pressure, to the degree that at least those who conceptualize democracy in a strongly participatory sense perceive it as „post-democracy“ (Crouch). The article takes up several strands of this debate in political science and then focuses on the problem of interdependency – not only between people and capital but also between different peoples. Has not the capitalist erosion of democracy found the support of the majority because its credit has been and is the driving force for prosperity? In regard to Christian social ethics and social science, it will be asked whether the concept of God’s people could show a way out of the problems of post-democracy.</abstract>
+                    <abstract lang="eng">Capitalist globalization has put national democracy and its claim to egalitarian self-determination under significant pressure, to the degree that at least those conceptualizing democracy in a strongly participatory sense perceive it as “post-democracy” (Crouch). The article takes up several strands of the debate in political science and focuses then on the problem of interdependency, not only between people and capital but also between different peoples. Has not the capitalist erosion of democracy found the support of the majority because its credit has been and is the driving force for prosperity? To Christian social ethics and social science the question will be put if maybe the concept of God’s people could show a way out of the credit of post-democracy. </abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Jahrbuch für Christliche Sozialwissenschaften</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                        </originInfo>
+                        <identifier type="issn">2196-6265</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>54</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-2013120236</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_844</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_844">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/844/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_844" DMDID="DMD_wwu-journals_844">
+            <mets:fptr FILEID="FILE0_wwu-journals_844"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
