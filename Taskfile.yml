@@ -1,0 +1,203 @@
+version: '3'
+
+silent: true
+
+tasks:
+  default:
+    desc: harvest and transform
+    cmds:
+      - task: harvest
+      - task: transform
+
+  reset:
+    desc: delete cache; harvest and transform
+    cmds:
+      - rm -rf input/*
+      - task: harvest
+      - rm -rf output/*
+      - task: transform
+
+  install:
+    desc: install requirements into subdirectories
+    cmds:
+      - task: install_openrefine
+      - task: install_vufindharvest
+
+  install_openrefine:
+    cmds:
+      - | # install OpenRefine into subdirectory .openrefine
+        mkdir -p .openrefine
+        wget --no-verbose -O openrefine.tar.gz https://github.com/OpenRefine/OpenRefine/releases/download/3.5.2/openrefine-linux-3.5.2.tar.gz
+        tar -xzf openrefine.tar.gz -C .openrefine --strip 1 && rm openrefine.tar.gz
+      - | # fix path issue in OpenRefine startup file
+        sed -i 's/cd `dirname $0`/cd "$(dirname "$0")"/' ".openrefine/refine"
+      - | # do not try to open OpenRefine in browser
+        sed -i '$ a JAVA_OPTIONS=-Drefine.headless=true' ".openrefine/refine.ini"
+      - | # set autosave period from 5 minutes to 25 hours
+        sed -i 's/#REFINE_AUTOSAVE_PERIOD=60/REFINE_AUTOSAVE_PERIOD=1440/' ".openrefine/refine.ini"
+      - | # install openrefine-client into subdirectory .openrefine
+        wget --no-verbose -O .openrefine/client https://github.com/opencultureconsulting/openrefine-client/releases/download/v0.3.10/openrefine-client_0-3-10_linux
+        chmod +x .openrefine/client
+
+  install_vufindharvest:
+    cmds:
+      - | # requirement php
+        if [ -z "$(which php 2> /dev/null)" ]; then
+          echo 1>&2 "This task needs PHP 7.3+"; exit 1
+        fi
+      - | # requirement composer
+        if [ -z "$(which composer 2> /dev/null)" ]; then
+          echo 1>&2 "This task needs Composer https://getcomposer.org"; exit 1
+        fi
+      - | # install VuFindHarvest into subdirectory .vufindharvest
+        mkdir -p .vufindharvest
+        wget --no-verbose -O vufindharvest.zip https://github.com/vufind-org/vufindharvest/archive/v4.1.0.zip
+        unzip vufindharvest.zip && mv vufindharvest-*/* .vufindharvest && rm -r vufindharvest*
+        (cd .vufindharvest && composer install)
+
+  harvest:
+    desc: harvest all records from OAI-PMH
+    cmds:
+      - | # requirement VuFindHarvest
+        if [ ! -f .vufindharvest/bin/harvest_oai.php ]; then
+          echo 1>&2 "VuFindHarvest missing; try task install_vufindharvest"; exit 1
+        fi
+      - | # prepare workspace
+        mkdir -p input
+      - | # harvest all journals
+        (cd input && php ../.vufindharvest/bin/harvest_oai.php --ini ../config/harvest.ini)
+      - | # rename harvested files
+        (cd input &&
+        find . -name '*_*.xml' |
+        while IFS= read -r path; do
+            f="${path##*/}"
+            d="${path%/*}"
+            n="${f%.*}"
+            mv -f "$path" "${d}"/"${n:11}.xml"
+        done)
+      - | # handle deleted records
+        (cd input &&
+        find . -name '*.delete' |
+        while IFS= read -r path; do
+            f="${path##*/}"
+            d="${path%/*}"
+            n="${f%.*}"
+            rm -f "${d}"/"${n:11}.xml"
+            rm -f ../output/"${d}"/"${n:11}.xml"
+            rm "$path"
+        done)
+      - | # check results
+        minimum="3000"
+        count="$(find input -name '*.xml' | wc -l)"
+        if [ "$minimum" -le "$count" ]; then
+          echo "Download enthält $count Datensätze"
+        else
+          echo 1>&2 "Anzahl der heruntergeladenen Datensätze (${count}) entspricht nicht der erwarteten Mindestanzahl (${minimum})! Bitte manuell prüfen."; exit 1
+        fi
+
+  transform:
+    desc: transform data to mets/mods xml
+    cmds:
+      - task: transform_start
+      - defer: { task: transform_stop } # will run even when one of the following commands fail
+      - task: transform_client
+      - task: transform_split
+      - task: transform_validate
+    sources:
+      - input/*/*.xml
+      - config/**
+    generates:
+      - output/**
+
+  transform_start:
+    cmds:
+      - | # requirement OpenRefine
+        if [ ! -f .openrefine/refine ]; then
+          echo 1>&2 "OpenRefine missing; try task install_openrefine"; exit 1
+        fi
+      - | # delete temporary files of previous run
+        rm -rf .openrefine/data .openrefine/log.txt
+      - | # launch OpenRefine with specific data directory and redirect its output to a log file
+        .openrefine/refine -v warn -p 3333 -m 5120M -d data >> .openrefine/log.txt 2>&1 &
+      - | # wait until OpenRefine API is available
+        timeout 30s bash -c "until wget -q -O - -o /dev/null http://localhost:3333 | cat | grep -q -o OpenRefine; do sleep 1; done"
+
+  transform_client:
+    cmds:
+      - | # prepare workspace
+        mkdir -p output
+      - | # create temporary zip archive with new files (modified less than 1 day ago)
+        zip -r -q input/tmp.zip config/schema.xml -@ <<< $(find input -name '*.xml' -mtime -1)
+      - | # import (requires absolute path)
+        .openrefine/client \
+        --create "$(readlink -m input/tmp.zip)" \
+        --format xml \
+        --recordPath oai_dc:dc \
+        --storeEmptyStrings false --trimStrings true \
+        --projectName wwu-journals \
+        > >(tee -a .openrefine/log.txt) 2>&1
+      - | # delete temporary zip archive
+        rm input/tmp.zip
+      - | # apply transformation rules
+        for f in config/*.json; do
+          .openrefine/client wwu-journals --apply "$f" > >(tee -a .openrefine/log.txt) 2>&1
+        done
+      - | # templating export to METS:MODS
+        .openrefine/client wwu-journals \
+        --template "$(< config/template.txt)" \
+        --rowSeparator '' \
+        --output "$(readlink -m output/wwu-journals.txt)" \
+        > >(tee -a .openrefine/log.txt) 2>&1
+
+  transform_stop:
+    cmds:
+      - | # kill OpenRefine gracefully and print stats
+        PID="$(lsof -t -i:3333)"
+        echo "used $(($(ps --no-headers -o rss -p "$PID") / 1024)) MB RAM" > >(tee -a .openrefine/log.txt) 2>&1
+        echo "used $(ps --no-headers -o cputime -p "$PID") CPU time" > >(tee -a .openrefine/log.txt) 2>&1
+        kill $PID; while ps -p $PID > /dev/null; do sleep 1; done
+      - | # archive OpenRefine projects
+        for p in .openrefine/data/*.project/
+            do tar -czf .openrefine/data/"${p:17:13}.openrefine.tar.gz" -C $p .
+        done
+      - | # check log file
+        if grep -i 'exception\|error' .openrefine/log.txt
+          then echo 1>&2 "log contains warnings!"; echo; cat .openrefine/log.txt; exit 1
+        fi
+
+  transform_split:
+    cmds:
+      - | # split into one file per record
+        (cd output &&
+        csplit -s -z wwu-journals.txt '/<mets:mets /' "{*}" &&
+        rm wwu-journals.txt)
+      - | # rename files
+        (cd output &&
+        for f in xx*
+            do mv "$f" "$(xmllint --xpath "//*[local-name(.) = 'recordIdentifier']/text()" "$f").xml"
+        done)
+
+  transform_validate:
+    desc: check output and validate against METS schema
+    cmds:
+      - | # requirement xmllint
+        if [ -z "$(which xmllint 2> /dev/null)" ]; then
+          echo 1>&2 "This task needs xmllint"; exit 1
+        fi
+      - | # check results
+        minimum="3000"
+        count="$(find output -name '*.xml' | wc -l)"
+        if [ "$minimum" -le "$count" ]; then
+          echo "Es wurden $count Datensätze generiert"
+        else
+          echo 1>&2 "Anzahl der generierten Datensätze (${count}) entspricht nicht der erwarteten Mindestanzahl (${minimum})! Bitte manuell prüfen."
+        fi
+      - | # validate against METS schema
+        xmllint --schema config/mets.xsd --noout output/*.xml
+
+  git:
+    desc: commit and push if something changed
+    cmds:
+      - git add -A
+      - git commit -m "latest change $(date -u)" || exit 0
+      - git push
