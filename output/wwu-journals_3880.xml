@@ -3,11 +3,11 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>الوحي القرآني بوصفه كلام الله في خطاب إنسانيّ</title>
                         <subTitle>مقاربة أنثروبولوجيّة</subTitle>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>Quranic revelation as the word of God in a human discourse</title>
                         <subTitle>Anthropological approach</subTitle>
                     </titleInfo>

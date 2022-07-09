@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Specific immune modulation of experimental colitis drives enteric alpha-synuclein accumulation and triggers age-related Parkinson-like brain pathology</title>
                     </titleInfo>
                     <name type="personal">
@@ -239,7 +239,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3326/3338" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3326">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3326/3335" LOCTYPE="URL"/>
             </mets:file>

@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 02.2020.017</title>
                         <subTitle>The Chronicle of the Logothete. Translated with introduction, commentary and indices by Staffan Wahlgren: (Translated Texts for Byzantinists 7). Liverpool: Liverpool University Press 2019.</subTitle>
                     </titleInfo>

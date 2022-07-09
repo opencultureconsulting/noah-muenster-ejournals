@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 02.2020.005</title>
                         <subTitle>Michael Psellus, Epistulae. Vol. 1–2, edidit Stratis Papaioannou: (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana 2030). Berlin – Boston: de Gruyter 2019.</subTitle>
                     </titleInfo>

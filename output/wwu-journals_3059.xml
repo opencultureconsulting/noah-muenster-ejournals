@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 02.2020.026</title>
                         <subTitle>Stefan Rebenich – Hans-Ulrich Wiemer (eds.), A Companion to Julian the Apostate: (Brill’s Companions to the Byzantine World 5). Leiden – Boston: Brill 2020.</subTitle>
                     </titleInfo>

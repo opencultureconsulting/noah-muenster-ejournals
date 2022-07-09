@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 03.2021.007</title>
                         <subTitle>Margaret Mullett – Robert G. Ousterhout (eds.), The Holy Apostles: A Lost Monument, a Forgotten Project, and the Presentness of the Past: (Dumbarton Oaks Byzantine Symposia and Colloquia). Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2020.</subTitle>
                     </titleInfo>

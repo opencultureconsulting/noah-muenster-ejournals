@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 03.2021.017</title>
                         <subTitle>Karin Metzler (ed.), Prokop von Gaza, Eclogarum in libros historicos Veteris Testamenti epitome. 2020 / Karin Metzler (ed.), Prokop von Gaza, Der Exoduskommentar. 2020</subTitle>
                     </titleInfo>

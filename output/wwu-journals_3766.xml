@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Soluble brain homogenates from diverse human and mouse sources preferentially seed diffuse Aβ plaque pathology when injected into newborn mouse hosts</title>
                     </titleInfo>
                     <name type="personal">
@@ -183,7 +183,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3766/3920" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3766">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3766/3919" LOCTYPE="URL"/>
             </mets:file>

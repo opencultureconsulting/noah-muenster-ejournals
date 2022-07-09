@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <nonSort>THE </nonSort>
                         <title>RISE AND FALL OF THE VICTORIAN THREE-VOLUME NOVEL</title>
                     </titleInfo>

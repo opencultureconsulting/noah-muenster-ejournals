@@ -3,10 +3,10 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>مفهوم السلام في اليهوديّة والمسيحيّة والإسلام لجورج تامر وآخرين</title>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <nonSort>The </nonSort>
                         <title>Concept of Peace in Judaism, Christianity and Islam, by Georges Tamer et (ed.)</title>
                     </titleInfo>

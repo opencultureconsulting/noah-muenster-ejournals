@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 03.2021.028</title>
                         <subTitle>Ingo Schaaf (ed.), Animal Kingdom of Heaven.: Anthropozoological Aspects in the Late Antique World (Millennium-Studien 80). Berlin – Boston: De Gruyter 2019.</subTitle>
                     </titleInfo>

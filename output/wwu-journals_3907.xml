@@ -3,10 +3,10 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>تطور الدِّين إلى العقلانية قراءة في كتاب كيف يتكون الدين؟ لألفرد هوايتهد</title>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>Religion in the Making by Alfred North Whitehead</title>
                     </titleInfo>
                     <name type="personal">

@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Megarian Local Adjudication</title>
                         <subTitle>The Case of the Border Dispute between Epidauros and Corinth in 242-240 BCE (IG IV2.I.70 and 71)</subTitle>
                     </titleInfo>

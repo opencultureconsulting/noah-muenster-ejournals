@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Toward interdisciplinary research-based teaching in linguistics</title>
                         <subTitle>Integrating students into project-oriented teaching and research practices at the intersection of (applied) English linguistics and TEFL</subTitle>
                     </titleInfo>

@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 04.2022.002</title>
                         <subTitle>Eleni Kefala, The Conquered. Byzantium and America on the Cusp of Modernity : (Extravagantes 1). Washington D.C.: Dumbarton Oaks Research Library and Collection 2020.</subTitle>
                     </titleInfo>

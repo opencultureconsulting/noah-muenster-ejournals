@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 03.2021.020</title>
                         <subTitle>Ingela Nilsson, Writer and Occasion in Twelfth-century Byzantium: the Authorial Voice of Constantine Manasses.: Cambridge – New York: Cambridge University Press 2020.</subTitle>
                     </titleInfo>

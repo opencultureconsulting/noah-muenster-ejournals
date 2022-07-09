@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4309">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Deprivilegierung und Umverteilung</title>
+                        <subTitle>Suffizienzorientierte Stadtgestaltung als kommunales Konfliktfeld</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böcker, Maike</displayForm>
+                        <namePart type="family">Böcker</namePart>
+                        <namePart type="given">Maike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lage, Jonas</displayForm>
+                        <namePart type="family">Lage</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Christ, Michaela</displayForm>
+                        <namePart type="family">Christ</namePart>
+                        <namePart type="given">Michaela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-06-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Städte und Gemeinden stehen schon länger vor der Herausforderung, ihre Flächeninanspruchnahme zu senken. Maßnahmen, die dieses Ziel verfolgen, werden als Suffizienzmaßnahmen beschrieben. Anders als die technikorientierten Nachhaltigkeitsstrategien der Effizienz und Konsistenz nimmt ein suffizienzorientierter Zugang die Veränderung sozialer Praktiken in den Blick und stellt die Frage nach dem „rechten Maß“.
+Anhand einer qualitativen Interviewstudie in 12 kommunalen Suffizienzprojekten in Deutschland und der Schweiz fragt der Beitrag, weshalb und welche Konflikte bei und infolge der Umsetzung von Suffizienzmaßnahmen auftreten und erörtert, wie diese Konflikte in größere gesellschaftliche Strukturen eingebettet sind. Da Suffizienzpolitik Verteilungsfragen nicht mit weiterem Wachstum, sondern mit Umverteilung beantwortet, nehmen Konflikte um Deprivilegierung einen zentralen Stellenwert ein. Zudem lassen sich Konflikte um die zukünftige Gestaltung der Stadt, Ressourcenkonflikte und nicht-intendierte Folgen, wie Prozesse der green gentrification, beobachten. Der soziale und ökonomische Kontext einer Wachstumsgesellschaft ist grundlegend für die Konflikthaftigkeit von Suffizienzmaßnahmen.
+Cities and municipalities have been facing the challenge of reducing their land use for a long time. But taking up less land is difficult and usually conflictual. Measures that pursue this goal can be described as sufficiency measures. Unlike the technology-oriented sustainability strategies of efficiency and consistency, a sufficiency-oriented approach focuses on changing social practices and asks what „enough” means.
+Based on a qualitative interview study in 12 municipal sufficiency projects in Germany and Switzerland, the article asks why and which conflicts arise during and as a result of the implementation of sufficiency measures and discusses how these conflicts are embedded in larger social structures. Since sufficiency policy does not answer distributional questions with further growth, but with redistribution, conflicts over deprivation of privileges take on a central role. In addition, conflicts over the future design of the city, resource conflicts and unintended consequences, such as processes of green gentrification, can be observed. The social and economic context of a growing society is fundamental to the conflictual nature of sufficiency measures.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>64</start>
+                                <end>83</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/sun-2022-4309</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED.DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4309</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4309">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/4309/4360" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4309" DMDID="DMD_wwu-journals_4309">
+            <mets:fptr FILEID="FILE0_wwu-journals_4309"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

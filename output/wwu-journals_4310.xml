@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vor der eigenen Haustür ‚caren‘</title>
+                        <subTitle>Politik der Nachhaltigkeit im Paradigma des Terrestrischen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beck, Gerald</displayForm>
+                        <namePart type="family">Beck</namePart>
+                        <namePart type="given">Gerald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jende, Robert</displayForm>
+                        <namePart type="family">Jende</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-06-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die moderne Lebensweise ist unmittelbar verknüpft mit einer Politik der Nicht-Nachhaltigkeit. Modern sein bedeutet, über die planetaren Verhältnisse zu leben. Demgegenüber stellt eine von Bruno Latour prominent angestoßene Debatte das Terrestrische als Prinzip und Wirkmacht in den Mittelpunkt. Der Beitrag zeigt aus der Gegenüberstellung des Terrestrischen und des Modernen als unterschiedliche Paradigmen des Weltzugangs eine Politik der Nachhaltigkeit auf, die sich an lokalen Bedürfnissen ausrichtet. Dabei wird die Tätigkeit des Reparierens als erdverbundene Weltbeziehung der Sorge rekonstruiert. Als Beispiel eines Ortes terrestrischer Daseinsvorsorge und der Versammlung auch nicht-menschlicher Akteur*innen wird das Demokratiecafé vorgestellt. Für eine Politik der Nachhaltigkeit müssten die (modernen) Menschen auf dem Erdboden landen, auf und von dem sie leben, also in der „kritischen Zone“. Mit einer terrestrischen Wende ergibt sich für die Nachhaltigkeitssoziologie eine Perspektivverschiebung, um entlang der von Bruno Latour vorgeschlagenen Attraktoren zwischen nachhaltigen und nicht-nachhaltigen Politiken und Praktiken zu unterscheiden.
+The modern way of life is directly linked to a policy of unsustainability. To be modern means to live beyond planetary conditions. A contrasting debate, prominently initiated by Bruno Latour, suggests to focus on the terrestrial as guiding principle and agency instead. By comparing the terrestrial and the modern as different paradigms, this paper points to a politics of sustainability that is designed by local needs. It illustrates repairing as a terrestrial way of care. Democracy Cafés are presented as an example of terrestrial public service and assembly of human and non-human actors. For a politics of sustainability, (modern) people would need to land on the territory on which and from which they live: the „critical zone“, where life on earth happens. A terrestrial turn would enable sociology of sustainability to differentiate between sustainable and non-sustainable politics and practices following the attractors suggested by Bruno Latour.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>84</start>
+                                <end>105</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/sun-2022-4310</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED.DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4310">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/4310/4361" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4310" DMDID="DMD_wwu-journals_4310">
+            <mets:fptr FILEID="FILE0_wwu-journals_4310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

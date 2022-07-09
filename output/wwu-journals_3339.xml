@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 03.2021.016</title>
                         <subTitle>Andrea Olsen Lam – Rossitza Schroeder (eds.), The Eloquence of Art: Essays in Honour of Henry Maguire: (Birmingham Byzantine and Ottoman Studies s.n.). Abingdon – New York: Routledge 2020.</subTitle>
                     </titleInfo>

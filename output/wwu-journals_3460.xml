@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 03.2021.022</title>
                         <subTitle>Alessandra Bucossi – Anna Calia (eds.), Contra Latinos et adversus Graecos.: The Separation between Rome and Constantinople from the Ninth to the Fifteenth Century (Orientalia Lovaniensia Analecta 286 = Bibliothèque de Byzantion 22). Leuven – Paris – Bristol, CT: Peeters 2020.</subTitle>
                     </titleInfo>

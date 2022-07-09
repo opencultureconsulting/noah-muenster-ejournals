@@ -6,7 +6,7 @@
                     <titleInfo lang="ger">
                         <title>Vespasian und sein Feldherr. Personalisierte Denare für das römische Britannien?</title>
                     </titleInfo>
-                    <titleInfo type="translated">
+                    <titleInfo lang="eng" type="translated">
                         <title>Vespasian and his general. Personalized denarii for Roman Britain?</title>
                     </titleInfo>
                     <name type="personal">
@@ -71,7 +71,7 @@
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3071/3012" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3071">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3071/3011" LOCTYPE="URL"/>
             </mets:file>

@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>SARS-CoV-2 vaccination induced cerebral venous sinus thrombosis</title>
                         <subTitle>Do megakaryocytes, platelets and lipid mediators make up the orchestra?</subTitle>
                     </titleInfo>
@@ -76,7 +76,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3395/3445" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3395">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3395/3446" LOCTYPE="URL"/>
             </mets:file>

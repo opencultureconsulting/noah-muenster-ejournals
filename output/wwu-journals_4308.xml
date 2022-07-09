@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4308">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Werte, Wissen und Interessen</title>
+                        <subTitle>Konflikte im Kontext der deutschen und Schweizer Endlagerpolitik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuppler, Sophie</displayForm>
+                        <namePart type="family">Kuppler</namePart>
+                        <namePart type="given">Sophie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bechthold, Elske</displayForm>
+                        <namePart type="family">Bechthold</namePart>
+                        <namePart type="given">Elske</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-06-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">40</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Entsorgung hochradioaktiver Abfälle ist ein Problem, das viele Generationen beschäftigt. Im Rahmen der damit einhergehenden hartnäckig geführten Konflikte werden verschiedene Lösungsansätze verhandelt, wie bspw. der Schutz von Mensch und Umwelt gewährleistet werden kann oder&amp;nbsp; Generationengerechtigkeit Berücksichtigung findet. Vor dem Hintergrund konfliktsoziologischer Konzepte werden in diesem Beitrag die dynamischen Konfliktfelder der Endlagerung in Deutschland und der Schweiz analysiert. Verschiedene Ansätze der Konfliktregulierung werden daraufhin geprüft, ob diese auf die bisher relevanten Konfliktgegenstände reagieren konnten. Wir kommen zu dem Schluss, dass eine differenzierte Betrachtung des Konfliktfeldes unerlässlich ist, um Ansätze der Konfliktbearbeitung zu entwickeln, die sowohl auf Machtungleichgewichte, Werte und Normen als auch das Anerkennen verschiedener Perspektiven und legitimer Rechte angemessen eingehen. Dies gilt nicht nur für den in seiner zeitlichen Unbegrenztheit beispiellosen Endlagerkonflikt, sondern auch für Konfliktbearbeitungsansätze im Kontext einer sozial-ökologischen Transformation.
+The disposal of high-level radioactive waste is a problem that has preoccupied many generations. In the context of the persistent conflicts that this entails, various possible solutions are being negotiated. For example, how the protection of the people and the environment can be guaranteed or how intergenerational justice is taken into account. Against the background of conflict-sociological concepts, the dynamic conflict areas of final disposal in Germany and Switzerland are analysed in this article. Different approaches to conflict regulation are examined to see whether they were able to react to the so far relevant objects of conflict. We come to the conclusion that a differentiated view of the conflict area is essential in order to develop approaches to conflict management that adequately address aspects such as power imbalances, values and norms as well as recognition of different perspectives and legitimate rights. This applies not only to the unprecedented permanent storage conflict in its unlimited duration, but also to conflict management approaches in the context of a socio-ecological transformation.
+(peer reviewed)</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Soziologie und Nachhaltigkeit</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
+                        </originInfo>
+                        <identifier type="issn">2364-1282</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>24</start>
+                                <end>63</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/sun-2022-4308</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED.DE</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4308</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4308">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/sun/article/download/4308/4359" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4308" DMDID="DMD_wwu-journals_4308">
+            <mets:fptr FILEID="FILE0_wwu-journals_4308"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

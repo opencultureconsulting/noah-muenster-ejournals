@@ -3,11 +3,11 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>سرديّة ذات نزوعات تنويريّة في الخطاب الإصلاحي الإسلاميّ المعاصر</title>
                         <subTitle>النشأة والتطوّر والانتكاس</subTitle>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>Narrative with enlightening tendencies in contemporary Islamic reform discourse</title>
                         <subTitle>Origin, development and relapse</subTitle>
                     </titleInfo>

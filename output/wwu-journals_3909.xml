@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 04.2022.012</title>
                         <subTitle>Klaas Bentein – Mark Janse (eds), Varieties of Post-Classical and Byzantine Greek: (Trends in Linguistics. Studies and Monographs 331). Berlin: De Gruyter – Mouton 2021.</subTitle>
                     </titleInfo>

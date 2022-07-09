@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 04.2022.009</title>
                         <subTitle>Silvia Ronchey, Hypatia. The True Story. : English translation by Nicolò Sassi, with the collaboration of Giulia Maria Paoletti. Berlin – Boston: De Gruyter 2021.</subTitle>
                     </titleInfo>

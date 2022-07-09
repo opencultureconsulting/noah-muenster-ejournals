@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Altruistic Reconstructions</title>
                         <subTitle>An Examination of Charles Taylor’s Philosophical Anthropology in Man of La Mancha (1972) and Zorba the Greek (1964)</subTitle>
                     </titleInfo>

@@ -3,11 +3,11 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>من مبدأ الإيمان الفردي في كل وقت</title>
                         <subTitle>حول سؤال النقد الدينيّ للذات في الإسلام</subTitle>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>From the maxim of Know thyself at all times</title>
                         <subTitle>On the question of religious self-criticism in Islam</subTitle>
                     </titleInfo>

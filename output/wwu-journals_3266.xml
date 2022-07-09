@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Detailed neuropathologic report of COVID-19 complicated by large intracerebral hemorrhage and periventricular lesions with macrophagic infiltrates</title>
                     </titleInfo>
                     <name type="personal">
@@ -107,7 +107,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3266/3290" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3266">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3266/3288" LOCTYPE="URL"/>
             </mets:file>

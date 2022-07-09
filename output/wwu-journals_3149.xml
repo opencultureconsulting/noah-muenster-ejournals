@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Out of Time</title>
                         <subTitle>Temporal and Heteropatriarchal Confinements in Sarah Waters&apos; Fingersmith</subTitle>
                     </titleInfo>

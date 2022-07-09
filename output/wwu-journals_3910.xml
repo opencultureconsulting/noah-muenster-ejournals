@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Neurovascular disease</title>
+                        <subTitle>2022 update</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>McCullough, Louise D.</displayForm>
+                        <namePart type="family">McCullough</namePart>
+                        <namePart type="given">Louise D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-06-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In this update we present a series of papers focused on topics that have emerged in vascular disease over the prior year. The first two papers focus on the pathogenesis of vascular malformations, the first on brain arteriovenous malformations, and the second on cerebral cavernous malformations. These disorders can lead to significant brain injuries from intracerebral hemorrhage (if they rupture) or other neurological complications, including seizures. The next set of papers reflects work that has advanced our understanding of how the brain and the immune system “communicate” after brain injury, including stroke (papers 3-6). The first of these shows that T cells are involved in white matter repair after ischemic injury, an effect dependent on microglia, demonstrating the important cross-talk between innate and adaptive immunity. The next two papers focus on B cells, which have been relatively understudied in the context of brain injury. The contribution of antigen-experienced B cells from the meninges and skull bone marrow, rather than blood-derived B cells in neuroinflammation opens up a very novel area of investigation. The possibility that antibody secreting B cells may contribute to vascular dementia will certainly be an active area for future investigations. Similarly, in paper 6, investigators found that CNS-infiltrating myeloid cells can originate from brain borders tissues. These cells have unique transcriptional signatures that are distinct from their blood-derived counterparts, and likely contribute to myeloid cell infiltration from bone-marrow niches in close proximity to the brain. The contribution of microglia, the primary innate immune cell of the brain, to amyloid deposition and propagation is then discussed, followed by work on how perivascular Aβ is potentially cleared along the cerebral vessels in patients with cerebral amyloid angiopathy. The final two papers focus on the contribution of senescent endothelial cells and pericytes. The first used a model of accelerated senescence (Hutchinson-Gilford progeria syndrome; HGPS) and shows the translational potential of an approach to reduce telomere shortening to slow aging. The final paper demonstrates how capillary pericytes contribute to basal blood flow resistance and slow modulation of blood flow throughout the brain. Interestingly, several of the papers identified therapeutic strategies that could be potentially translated into clinical populations.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-43160</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3910</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3910</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3910">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3910/4316" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3910">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3910/4315" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3910" DMDID="DMD_wwu-journals_3910">
+            <mets:fptr FILEID="FILE0_wwu-journals_3910"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3910" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3910"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

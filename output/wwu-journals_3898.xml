@@ -3,10 +3,10 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>الفلسفة بصفتها ‘هويّة مُقاوِمَة’؟ حوارٌ في الاختلاف الفلسفيّ الحداثويّ مع طه عبد الرحمن</title>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>Philosophy as a ‘resistance identity’? Dialogue on modernist philosophical difference with Taha Abdul Rahman</title>
                     </titleInfo>
                     <name type="personal">

@@ -3,11 +3,11 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>سؤال الذات والحرية بين الموروثين العربيّ-الإسلاميّ والغربي</title>
                         <subTitle>إشكالية التنوير في تمحّلاتها</subTitle>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <nonSort>The </nonSort>
                         <title>Question of self and freedom between the Arab-Islamic and Western traditions</title>
                         <subTitle>The problematic of enlightenment in its striving</subTitle>

@@ -1,0 +1,52 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4312</id>
+	<dc:title xml:lang="en-US">1. Excavation Reports</dc:title>
+	<dc:description xml:lang="en-US">Thierry LUCAS (École française d’Athènes)
+Jesús GARCIA SANCHEZ (Instituto de Arqueología, Mérida IAM, CSIC-Junta de Extremadura)                                  
+ 
+LiDAR Operation in Boeotia:
+Akraiphia and the Vale of the Muses  
+ 
+
+The 2021 mission
+
+In May 2021 a LiDAR flight has been conducted under the aegis of the French School at Athens, at two Boeotian sites on which the School is currently working: the acropolis of Akraiphia (mod. Akraifnio) and the Vale of the Muses. The mission’s aim was, first, to test the potentialities of this analysis method to improve the topographical study of the two sites.
+In the case of Akraiphia, the acropolis is covered with thick vegetation, making topographical or artefactual survey impossible given the low visibility on the ground. The aim of the mission was therefore to locate, thanks to the LiDAR data, traces of occupation on the top and on the northern flank of the hill of Skopia, and to help the study of the city-wall[1] by Thierry Lucas, who treated and studied the data.
+In the case of the Vale of the Muses, the context is different, since the vegetation on the site of the sanctuary itself has a lower density than at Akraiphia. The visibility on the ground being generally adequate, the challenge was more modest: to find traces of the ancient excavation trenches and of the monuments described during the excavations of the 19th century, and to identify, if possible, the limits of the area occupied by the sanctuary and, in the best case, the traces of undocumented remains. These data, treated and interpreted by Jesús García Sánchez, will help the study of the site conducted by the French School (Y. Kalliontzis and G. Biard) and by the team of the Boeotia Project (J. Bintliff, who generously contributed to the funding of the mission).
+
+ Akraiphia (Th. Lucas)
+
+On the aerial imagery from Akraiphia, it was already possible to distinguish alternating vegetated and bare-ground areas, both on the top of the acropolis and on the northern flank of the hill of Skopia, where the remains of terraces could be easily distinguished. On the summit of the acropolis, the vegetation also forms more or less parallel lines in some places, which suggests that the ancient occupation has left a lasting mark on the terrain (Figure 1). However, the DTM derived from the LiDAR data allows us to go much further (Figure 2): the urban grid is clearly visible on the top of the acropolis, in particular a group of well legible blocks (Figure 2, no. 1), of homogeneous dimensions. Remains of buildings are clearly visible in several of these blocks.
+On the northern flank of the acropolis, where the main part of the city was to be built, the terraces were for the most part already visible, and the breaks in the slope, heavily covered by dense vegetation, did not provide any additional data. However, some north-south axes can be seen, as well as at least two diagonals (Figure 2, no. 3), which cannot be said with certainty to be part of the ancient urban grid. On the western part of this slope, where the land has been heavily reworked for agricultural purposes, it is not possible to read traces that could be linked with certainty to the ancient city.
+At the bottom of the slope, on the other hand, a semicircular cavity, about 30 m in diameter, undoubtedly corresponds to the ancient theatre (Figure 2, no. 3). The building is also located at the western end of a trapezoidal space that stands out clearly from the rest of the plan (Figure 2, no. 4), where one can also distinguish several lines that correspond either to terraces or the remains of important buildings. In all probability, it was a public space, perhaps the ancient agora, which M. Feyel and P. Guillon had sought in vain a little further east.[2]
+Finally, the line of the city wall can be followed very clearly on the DTM. An in-depth study is necessary, but several towers can be located thanks to the reliefs they form.
+Overall, the results of the operation at Akraiphia are extremely positive: the LiDAR data allow the important elements of the ancient city to be reconstructed with precision. It is a technical tool clearly adapted to this type of context, despite the presence of low vegetation. However, much remains to be done to analyse these data in greater detail, both on the acropolis and in the immediate surroundings of the ancient city.
+
+Vale of the Muses (J. García Sánchez)
+
+In the case of the Vale of the Muses, the combination of different visualisation techniques (chiefly Hillshade, Local relief models and orthophotography) has produced some interesting results. An overall image of the interpreted structures can be seen in the following figure (Figure 3). The data presented here could serve to refresh the early investigations done by Roux[3], and as a base for other ongoing projects in the area that could verify the information on the ground, or as it is called nowadays “ground truthing”.
+Figure 3 shows an important concentration of archaeological features in the slopes south of the Permessos stream. That area includes the remains of a previously excavated altar (1). The altar remains are visible even with the filtering algorithm. Nevertheless, in order to be able to detect further archaeological features a compromise has to be made between vegetation filters and preservation of smaller archaeological elements.
+Another major element is the portico (2), which presents a series of ashlar blocks visible on the surface. Roux also described and reconstructed this portico[4] after Jamot and Bonnard’s drawings. This element is circa 62 m. length and seems to overlap with other structures, possible enclosing elements of the sanctuary.
+The area around the altar and the portico is indeed the richer zone in the Valley of the Muses and the linear features spotted in several locations, could be interpreted as terracing elements and enclosing works of the sanctuary. In this case, low vegetation prevents us from spotting isolated ashlar blocks that could be related to new buildings that were part of the sanctuary complex.
+Besides the core sanctuary area, other conspicuous elements could be detected in the area, such as the remains of the theatre at the hill-foot of the Helicon mountain (Figure 4). The orthophotography shows a dispersion of blocks and structures partially visible which could be interpreted as the theatre front. The LiDAR data illustrate the landscape forming the canonical theatre form with up-down divisions well. Other marks could be tentatively interpreted as seat rows or agricultural plough lines, although the latter possibility could be too thin to be visible in the LiDAR data.
+Farther south, feature 5 could be interpreted as an abandoned enclosure of unknown chronology and function. It is possible related with animal husbandry in the area. Other similar features appear at the Easternmost area of the LiDAR datasets, alongside the Permessos stream, again both chronology and functionality is unclear.
+ 
+[1] For a map of the fortifications, see Chr. MÜLLER, “Le Ptoion et Akraiphia (Béotie)”, BCH 120 (1996), p. 858.
+[2] See “Chronique des fouilles”, BCH 60 (1936), p. 461; and, for a more nuanced account, M. FEYEL, “Inscriptions inédites d’Akraiphia”, BCH 79 (1955), p. 419-423.
+[3] G. ROUX, “Le Val des Muses et les Musées chez les auteurs anciens”, BCH 78 (1954), p. 22-48.
+[4] G. ROUX, op. cit., p. 30.
+For figures click here.</dc:description>
+	<dc:publisher xml:lang="de-DE">Teiresias Journal Online</dc:publisher>
+	<dc:publisher xml:lang="en-US">Teiresias Journal Online</dc:publisher>
+	<dc:date>2022-07-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/tjo/article/view/4312</dc:identifier>
+	<dc:source xml:lang="de-DE">Teiresias Journal Online; Bd. 1 Nr. 1 (2022): Teiresias Journal Online</dc:source>
+	<dc:source xml:lang="en-US">Teiresias Journal Online; Vol. 1 No. 1 (2022): Teiresias Journal Online</dc:source>
+	<dc:source>10.17879/tjo-2022-vol1</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/tjo/article/view/4312/4368</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/tjo/article/view/4312/4369</dc:relation>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>

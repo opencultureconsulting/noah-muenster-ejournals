@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 04.2022.007</title>
                         <subTitle>Pauline Allen – Bronwen Neil, Greek and Latin Letters in Late Antiquity: The Christianisation of a Literary Form.: Cambridge: Cambridge University Press 2020.</subTitle>
                     </titleInfo>

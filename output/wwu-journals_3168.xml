@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 02.2020.032</title>
                         <subTitle>Alexander Brungs – Georgi Kapriev – Vilem Mudroch (eds.), Die Philosophie des Mittelalters.: Band 1: Byzanz. Judentum (Grundriss der Geschichte der Philosophie). Basel: Schwabe Verlag 2019.</subTitle>
                     </titleInfo>

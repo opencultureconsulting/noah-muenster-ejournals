@@ -7,7 +7,7 @@
                         <nonSort>Eine </nonSort>
                         <title>Pipeline zur Digitalisierung tabellenbasierter Fundmünzdaten aus PDF-Dokumenten</title>
                     </titleInfo>
-                    <titleInfo type="translated">
+                    <titleInfo lang="eng" type="translated">
                         <nonSort>A </nonSort>
                         <title>pipeline for digitizing table-based coin find data from PDF documents</title>
                     </titleInfo>
@@ -72,7 +72,7 @@
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2778/2691" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2778">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2778/2692" LOCTYPE="URL"/>
             </mets:file>

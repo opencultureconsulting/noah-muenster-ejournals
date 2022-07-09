@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 04.2022.005</title>
                         <subTitle>Roland Betancourt, Performing the Gospels in Byzantium: Sight, Sound, and Space in the Divine Liturgy.: Cambridge – New York: Cambridge University Press, 2021.</subTitle>
                     </titleInfo>

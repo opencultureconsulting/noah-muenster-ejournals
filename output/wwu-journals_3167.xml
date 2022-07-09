@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 02.2020.031</title>
                         <subTitle>Alessandro Garcea – Michela Rosellini – Luigi Silvano (eds.), Latin in Byzantium I, Late Antiquity and Beyond: (Corpus Christianorum, Lingua patrum 12). Turnhout: Brepols 2019.</subTitle>
                     </titleInfo>

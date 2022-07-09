@@ -1,0 +1,173 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4076">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pigmented ependymoma, a tumor with predilection for the middle-aged adult</title>
+                        <subTitle>case report with methylation classification and review of 16 literature cases</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Himstead, Alexander</displayForm>
+                        <namePart type="family">Himstead</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Perez-Rosendahl, Mari</displayForm>
+                        <namePart type="family">Perez-Rosendahl</namePart>
+                        <namePart type="given">Mari</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fote, Gianna</displayForm>
+                        <namePart type="family">Fote</namePart>
+                        <namePart type="given">Gianna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zhang, Angie</displayForm>
+                        <namePart type="family">Zhang</namePart>
+                        <namePart type="given">Angie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kim, Michael</displayForm>
+                        <namePart type="family">Kim</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Floriolli, David</displayForm>
+                        <namePart type="family">Floriolli</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Quezado, Martha</displayForm>
+                        <namePart type="family">Quezado</namePart>
+                        <namePart type="given">Martha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aldape, Kenneth</displayForm>
+                        <namePart type="family">Aldape</namePart>
+                        <namePart type="given">Kenneth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pratt, Drew</displayForm>
+                        <namePart type="family">Pratt</namePart>
+                        <namePart type="given">Drew</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abdullaev, Zied</displayForm>
+                        <namePart type="family">Abdullaev</namePart>
+                        <namePart type="given">Zied</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Monuki, Edwin</displayForm>
+                        <namePart type="family">Monuki</namePart>
+                        <namePart type="given">Edwin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hsu, Frank</displayForm>
+                        <namePart type="family">Hsu</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Yong, William</displayForm>
+                        <namePart type="family">Yong</namePart>
+                        <namePart type="given">William</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Ependymomas have rarely been described to contain pigment other than melanin, neuromelanin, lipofuscin or a combination. In this case report, we present a pigmented ependymoma in the fourth ventricle of an adult patient and review 16 additional cases of pigmented ependymoma from the literature. A 46-year-old female showed up with hearing loss, headaches, and nausea. Magnetic resonance imaging revealed a 2.5 cm contrast-enhancing cystic mass in the fourth ventricle, which was resected. Intraoperatively, the tumor appeared grey-brown, cystic, and was adherent to the brainstem. Routine histology revealed a tumor with true rosettes, perivascular pseudorosettes and ependymal canals consistent with ependymoma, but also showed chronic inflammation and abundant distended pigmented tumor cells that mimicked macrophages in frozen and permanent sections. The pigmented cells were positive for GFAP and negative for CD163 consonant with glial tumor cells. The pigment was negative for Fontana-Masson, positive for Periodic-acid Schiff and autofluorescent, which coincide with characteristics of lipofuscin. Proliferation indices were low and H3K27me3 showed partial loss. H3K27me 3 is an epigenetic modification to the DNA packaging protein Histone H3 that indicates the tri-methylation of lysine 27 on histone H3 protein. This methylation classification was compatible with a posterior fossa group B ependymoma (EPN_PFB). The patient was clinically well without recurrence at three-month post-operative follow-up appointment. Our analysis of all 17 cases, including the one presented, shows that pigmented ependymomas are most common in the middle-aged with a median age of 42 years and most have a favorable outcome. However, one patient that also developed secondary leptomeningeal melanin accumulations died. Most (58.8%) arise in the 4th ventricle, while spinal cord (17.6%) and supratentorial locations (17.6%) were less common. The age of presentation and generally good prognosis raise the question of whether most other posterior fossa pigmented ependymomas may also fall into the EPN_PFB group, but additional study is required to address that question.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Free Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-4076</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4076</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_4076">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4076/4422" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_4076">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4076/4423" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4076" DMDID="DMD_wwu-journals_4076">
+            <mets:fptr FILEID="FILE0_wwu-journals_4076"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_4076" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_4076"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

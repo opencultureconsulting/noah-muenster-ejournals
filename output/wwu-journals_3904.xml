@@ -3,11 +3,11 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>من (الدولة) العلمانيّة أو الدينيّة إلى (الدولة) المدنية</title>
                         <subTitle>(سوء) الفهم المتعلّق بالمفاهيم المعياريّة الكثيفة</subTitle>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>From the Secular or Religious (State) to the Civil (State)</title>
                         <subTitle>(Mis)Understanding of Thick Normative Concepts in the Arab and Islamicate world(s)</subTitle>
                     </titleInfo>

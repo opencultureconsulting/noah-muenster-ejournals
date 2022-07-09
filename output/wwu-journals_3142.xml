@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <nonSort>A </nonSort>
                         <title>Brief Gramscian Analysis of the First Five Years of the AKP</title>
                         <subTitle>How the Organic Intellectuals of Turkey Helped Cement the Power of Erdoğan and his Party</subTitle>

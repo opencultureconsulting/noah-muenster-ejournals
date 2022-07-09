@@ -7,7 +7,7 @@
                         <nonSort>A </nonSort>
                         <title>Find of a Bosporan Coin at Trębaczów, site 2, Kazimierza Wielka District (Poland)</title>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <nonSort>A </nonSort>
                         <title>Find of a Bosporan Coin at Trębaczów, site 2, Kazimierza Wielka District (Poland)</title>
                     </titleInfo>
@@ -89,7 +89,7 @@
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3685/3714" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3685">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3685/3715" LOCTYPE="URL"/>
             </mets:file>

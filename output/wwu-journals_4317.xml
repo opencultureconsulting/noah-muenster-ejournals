@@ -1,0 +1,376 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4317">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>5. Language and Literature</title>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Ancient Authors
+&amp;nbsp;
+2022.1.5.01
+Giannini, P. 2021. Euripide. Supplici: i canti. I canti del teatro greco, 10. Pisa/Rome.
+(ISBN 9788833153490)
+&amp;nbsp;
+2022.1.5.02
+Halliwell, S. 2022. Aristophanes. Acharnians, Knights, Wasps, Peace. A Verse Translation, with Introduction and Notes. Oxford.
+(ISBN 9780198149958)
+&amp;nbsp;
+2022.1.5.03
+Recchia, M. 2022. Pindari et Bacchylidis Hyporchematum Fragmenta. Rome.
+(ISBN 9788884761347)
+&amp;nbsp;
+2022.1.5.04
+Whitehead, D. 2022. Isokrates: The Forensic Speeches (Nos. 16–21). Introduction, Text, Translation and Commentary. Cambridge.
+(ISBN 9781009214506)
+&amp;nbsp;
+Books
+&amp;nbsp;
+2022.1.5.05
+Almqvist, O. 2022. Chaos, Cosmos and Creation in Early Greek Theogonies. An Ontological Exploration. London. (esp. pp. 21–72, 99–132)
+(ISBN 9781350221840)
+&amp;nbsp;
+2022.1.5.06
+Athanassaki, L. and F. Titchener (eds). 2022. Plutarch’s Cities. Oxford.
+(ISBN 9780192859914)
+&amp;nbsp;
+2022.1.5.07
+Di Virgilio, L. 2021. Le monodie di Aristofane: metro, musica, drammaturgia. Quaderni della Rivista di cultura classica e medioevale, 19. Pisa.
+(ISBN 9788833153018)
+&amp;nbsp;
+2022.1.5.08
+Fowler, R.L. 2022. Pindar and the Sublime: Greek myth, reception and lyric experience. New York.
+(ISBN 9781350188419)
+&amp;nbsp;
+2022.1.5.09
+Hirsch-Luipold, R. (ed) 2022. Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston.
+(ISBN 9789004505063)
+&amp;nbsp;
+2022.1.5.10
+Morais, C., L. Hardwick and M. de Fátima Silva. 2017. Portrayals of Antigone in Portugal: 20th and 21st century rewritings of the Antigone myth. Leiden/Boston.
+(ISBN 9789004340053)
+&amp;nbsp;
+2022.1.5.11
+de Oliveira Várzeas, M.I. 2022. Plutarco. Como deve o jevem ouvir os poetas? Tradução do grego, introdução e notas. Coimbra.
+(ISBN 9789892622378)
+&amp;nbsp;
+2022.1.5.12
+Rosati, G. 2021. Narcissus and Pygmalion: illusion and spectacle in Ovid’s Metamorphoses. Oxford.
+(ISBN 9780198852438)
+&amp;nbsp;
+2022.1.5.13
+Xanthaki-Karamanou, G. 2022. ‘Dionysiac’ dialogues: Euripides’ ‘Bacchae’, Aeschylus and ‘Christus Patiens’. Trends in Classics Supplement 128. Berlin.
+(ISBN 9783110764345)
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Articles
+&amp;nbsp;
+2022.1.5.14
+Acerbo, S. 2022. “The εὐνοµώτατος ἔρανος in Pindar O. 1.25-27 and the Myth of Pelops.” Mnemosyne 75.2: 211–238.
+&amp;nbsp;
+2022.1.5.15
+Athanassaki, L. 2022. “Athenian Monumental Architecture, Iconography and Topography, in Plutarch’s De Gloria Atheniensum.” In L. Athanassaki and F. Titchener (eds). 2022. Plutarch’s Cities. Oxford: 81–103.
+&amp;nbsp;
+2022.1.5.16
+Aune, D.E. 2022. “Why Compare Plutarch and the New Testament? The Beta Project and the Form, Function and Limitations of Greco-Roman Parallel Collections.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 49–65.
+&amp;nbsp;
+2022.1.5.17
+Billings, J. 2020. “Bacchae.” In A. Markantonatos (ed), Brill’s Companion to Euripides. Leiden: 376–394.
+&amp;nbsp;
+2022.1.5.18
+Bowie, E. 2022. “Plutarch’s Chaeronaea.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 19–46.
+&amp;nbsp;
+2022.1.5.19
+Brenk, F.E. 2022. “Plutarch’s Monotheism and the New Testament.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 66–83.
+&amp;nbsp;
+2022.1.5.20
+Carter, D.M. 2020. “Children of Heracles.” In A. Markantonatos (ed), Brill’s Companion to Euripides. Leiden: 96–120.
+&amp;nbsp;
+2022.1.5.21
+Cingano, E. 2022. “Tracing Mantic Genealogies in Homer and in the Hesiodic Corpus (frr. 25, 37, 136 M-W): Polyidus and his Family.” In M. Alexandrou, C. Carey and G. Battista D’Alessio (eds), Song Regained. Working with Greek Poetic Fragments. Berlin/New York: 271–304.
+2022.1.5.22
+Crisp, R. 2022. “Oedipus Rex and the Interpretation of Literature.” Mnemosyne 75.2: 361–368.
+&amp;nbsp;
+2022.1.5.23
+De Decker, F. 2021. “The augment use in the five oldest Odes of Pindar.” Humanitas 77: 9–24.
+&amp;nbsp;
+2022.1.5.24
+De Sanctis, D. 2021. “Locus amoenus e verità poetica in Esiodo e Archiloco”. In S. Cannavale, L. Miletti, M. Regali (eds), I luoghi delle Muse. La funzione dello spazio nella fondazione e nel rinnovamento dei generi letterari greci. Diotima volume 5. Baden-Baden: 41–58.
+&amp;nbsp;
+2022.1.5.25
+Desideri, P. 2022. “Plutarch and the City of Rome in Plutarch’s Own Time.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 59–72.
+&amp;nbsp;
+2022.1.5.26
+Despotis, A. 2022. “The Relation between Anthropology and Love Ethics in John against the Backdrop of Plutarchan and Philonic Ideas.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 141–161.
+&amp;nbsp;
+2022.1.5.27
+Dubischar, M. 2020. “Heracles.” In A. Markantonatos (ed), Brill’s Companion to Euripides. Leiden: 203–232.
+&amp;nbsp;
+2022.1.5.28
+Duff, T.E. 2022. “Alcibiades and the City.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 141–165.
+&amp;nbsp;
+2022.1.5.29
+Elschenbroich, J. 2022. “The Mechanics of Death: Philo’s and Plutarch’s Views on Human Death as a Backdrop for Paul’s Eschatology.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 162–174.
+&amp;nbsp;
+2022.1.5.30
+Geiger, J. 2022. “City and Sanctuary in Plutarch.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 73–80.
+&amp;nbsp;
+2022.1.5.31
+Gianvittorio-Ungar, L. 2020. “Dancing the War Report in Aeschylus’ Seven Against Thebes.” In J. Grethlein, L. Huitink and A. Tagliabue (eds), Experience, narrative, and criticism in ancient Greece. Under the spell of stories. Cognitive Classics. Oxford: 235–251.
+&amp;nbsp;
+2022.1.5.32
+Gregory, J. 2020. “Iphigenia at Aulis.” In A. Markantonatos (ed), Brill’s Companion to Euripides. Leiden: 395–414.
+&amp;nbsp;
+2022.1.5.33
+Hahnemann, C. 2019. “Broken Sisterhood: The Relationship between Antigone and Ismene in Sophocles’ Antigone.” Scripta Classica Israelica 38: 1–16.
+&amp;nbsp;
+2022.1.5.34
+Heil, A. 2021. “Der Totengeist des Laius in Statius’ Thebais.” Wiener Studien 134: 139–162.
+&amp;nbsp;
+2022.1.5.35
+Hirsch-Luipold, R. 2022. “Plutarch and the New Testament: History, Challenges and Perspectives.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 11–48.
+&amp;nbsp;
+2022.1.5.36
+Huian, G. 2022. “Plutarch’s Reception in the Church Fathers.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 212–236.
+&amp;nbsp;
+2022.1.5.37
+Jażdżewska, K. 2017. “Plutarch: Gryllos, czyli o rozumności nierozumnych zwierząt.” Meander 72: 9–22.
+https://journals.pan.pl/dlibra/publication/118223/edition/102829/content
+&amp;nbsp;
+2022.1.5.38
+Kavoulaki, A. 2022. “Ritual Politics and Space Control in Plutarch&apos;s Alcibiades and Other Athenian Lives.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 122–140.
+&amp;nbsp;
+2022.1.5.39
+Kousoulini, V. 2021. “Localizing Early Epic Material in Pindar’s Sicilian Odes: Epichoric Concerns and Panhellenic Fame.” New England Classical Journal 48.2: 31–49.
+&amp;nbsp;
+2022.1.5.40
+Leão. D. 2022. “Athenian Civic Identities in Plutarch’s Portrayals of Phocion and Demetrius of Phalerum.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 166–181.
+&amp;nbsp;
+2022.1.5.41
+Lima, P.A. “The Ordinal Numbers in Hesiod’s Myth of the races.” ΣΧΟΛΗ 2022.1: 580–595.
+&amp;nbsp;
+2022.1.5.42
+Maier, F.E. 2022. “Narrating ‘the Swarm of Possibilities’ Plutarch, Polybius and the Idea of Contingency in History.” In J. König and N. Wiater (eds), Late Hellenistic Greek Literature in Dialogue. Cambridge: 251–271.
+&amp;nbsp;
+2022.1.5.43
+Marincola, J. 2022. “Plutarch and Thebes.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 183–201.
+&amp;nbsp;
+2022.1.5.44
+Minutoli, D. 2020. “Euripides, Phoenissae 688-695, 734-750”. Aegyptus 100: 51–58.
+&amp;nbsp;
+2022.1.5.45
+Morwood, J. 2020. “Suppliant Women.” In A. Markantonatos (ed), Brill’s Companion to Euripides. Leiden: 182–202.
+&amp;nbsp;
+2022.1.5.46
+Mossman, J. 2022. “Plutarch’s Troy.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 219–233.
+&amp;nbsp;
+2022.1.5.47
+Panagopoulou, K. 2022. “Plutarch’s Northern Greek Cities.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 203–218.
+&amp;nbsp;
+2022.1.5.48
+Papadimitropoulos, L. 2021. “Pindar’s Olympian 5. Athletic Victory and Political Power.” Athenaeum 109.1: 5–13.
+2022.1.5.49
+Papanikos, G. T. 2022. “Hesiod’s Theory of Economic History.” Athens Journal of History 8.2: 147–174.
+https://www.athensjournals.gr/history/2022-8-2-4-Papanikos.pdf
+&amp;nbsp;
+2022.1.5.50
+Pelling, C. 2022. “Stereotyping Sparta, Stereotyping Athens: Herodotus, Thucydides, and Plutarch.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 105–121.
+&amp;nbsp;
+2022.1.5.51
+Pérez Jiménez, A. 2022. “The City and the Ship. Reception and the Use of a Metaphor in Plutarch’s Parallel Lives.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 253–268.
+&amp;nbsp;
+2022.1.5.52
+Pleše, Z. 2022. “‘God is the Measure of All Things’: Plutarch and Philo on the Benefits of Religious Worship.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 87–108.
+&amp;nbsp;
+2022.1.5.53
+Provenza, A. 2021. “Di madre in figlio: fuoco, punizione e riti nella Pitica III di Pindaro.” Ὅρμος 13: 287–313.
+&amp;nbsp;
+2022.1.5.54
+Requena, M.J. and A. Sapere. 2021. “Entre la tiranía y la hegemonía de masas. Imágenes de la democracia en la Vida de Pericles de Plutarco.” Athenaeum 109.2: 438–490.
+&amp;nbsp;
+2022.1.5.55
+Rendina, S. 2022. “Pyrrhus’ Cold Wars (Plutarch Pyrrhus 12).” Greek, Roman, and Byzantine Studies 62.1: 23–43.
+https://grbs.library.duke.edu/article/view/16597/7490
+&amp;nbsp;
+2022.1.5.56
+Reydams-Schils, G. 2022. “Philautia, Self-Knowledge, and Oikeiôsis in Philo of Alexandria and Plutarch.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 125–140.
+&amp;nbsp;
+&amp;nbsp;
+2022.1.5.57
+Roig Lanzillotta, L. 2022. “Plutarch of Chaeronea, Clement of Alexandria and the Bio- and Technomorphic Aspects of Creation.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston): 237–253.
+&amp;nbsp;
+2022.1.5.58
+Roskam, G. 2022. “The Place of the Polis in Plutarch’s Political Thinking.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 269–280.
+&amp;nbsp;
+2022.1.5.59
+Scardigli, B. and Desideri, P. 2012. “Saggi su Plutarco e la sua fortuna.” Ziva Antika 62.1-2: 201–207.
+&amp;nbsp;
+2022.1.5.60
+Senegačik, B. 2014. “Antigone 925-28 and Antigone’s faith.” Ziva Antika 64.1-2: 155–164.
+&amp;nbsp;
+2022.1.5.61
+Settecase, M. 2020. “Quaestiones Plutarcheae. Nota testuale ad adv. Col. 1115C.” Athenaeum 108.2: 553–554.
+&amp;nbsp;
+2022.1.5.62
+Sowa, J. 2019. “Obraz przyjaźni w ‘Moraliach’ Plutarcha.” Meander 74: 25–40.
+https://journals.pan.pl/dlibra/publication/130850/edition/114275/content
+&amp;nbsp;
+2022.1.5.63
+Stadter, P. 2022. “Plutarch and Delphi.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 47–58.
+&amp;nbsp;
+2022.1.5.64
+Starkey, J. 2022. “Artemis and the Furies in Euripides’ Iphigenia among the Taurians.” Classical World 115.2: 103–129.
+&amp;nbsp;
+2022.1.5.65
+Starkey, J. S. 2022. “‘The Famed Child of Menoeceus’ (Eur. Phoen. 10)”. Classical Philology 117.2: 324–342.
+&amp;nbsp;
+2022.1.5.66
+Sterling, G.E. 2022. “When East and West Meet: Eastern Religions and Western Philosophy in Philo of Alexandria and Plutarch of Chaeronea.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 109–124.
+&amp;nbsp;
+2022.1.5.67
+Tanaseanu-Doebler, I. 2022. “The Logos in Amelius’ Fragment on the Gospel of John and Plutarch’s De Iside.” In R. Hirsch-Luipold (ed), Plutarch and the New Testament in their religio-philosophical contexts: bridging discourses in the world of the early Roman empire. Brill’s Plutarch studies 9. Leiden/Boston: 177–211.
+&amp;nbsp;
+2022.1.5.68
+Tanga, F. 2021. “Prospettive sulle donne negli ‘Apophthegmata Laconica’ di Plutarco”. Humanitas 78: 71–96.
+&amp;nbsp;
+2022.1.5.69
+Tibiletti, A. 2021. “Pondering Pindaric Superlatives in Context”. Harvard Studies in Classical Philology 111: 39–53.
+&amp;nbsp;
+2022.1.5.70
+van der Stockt, L. 2022. “Plutarch’s Civitas Dei.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 281–292.
+&amp;nbsp;
+2022.1.5.71
+Whitmarsh, T. 2022. “Plutarch on Superstition, Atheism, and the City.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 293–312.
+&amp;nbsp;
+2022.1.5.72
+Zadorojnyi, A.V. 2022. “The City and the Self in Plutarch.” In L. Athanassaki and F. Titchener (eds), Plutarch’s Cities. Oxford: 235–252.
+&amp;nbsp;
+Reviews
+&amp;nbsp;
+2022.1.5.73
+Cannavale, S., L. Miletti, and M. Regali (eds). 2021. I luoghi delle Muse. La funzione dello spazio nella fondazione e nel rinnovamento dei generi letterari greci. Reviewed by: M. Tsakiris, Bryn Mawr Classical Review 2022.04.27.
+&amp;nbsp;
+2022.1.5.74
+Carillo Rodrigeuz. M. 2019. Muerte y ritual funerario en las Vidas Griegas de Plutarco. Reviewed by: L.P. Romero Mariscal, 2022. Atlantis Review 44: 119–121.
+&amp;nbsp;
+2022.1.5.75
+Daude, C., S. David, M. Fartzoff, and C. Muckensturm-Poulle (eds). 2014. Scholies à Pindare, I. Vies de Pindare et scholies à la première Olympique «Un chemin de paroles» (O. I, 110) (Tereisias previous series: 441.2.05). Reviewed by: M. Negri, 2019. Athenaeum 107.2: 622–626.
+&amp;nbsp;
+2022.1.5.76
+Desideri, P. 2012. Saggi su Plutarco e la sua fortuna. Reviewed by: B. Scaridgli, 2012. Ziva Antika 62.1-2: 201–207.
+&amp;nbsp;
+2022.1.5.77
+Grethlein, J., L. Huitink, and A. Tagliabue (eds). 2020. Experience, narrative, and criticism in ancient Greece. Under the spell of stories. Cognitive Classics. Reviewed by: C. Chatzigiannis, Bryn Mawr Classical Review 2022.04.33.
+&amp;nbsp;
+2022.1.5.78
+González González, M. 2019. Plutarco: La excelencia de las mujeres. Nota previa, traducción y notas de Marta González González. Reviewed by: J. Pinheiro, 2021. Humanitas 77: 221–222.
+&amp;nbsp;
+2022.1.5.79
+Hirsch-Luipold, R. and L. Roig Lanzillotta (eds). 2021. Plutarch’s Religious Landscapes. Brill’s Plutarch Series 6. Reviewed by: A. Macauley, 2022. Classical Review 22.1: 103–106.
+&amp;nbsp;
+2022.1.5.80
+Jacobs, S.G. 2017. Plutarch’s Pragmatic Biographies. Lessons for Statesmen and Generals in the Parallel Lives (481.2.11). Reviewed by: R. Scuderi, 2019. Athenaeum 107.1: 301–303.
+&amp;nbsp;
+2022.1.5.81
+Jacobs, S.G. 2017. Plutarch’s Pragmatic Biographies. Lessons for Statesmen and Generals in the Parallel Lives (481.2.11). Reviewed by: J. Pinheiro, 2020. Humanitas 76: 185–189.
+&amp;nbsp;
+2022.1.5.82
+Lewis, V.M. 2020. Myth, Locality, and Identity in Pindar’s Sicilian Odes. Reviewed by: R.L. Fowler, 2022. Classical Review 22.1: 40–2.
+&amp;nbsp;
+&amp;nbsp;
+2022.1.5.83
+Markantonatos, A. (ed). 2020. Brill’s Companion to Euripides. Reviewed by: D. Bacalexi, Bryn Mawr Classical Review 2022.03.40.
+&amp;nbsp;
+2022.1.5.84
+Meeusen, M. 2017. Plutarch’s Science of Natural Problems. A Study with Commentary on Quaestiones Naturales (Tereisias previous series: 471.2.13). Reviewed by: F. Ferrari, 2021. Athenaeum 109.1: 314–318.
+&amp;nbsp;
+2022.1.5.85
+Muccioli, F.M. 2012. La storia attraverso gli esempi. Protagonisti e interpretazioni del mondo greco in Plutarco. Reviewed by: L. Ghilli, 2012. Ziva Antika 62.1-2: 208–210.
+&amp;nbsp;
+2022.1.5.86
+Opsomer, J., Roskam, G. and Titchener, F. B. (eds). 2016. A Versatile Gentleman. Consistency in Plutarch’s Writing. Studies Offered to Luc Van der Stockt on the Occasion of His Retirement (471.2.14). Reviewed by: F. Ferrari, 2020. Athenaeum 108.2: 654–656.
+&amp;nbsp;
+2022.1.5.87
+Rizou, K. 2020. Holz vom Helikon. Die Musen und ihre Landschaft in Kult, Mythos und Literatur. Reviewed by: T. Mojsik, 2022. Classical Review 22.1: 30–32.
+&amp;nbsp;
+2022.1.5.88
+Schmidt, T. S., M. Vamvouri, and R. Hirsch-Luipold (eds). 2020. The Dynamics of Intertextuality in Plutarch (502.2.14). Reviewed by: B. Méndez Santiago, 2021. Humanitas 77: 223–226.
+&amp;nbsp;
+2022.1.5.89
+Shepherd, W. 2019. The Persian War in Herodotus and Other Ancient Voices. Reviewed by: B. Pedersen, 2022. Classical Review 22.1: 208–210.
+&amp;nbsp;
+2022.1.5.90
+Tanga, F. 2019. Plutarco. La virtù delle donne (Mulierum virtutes). Introduzione, testo critico, traduzione italiana e note di commento a cura di Fabio Tanga. Reviewed by: L. Brisson, 2022. Atlantis Review 43: 167–170.
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+2022.1.5.91
+Tanga, F. 2019. Plutarco: La virtù de le donne (Mulierum Virtutes). Introduzione, testo critico, traduzione italiana e note di comento (Tereisias previous series: 511.2.10). Reviewed by: A. M. Guedes Ferreira, 2021. Humanitas 77: 231–233.
+&amp;nbsp;
+2022.1.5.92
+Xenis, G.A. 2021. Scholia vetera in Sophoclis &quot;Antigonam.&quot; Sammlung griechischer und lateinischer Grammatiker, 20. Reviewed by: P. J. Finglass, Bryn Mawr Classical Review 2022.03.22.
+&amp;nbsp;
+2022.1.5.93
+Zamora López, J. and de Valle, N. 2020. Hesiodi Ascraei Opera et dies. Travaux d’humanisme et Renaissance, DCVII. Reviewed by: N. A. E. Kalospyros, Bryn Mawr Classical Review 2022.03.35</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Teiresias Journal Online</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Teiresias Journal Online</publisher>
+                        </originInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc/4.0">CC BY-NC 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4317</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4317">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4317/4376" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_4317">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4317/4377" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4317" DMDID="DMD_wwu-journals_4317">
+            <mets:fptr FILEID="FILE0_wwu-journals_4317"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_4317" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_4317"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

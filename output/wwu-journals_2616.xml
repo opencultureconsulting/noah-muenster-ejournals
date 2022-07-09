@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>Deposits of disease-associated alpha-synuclein may be present in the dura mater in Lewy body disorders</title>
                         <subTitle>implications for potential inadvertent transmission by surgery</subTitle>
                     </titleInfo>
@@ -116,7 +116,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2616/2522" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
+        <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2616">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2616/2518" LOCTYPE="URL"/>
             </mets:file>

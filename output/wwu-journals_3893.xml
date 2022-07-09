@@ -3,10 +3,10 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="eng">
+                    <titleInfo lang="ara">
                         <title>نحو إعادة بناء قيم التّنوير في عالم مُتغيِّر (الجزء الأول)</title>
                     </titleInfo>
-                    <titleInfo>
+                    <titleInfo lang="eng">
                         <title>Towards a Reconstruction of Enlightenment Values in a Changing World (Part one)</title>
                     </titleInfo>
                     <name type="personal">

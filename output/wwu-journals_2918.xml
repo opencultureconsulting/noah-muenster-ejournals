@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 02.2020.019</title>
                         <subTitle>Philipp Pilhofer (ed.), Das Martyrium des Konon von Bidana in Isaurien. Einleitung, Text und Übersetzung: (Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 188).} Berlin – Boston: De Gruyter 2020.</subTitle>
                     </titleInfo>

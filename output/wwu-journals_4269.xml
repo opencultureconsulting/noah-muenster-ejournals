@@ -3,7 +3,7 @@
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
-                    <titleInfo lang="ger">
+                    <titleInfo lang="eng">
                         <title>ByzRev 04.2022.014</title>
                         <subTitle>Johannes Koder, Nomos Georgikos: Das byzantinische Landwirtschaftsgesetz.: Überlegungen zur inhaltlichen und zeitlichen  Einordnung. Deutsche Übersetzung (Wiener byzantinistische Studien 32). Wien 2020.</subTitle>
                     </titleInfo>
