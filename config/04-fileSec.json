@@ -124,6 +124,76 @@
     "repeatCount": 10
   },
   {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "fileSec/fileGrp/file@MIMETYPE",
+          "expression": "value",
+          "columnName": "fileSec/fileGrp/file@MIMETYPE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "application/pdf",
+                "l": "application/pdf"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "fileSec/fileGrp@USE",
+          "expression": "grel:row.record.cells[columnName].value.join(' ').contains('pdf upload')",
+          "columnName": "fileSec/fileGrp@USE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "id",
+          "expression": "grel:row.index == row.record.fromRowIndex + 1",
+          "columnName": "id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "fileSec/fileGrp@USE",
+    "expression": "grel:'pdf upload'",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+  },
+  {
     "op": "core/column-addition",
     "engineConfig": {
       "facets": [],
