@@ -135,18 +135,10 @@ Knodell, A.R. 2021. Societies in Transition in Early Greece: An Archaeological H
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4316/4374" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_4316">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4316/4375" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_4316" DMDID="DMD_wwu-journals_4316">
             <mets:fptr FILEID="FILE0_wwu-journals_4316"/>
-            <mets:div TYPE="part" ID="PART1_wwu-journals_4316" LABEL="">
-                <mets:fptr FILEID="FILE1_wwu-journals_4316"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>

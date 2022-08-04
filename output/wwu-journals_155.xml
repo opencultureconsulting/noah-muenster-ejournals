@@ -55,12 +55,12 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
     <mets:fileSec>
         <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_155">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/155/pdf" LOCTYPE="URL"/>
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/155/2269" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
             <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_155">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/155/2269" LOCTYPE="URL"/>
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/jcsw/article/download/155/pdf" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

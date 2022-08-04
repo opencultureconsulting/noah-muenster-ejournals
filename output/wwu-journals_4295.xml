@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4295">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Adressaten und Akteure</title>
+                        <subTitle>Jugendliche und ihr Eigensinn in der Geschichte katholischer Jugendpastoral</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henkelmann, Andreas</displayForm>
+                        <namePart type="family">Henkelmann</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Geschichte der katholischen Jugendpastoral ist mehr als eine Geschichte von pastoralen Entwürfen und amtskirchlichen Anordnungen. Aus kirchenhistorischer Perspektive ist festzuhalten, dass der Blick auf die Jugendlichen mit ihrem Eigensinn nicht zu kurz kommen darf. Diese können den jugendpastoralen Vorgaben folgen. Sie können sich aber auch verweigern oder als dritte Variante sie in ihrer eigenen Weise erschließen. Dieser jugendliche Eigensinn wird im Aufsatz anhand von zwei Beispielen skizziert. Zum einen an der Entstehung der Deutschen Jugendkraft und zum anderen an den Veränderungen in der Jugendpastoral während der Weimarer Republik und dem „Dritten Reich“, die oft mit dem dichotomischen Begriffspaar „Jugendpflege“ und „Jugendführung“ beschrieben wird. Ein Ausblick auf die Phase nach dem Zweiten Vatikanum rundet den Beitrag ab.
+The history of the Catholic youth ministry is more than the story of theological approaches and official documents. From the perspective of Church history, it is important to relate them to the obstinacy and self-willed behaviour („Eigensinn“, a term framed by German historian Alf Lüdtke) of the youth. Young people can follow official instructions, but they can also refuse or – a third option – adapt them to their own needs. This juvenile „Eigensinn“ – the topic of the article – is supported by two examples: The first is the formation of the Catholic sports association „Deutsche Jugendkraft“ in the late Kaiserreich, the second the developments in youth ministry during the 1920s and 1930s, often described with the contradictory terms „Jugendpflege“ (youth minstry led by adults) and „Jugendführung“ ( youth ministry involving young people in leadership). The article concludes with a look at the developments after Vatican II.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4295</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4295">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4295/4346" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4295" DMDID="DMD_wwu-journals_4295">
+            <mets:fptr FILEID="FILE0_wwu-journals_4295"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4297">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Religion, Glaube und Kirchenbindung im Jugendalter heute</title>
+                        <subTitle>Entwicklungspsychologische Perspektiven und aktuelle  Längsschnittuntersuchungen im Horizont lebenszyklischer und zeitgeschichtlicher Veränderungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schweitzer, Friedrich</displayForm>
+                        <namePart type="family">Schweitzer</namePart>
+                        <namePart type="given">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In Aufnahme (älterer) entwicklungspsychologischer Deutungen sowie (neuerer) längsschnittlicher Befunde zu Religion im Jugendalter plädiert dieser Beitrag für eine genauere Unterscheidung zwischen zeitgeschichtlichen und entwicklungsbezogenen Aspekten im Wandel von Religion in der Adoleszenz. Genauer dargestellt werden Befunde aus der American National Study of Youth and Religion, aus den europäischen Studien zur Konfi-Arbeit sowie der deutschen Studie „Jugend – Glaube – Religion“. Die Befunde aus diesen Studien unterstreichen die Notwendigkeit einer differenzierten Beschreibung und Deutung von Religion, Glaube und Kirchenbindung im Jugendalter und machen damit die Problematik von kirchlich und religionspädagogisch geläufigen Vergröberungen deutlich. Am Ende werden einige Fragen aufgezeigt, die auf praktische Konsequenzen verweisen.
+Based on (older) views from developmental psychology and (more recent) longitudinal research results, this article pleas for taking more seriously the differences between changes of religion in adolescence in a historical sense and in terms of adolescent development. The article takes up results from the American National Study of Youth and Religion, from European studies on confirmation work as well as from the German study on “Youth – Faith – Religion”. The results of these studies underline the need for a more differentiated description and understanding of religion, faith and the relationship to the church in adolescence, which also sheds new light on the problem of the often superficial ways of referring to young people’s lack of interest in religion both in the church as well as in religious education. The final section describes a number of questions concerning possible practical consequences.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>31</start>
+                                <end>43</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2022-43483</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4297</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4297">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4297/4348" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4297" DMDID="DMD_wwu-journals_4297">
+            <mets:fptr FILEID="FILE0_wwu-journals_4297"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

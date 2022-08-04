@@ -88,13 +88,13 @@
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="video/x-msvideo" ID="FILE1_wwu-journals_2477">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2343" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_2477">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2356" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE2_wwu-journals_2477">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2356" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="video/x-msvideo" ID="FILE2_wwu-journals_2477">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2477/2343" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

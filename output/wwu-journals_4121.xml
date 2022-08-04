@@ -48,14 +48,14 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
         </mets:mdWrap>
     </mets:dmdSec>
     <mets:fileSec>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_4121">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4121/4228" LOCTYPE="URL"/>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4121">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4121/4227" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="pdf upload">
-            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_4121">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4121/4227" LOCTYPE="URL"/>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_4121">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4121/4228" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

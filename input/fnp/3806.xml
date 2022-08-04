@@ -13,6 +13,7 @@
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
 	<dc:type xml:lang="en-US">Review</dc:type>
+	<dc:format>text/html</dc:format>
 	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3806</dc:identifier>
 	<dc:identifier>10.17879/freeneuropathology-2022-3806</dc:identifier>
@@ -20,7 +21,10 @@
 	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 3 (2022); 17</dc:source>
 	<dc:source>2699-4445</dc:source>
 	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3806/4430</dc:relation>
 	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3806/4421</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2022-44304</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2022-44217</dc:relation>
 	<dc:rights xml:lang="en-US">Copyright (c) 2022 Isidro Ferrer</dc:rights>
 	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>

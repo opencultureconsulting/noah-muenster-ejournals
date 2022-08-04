@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4298">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kirchenbilder von Jugendlichen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlag, Thomas</displayForm>
+                        <namePart type="family">Schlag</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bis in die Gegenwart hinein ist der Anspruch auf die Integration und Partizipation Jugendlicher im Blick auf kirchliche Handlungs- und Gestaltungsformen nicht eingelöst. Die grundlegende Herausforderung für kirchliche Bildung besteht darin, ihre Angebote und noch mehr die damit verbundene Grundhaltung in eine erkennbare und glaubwürdige Übereinstimmung mit dem Individualitäts- und Freiheitsbedürfnis Jugendlicher zu bringen. Die Überzeugungskraft kirchlicher Praxis und ihrer Akteur*innen wird davon abhängen, ob Jugendliche sich dabei als unverzichtbarer Bestandteil des „Priestertums aller Gläubigen“ entdecken und erleben können. In einer wort- und bildbezogenen jugendtheologischen Arbeit „von Kirche“, „mit Kirche“ und „über Kirche“ ergeben sich konkrete Anknüpfungsmöglichkeiten für die Bildungsarbeit gemeinsam mit der Generation der Jugendlichen.
+Right up to the present day, the demand for the integration and participation of young people in the church&apos;s activities has by no means been met. Consequently, the fundamental challenge to church education is to shape its offers of orientation in accordance with young people&apos;s longing for individuality and freedom. The persuasiveness of church practice and its actors depends on whether young people can discover and experience themselves as an indispensable part of the priesthood of all believers. A word- and image-based youth theological work &quot;of church&quot;, &quot;with church&quot; and &quot;about church&quot; allows concrete possibilities for educational action together with the youth generation to emerge.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>45</start>
+                                <end>57</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2022-43490</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4298</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4298">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4298/4349" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4298" DMDID="DMD_wwu-journals_4298">
+            <mets:fptr FILEID="FILE0_wwu-journals_4298"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

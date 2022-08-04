@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4301">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Uns schickt der Himmel“</title>
+                        <subTitle>Kirchliche Jugendverbände als  Entdeckungsorte jugendlichen Lebensglücks</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ottersbach, Stefan</displayForm>
+                        <namePart type="family">Ottersbach</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im April 2024 werden die katholischen Jugendverbände im Bund der Deutschen Katholischen Jugend (BDKJ) erneut die 72-Stunden-Aktion durchführen. Zuletzt haben im Jahr 2019 bundesweit mehr als 160.000 junge Menschen an dieser Sozialaktion mitgewirkt, um in zahlreichen Projekten mit ihren Talenten und Fähigkeiten „die Welt ein bisschen besser zu machen“ und ihren „Glauben in der Tat“ zu leben.1 In dieser Aktion wird exemplarisch deutlich, was katholische Jugendverbandsarbeit insgesamt auszeichnet: Hier ereignet sich Persönlichkeitsbildung, findet Demokratiebildung statt und kommt die Lebenswelt als Raum des Lebens- und Gottesglaubens junger Menschen zum Vorschein. Anhand dieser drei ausgewählten Kennzeichen versuche ich, als Mitglied des BDK-Bundesvorstands, in diesem Beitrag das Potenzial kirchlicher Jugendverbände als Entdeckungsorte jugendlichen Lebensglücks zu erschließen.
+In April 2024, the Catholic youth associations in the Federation of German Catholic Youth (BDKJ) will once again hold a 72-hour campaign. Most recently, in 2019, more than 160,000 young people nationwide participated in this social action to &quot;make the world a little better&quot; with their talents and abilities in numerous projects, and to live their &quot;faith in action&quot;. This action exemplifies what distinguishes Catholic youth association work as a whole: Here is where personal development takes place, where democracy is formed and the living world emerges as a space for young people&apos;s faith in life and in God. On the basis of these three selected characteristics, as a member of the BDK National Board, I address the potential of church youth associations as places of discovery of young people&apos;s happiness in life.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>87</start>
+                                <end>99</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4301</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4301">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4301/4352" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4301" DMDID="DMD_wwu-journals_4301">
+            <mets:fptr FILEID="FILE0_wwu-journals_4301"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -70,18 +70,10 @@
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3445/3443" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3445">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3445/3444" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_3445" DMDID="DMD_wwu-journals_3445">
             <mets:fptr FILEID="FILE0_wwu-journals_3445"/>
-            <mets:div TYPE="part" ID="PART1_wwu-journals_3445" LABEL="">
-                <mets:fptr FILEID="FILE1_wwu-journals_3445"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>

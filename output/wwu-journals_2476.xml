@@ -72,48 +72,48 @@
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/plain" ID="FILE1_wwu-journals_2476">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2344" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2359" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
             <mets:file MIMETYPE="text/plain" ID="FILE2_wwu-journals_2476">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2345" LOCTYPE="URL"/>
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2344" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
             <mets:file MIMETYPE="text/plain" ID="FILE3_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2345" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/plain" ID="FILE4_wwu-journals_2476">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2346" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="video/mp4" ID="FILE4_wwu-journals_2476">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2349" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="video/mp4" ID="FILE5_wwu-journals_2476">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2350" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/plain" ID="FILE6_wwu-journals_2476">
+            <mets:file MIMETYPE="text/plain" ID="FILE5_wwu-journals_2476">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2351" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/plain" ID="FILE7_wwu-journals_2476">
+            <mets:file MIMETYPE="text/plain" ID="FILE6_wwu-journals_2476">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2352" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/plain" ID="FILE8_wwu-journals_2476">
+            <mets:file MIMETYPE="text/plain" ID="FILE7_wwu-journals_2476">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2353" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE9_wwu-journals_2476">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2359" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="video/mp4" ID="FILE8_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2349" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE9_wwu-journals_2476">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2476/2350" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

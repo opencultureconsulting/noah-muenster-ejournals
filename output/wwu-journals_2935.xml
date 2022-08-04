@@ -122,18 +122,18 @@
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/zip" ID="FILE11_wwu-journals_2935">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2886" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE12_wwu-journals_2935">
+            <mets:file MIMETYPE="application/pdf" ID="FILE11_wwu-journals_2935">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2887" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE13_wwu-journals_2935">
+            <mets:file MIMETYPE="application/pdf" ID="FILE12_wwu-journals_2935">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2888" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE13_wwu-journals_2935">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2935/2886" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

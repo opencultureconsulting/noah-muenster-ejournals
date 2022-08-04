@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4307">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Öffentliche Orte der Spiritualität sichern</title>
+                        <subTitle>Über ein pastorales Projekt in der Corona-Fastenzeit 2021</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gigl, Maximilian</displayForm>
+                        <namePart type="family">Gigl</namePart>
+                        <namePart type="given">Maximilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aigner, Teresa</displayForm>
+                        <namePart type="family">Aigner</namePart>
+                        <namePart type="given">Teresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der von der Pandemie und Kontaktbeschrankungen gepragten osterlichen Buszeit 2021 wurden im niederbayerischen Pfarrverband Bad Birnbach Orte des Gebets, der Klage und der fastenzeitlichen Besinnung eroffnet, indem in elf – ansonsten selten genutzten – Kapellen und Nebenkirchen Stationen fur individuelle Besucherinnen und Besucher eingerichtet wurden. Zugrunde lag die Uberlegung, den Menschen, „Orte der Spiritualitat zu sichern“. Der Beitrag geht auf die theologischen Voruberlegungen des Projekts ein sowie darauf, welchen Anklang diese Aktion fand, und diskutiert die sich daraus ergebenden grundsatzlichen Gesichtspunkte gegenwartigen pastoralen Handelns und der gegenwartigen religiosen Situation, die sich am Schnittfeld von individueller Religiositat, Spiritualitat, Tradition, Heimat und sakralen Bauten wahrnehmen lassen.
+During Lent 2021, which has been influenced by the pandemic situation and contact restrictions at that time, several places of prayer, lamentation and reflection were opened in the Bad Birnbach parish association (Lower Bavaria). Within this project, eleven rather small and at rare intervals used chapels and churches have been prepared for individual visitors. The initial idea was to &quot;preserve places of spirituality“. The article shows the theological preliminary considerations of the project and its success. Furthermore, it discusses the resulting consequences with reference to pastoral action and the current situation, especially in the field of individual religiosity, spirituality, tradition, culture and sacred buildings.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>149</start>
+                                <end>169</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4307</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4307">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4307/4358" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4307" DMDID="DMD_wwu-journals_4307">
+            <mets:fptr FILEID="FILE0_wwu-journals_4307"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

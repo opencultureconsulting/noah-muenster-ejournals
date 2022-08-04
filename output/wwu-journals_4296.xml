@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4296">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Crossroads – Begegnung von Kirche und Jugend im Feld kirchlicher Jugendhilfe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karl, Katharina</displayForm>
+                        <namePart type="family">Karl</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Was haben junge Menschen, die nicht in Pfarreien oder geistlichen Gemeinschaften beheimatet sind, heute mit der Kirche zu tun? Und wie geht die Kirche auf die jungen Menschen zu, die ihren Weg eher zufällig durch den Kontakt mit Einrichtungen der Jugendhilfe kreuzen? Der vorliegende Artikel untersucht den Beitrag der kirchlichen Jugendhilfe als ein Feld der Jugendpastoral, das besonders die jungen Menschen in den Blick nimmt, die kirchlich wie gesellschaftlich oft weniger Beachtung finden.
+What do young people today who are not affiliated with parishes or spiritual communities have to do with the Church? And how does the Church approach such young people who tend to cross its path more accidentally than through contact with youth welfare institutions? This article examines the contribution of the Church&apos;s youth services as a field of youth pastoral ministry that focuses especially on young people who often receive less attention, both ecclesiastically and socially.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>29</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2022-43472</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4296</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4296">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4296/4347" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4296" DMDID="DMD_wwu-journals_4296">
+            <mets:fptr FILEID="FILE0_wwu-journals_4296"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

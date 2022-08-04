@@ -71,18 +71,10 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3288/3242" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3288">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3288/3243" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_3288" DMDID="DMD_wwu-journals_3288">
             <mets:fptr FILEID="FILE0_wwu-journals_3288"/>
-            <mets:div TYPE="part" ID="PART1_wwu-journals_3288" LABEL="">
-                <mets:fptr FILEID="FILE1_wwu-journals_3288"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>

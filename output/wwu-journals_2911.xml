@@ -70,19 +70,19 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
         </mets:mdWrap>
     </mets:dmdSec>
     <mets:fileSec>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2911">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2910" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
         <mets:fileGrp USE="pdf upload">
-            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2911">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2911">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2909" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ID="FILE2_wwu-journals_2911">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ID="FILE1_wwu-journals_2911">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2907" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE2_wwu-journals_2911">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/2911/2910" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

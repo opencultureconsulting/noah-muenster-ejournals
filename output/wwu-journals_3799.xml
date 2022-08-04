@@ -68,19 +68,19 @@ On the other hand, a surprisingly strong political aspect of the gorgoneion emer
         </mets:mdWrap>
     </mets:dmdSec>
     <mets:fileSec>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3799">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3841" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
         <mets:fileGrp USE="pdf upload">
-            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3799">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3799">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3839" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3799">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3799">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3840" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE2_wwu-journals_3799">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/3799/3841" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

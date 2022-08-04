@@ -95,11 +95,6 @@
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2882/2763" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE5_wwu-journals_2882">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2882/2764" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_2882" DMDID="DMD_wwu-journals_2882">
@@ -115,9 +110,6 @@
             </mets:div>
             <mets:div TYPE="part" ID="PART4_wwu-journals_2882" LABEL="">
                 <mets:fptr FILEID="FILE4_wwu-journals_2882"/>
-            </mets:div>
-            <mets:div TYPE="part" ID="PART5_wwu-journals_2882" LABEL="">
-                <mets:fptr FILEID="FILE5_wwu-journals_2882"/>
             </mets:div>
         </mets:div>
     </mets:structMap>

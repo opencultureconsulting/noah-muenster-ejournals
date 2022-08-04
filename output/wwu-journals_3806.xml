@@ -42,6 +42,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             </detail>
                         </part>
                     </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-44304</identifier>
                     <identifier type="doi">10.17879/freeneuropathology-2022-3806</identifier>
                     <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
@@ -60,10 +61,18 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3806/4421" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3806">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3806/4430" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_3806" DMDID="DMD_wwu-journals_3806">
             <mets:fptr FILEID="FILE0_wwu-journals_3806"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3806" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3806"/>
+            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>

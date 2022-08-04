@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4302">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Sinnmaschine“ evangelische Jugendarbeit</title>
+                        <subTitle>Potenziale lebensweltlicher Theologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt, Roger</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Roger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dieser konzeptionellen Untersuchung von evangelischer Kinder- und Jugendarbeit nutzt Roger Schmidt psychologische Sinnforschung, um zu verstehen, wie junge Menschen Sinn konstruieren und erleben können. Er argumentiert, dass die Elemente von Sinn wie Zugehörigkeit, Orientierung, Kohärenz, Bedeutsamkeit und transzendente Verbundenheit sich als Elemente auch in den Konzeptionen evangelischer Kinder- und Jugendarbeit finden lassen. Nutzt Jugendarbeit diese Potenziale, wird sie zur Sinnmaschine.
+In this study of the Protestant Church’s children’s and youth ministry, the author uses psychological research to understand how young people construct and experience meaning. He argues that elements of meaning like belonging, orientation, coherence, efficacy and transcendence can also be found in the concepts of the Protestant Church’s children’s and youth ministry. If youth ministry uses these potentials, it can become a meaning machine.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>101</start>
+                                <end>113</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4302</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4302">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4302/4353" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4302" DMDID="DMD_wwu-journals_4302">
+            <mets:fptr FILEID="FILE0_wwu-journals_4302"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -70,14 +70,14 @@
         </mets:mdWrap>
     </mets:dmdSec>
     <mets:fileSec>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_2914">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2914/2846" LOCTYPE="URL"/>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_2914">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2914/2847" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="pdf upload">
-            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_2914">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2914/2847" LOCTYPE="URL"/>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_2914">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/ozean/article/download/2914/2846" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

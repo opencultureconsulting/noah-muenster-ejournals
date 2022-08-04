@@ -359,18 +359,10 @@ Zamora López, J. and de Valle, N. 2020. Hesiodi Ascraei Opera et dies. Travaux 
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4317/4376" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_4317">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4317/4377" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_4317" DMDID="DMD_wwu-journals_4317">
             <mets:fptr FILEID="FILE0_wwu-journals_4317"/>
-            <mets:div TYPE="part" ID="PART1_wwu-journals_4317" LABEL="">
-                <mets:fptr FILEID="FILE1_wwu-journals_4317"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>

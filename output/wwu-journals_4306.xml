@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4306">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Antisemitische Schatten über der Pastoraltheologie</title>
+                        <subTitle>Das Beispiel des ‚Pruner-Seitz‘ Lehrbuchs</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gärtner, Stefan</displayForm>
+                        <namePart type="family">Gärtner</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mette, Norbert</displayForm>
+                        <namePart type="family">Mette</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit diesem Beitrag wird an einen Schatten in der Geschichte der deutschsprachigen Pastoraltheologie erinnert. In einem seit den 1920er-Jahren einflussreichen Lehrbuch findet sich eine Reihe von antisemitischen Einlassungen. Unter Verweis auf verschiedene gesellschaftliche Bereiche wird ‚den Juden’ unterstellt, sie würden Deutschland in eine verheerende geistige und soziale Schieflage abdriften lassen. Sie werden als antichristlich, antinational, verschlagen, gierig und zersetzend charakterisiert. Aufgabe der Seelsorge sei, die Katholik:innen vor diesem fatalen Einfluss zu warnen.
+This article recalls a shadow in the history of German pastoral theology. In a textbook that has been influential since the 1920s, there is a series of anti-Semitic statements. Referring to various areas of society, ‚the Jews’ are accused of causing Germany to drift into a devastating spiritual and social imbalance. They are characterized as anti-Christian, anti-national, devious, greedy, and corrosive. The task of pastoral care is to warn Catholics against this fatal influence.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>143</start>
+                                <end>147</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4306</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4306">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4306/4357" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4306" DMDID="DMD_wwu-journals_4306">
+            <mets:fptr FILEID="FILE0_wwu-journals_4306"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

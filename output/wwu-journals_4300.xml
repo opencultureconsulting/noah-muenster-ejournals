@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Radikaler Perspektivwechsel</title>
+                        <subTitle>Jugend und Kirche im säkularen Kontext</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Handke, Emilia</displayForm>
+                        <namePart type="family">Handke</namePart>
+                        <namePart type="given">Emilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Teilnahme an Konfirmation und Firmung nimmt deutschlandweit immer weiter ab. Um als Kirche mit nicht (mehr) familial religiös sozialisierten Jugendlichen in Kontakt zu kommen und religiöse Kommunikations- und Lernprozesse zu initiieren, haben sich in Ostdeutschland die Segensfeiern/ Feiern der Lebenswende weit verbreitet. Sie sind ein Beispiel für jene Formate, in denen das religiöse Lernen den Charakter der Expedition ins Christentum trägt. Diese verlangen den Kirchen selbst einen radikalen Perspektivwechsel ab, weil es darum geht, die eigenen christlichen Vollzüge konsequent auf ihre Anschlussfähigkeit an den säkularen Kontext hin zu befragen.
+Throughout Germany, participation in confirmation classes within the Protestant and Catholic Church continues to decrease. For the Church to continue coming into contact with young people who are no longer religiously socialized in their family of origin, and to initiate religious communication and learning processes, blessing celebrations/celebrations of the turning point in life have become widespread in East Germany. They represent an example of what religious learning as an expedition into Christianity may look like. These programs demand a radical change of perspective from the Church because it becomes a question of consistently questioning ones own Christian practices with regard to their ability to connect to the secular context.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>73</start>
+                                <end>85</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4300</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4300">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4300/4351" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4300" DMDID="DMD_wwu-journals_4300">
+            <mets:fptr FILEID="FILE0_wwu-journals_4300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

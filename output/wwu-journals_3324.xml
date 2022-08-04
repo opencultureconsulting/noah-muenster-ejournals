@@ -54,49 +54,49 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
         </mets:mdWrap>
     </mets:dmdSec>
     <mets:fileSec>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="text/html" ID="FILE0_wwu-journals_3324">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3331" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
         <mets:fileGrp USE="pdf upload">
-            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3323" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3324" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE3_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3325" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE4_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3326" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE5_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3327" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE6_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3328" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE7_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE6_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3329" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="application/pdf" ID="FILE8_wwu-journals_3324">
+            <mets:file MIMETYPE="application/pdf" ID="FILE7_wwu-journals_3324">
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3330" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE8_wwu-journals_3324">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3324/3331" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

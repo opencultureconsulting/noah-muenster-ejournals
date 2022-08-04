@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4303">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Systemisch-strukturelle Risikofaktoren für sexuellen Missbrauch in der kirchlichen Jugendarbeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stahl, Andreas</displayForm>
+                        <namePart type="family">Stahl</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Artikel reflektiert systemisch-strukturelle Risikofaktoren, welche das Auftreten von sexuellem Missbrauch in kirchlicher Jugendarbeit begünstigen können. Nachdem der Begriff des „sexuellen Missbrauchs“ näher definiert wird, nimmt der Text ein theoretisches Modell auf, welches die Bedingungsgefüge von Missbrauch aus den drei Perspektiven von Täter*innen1, Opfern und Umfeld betrachtet. Dabei werden Missbrauchshandlungen verstanden als ein Ergebnis des Zusammenwirkens von Handlungsmotivation, Repräsentationen, Handlungsmöglichkeiten und Kosten-Nutzen- Abwägungen. Für diese verschiedenen Bereiche werden systemisch-strukturelle Risikofaktoren kirchlicher Jugendarbeit ausgemacht. Ein signifikanter Teil dieser Faktoren kann vor allem durch Präventionsarbeit reduziert werden.
+This article reflects systemic-structural risk factors that can facilitate the occurrence of sexual abuse in the youth ministry. After defining the term “sexual abuse”, the author applies a theoretical model that considers the structure of conditions of abuse from the three perspectives of perpetrators, victims and the environment. Abusive acts are understood to result from the interaction of motivation to act, representations, possibilities for action and cost-benefit considerations. Systemic-structural risk factors for youth ministry are identified for these different areas. A significant part of these factors can be reduced primarily through prevention work.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>115</start>
+                                <end>127</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4303</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4303">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4303/4354" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4303" DMDID="DMD_wwu-journals_4303">
+            <mets:fptr FILEID="FILE0_wwu-journals_4303"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4299">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Katechese mit Jugendlichen und jungen Erwachsenen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jakobs, Monika</displayForm>
+                        <namePart type="family">Jakobs</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Katechese ist keine isolierte Aktivität, sondern ist eingebettet in alle kirchlichen Vollzüge, die den Rahmen für ihr Gelingen bilden. „Was fängt die Kirche mit der Jugend an?“ ist die entscheidende Frage der Katechese mit Jugendlichen und jungen Erwachsenen. Angesichts der tiefgreifenden Krise der Kirche erweist sie sich als ekklesiologisches Anliegen, denn sie verlangt von der Kirche den glaubwürdigen Nachweis, die erneuernde Kraft der Jugend, wie im Dokument der Jugendsynode beschworen, wirklich in einen partizipativen Erneuerungsprozess umzusetzen. Die Vielfalt innerhalb der jungen Menschen und zwischen den Generationen erfordert den Aufbau einer konstruktiven, konfliktfähigen Streitkultur, die eine Kommunikation auf Augenhöhe und ohne Besserwisserei ermöglicht.
+Catechesis has always to be considered an activity inherently embedded in all church activities, providing a framework for the success of catechesis. „What does church have to offer the younger generation?“ is the crucial question when it comes to involving adolescents and young adults in catechesis. This is an ecclesiological issue the Catholic Church faces in its present deep crisis. It must prove the credibility of its will to achieve renewal and participation through the energy of youth, on which the youth synod has set high hopes to truly lead to substantial change. In addition, diversity among the young people as well as between the generations requires a new culture of communication that allows disagreement, conflict and communication on an equal level.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
+                        </titleInfo>
+                        <originInfo>
+                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                        </originInfo>
+                        <identifier type="issn">0555-9308</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>42</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>59</start>
+                                <end>71</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-zpth-2022-43500</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4299</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4299">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/zpth/article/download/4299/4350" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4299" DMDID="DMD_wwu-journals_4299">
+            <mets:fptr FILEID="FILE0_wwu-journals_4299"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

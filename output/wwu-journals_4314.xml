@@ -149,18 +149,10 @@ Funke, P. and M. Haake (eds). 2013. Greek Federal States and their Sanctuaries: 
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4314/4372" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_4314">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/tjo/article/download/4314/4373" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_4314" DMDID="DMD_wwu-journals_4314">
             <mets:fptr FILEID="FILE0_wwu-journals_4314"/>
-            <mets:div TYPE="part" ID="PART1_wwu-journals_4314" LABEL="">
-                <mets:fptr FILEID="FILE1_wwu-journals_4314"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>

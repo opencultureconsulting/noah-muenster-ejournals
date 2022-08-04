@@ -71,18 +71,10 @@ Die praktische Umsetzung dieser „mittelalterlichen“ Sprache zeigt sich meist
                 <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3449/3450" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_wwu-journals_3449">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/mittelalterdigi/article/download/3449/3451" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="wwu-journals_3449" DMDID="DMD_wwu-journals_3449">
             <mets:fptr FILEID="FILE0_wwu-journals_3449"/>
-            <mets:div TYPE="part" ID="PART1_wwu-journals_3449" LABEL="">
-                <mets:fptr FILEID="FILE1_wwu-journals_3449"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>
