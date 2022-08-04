@@ -16,10 +16,67 @@
       "mode": "row-based"
     },
     "baseColumnName": "dc:relation",
-    "expression": "grel:value.replace('/view/','/download/')",
+    "expression": "grel:cells['dc:format'].value + '|' + value.replace('/view/','/download/')",
     "onError": "set-to-blank",
+    "newColumnName": "fileSec",
+    "columnInsertIndex": 15,
+    "description": "Create column fileSec at index 15 based on column dc:relation using expression grel:cells['dc:format'].value + '|' + value.replace('/view/','/download/')"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "fileSec",
+    "keyColumnName": "id",
+    "separator": "␟",
+    "description": "Join multi-valued cells in column fileSec"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "fileSec",
+    "expression": "grel:value.split('␟').sort().join('␟')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column fileSec using expression grel:value.split('␟').sort().join('␟')"
+  },
+  {
+    "op": "core/multivalued-cell-split",
+    "columnName": "fileSec",
+    "keyColumnName": "id",
+    "mode": "separator",
+    "separator": "␟",
+    "regex": false,
+    "description": "Split multi-valued cells in column fileSec"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "fileSec",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "|",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column fileSec by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "fileSec 2",
     "newColumnName": "fileSec/fileGrp/file/Flocat@xlink:href",
-    "columnInsertIndex": 2
+    "description": "Rename column fileSec 2 to fileSec/fileGrp/file/Flocat@xlink:href"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "fileSec 1",
+    "newColumnName": "fileSec/fileGrp/file@MIMETYPE",
+    "description": "Rename column fileSec 1 to fileSec/fileGrp/file@MIMETYPE"
   },
   {
     "op": "core/column-addition",
@@ -27,9 +84,9 @@
       "facets": [
         {
           "type": "list",
-          "name": "dc:format",
+          "name": "fileSec/fileGrp/file@MIMETYPE",
           "expression": "value",
-          "columnName": "dc:format",
+          "columnName": "fileSec/fileGrp/file@MIMETYPE",
           "invert": false,
           "omitBlank": false,
           "omitError": false,
@@ -66,11 +123,12 @@
       ],
       "mode": "row-based"
     },
-    "baseColumnName": "dc:format",
+    "baseColumnName": "fileSec/fileGrp/file@MIMETYPE",
     "expression": "grel:'pdf upload'",
     "onError": "set-to-blank",
     "newColumnName": "fileSec/fileGrp@USE",
-    "columnInsertIndex": 2
+    "columnInsertIndex": 2,
+    "description": "Create column fileSec/fileGrp@USE at index 2 based on column fileSec/fileGrp/file@MIMETYPE using expression grel:'pdf upload'"
   },
   {
     "op": "core/text-transform",
@@ -121,7 +179,8 @@
     "expression": "grel:'generic file'",
     "onError": "keep-original",
     "repeat": false,
-    "repeatCount": 10
+    "repeatCount": 10,
+    "description": "Text transform on cells in column fileSec/fileGrp@USE using expression grel:'generic file'"
   },
   {
     "op": "core/text-transform",
@@ -191,19 +250,8 @@
     "expression": "grel:'pdf upload'",
     "onError": "keep-original",
     "repeat": false,
-    "repeatCount": 10
-  },
-  {
-    "op": "core/column-addition",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "baseColumnName": "dc:format",
-    "expression": "grel:value",
-    "onError": "set-to-blank",
-    "newColumnName": "fileSec/fileGrp/file@MIMETYPE",
-    "columnInsertIndex": 2
+    "repeatCount": 10,
+    "description": "Text transform on cells in column fileSec/fileGrp@USE using expression grel:'pdf upload'"
   },
   {
     "op": "core/row-removal",
@@ -230,6 +278,7 @@
         }
       ],
       "mode": "record-based"
-    }
+    },
+    "description": "Remove rows"
   }
 ]
