@@ -18,7 +18,7 @@
       "mode": "row-based"
     },
     "baseColumnName": "dc:description",
-    "expression": "grel:value",
+    "expression": "grel:value.replace('&amp;nbsp;','&#160;')",
     "onError": "set-to-blank",
     "newColumnName": "abstract",
     "columnInsertIndex": 2
