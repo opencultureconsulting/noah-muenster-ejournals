@@ -1,0 +1,104 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4210">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Research to Diagnostic Application of  Raman Spectroscopy in Neurosciences</title>
+                        <subTitle>Past and Perspectives</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klamminger, Gilbert Georg</displayForm>
+                        <namePart type="family">Klamminger</namePart>
+                        <namePart type="given">Gilbert Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frauenknecht, Katrin</displayForm>
+                        <namePart type="family">Frauenknecht</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mittelbronn, Michel</displayForm>
+                        <namePart type="family">Mittelbronn</namePart>
+                        <namePart type="given">Michel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kleine Borgmann, Felix Bruno</displayForm>
+                        <namePart type="family">Kleine Borgmann</namePart>
+                        <namePart type="given">Felix Bruno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-08-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In recent years, Raman spectroscopy has been more and more frequently applied to address research questions in neuroscience. As a non-destructive technique based on inelastic scattering of photons, it can be used for a wide spectrum of applications including neurooncological tumor diagnostics or analysis of misfolded protein aggregates involved in neurodegenerative diseases. Progress in the technical development of this method allows for an increasingly detailed analysis of biological samples and may therefore open new fields of applications. The goal of our review is to provide an introduction into Raman scattering, its practical usage and also commonly associated pitfalls. Furthermore, intraoperative assessment of tumor recurrence using Raman based histology images as well as the search for non-invasive ways of diagnosis in neurodegenerative diseases are discussed. Some of the applications mentioned here may serve as a basis and possibly set the course for a future use of the technique in clinical practice. Covering a broad range of content, this overview can serve not only as a quick and accessible reference tool but also provide more in-depth information on a specific subtopic of interest.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-4210</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4210</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4210">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4210/4436" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_4210">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4210/4437" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4210" DMDID="DMD_wwu-journals_4210">
+            <mets:fptr FILEID="FILE0_wwu-journals_4210"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_4210" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_4210"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

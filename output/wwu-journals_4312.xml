@@ -58,6 +58,9 @@ For figures click here.</abstract>
                             <title>Teiresias Journal Online</title>
                         </titleInfo>
                         <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
                             <publisher type="issn">Teiresias Journal Online</publisher>
                         </originInfo>
                         <part>

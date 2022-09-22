@@ -36,7 +36,10 @@
                             <title>Satura</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Satura</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">English Department, University of Münster</publisher>
                         </originInfo>
                         <identifier type="issn">2701-0201</identifier>
                         <part>

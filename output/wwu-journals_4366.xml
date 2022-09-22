@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_4366">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>66th Annual Meeting of the German Society of Neuropathology and Neuroanatomy (DGNN) - Meeting Abstracts, November 1–5, 2022</title>
+                    </titleInfo>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-08-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Liebe Kolleginnen und Kollegen,
+&amp;nbsp;
+zur 66. Jahrestagung der Deutschen Gesellschaft für Neuropathologie und Neuroanatomie im Rahmen der Neurowoche vom 1. bis zum 5. November 2022 begrüße ich Sie herzlich in Berlin.
+Die letzten Jahre haben eine enorme Erweiterung der analytischen Methodik mit Schwerpunkt auf molekularen Untersuchungen gebracht. Ein großer Teil dieser Untersuchungen wurde in unseren Einrichtungen entwickelt und wird dort erbracht. In der Tat hat sich die Neuropathologie zu einem Motor der neuroonkologischen und neurowissenschaftlichen Forschung entwickelt und deutschsprachige neuropathologische Institutionen haben wesentlich dazu beigetragen. Ganz neue Therapien bauen auf diese Erkenntnisse auf. Dadurch sind wir für die Versorgung unserer Patienten wichtiger denn jeher. Deswegen sehe ich einen großen und zunehmenden Bedarf dem wir Neuropathologen nachkommen müssen. Alle Schwerpunkte unseres Faches sind hiervon betroffen, die Gehirntumordiagnostik, die neurodegenerativen Erkrankungen, Entzündung und Erkrankungen der Muskeln und der Nerven. Wir arbeiten eng mit unseren Kollegen aus der Neuroonkologie, Neuropädiatrie, Neurologie Neurochirurgie und Neuroradiologie zusammen. Der interdisziplinäre Austausch hat einen hohen Stellenwert und wir freuen uns deshalb besonders, dass unsere Jahrestagung in diesem Jahr wieder im Rahmen der Neurowoche stattfindet, was die Kommunikation und den Wissenstransfer über die Fächergrenzen beflügelt.
+Dieses Jahr wollen wir besonders die jungen Neuropathologen und Neuropathologinnen in den Vordergrund stellen. Sie sollen unser Fach als lebendig und besonders zukunftsfähig erleben. Von ihnen erwarten wir die Dynamik, den Einsatz und den Ideenreichtum, der die Neuropathologie in den nächsten Jahren noch weiter zu einer zentralen Querschnittsplattform für die Neurofächer machen wird.
+Wir haben einen Kongressstrang mit wissenschaftlichen Sitzungen am Donnerstag, Freitag und Samstag ausgerichtet. Sie dürfen Vorträge mit jungen neuropathologischen Expertinnen und Experten sowie von jungen Nachwuchswissenschaftlerinnen und Nachwuchswissenschaftlern erwarten. Ich freue mich auf lebhafte Diskussionen und spannende interdisziplinäre Debatten!
+&amp;nbsp;
+Ihr
+Prof. Dr. Andreas von Deimling
+Universitätsklinikum Heidelberg,Neuropathologie</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-44391</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-4366</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_4366</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4366">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4366/4438" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_4366">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/4366/4439" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_4366" DMDID="DMD_wwu-journals_4366">
+            <mets:fptr FILEID="FILE0_wwu-journals_4366"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_4366" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_4366"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

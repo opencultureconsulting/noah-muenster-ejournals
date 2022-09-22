@@ -123,6 +123,9 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>ZIN Diskussionspapiere</title>
                         </titleInfo>
                         <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
                             <publisher type="issn">Zentrum für Interdisziplinäre Nachhaltigkeitsforschung (ZIN)</publisher>
                         </originInfo>
                         <identifier type="issn">2364-9895</identifier>

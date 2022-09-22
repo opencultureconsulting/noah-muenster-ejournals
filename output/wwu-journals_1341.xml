@@ -34,7 +34,10 @@
                             <title>POP. Kultur &amp; Kritik</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">POP. Kultur &amp; Kritik</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Transcript</publisher>
                         </originInfo>
                         <identifier type="issn">2194-6981</identifier>
                         <part>

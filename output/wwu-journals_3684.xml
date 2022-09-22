@@ -105,7 +105,10 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>Free Neuropathology</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Free Neuropathology</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</publisher>
                         </originInfo>
                         <identifier type="issn">2699-4445</identifier>
                         <part>

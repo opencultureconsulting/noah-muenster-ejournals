@@ -34,6 +34,9 @@
                             <title>Theologische Revue</title>
                         </titleInfo>
                         <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
                             <publisher type="issn">Katholisch-Theologische Fakultät der Universität Münster</publisher>
                         </originInfo>
                         <identifier type="issn">2699-5433</identifier>

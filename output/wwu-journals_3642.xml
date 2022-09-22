@@ -49,6 +49,9 @@ My contribution presents some of these ›combinations‹ and examines what may 
                             <title>Online Zeitschrift zur Antiken Numismatik</title>
                         </titleInfo>
                         <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
                             <publisher type="issn">Forschungsstelle Antike Numismatik am Institut für Klassische Archäologie und Christliche Archäologie / Archäologisches Museum der Westfälischen Wilhelms-Universität Münster</publisher>
                         </originInfo>
                         <identifier type="issn">2698-4490</identifier>

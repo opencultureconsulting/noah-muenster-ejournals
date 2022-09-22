@@ -18,7 +18,7 @@
                     <typeOfResource>text</typeOfResource>
                     <genre authority="dini">article</genre>
                     <originInfo>
-                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-06-07</dateIssued>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-08-20</dateIssued>
                     </originInfo>
                     <language>
                         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -26,8 +26,7 @@
                     <physicalDescription>
                         <extent unit="page">3</extent>
                     </physicalDescription>
-                    <abstract lang="eng">&amp;nbsp;
-Johannes Koder, Nomos Georgikos: Das byzantinische Landwirtschaftsgesetz. Überlegungen zur inhaltlichen und zeitlichen Einordnung. Deutsche Übersetzung (Wiener byzantinistische Studien 32). Wien 2020. 94 pp. – ISBN 978-3-7001-8695-3 (€ 29.90)}</abstract>
+                    <abstract lang="eng">Johannes Koder, Nomos Georgikos: Das byzantinische Landwirtschaftsgesetz. Überlegungen zur inhaltlichen und zeitlichen Einordnung. Deutsche Übersetzung (Wiener byzantinistische Studien 32). Wien 2020. 94 pp. – ISBN 978-3-7001-8695-3 (€ 29.90)</abstract>
                     <subject lang="ger">
                     </subject>
                     <subject lang="eng">
@@ -37,7 +36,10 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>The Byzantine Review</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08 / University of Münster</publisher>
                         </originInfo>
                         <identifier type="issn">2699-4267</identifier>
                         <part>
@@ -65,7 +67,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
     <mets:fileSec>
         <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_4269">
-                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/4269/4311" LOCTYPE="URL"/>
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/download/4269/4469" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>

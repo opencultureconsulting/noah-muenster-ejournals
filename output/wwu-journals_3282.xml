@@ -46,6 +46,9 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>Soziologie und Nachhaltigkeit</title>
                         </titleInfo>
                         <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
                             <publisher type="issn">Arbeitskreis Gemeinschafts- und Nachhaltigkeitsforschung</publisher>
                         </originInfo>
                         <identifier type="issn">2364-1282</identifier>

@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3864</id>
+	<dc:title xml:lang="en-US">Malignant melanotic nerve sheath tumor with PRKAR1A, KMT2C and GNAQ mutations</dc:title>
+	<dc:creator>Terry, Merryl</dc:creator>
+	<dc:creator>Wakeman, Kristina</dc:creator>
+	<dc:creator>Williams, Brian J.</dc:creator>
+	<dc:creator>Miller, Donald M.</dc:creator>
+	<dc:creator>Sak, Müge</dc:creator>
+	<dc:creator>Abdullaev, Zied</dc:creator>
+	<dc:creator>Pacheco, Marwil C.</dc:creator>
+	<dc:creator>Aldape, Kenneth</dc:creator>
+	<dc:creator>Lehman, Norman L.</dc:creator>
+	<dc:subject xml:lang="en-US">Malignant melanotic nerve sheath tumor</dc:subject>
+	<dc:subject xml:lang="en-US">MMNST</dc:subject>
+	<dc:subject xml:lang="en-US">Psammomatous melanotic schwannoma</dc:subject>
+	<dc:subject xml:lang="en-US">Nerve sheath tumor</dc:subject>
+	<dc:subject xml:lang="en-US">Pigmented epithelioid melanocytoma</dc:subject>
+	<dc:subject xml:lang="en-US">PRKAR1A</dc:subject>
+	<dc:subject xml:lang="en-US">KMT2C</dc:subject>
+	<dc:subject xml:lang="en-US">GNAQ</dc:subject>
+	<dc:subject xml:lang="en-US">Case report</dc:subject>
+	<dc:description xml:lang="en-US">Malignant melanotic nerve sheath tumor (MMNST) is a rare and potentially aggressive lesion defined in the 2021 WHO Classification of Tumors of the Central Nervous System. MMNST demonstrate overlapping histologic and clinical features of schwannoma and melanoma. MMNST often harbor PRKAR1A mutations, especially within the Carney Complex. We present a case of aggressive MMNST of the sacral region in a 48-year-old woman. The tumor contained PRKAR1A frameshift pR352Hfs*89, KMT2C splice site c.7443-1G&amp;gt;T and GNAQ p.R183L missense mutations, as well as BRAF and MYC gains. Genomic DNA methylation analysis using the Illumina 850K EpicBead chip revealed that the lesion did not match an established methylation class; however, uniform manifold approximation and projection (UMAP) placed the tumor very near, or with, schwannomas. The tumor expressed PD-L1, and the patient was treated with radiation and immune checkpoint inhibitors following en bloc resection. Although she had symptomatic improvement, she suffered early disease progression with local recurrence, and distant metastases, and died 18 months after resection. It has been suggested that the presence of GNAQ mutations can differentiate leptomeningeal melanocytic neoplasms and uveal melanoma from MMNST. This case and others demonstrate that GNAQ mutations may exist in malignant nerve sheath tumors; that GNAQ and PRKAR1A mutations are not always mutually exclusive and that neither can be used to differentiate MMNST or MPNST from all melanocytic lesions.</dc:description>
+	<dc:publisher xml:lang="en-US">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</dc:publisher>
+	<dc:date>2022-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Case Report</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3864</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2022-3864</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 3 (2022); 21</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 3 (2022); 21</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3864/4472</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/3864/4471</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2022-44724</dc:relation>
+	<dc:relation>urn:nbn:de:hbz:6:3-freeneuropathology-2022-44715</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2022 Merryl Terry, Kristina Wakeman, Brian  Williams, Donald Miller, Müge Sak, Zied Abdullaev, Marwil Pacheco, Kenneth Aldape, Norman Lehman</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

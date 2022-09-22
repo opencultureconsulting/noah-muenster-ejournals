@@ -38,7 +38,10 @@ How can the Kingdom of God dawn in the midst of the diverse living spaces of peo
                             <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Konferenz der Deutschsprachigen Pastoraltheologen und Pastoraltheologinnen e.V.</publisher>
                         </originInfo>
                         <identifier type="issn">0555-9308</identifier>
                         <part>

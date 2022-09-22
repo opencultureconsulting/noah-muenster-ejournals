@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4210</id>
+	<dc:title xml:lang="en-US">From Research to Diagnostic Application of  Raman Spectroscopy in Neurosciences: Past and Perspectives</dc:title>
+	<dc:creator>Klamminger, Gilbert Georg </dc:creator>
+	<dc:creator>Frauenknecht, Katrin</dc:creator>
+	<dc:creator>Mittelbronn, Michel</dc:creator>
+	<dc:creator>Kleine Borgmann, Felix Bruno</dc:creator>
+	<dc:subject xml:lang="en-US">Raman spectroscopy</dc:subject>
+	<dc:subject xml:lang="en-US">Neurooncology</dc:subject>
+	<dc:subject xml:lang="en-US">Neurodegeneration</dc:subject>
+	<dc:subject xml:lang="en-US">Neurosurgery</dc:subject>
+	<dc:subject xml:lang="en-US">Neuropathology</dc:subject>
+	<dc:subject xml:lang="en-US">Machine learning</dc:subject>
+	<dc:description xml:lang="en-US">In recent years, Raman spectroscopy has been more and more frequently applied to address research questions in neuroscience. As a non-destructive technique based on inelastic scattering of photons, it can be used for a wide spectrum of applications including neurooncological tumor diagnostics or analysis of misfolded protein aggregates involved in neurodegenerative diseases. Progress in the technical development of this method allows for an increasingly detailed analysis of biological samples and may therefore open new fields of applications. The goal of our review is to provide an introduction into Raman scattering, its practical usage and also commonly associated pitfalls. Furthermore, intraoperative assessment of tumor recurrence using Raman based histology images as well as the search for non-invasive ways of diagnosis in neurodegenerative diseases are discussed. Some of the applications mentioned here may serve as a basis and possibly set the course for a future use of the technique in clinical practice. Covering a broad range of content, this overview can serve not only as a quick and accessible reference tool but also provide more in-depth information on a specific subtopic of interest.</dc:description>
+	<dc:publisher xml:lang="en-US">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</dc:publisher>
+	<dc:date>2022-08-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Review</dc:type>
+	<dc:format>text/html</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/4210</dc:identifier>
+	<dc:identifier>10.17879/freeneuropathology-2022-4210</dc:identifier>
+	<dc:source xml:lang="de-DE">Free Neuropathology; Bd. 3 (2022); 19</dc:source>
+	<dc:source xml:lang="en-US">Free Neuropathology; Vol. 3 (2022); 19</dc:source>
+	<dc:source>2699-4445</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/4210/4437</dc:relation>
+	<dc:relation>https://www.uni-muenster.de/Ejournals/index.php/fnp/article/view/4210/4436</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2022 Gilbert Georg  Klamminger, Katrin Frauenknecht, Michel Mittelbronn, Felix Bruno Kleine Borgmann</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

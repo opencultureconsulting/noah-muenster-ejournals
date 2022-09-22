@@ -53,7 +53,10 @@
                             <title>Jahrbuch für Christliche Sozialwissenschaften</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS)</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Institut für Christliche Sozialwissenschaften (ICS), Westfälische Wilhelms-Universität Münster</publisher>
                         </originInfo>
                         <identifier type="issn">2196-6265</identifier>
                         <part>

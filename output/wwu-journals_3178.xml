@@ -34,7 +34,10 @@ Present-day “multiple secularities” are challenging theology to discover the
                             <title>Zeitschrift für Pastoraltheologie (ZPTh)</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Zeitschrift für Pastoraltheologie (ZPTh)</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Konferenz der Deutschsprachigen Pastoraltheologen und Pastoraltheologinnen e.V.</publisher>
                         </originInfo>
                         <identifier type="issn">0555-9308</identifier>
                         <part>

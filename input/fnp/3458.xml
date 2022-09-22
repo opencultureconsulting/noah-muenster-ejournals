@@ -20,8 +20,7 @@ Results:
 We applied and compared statistical performance of linear and nonlinear machine learning algorithms (Logistic Regression, Random Forest and XGBoost), and found that Random Forest classification distinguished the two tumor entities with a balanced accuracy of 82,4% in intraoperative tissue condition and with 94% using measurements of distinct tumor areas on FFPE tissue. Taking a deeper insight into the spectral properties of the tumor entities, we describe different tumor-specific Raman shifts of interest for classification.
 Conclusions:
 Due to our findings, we propose RS as an additional tool for fast and non-destructive, perioperative tumor tissue discrimination, which may augment treatment options at an early stage. RS may further serve as a useful additional tool for neuropathological diagnostics with little requirements for tissue integrity.</dc:description>
-	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
-	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</dc:publisher>
 	<dc:date>2021-10-04</dc:date>
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>

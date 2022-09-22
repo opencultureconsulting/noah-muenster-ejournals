@@ -1,0 +1,144 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wwu-journals_3864">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Malignant melanotic nerve sheath tumor with PRKAR1A, KMT2C and GNAQ mutations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Terry, Merryl</displayForm>
+                        <namePart type="family">Terry</namePart>
+                        <namePart type="given">Merryl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wakeman, Kristina</displayForm>
+                        <namePart type="family">Wakeman</namePart>
+                        <namePart type="given">Kristina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Williams, Brian J.</displayForm>
+                        <namePart type="family">Williams</namePart>
+                        <namePart type="given">Brian J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miller, Donald M.</displayForm>
+                        <namePart type="family">Miller</namePart>
+                        <namePart type="given">Donald M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sak, Müge</displayForm>
+                        <namePart type="family">Sak</namePart>
+                        <namePart type="given">Müge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abdullaev, Zied</displayForm>
+                        <namePart type="family">Abdullaev</namePart>
+                        <namePart type="given">Zied</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pacheco, Marwil C.</displayForm>
+                        <namePart type="family">Pacheco</namePart>
+                        <namePart type="given">Marwil C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aldape, Kenneth</displayForm>
+                        <namePart type="family">Aldape</namePart>
+                        <namePart type="given">Kenneth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lehman, Norman L.</displayForm>
+                        <namePart type="family">Lehman</namePart>
+                        <namePart type="given">Norman L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-08-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Malignant melanotic nerve sheath tumor (MMNST) is a rare and potentially aggressive lesion defined in the 2021 WHO Classification of Tumors of the Central Nervous System. MMNST demonstrate overlapping histologic and clinical features of schwannoma and melanoma. MMNST often harbor PRKAR1A mutations, especially within the Carney Complex. We present a case of aggressive MMNST of the sacral region in a 48-year-old woman. The tumor contained PRKAR1A frameshift pR352Hfs*89, KMT2C splice site c.7443-1G&amp;gt;T and GNAQ p.R183L missense mutations, as well as BRAF and MYC gains. Genomic DNA methylation analysis using the Illumina 850K EpicBead chip revealed that the lesion did not match an established methylation class; however, uniform manifold approximation and projection (UMAP) placed the tumor very near, or with, schwannomas. The tumor expressed PD-L1, and the patient was treated with radiation and immune checkpoint inhibitors following en bloc resection. Although she had symptomatic improvement, she suffered early disease progression with local recurrence, and distant metastases, and died 18 months after resection. It has been suggested that the presence of GNAQ mutations can differentiate leptomeningeal melanocytic neoplasms and uveal melanoma from MMNST. This case and others demonstrate that GNAQ mutations may exist in malignant nerve sheath tumors; that GNAQ and PRKAR1A mutations are not always mutually exclusive and that neither can be used to differentiate MMNST or MPNST from all melanocytic lesions.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Free Neuropathology</title>
+                        </titleInfo>
+                        <originInfo>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</publisher>
+                        </originInfo>
+                        <identifier type="issn">2699-4445</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="urn">urn:nbn:de:hbz:6:3-freeneuropathology-2022-44724</identifier>
+                    <identifier type="doi">10.17879/freeneuropathology-2022-3864</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wwu-journals_3864</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_wwu-journals_3864">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3864/4471" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="text/html" ID="FILE1_wwu-journals_3864">
+                <mets:FLocat xlink:href="https://www.uni-muenster.de/Ejournals/index.php/fnp/article/download/3864/4472" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wwu-journals_3864" DMDID="DMD_wwu-journals_3864">
+            <mets:fptr FILEID="FILE0_wwu-journals_3864"/>
+            <mets:div TYPE="part" ID="PART1_wwu-journals_3864" LABEL="">
+                <mets:fptr FILEID="FILE1_wwu-journals_3864"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -10,8 +10,7 @@
 	<dc:subject xml:lang="en-US">RNA-seq</dc:subject>
 	<dc:subject xml:lang="en-US">Gene therapy</dc:subject>
 	<dc:description xml:lang="en-US">This review highlights ten important advances in the neuromuscular disease field that either were first reported in 2019, or have reached a broad consensus during that year. The overarching topics include (i) new / emerging diseases; (ii) advances in understanding of disease etiology and pathogenesis; (iii) diagnostic advances; and (iv) therapeutic advances. Within this broad framework, the individual disease entities that are discussed in more detail include myoglobinopathy, POPDC3-mutated limb-girdle muscular dystrophy, neuromuscular adverse events associated with the immune checkpoint inhibition therapy, neuroglial stem cell-derived inflammatory pseudotumor of the spinal cord and spinal cord roots, acute flaccid myelitis, congenital myopathies, idiopathic inflammatory myopathies (with particular emphasis on immune-mediated necrotizing myopathies and sporadic inclusion body myositis), spinal muscular atrophy, and Duchenne muscular dystrophy. In addition, the review highlights several diagnostic advances (such as diagnostic RNA sequencing and development of digital diagnostic tools) that will likely have a significant impact on the overall neuromuscular disease field going forward.</dc:description>
-	<dc:publisher xml:lang="de-DE">Free Neuropathology</dc:publisher>
-	<dc:publisher xml:lang="en-US">Free Neuropathology</dc:publisher>
+	<dc:publisher xml:lang="en-US">Prof. Dr. Werner Paulus, University of Muenster, Institute of Neuropathology</dc:publisher>
 	<dc:date>2020-01-23</dc:date>
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>

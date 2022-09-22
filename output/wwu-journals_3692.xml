@@ -43,7 +43,10 @@ Ilias Taxidis, The Ekphraseis in the Byzantine Literature of the 12th Century (H
                             <title>The Byzantine Review</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Institute for Byzantine and Modern Greek Studies / FB08 / University of Münster</publisher>
                         </originInfo>
                         <identifier type="issn">2699-4267</identifier>
                         <part>

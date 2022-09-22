@@ -6,8 +6,7 @@
 	<dc:subject xml:lang="en-US">digital tools</dc:subject>
 	<dc:subject xml:lang="en-US">textual criticism</dc:subject>
 	<dc:description xml:lang="en-US">Textual variants are the differences found in one copy of a printed text to another. We all know the famous line: “To be or not to be, that is the question[,]” but few among us know the variant form: “To be, or not to be, I there’s the point [.]” Both were printed and published as the work of Shakespeare, from the First Folio and First Quarto,1 respectively, but only the first version is taught and performed, as it is thought to be closest to the author’s original (Parsons 87). Out of variants like this grew the field of textual criticism, in which scholars compare copies of a single edition, often with the aim of uncovering the most authentic and authoritative version of the text to create critical editions (Tanselle 1). The Bible and the works of Shakespeare have traditionally been two common foci of the textual scholar’s gaze.</dc:description>
-	<dc:publisher xml:lang="de-DE">Satura</dc:publisher>
-	<dc:publisher xml:lang="en-US">Satura</dc:publisher>
+	<dc:publisher xml:lang="en-US">English Department, University of Münster</dc:publisher>
 	<dc:date>2020-10-26</dc:date>
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>

@@ -35,7 +35,10 @@
                             <title>Teiresias Supplements Online</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Teiresias Supplements Online</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Westfälische Wilhelms-Universität Münster / Seminar für Alte Geschichte</publisher>
                         </originInfo>
                         <identifier type="issn">2700-3590</identifier>
                         <part>

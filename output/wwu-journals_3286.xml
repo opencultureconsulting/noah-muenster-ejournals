@@ -37,7 +37,10 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>Mittelalter Digital</title>
                         </titleInfo>
                         <originInfo>
-                            <publisher type="issn">Mittelalter Digital</publisher>
+                            <place>
+                                <placeTerm type="text">Münster</placeTerm>
+                            </place>
+                            <publisher type="issn">Seminar für historische Theologie und ihre Didaktik</publisher>
                         </originInfo>
                         <identifier type="issn">2747-9757</identifier>
                         <part>
