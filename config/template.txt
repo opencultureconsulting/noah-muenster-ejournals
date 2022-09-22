@@ -101,6 +101,9 @@ with(cross(cells['index'].value, '' , 'index'), rows,
 '                        </titleInfo>' + '\n' +
                          forNonBlank(r.cells['relatedItem/originInfo/publisher'].value, v,
 '                        <originInfo>' + '\n' +
+'                            <place>' + '\n' +
+'                                <placeTerm type="text">Münster</placeTerm>' + '\n' +
+'                            </place>' + '\n' +
 '                            <publisher type="issn">' + v.escape('xml') + '</publisher>' + '\n' +
 '                        </originInfo>' + '\n'
                          , '') +
